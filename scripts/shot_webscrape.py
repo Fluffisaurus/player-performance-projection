@@ -63,11 +63,11 @@ def parseDataFromList(list):
         t = re.search('\d{,2}:\d{2}', game_time[1])
         if(t):
             time_string = t.group(0)
+            time_string = time_string.split(':')
+            time_left = time(minute = int(time_string[0]), second = int(time_string[1])).strftime('%M:%S')
         else:
             time_string = None
-        
-        time_string = time_string.split(':')
-        time_left = time(minute = int(time_string[0]), second = int(time_string[1])).strftime('%M:%S')
+    
         
         # shot location
         xy_match = re.findall('(?<=:)(?:-?)\d*', elem['style']) # (?:-?) optionally take a negative sign 
