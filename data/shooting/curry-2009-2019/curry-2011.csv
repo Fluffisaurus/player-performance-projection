@@ -1,1050 +1,1050 @@
-date,home,vs,shot_made,x,y,quarter,time_left,shot_description,game_score
-2010-10-27,True,HOU,True,253,217,1,09:39,Made 2-pointer from 17 ft,GSW now leads 8-6
-2010-10-27,True,HOU,False,399,64,1,08:43,Missed 2-pointer from 16 ft,GSW leads 12-8
-2010-10-27,True,HOU,True,154,185,1,06:20,Made 2-pointer from 16 ft,GSW now leads 18-14
-2010-10-27,True,HOU,True,337,203,1,04:52,Made 2-pointer from 18 ft,GSW now leads 25-18
-2010-10-27,True,HOU,False,88,264,1,01:39,Missed 3-pointer from 26 ft,GSW leads 31-26
-2010-10-27,True,HOU,False,154,251,1,01:39,Missed 2-pointer from 22 ft,GSW leads 34-31
-2010-10-27,True,HOU,False,240,65,2,01:39,Missed 2-pointer from 2 ft,GSW trails 64-66
-2010-10-27,True,HOU,False,88,267,3,09:22,Missed 3-pointer from 26 ft,GSW leads 71-70
-2010-10-27,True,HOU,True,25,193,3,06:51,Made 3-pointer from 26 ft,GSW now leads 80-74
-2010-10-27,True,HOU,True,400,187,3,05:41,Made 2-pointer from 21 ft,GSW now leads 84-77
-2010-10-27,True,HOU,True,406,267,3,05:21,Made 3-pointer from 27 ft,GSW now leads 87-79
-2010-10-27,True,HOU,True,370,51,3,04:35,Made 2-pointer from 13 ft,GSW now leads 91-80
-2010-10-27,True,HOU,False,477,69,3,04:03,Missed 3-pointer from 24 ft,GSW leads 91-80
-2010-10-27,True,HOU,True,77,209,4,07:23,Made 2-pointer from 23 ft,GSW now leads 110-106
-2010-10-27,True,HOU,True,441,244,4,05:58,Made 3-pointer from 28 ft,GSW now leads 117-112
-2010-10-27,True,HOU,False,94,125,4,02:53,Missed 2-pointer from 16 ft,GSW leads 124-116
-2010-10-29,True,LAC,True,244,207,1,06:11,Made 2-pointer from 16 ft,GSW now leads 19-9
-2010-10-29,True,LAC,False,47,203,1,00:58,Missed 3-pointer from 25 ft,GSW tied 27-27
-2010-10-29,True,LAC,True,444,57,2,11:41,Made 2-pointer from 20 ft,GSW now leads 29-28
-2010-10-29,True,LAC,True,98,281,2,07:31,Made 3-pointer from 27 ft,GSW now leads 44-37
-2010-10-29,True,LAC,False,158,296,2,04:36,Missed 3-pointer from 26 ft,GSW leads 47-40
-2010-10-29,True,LAC,True,242,111,2,00:01,Made 2-pointer from 6 ft,GSW now leads 58-54
-2010-10-29,True,LAC,True,236,226,3,11:18,Made 2-pointer from 18 ft,GSW now leads 60-54
-2010-10-29,True,LAC,True,263,50,3,10:41,Made 2-pointer from 2 ft,GSW now leads 62-54
-2010-10-29,True,LAC,True,235,67,3,09:59,Made 2-pointer from 2 ft,GSW now leads 64-54
-2010-11-05,True,UTA,False,268,253,1,08:24,Missed 2-pointer from 20 ft,GSW trails 6-8
-2010-11-05,True,UTA,False,244,132,1,05:41,Missed 2-pointer from 8 ft,GSW trails 8-10
-2010-11-05,True,UTA,False,188,292,1,03:39,Missed 3-pointer from 25 ft,GSW leads 15-10
-2010-11-05,True,UTA,True,249,136,2,08:35,Made 2-pointer from 9 ft,GSW now trails 19-22
-2010-11-05,True,UTA,True,253,206,2,07:40,Made 2-pointer from 16 ft,GSW now tied 23-23
-2010-11-05,True,UTA,True,282,305,2,06:38,Made 3-pointer from 26 ft,GSW now trails 26-27
-2010-11-05,True,UTA,False,148,296,2,04:50,Missed 3-pointer from 26 ft,GSW trails 28-30
-2010-11-05,True,UTA,True,326,226,3,11:38,Made 2-pointer from 20 ft,GSW now leads 42-39
-2010-11-05,True,UTA,False,370,193,3,11:17,Missed 2-pointer from 19 ft,GSW leads 42-41
-2010-11-05,True,UTA,False,414,144,3,07:00,Missed 2-pointer from 20 ft,GSW leads 50-48
-2010-11-05,True,UTA,False,247,149,3,05:23,Missed 2-pointer from 10 ft,GSW leads 54-48
-2010-11-05,True,UTA,False,69,165,4,06:22,Missed 2-pointer from 21 ft,GSW leads 66-61
-2010-11-05,True,UTA,True,312,152,4,04:51,Made 2-pointer from 12 ft,GSW now leads 72-65
-2010-11-05,True,UTA,False,101,173,4,03:55,Missed 2-pointer from 19 ft,GSW leads 72-69
-2010-11-05,True,UTA,True,101,162,4,02:35,Made 2-pointer from 18 ft,GSW now leads 74-72
-2010-11-05,True,UTA,True,257,64,4,02:11,Made 2-pointer from 2 ft,GSW now leads 76-72
-2010-11-05,True,UTA,False,288,316,4,01:31,Missed 3-pointer from 27 ft,GSW leads 77-74
-2010-11-07,False,DET,False,241,51,1,10:38,Missed 2-pointer from 0 ft,GSW tied 0-0
-2010-11-07,False,DET,False,471,121,1,08:26,Missed 3-pointer from 24 ft,GSW tied 4-4
-2010-11-07,False,DET,False,235,199,1,07:46,Missed 2-pointer from 15 ft,GSW leads 6-4
-2010-11-07,False,DET,False,365,69,1,06:01,Missed 2-pointer from 13 ft,GSW trails 8-11
-2010-11-07,False,DET,False,12,108,2,03:14,Missed 3-pointer from 24 ft,GSW leads 34-33
-2010-11-07,False,DET,True,361,152,2,01:38,Made 2-pointer from 16 ft,GSW now tied 38-38
-2010-11-07,False,DET,True,293,217,2,00:22,Made 2-pointer from 18 ft,GSW now trails 44-45
-2010-11-07,False,DET,False,240,53,3,08:44,Missed 2-pointer from 0 ft,GSW leads 55-51
-2010-11-07,False,DET,False,413,136,4,06:58,Missed 2-pointer from 19 ft,GSW trails 84-88
-2010-11-07,False,DET,False,279,65,4,05:58,Missed 2-pointer from 4 ft,GSW trails 87-88
-2010-11-07,False,DET,True,206,138,4,03:09,Made 2-pointer from 9 ft,GSW now trails 93-96
-2010-11-07,False,DET,False,328,292,4,00:13,Missed 3-pointer from 26 ft,GSW trails 97-100
-2010-11-08,False,TOR,True,391,56,1,10:08,Made 2-pointer from 15 ft,GSW now trails 2-8
-2010-11-08,False,TOR,True,232,53,1,09:11,Made 2-pointer from 1 ft,GSW now trails 6-8
-2010-11-08,False,TOR,False,246,163,1,03:18,Missed 2-pointer from 11 ft,GSW leads 18-14
-2010-11-08,False,TOR,False,252,65,1,03:14,Missed 2-pointer from 2 ft,GSW leads 18-14
-2010-11-08,False,TOR,True,175,190,1,02:39,Made 2-pointer from 15 ft,GSW now leads 20-17
-2010-11-08,False,TOR,False,244,48,2,06:02,Missed 2-pointer from 0 ft,GSW leads 37-26
-2010-11-08,False,TOR,False,339,130,2,05:10,Missed 2-pointer from 13 ft,GSW leads 41-26
-2010-11-08,False,TOR,True,255,56,2,03:31,Made 2-pointer from 2 ft,GSW now leads 47-28
-2010-11-08,False,TOR,False,12,48,3,10:48,Missed 3-pointer from 23 ft,GSW leads 57-41
-2010-11-08,False,TOR,True,240,69,3,07:05,Made 2-pointer from 2 ft,GSW now leads 69-49
-2010-11-08,False,TOR,True,260,53,3,00:15,Made 2-pointer from 2 ft,GSW now leads 84-72
-2010-11-08,False,TOR,False,240,62,3,00:00,Missed 2-pointer from 1 ft,GSW leads 84-72
-2010-11-08,False,TOR,False,260,59,4,09:52,Missed 2-pointer from 2 ft,GSW leads 90-76
-2010-11-08,False,TOR,False,213,61,4,09:33,Missed 2-pointer from 3 ft,GSW leads 90-76
-2010-11-08,False,TOR,True,361,108,4,06:58,Made 2-pointer from 13 ft,GSW now leads 92-86
-2010-11-08,False,TOR,True,27,163,4,05:10,Made 3-pointer from 24 ft,GSW now leads 97-86
-2010-11-08,False,TOR,True,258,51,4,04:28,Made 2-pointer from 2 ft,GSW now leads 99-90
-2010-11-08,False,TOR,True,9,51,4,02:38,Made 3-pointer from 23 ft,GSW now leads 105-94
-2010-11-08,False,TOR,True,264,57,4,02:15,Made 2-pointer from 3 ft,GSW now leads 107-96
-2010-11-08,False,TOR,True,246,240,4,01:00,Made 2-pointer from 19 ft,GSW now leads 109-102
-2010-11-08,False,TOR,False,214,322,4,00:29,Missed 3-pointer from 27 ft,GSW leads 109-102
-2010-11-10,False,NYK,False,170,242,1,10:42,Missed 2-pointer from 20 ft,GSW leads 4-3
-2010-11-10,False,NYK,True,232,51,1,05:07,Made 2-pointer from 1 ft,GSW now trails 20-22
-2010-11-10,False,NYK,True,271,57,1,04:03,Made 2-pointer from 3 ft,GSW now leads 24-22
-2010-11-10,False,NYK,False,88,40,1,01:08,Missed 2-pointer from 15 ft,GSW leads 34-27
-2010-11-10,False,NYK,False,271,78,1,01:08,Missed 2-pointer from 4 ft,GSW leads 34-32
-2010-11-10,False,NYK,False,180,133,2,06:15,Missed 2-pointer from 10 ft,GSW leads 47-43
-2010-11-10,False,NYK,True,253,59,2,04:48,Made 2-pointer from 2 ft,GSW now leads 49-47
-2010-11-10,False,NYK,True,250,53,2,01:22,Made 2-pointer from 1 ft,GSW now leads 56-54
-2010-11-10,False,NYK,True,261,56,2,00:47,Made 2-pointer from 2 ft,GSW now leads 58-56
-2010-11-10,False,NYK,True,236,57,3,10:42,Made 2-pointer from 1 ft,GSW now leads 66-58
-2010-11-10,False,NYK,False,367,45,3,10:18,Missed 2-pointer from 13 ft,GSW leads 66-60
-2010-11-10,False,NYK,True,384,128,3,07:50,Made 2-pointer from 16 ft,GSW now leads 74-62
-2010-11-10,False,NYK,False,290,61,3,07:09,Missed 2-pointer from 5 ft,GSW leads 74-62
-2010-11-10,False,NYK,False,258,50,3,05:33,Missed 2-pointer from 2 ft,GSW leads 79-62
-2010-11-10,False,NYK,False,242,84,3,01:15,Missed 2-pointer from 3 ft,GSW leads 85-77
-2010-11-10,False,NYK,True,192,62,4,10:54,Made 2-pointer from 5 ft,GSW now leads 92-85
-2010-11-10,False,NYK,True,348,275,4,10:16,Made 3-pointer from 25 ft,GSW now leads 95-85
-2010-11-10,False,NYK,True,258,56,4,07:45,Made 2-pointer from 2 ft,GSW now leads 99-92
-2010-11-10,False,NYK,True,230,81,4,03:34,Made 2-pointer from 3 ft,GSW now leads 109-107
-2010-11-10,False,NYK,False,298,54,4,02:51,Missed 2-pointer from 6 ft,GSW tied 109-109
-2010-11-11,False,CHI,True,261,67,1,11:14,Made 2-pointer from 3 ft,GSW now tied 2-2
-2010-11-11,False,CHI,False,391,69,1,09:44,Missed 2-pointer from 15 ft,GSW trails 4-6
-2010-11-11,False,CHI,True,268,67,1,05:32,Made 2-pointer from 3 ft,GSW now trails 12-20
-2010-11-11,False,CHI,False,392,53,1,03:22,Missed 2-pointer from 15 ft,GSW trails 16-24
-2010-11-11,False,CHI,False,429,212,1,02:55,Missed 3-pointer from 25 ft,GSW trails 16-26
-2010-11-11,False,CHI,False,301,236,2,11:06,Missed 2-pointer from 20 ft,GSW trails 20-38
-2010-11-11,False,CHI,False,346,280,2,10:46,Missed 3-pointer from 25 ft,GSW trails 20-38
-2010-11-11,False,CHI,True,271,214,2,04:11,Made 2-pointer from 17 ft,GSW now trails 31-56
-2010-11-11,False,CHI,False,290,51,2,03:43,Missed 2-pointer from 5 ft,GSW trails 31-56
-2010-11-11,False,CHI,True,5,50,2,02:27,Made 3-pointer from 24 ft,GSW now trails 34-61
-2010-11-11,False,CHI,False,162,231,2,01:21,Missed 2-pointer from 20 ft,GSW trails 36-61
-2010-11-11,False,CHI,False,178,91,3,09:30,Missed 2-pointer from 7 ft,GSW trails 43-72
-2010-11-11,False,CHI,True,309,217,3,04:28,Made 2-pointer from 18 ft,GSW now trails 56-85
-2010-11-11,False,CHI,False,68,199,3,03:38,Missed 2-pointer from 23 ft,GSW trails 56-89
-2010-11-11,False,CHI,False,470,47,3,01:44,Missed 3-pointer from 23 ft,GSW trails 56-91
-2010-11-11,False,CHI,True,241,315,3,01:44,Made 3-pointer from 27 ft,GSW now trails 63-94
-2010-11-11,False,CHI,True,247,57,4,11:25,Made 2-pointer from 1 ft,GSW now trails 67-94
-2010-11-11,False,CHI,False,180,61,4,09:24,Missed 2-pointer from 6 ft,GSW trails 69-97
-2010-11-13,False,MIL,True,232,54,1,08:22,Made 2-pointer from 1 ft,GSW now trails 7-9
-2010-11-13,False,MIL,False,373,127,1,06:17,Missed 2-pointer from 15 ft,GSW trails 7-16
-2010-11-13,False,MIL,False,11,48,1,04:45,Missed 3-pointer from 23 ft,GSW trails 7-17
-2010-11-13,False,MIL,True,237,62,1,04:45,Made 2-pointer from 1 ft,GSW now trails 16-24
-2010-11-13,False,MIL,False,249,319,2,08:45,Missed 3-pointer from 27 ft,GSW trails 16-26
-2010-11-13,False,MIL,False,348,184,2,05:56,Missed 2-pointer from 17 ft,GSW trails 22-30
-2010-11-13,False,MIL,False,411,36,2,05:51,Missed 2-pointer from 17 ft,GSW trails 22-30
-2010-11-13,False,MIL,False,230,64,2,04:54,Missed 2-pointer from 2 ft,GSW trails 22-33
-2010-11-13,False,MIL,False,246,67,2,04:52,Missed 2-pointer from 2 ft,GSW trails 22-33
-2010-11-13,False,MIL,False,299,130,2,03:14,Missed 2-pointer from 10 ft,GSW trails 25-37
-2010-11-13,False,MIL,False,271,53,3,09:28,Missed 2-pointer from 3 ft,GSW trails 30-48
-2010-11-13,False,MIL,False,217,253,3,07:14,Missed 2-pointer from 20 ft,GSW trails 35-50
-2010-11-13,False,MIL,True,356,48,4,05:10,Made 2-pointer from 12 ft,GSW now trails 65-73
-2010-11-13,False,MIL,False,38,196,4,04:05,Missed 3-pointer from 25 ft,GSW trails 65-73
-2010-11-15,True,DET,False,403,72,1,10:04,Missed 2-pointer from 16 ft,GSW trails 4-6
-2010-11-15,True,DET,False,247,251,1,07:26,Missed 2-pointer from 20 ft,GSW leads 12-10
-2010-11-15,True,DET,True,197,127,1,02:09,Made 2-pointer from 9 ft,GSW now leads 24-21
-2010-11-15,True,DET,True,249,203,1,02:09,Made 2-pointer from 15 ft,GSW now leads 34-21
-2010-11-15,True,DET,True,252,59,2,11:45,Made 2-pointer from 2 ft,GSW now leads 36-21
-2010-11-15,True,DET,False,113,190,2,10:05,Missed 2-pointer from 19 ft,GSW leads 40-21
-2010-11-15,True,DET,True,11,65,2,01:56,Made 3-pointer from 23 ft,GSW now leads 65-33
-2010-11-15,True,DET,True,20,168,3,10:02,Made 3-pointer from 25 ft,GSW now leads 70-45
-2010-11-15,True,DET,False,444,228,3,09:31,Missed 3-pointer from 27 ft,GSW leads 70-47
-2010-11-15,True,DET,True,340,87,4,07:52,Made 2-pointer from 11 ft,GSW now leads 94-82
-2010-11-15,True,DET,False,55,61,4,06:11,Missed 2-pointer from 19 ft,GSW leads 94-86
-2010-11-15,True,DET,False,172,234,4,05:01,Missed 2-pointer from 20 ft,GSW leads 94-86
-2010-11-15,True,DET,True,384,179,4,03:48,Made 2-pointer from 19 ft,GSW now leads 98-86
-2010-11-15,True,DET,False,318,253,4,02:27,Missed 2-pointer from 22 ft,GSW leads 98-92
-2010-11-19,True,NYK,False,235,166,1,10:53,Missed 2-pointer from 12 ft,GSW leads 2-0
-2010-11-19,True,NYK,False,264,247,1,07:26,Missed 2-pointer from 20 ft,GSW leads 14-9
-2010-11-19,True,NYK,False,229,76,1,02:37,Missed 2-pointer from 3 ft,GSW leads 27-26
-2010-11-19,True,NYK,False,147,69,1,01:51,Missed 2-pointer from 9 ft,GSW tied 29-29
-2010-11-19,True,NYK,False,272,212,2,05:46,Missed 2-pointer from 17 ft,GSW trails 43-50
-2010-11-19,True,NYK,True,252,72,2,05:00,Made 2-pointer from 3 ft,GSW now trails 45-55
-2010-11-19,True,NYK,True,123,297,2,04:28,Made 3-pointer from 27 ft,GSW now trails 48-58
-2010-11-19,True,NYK,True,99,174,2,01:31,Made 2-pointer from 19 ft,GSW now trails 53-66
-2010-11-19,True,NYK,True,410,171,3,09:45,Made 2-pointer from 21 ft,GSW now trails 63-78
-2010-11-19,True,NYK,False,348,297,3,04:16,Missed 3-pointer from 27 ft,GSW trails 75-90
-2010-11-19,True,NYK,False,317,206,3,03:21,Missed 2-pointer from 17 ft,GSW trails 75-92
-2010-11-19,True,NYK,True,240,73,3,03:00,Made 2-pointer from 2 ft,GSW now trails 77-92
-2010-11-19,True,NYK,True,221,70,3,01:45,Made 2-pointer from 3 ft,GSW now trails 79-95
-2010-11-19,True,NYK,False,378,203,3,00:37,Missed 2-pointer from 21 ft,GSW trails 81-98
-2010-11-19,True,NYK,True,246,308,4,11:42,Made 3-pointer from 26 ft,GSW now trails 87-98
-2010-11-19,True,NYK,False,8,73,4,10:31,Missed 3-pointer from 23 ft,GSW trails 89-98
-2010-11-19,True,NYK,False,403,176,4,07:28,Missed 2-pointer from 21 ft,GSW trails 97-104
-2010-11-19,True,NYK,True,413,245,4,04:10,Made 3-pointer from 26 ft,GSW now trails 107-109
-2010-11-19,True,NYK,False,217,305,4,02:11,Missed 3-pointer from 26 ft,GSW trails 112-116
-2010-11-19,True,NYK,True,365,212,4,00:58,Made 2-pointer from 20 ft,GSW now trails 116-121
-2010-11-19,True,NYK,False,106,154,4,00:21,Missed 2-pointer from 17 ft,GSW trails 116-124
-2010-11-21,False,LAL,False,68,251,1,10:39,Missed 3-pointer from 26 ft,GSW trails 0-2
-2010-11-21,False,LAL,False,87,248,1,07:32,Missed 3-pointer from 25 ft,GSW trails 8-10
-2010-11-21,False,LAL,True,180,299,1,04:57,Made 3-pointer from 26 ft,GSW now trails 13-20
-2010-11-21,False,LAL,True,238,80,1,01:20,Made 2-pointer from 3 ft,GSW now trails 19-33
-2010-11-21,False,LAL,False,115,149,2,05:54,Missed 2-pointer from 16 ft,GSW trails 28-52
-2010-11-21,False,LAL,False,158,179,2,03:27,Missed 2-pointer from 15 ft,GSW trails 34-57
-2010-11-21,False,LAL,True,238,86,2,00:15,Made 2-pointer from 4 ft,GSW now trails 41-69
-2010-11-21,False,LAL,True,221,117,3,10:25,Made 2-pointer from 7 ft,GSW now trails 44-73
-2010-11-21,False,LAL,False,203,158,3,09:09,Missed 2-pointer from 11 ft,GSW trails 44-75
-2010-11-21,False,LAL,True,361,229,3,07:25,Made 2-pointer from 22 ft,GSW now trails 50-77
-2010-11-22,True,DEN,True,76,80,1,10:19,Made 2-pointer from 17 ft,GSW now leads 4-3
-2010-11-22,True,DEN,False,421,250,1,08:35,Missed 3-pointer from 27 ft,GSW leads 6-3
-2010-11-22,True,DEN,False,129,152,1,07:23,Missed 2-pointer from 15 ft,GSW trails 6-7
-2010-11-22,True,DEN,False,128,98,1,06:34,Missed 2-pointer from 12 ft,GSW leads 8-7
-2010-11-22,True,DEN,False,19,86,1,05:44,Missed 3-pointer from 22 ft,GSW leads 10-7
-2010-11-22,True,DEN,True,126,203,1,04:25,Made 2-pointer from 19 ft,GSW now leads 14-10
-2010-11-22,True,DEN,True,11,51,2,08:53,Made 3-pointer from 23 ft,GSW now leads 31-25
-2010-11-22,True,DEN,False,12,56,2,06:13,Missed 3-pointer from 23 ft,GSW trails 34-35
-2010-11-22,True,DEN,True,118,222,2,04:11,Made 2-pointer from 21 ft,GSW now trails 38-39
-2010-11-22,True,DEN,False,238,308,2,03:33,Missed 3-pointer from 26 ft,GSW leads 40-39
-2010-11-22,True,DEN,True,378,168,2,02:10,Made 2-pointer from 18 ft,GSW now trails 44-45
-2010-11-22,True,DEN,True,264,117,3,09:37,Made 2-pointer from 7 ft,GSW now tied 56-56
-2010-11-22,True,DEN,True,317,100,3,08:56,Made 2-pointer from 9 ft,GSW now leads 58-56
-2010-11-22,True,DEN,False,176,139,3,07:45,Missed 2-pointer from 11 ft,GSW trails 58-61
-2010-11-22,True,DEN,True,346,81,3,05:27,Made 2-pointer from 11 ft,GSW now trails 65-67
-2010-11-22,True,DEN,False,128,237,3,05:02,Missed 2-pointer from 22 ft,GSW trails 65-67
-2010-11-22,True,DEN,False,395,272,3,05:02,Missed 3-pointer from 27 ft,GSW trails 71-79
-2010-11-22,True,DEN,False,165,201,4,03:41,Missed 2-pointer from 17 ft,GSW trails 83-95
-2010-11-22,True,DEN,False,247,80,4,02:06,Missed 2-pointer from 3 ft,GSW trails 87-99
-2010-11-22,True,DEN,False,329,114,4,01:41,Missed 2-pointer from 11 ft,GSW trails 87-102
-2010-11-22,True,DEN,False,232,73,4,00:59,Missed 2-pointer from 2 ft,GSW trails 87-104
-2010-11-24,False,HOU,False,342,97,1,09:36,Missed 2-pointer from 11 ft,GSW trails 1-6
-2010-11-24,False,HOU,True,274,69,1,05:27,Made 2-pointer from 4 ft,GSW now trails 11-16
-2010-11-24,False,HOU,True,230,50,1,04:28,Made 2-pointer from 1 ft,GSW now trails 16-19
-2010-11-24,False,HOU,False,82,53,1,03:12,Missed 2-pointer from 16 ft,GSW trails 16-25
-2010-11-24,False,HOU,True,224,56,1,01:04,Made 2-pointer from 2 ft,GSW now trails 22-31
-2010-11-24,False,HOU,False,312,54,2,10:09,Missed 2-pointer from 7 ft,GSW trails 27-36
-2010-11-24,False,HOU,True,232,59,2,09:31,Made 2-pointer from 1 ft,GSW now trails 29-39
-2010-11-24,False,HOU,False,192,300,2,00:34,Missed 3-pointer from 25 ft,GSW trails 51-59
-2010-11-24,False,HOU,False,255,162,3,10:05,Missed 2-pointer from 11 ft,GSW trails 54-64
-2010-11-24,False,HOU,True,249,57,3,07:28,Made 2-pointer from 1 ft,GSW now trails 63-66
-2010-11-24,False,HOU,False,247,61,3,06:28,Missed 2-pointer from 1 ft,GSW trails 65-68
-2010-11-24,False,HOU,False,387,152,4,04:36,Missed 2-pointer from 18 ft,GSW trails 86-97
-2010-11-24,False,HOU,True,238,70,4,04:03,Made 2-pointer from 2 ft,GSW now trails 88-99
-2010-11-24,False,HOU,False,301,215,4,03:00,Missed 2-pointer from 18 ft,GSW trails 90-101
-2010-11-24,False,HOU,False,277,78,4,02:24,Missed 2-pointer from 5 ft,GSW trails 90-101
-2010-11-24,False,HOU,True,263,59,4,02:17,Made 2-pointer from 2 ft,GSW now trails 92-101
-2010-11-24,False,HOU,True,240,72,4,00:47,Made 2-pointer from 2 ft,GSW now trails 94-103
-2010-11-24,False,HOU,False,132,113,4,00:39,Missed 2-pointer from 13 ft,GSW trails 94-104
-2010-11-24,False,HOU,False,112,264,4,00:19,Missed 3-pointer from 25 ft,GSW trails 98-109
-2010-11-26,False,MEM,False,422,177,1,09:48,Missed 2-pointer from 22 ft,GSW trails 2-9
-2010-11-26,False,MEM,True,227,50,1,08:33,Made 2-pointer from 1 ft,GSW now trails 6-11
-2010-11-26,False,MEM,True,473,50,1,05:26,Made 3-pointer from 23 ft,GSW now trails 11-21
-2010-11-26,False,MEM,False,42,80,1,03:14,Missed 2-pointer from 20 ft,GSW trails 18-26
-2010-11-26,False,MEM,True,298,288,2,11:24,Made 3-pointer from 25 ft,GSW now trails 29-30
-2010-11-26,False,MEM,True,255,73,2,04:49,Made 2-pointer from 3 ft,GSW now trails 43-45
-2010-11-26,False,MEM,False,47,209,2,03:46,Missed 3-pointer from 25 ft,GSW trails 45-47
-2010-11-26,False,MEM,True,449,182,2,03:16,Made 3-pointer from 25 ft,GSW now trails 48-49
-2010-11-26,False,MEM,False,202,67,2,02:31,Missed 2-pointer from 4 ft,GSW trails 48-52
-2010-11-26,False,MEM,True,69,240,3,07:02,Made 3-pointer from 26 ft,GSW now trails 67-71
-2010-11-26,False,MEM,False,247,283,4,05:38,Missed 2-pointer from 23 ft,GSW trails 89-95
-2010-11-26,False,MEM,True,44,162,4,00:43,Made 2-pointer from 23 ft,GSW now trails 107-110
-2010-11-26,False,MEM,True,214,70,4,00:35,Made 2-pointer from 3 ft,GSW now trails 109-112
-2010-11-27,False,MIN,False,477,122,1,10:52,Missed 3-pointer from 25 ft,GSW leads 3-2
-2010-11-27,False,MIN,False,402,138,1,10:05,Missed 2-pointer from 18 ft,GSW trails 3-4
-2010-11-27,False,MIN,True,421,220,1,08:37,Made 3-pointer from 25 ft,GSW now leads 8-4
-2010-11-27,False,MIN,True,162,288,1,04:31,Made 3-pointer from 25 ft,GSW now leads 23-13
-2010-11-27,False,MIN,False,233,136,1,03:42,Missed 2-pointer from 9 ft,GSW leads 23-15
-2010-11-27,False,MIN,True,236,61,1,03:26,Made 2-pointer from 1 ft,GSW now leads 25-15
-2010-11-27,False,MIN,True,261,67,2,01:05,Made 2-pointer from 3 ft,GSW now trails 46-48
-2010-11-27,False,MIN,True,208,237,3,09:54,Made 2-pointer from 19 ft,GSW now leads 57-53
-2010-11-27,False,MIN,False,134,231,4,08:08,Missed 2-pointer from 21 ft,GSW leads 90-81
-2010-11-27,False,MIN,True,205,220,4,00:19,Made 2-pointer from 17 ft,GSW now leads 104-92
-2010-11-30,True,SAS,True,240,313,1,09:31,Made 3-pointer from 26 ft,GSW now leads 5-4
-2010-11-30,True,SAS,True,253,250,1,07:43,Made 2-pointer from 20 ft,GSW now trails 9-12
-2010-11-30,True,SAS,False,274,110,1,05:23,Missed 2-pointer from 7 ft,GSW trails 13-18
-2010-11-30,True,SAS,True,147,195,1,02:29,Made 2-pointer from 17 ft,GSW now trails 22-23
-2010-11-30,True,SAS,True,383,160,1,01:05,Made 2-pointer from 18 ft,GSW now leads 26-23
-2010-11-30,True,SAS,False,14,84,1,00:10,Missed 3-pointer from 23 ft,GSW tied 26-26
-2010-11-30,True,SAS,True,232,215,2,10:29,Made 2-pointer from 17 ft,GSW now trails 30-32
-2010-11-30,True,SAS,True,58,278,2,04:26,Made 3-pointer from 29 ft,GSW now trails 40-49
-2010-11-30,True,SAS,False,310,89,2,03:54,Missed 2-pointer from 8 ft,GSW trails 40-49
-2010-11-30,True,SAS,True,361,231,2,00:41,Made 2-pointer from 22 ft,GSW now trails 48-58
-2010-11-30,True,SAS,False,236,73,2,00:41,Missed 2-pointer from 2 ft,GSW trails 48-58
-2010-11-30,True,SAS,True,258,57,3,06:25,Made 2-pointer from 2 ft,GSW now trails 62-72
-2010-11-30,True,SAS,False,85,50,3,05:50,Missed 2-pointer from 16 ft,GSW trails 62-75
-2010-11-30,True,SAS,False,403,275,3,03:20,Missed 3-pointer from 28 ft,GSW trails 66-80
-2010-11-30,True,SAS,False,323,209,3,01:54,Missed 2-pointer from 18 ft,GSW trails 68-84
-2010-11-30,True,SAS,True,283,84,4,10:07,Made 2-pointer from 5 ft,GSW now trails 78-95
-2010-11-30,True,SAS,True,126,67,4,09:04,Made 2-pointer from 12 ft,GSW now trails 83-97
-2010-11-30,True,SAS,False,255,133,4,07:24,Missed 2-pointer from 8 ft,GSW trails 85-100
-2010-11-30,True,SAS,True,93,256,4,06:49,Made 3-pointer from 25 ft,GSW now trails 88-100
-2010-11-30,True,SAS,True,378,151,4,05:24,Made 2-pointer from 17 ft,GSW now trails 90-106
-2010-11-30,True,SAS,False,425,234,4,04:11,Missed 3-pointer from 26 ft,GSW trails 90-108
-2010-11-30,True,SAS,True,255,70,4,03:01,Made 2-pointer from 3 ft,GSW now trails 92-110
-2010-12-02,True,PHO,False,246,158,2,07:09,Missed 2-pointer from 11 ft,GSW trails 32-37
-2010-12-02,True,PHO,True,299,69,2,04:10,Made 2-pointer from 6 ft,GSW now trails 37-41
-2010-12-02,True,PHO,False,161,311,2,03:48,Missed 3-pointer from 27 ft,GSW trails 37-41
-2010-12-02,True,PHO,True,332,291,2,03:05,Made 3-pointer from 26 ft,GSW now trails 40-43
-2010-12-02,True,PHO,False,299,138,3,10:37,Missed 2-pointer from 11 ft,GSW trails 49-54
-2010-12-02,True,PHO,False,140,203,3,07:31,Missed 2-pointer from 18 ft,GSW trails 57-63
-2010-12-02,True,PHO,False,71,228,3,05:23,Missed 3-pointer from 25 ft,GSW trails 61-66
-2010-12-02,True,PHO,False,222,56,3,05:23,Missed 2-pointer from 2 ft,GSW trails 72-75
-2010-12-02,True,PHO,True,282,201,4,02:12,Made 2-pointer from 16 ft,GSW now trails 94-99
-2010-12-02,True,PHO,True,260,64,4,00:14,Made 2-pointer from 2 ft,GSW now trails 101-107
-2010-12-05,False,OKC,False,268,57,1,09:03,Missed 2-pointer from 3 ft,GSW trails 0-8
-2010-12-05,False,OKC,True,260,47,1,03:43,Made 2-pointer from 2 ft,GSW now trails 11-28
-2010-12-05,False,OKC,False,19,155,2,10:48,Missed 3-pointer from 24 ft,GSW trails 17-34
-2010-12-05,False,OKC,True,369,209,2,09:54,Made 2-pointer from 20 ft,GSW now trails 21-37
-2010-12-05,False,OKC,True,15,62,2,08:31,Made 3-pointer from 23 ft,GSW now trails 27-40
-2010-12-05,False,OKC,False,250,73,2,06:31,Missed 2-pointer from 3 ft,GSW trails 27-46
-2010-12-05,False,OKC,True,156,212,2,04:37,Made 2-pointer from 18 ft,GSW now trails 29-50
-2010-12-05,False,OKC,True,93,133,2,03:23,Made 2-pointer from 17 ft,GSW now trails 31-50
-2010-12-05,False,OKC,True,304,214,2,02:58,Made 2-pointer from 18 ft,GSW now trails 33-52
-2010-12-05,False,OKC,True,408,236,2,00:55,Made 3-pointer from 25 ft,GSW now trails 40-52
-2010-12-05,False,OKC,True,466,97,3,10:14,Made 3-pointer from 23 ft,GSW now trails 49-60
-2010-12-05,False,OKC,True,387,59,3,07:53,Made 2-pointer from 15 ft,GSW now trails 53-65
-2010-12-05,False,OKC,True,79,155,3,04:39,Made 2-pointer from 19 ft,GSW now trails 60-75
-2010-12-05,False,OKC,False,252,54,3,00:27,Missed 2-pointer from 1 ft,GSW trails 70-88
-2010-12-05,False,OKC,False,331,278,3,00:27,Missed 3-pointer from 25 ft,GSW trails 70-90
-2010-12-05,False,OKC,True,61,217,4,09:47,Made 3-pointer from 24 ft,GSW now trails 78-94
-2010-12-05,False,OKC,True,288,239,4,09:18,Made 2-pointer from 20 ft,GSW now trails 80-96
-2010-12-05,False,OKC,True,397,138,4,08:54,Made 2-pointer from 18 ft,GSW now trails 83-96
-2010-12-05,False,OKC,True,219,54,4,00:40,Made 2-pointer from 2 ft,GSW now trails 104-109
-2010-12-05,False,OKC,False,361,272,4,00:16,Missed 3-pointer from 25 ft,GSW trails 107-112
-2010-12-07,False,DAL,False,315,176,1,07:44,Missed 2-pointer from 15 ft,GSW trails 12-13
-2010-12-07,False,DAL,True,206,195,1,07:06,Made 2-pointer from 15 ft,GSW now leads 14-13
-2010-12-07,False,DAL,True,391,250,1,06:23,Made 3-pointer from 25 ft,GSW now leads 17-15
-2010-12-07,False,DAL,True,58,67,1,05:25,Made 2-pointer from 18 ft,GSW now leads 19-17
-2010-12-07,False,DAL,False,343,218,1,03:22,Missed 2-pointer from 20 ft,GSW trails 21-22
-2010-12-07,False,DAL,False,264,62,1,01:46,Missed 2-pointer from 3 ft,GSW trails 23-26
-2010-12-07,False,DAL,True,257,196,2,07:06,Made 2-pointer from 15 ft,GSW now trails 35-40
-2010-12-07,False,DAL,False,214,65,2,06:37,Missed 2-pointer from 3 ft,GSW trails 35-42
-2010-12-07,False,DAL,True,296,56,2,04:39,Made 2-pointer from 6 ft,GSW now trails 41-42
-2010-12-07,False,DAL,False,358,278,2,03:20,Missed 3-pointer from 26 ft,GSW trails 43-44
-2010-12-07,False,DAL,True,19,165,3,01:22,Made 3-pointer from 25 ft,GSW now leads 72-67
-2010-12-07,False,DAL,False,301,61,4,10:03,Missed 2-pointer from 6 ft,GSW trails 74-76
-2010-12-07,False,DAL,False,282,229,4,07:00,Missed 2-pointer from 18 ft,GSW trails 81-82
-2010-12-07,False,DAL,True,370,256,4,05:39,Made 3-pointer from 24 ft,GSW now trails 84-86
-2010-12-07,False,DAL,True,229,56,4,01:59,Made 2-pointer from 1 ft,GSW now trails 91-96
-2010-12-07,False,DAL,False,312,300,4,01:59,Missed 3-pointer from 26 ft,GSW trails 100-105
-2010-12-08,False,SAS,False,389,139,1,06:45,Missed 2-pointer from 17 ft,GSW trails 9-18
-2010-12-08,False,SAS,False,106,174,1,04:30,Missed 2-pointer from 18 ft,GSW trails 10-21
-2010-12-25,True,POR,False,134,119,1,09:43,Missed 2-pointer from 13 ft,GSW trails 2-4
-2010-12-25,True,POR,True,35,54,1,09:12,Made 2-pointer from 21 ft,GSW now trails 4-6
-2010-12-25,True,POR,False,134,288,2,06:45,Missed 3-pointer from 26 ft,GSW trails 37-39
-2010-12-25,True,POR,False,294,237,2,03:29,Missed 2-pointer from 19 ft,GSW trails 46-47
-2010-12-25,True,POR,False,257,231,3,09:16,Missed 2-pointer from 18 ft,GSW leads 63-60
-2010-12-25,True,POR,False,343,201,3,09:05,Missed 2-pointer from 18 ft,GSW leads 63-60
-2010-12-25,True,POR,False,477,51,3,07:45,Missed 3-pointer from 24 ft,GSW leads 63-60
-2010-12-25,True,POR,True,257,70,3,07:02,Made 2-pointer from 3 ft,GSW now leads 65-60
-2010-12-25,True,POR,False,224,59,3,05:45,Missed 2-pointer from 2 ft,GSW leads 67-60
-2010-12-25,True,POR,False,476,40,3,03:36,Missed 3-pointer from 24 ft,GSW leads 75-72
-2010-12-25,True,POR,False,361,401,3,03:36,Missed 3-pointer from 37 ft,GSW trails 78-80
-2010-12-25,True,POR,False,240,217,4,11:46,Missed 2-pointer from 17 ft,GSW trails 78-80
-2010-12-25,True,POR,False,487,61,4,09:26,Missed 3-pointer from 25 ft,GSW trails 83-87
-2010-12-25,True,POR,False,240,125,4,07:30,Missed 2-pointer from 8 ft,GSW trails 85-90
-2010-12-25,True,POR,False,242,80,4,06:16,Missed 2-pointer from 3 ft,GSW trails 89-92
-2010-12-27,True,PHI,False,299,89,1,11:27,Missed 2-pointer from 7 ft,GSW tied 0-0
-2010-12-27,True,PHI,True,162,297,1,07:04,Made 3-pointer from 26 ft,GSW now leads 16-4
-2010-12-27,True,PHI,False,222,165,1,05:54,Missed 2-pointer from 12 ft,GSW leads 16-8
-2010-12-27,True,PHI,False,326,229,1,05:20,Missed 2-pointer from 20 ft,GSW leads 16-9
-2010-12-27,True,PHI,True,481,48,2,03:32,Made 3-pointer from 24 ft,GSW now trails 42-43
-2010-12-27,True,PHI,False,298,117,3,10:48,Missed 2-pointer from 9 ft,GSW leads 55-49
-2010-12-27,True,PHI,False,229,75,3,10:19,Missed 2-pointer from 3 ft,GSW leads 55-49
-2010-12-27,True,PHI,False,11,70,4,10:10,Missed 3-pointer from 23 ft,GSW leads 78-71
-2010-12-27,True,PHI,True,261,67,4,06:38,Made 2-pointer from 3 ft,GSW now leads 91-80
-2010-12-27,True,PHI,True,238,302,4,06:00,Made 3-pointer from 25 ft,GSW now leads 94-80
-2010-12-27,True,PHI,False,389,185,4,04:41,Missed 2-pointer from 20 ft,GSW leads 96-84
-2010-12-27,True,PHI,True,479,54,4,03:16,Made 3-pointer from 24 ft,GSW now leads 101-85
-2010-12-27,True,PHI,False,58,225,4,01:35,Missed 3-pointer from 25 ft,GSW leads 106-93
-2010-12-29,False,ATL,True,282,242,1,10:08,Made 2-pointer from 20 ft,GSW now leads 6-4
-2010-12-29,False,ATL,True,255,50,1,06:23,Made 2-pointer from 2 ft,GSW now leads 16-12
-2010-12-29,False,ATL,False,413,67,1,05:39,Missed 2-pointer from 17 ft,GSW leads 17-14
-2010-12-29,False,ATL,False,250,48,2,00:50,Missed 2-pointer from 1 ft,GSW trails 44-52
-2010-12-29,False,ATL,False,189,302,2,00:00,Missed 3-pointer from 26 ft,GSW trails 47-52
-2010-12-29,False,ATL,True,76,169,3,11:48,Made 2-pointer from 20 ft,GSW now trails 49-52
-2010-12-29,False,ATL,False,80,139,3,09:30,Missed 2-pointer from 18 ft,GSW trails 49-58
-2010-12-29,False,ATL,False,476,87,3,07:58,Missed 3-pointer from 24 ft,GSW trails 51-63
-2010-12-29,False,ATL,False,427,173,4,05:32,Missed 2-pointer from 22 ft,GSW trails 79-89
-2010-12-29,False,ATL,False,247,212,4,04:48,Missed 2-pointer from 16 ft,GSW trails 81-92
-2010-12-29,False,ATL,True,229,56,4,02:29,Made 2-pointer from 1 ft,GSW now trails 88-97
-2010-12-29,False,ATL,False,222,307,4,01:31,Missed 3-pointer from 26 ft,GSW trails 91-101
-2010-12-29,False,ATL,False,255,56,4,01:04,Missed 2-pointer from 2 ft,GSW trails 91-103
-2010-12-31,False,CHA,True,219,248,1,11:46,Made 2-pointer from 20 ft,GSW now leads 2-0
-2010-12-31,False,CHA,True,202,244,1,10:33,Made 2-pointer from 20 ft,GSW now leads 9-2
-2010-12-31,False,CHA,False,250,171,1,06:41,Missed 2-pointer from 12 ft,GSW leads 18-7
-2010-12-31,False,CHA,False,74,187,1,05:35,Missed 2-pointer from 22 ft,GSW leads 20-13
-2010-12-31,False,CHA,False,410,69,1,03:46,Missed 2-pointer from 17 ft,GSW leads 24-20
-2010-12-31,False,CHA,False,173,229,2,07:14,Missed 2-pointer from 19 ft,GSW trails 32-34
-2010-12-31,False,CHA,True,411,240,2,05:43,Made 3-pointer from 26 ft,GSW now tied 37-37
-2010-12-31,False,CHA,True,148,288,2,04:03,Made 3-pointer from 26 ft,GSW now leads 45-40
-2010-12-31,False,CHA,True,150,296,2,03:17,Made 3-pointer from 26 ft,GSW now leads 48-44
-2010-12-31,False,CHA,True,243,59,2,00:30,Made 2-pointer from 1 ft,GSW now leads 52-46
-2010-12-31,False,CHA,True,411,81,3,08:57,Made 2-pointer from 17 ft,GSW now leads 62-53
-2010-12-31,False,CHA,False,197,133,3,08:18,Missed 2-pointer from 9 ft,GSW leads 62-53
-2010-12-31,False,CHA,True,460,166,3,04:34,Made 3-pointer from 25 ft,GSW now leads 71-62
-2010-12-31,False,CHA,False,291,305,4,09:28,Missed 3-pointer from 26 ft,GSW leads 81-74
-2010-12-31,False,CHA,True,257,56,4,08:52,Made 2-pointer from 2 ft,GSW now leads 83-76
-2010-12-31,False,CHA,False,135,187,4,07:29,Missed 2-pointer from 17 ft,GSW leads 86-80
-2010-12-31,False,CHA,True,102,201,4,05:50,Made 2-pointer from 20 ft,GSW now leads 89-84
-2011-01-01,False,MIA,True,222,62,1,10:08,Made 2-pointer from 2 ft,GSW now leads 6-2
-2011-01-01,False,MIA,True,242,103,2,03:02,Made 2-pointer from 5 ft,GSW now leads 68-48
-2011-01-01,False,MIA,True,221,62,2,01:02,Made 2-pointer from 2 ft,GSW now leads 72-52
-2011-01-01,False,MIA,False,175,300,2,00:27,Missed 3-pointer from 26 ft,GSW leads 72-55
-2011-01-01,False,MIA,True,391,215,3,06:25,Made 2-pointer from 22 ft,GSW now leads 75-68
-2011-01-01,False,MIA,False,159,204,4,10:44,Missed 2-pointer from 17 ft,GSW trails 84-88
-2011-01-01,False,MIA,False,318,203,4,07:54,Missed 2-pointer from 17 ft,GSW trails 87-93
-2011-01-01,False,MIA,False,217,65,4,07:01,Missed 2-pointer from 3 ft,GSW trails 87-96
-2011-01-01,False,MIA,False,224,73,4,02:06,Missed 2-pointer from 3 ft,GSW trails 98-107
-2011-01-01,False,MIA,True,85,173,4,01:52,Made 2-pointer from 20 ft,GSW now trails 100-107
-2011-01-01,False,MIA,True,9,86,4,00:45,Made 3-pointer from 23 ft,GSW now trails 105-111
-2011-01-01,False,MIA,True,264,64,4,00:20,Made 2-pointer from 3 ft,GSW now trails 107-114
-2011-01-03,False,ORL,False,0,76,1,08:43,Missed 3-pointer from 24 ft,GSW tied 8-8
-2011-01-03,False,ORL,False,93,106,1,08:38,Missed 2-pointer from 16 ft,GSW tied 8-8
-2011-01-03,False,ORL,False,161,173,1,06:33,Missed 2-pointer from 15 ft,GSW tied 10-10
-2011-01-03,False,ORL,False,252,83,1,05:00,Missed 2-pointer from 4 ft,GSW tied 14-14
-2011-01-03,False,ORL,True,44,218,1,03:02,Made 3-pointer from 26 ft,GSW now leads 21-16
-2011-01-03,False,ORL,True,383,124,1,02:34,Made 2-pointer from 16 ft,GSW now leads 23-16
-2011-01-03,False,ORL,False,9,51,2,01:19,Missed 3-pointer from 23 ft,GSW leads 50-42
-2011-01-03,False,ORL,True,8,73,2,01:14,Made 3-pointer from 23 ft,GSW now leads 53-42
-2011-01-03,False,ORL,False,389,248,3,11:06,Missed 3-pointer from 25 ft,GSW leads 53-47
-2011-01-03,False,ORL,False,135,114,3,10:00,Missed 2-pointer from 12 ft,GSW leads 53-49
-2011-01-03,False,ORL,True,6,50,4,03:24,Made 3-pointer from 23 ft,GSW now trails 83-99
-2011-01-03,False,ORL,True,221,65,4,02:37,Made 2-pointer from 2 ft,GSW now trails 85-101
-2011-01-03,False,ORL,False,148,182,4,00:46,Missed 2-pointer from 16 ft,GSW trails 88-110
-2011-01-05,False,NOH,True,50,51,1,07:03,Made 2-pointer from 19 ft,GSW now trails 11-12
-2011-01-05,False,NOH,False,213,57,1,06:32,Missed 2-pointer from 3 ft,GSW trails 11-14
-2011-01-05,False,NOH,True,403,190,1,05:58,Made 2-pointer from 21 ft,GSW now trails 15-16
-2011-01-05,False,NOH,False,283,72,1,02:35,Missed 2-pointer from 5 ft,GSW leads 25-24
-2011-01-05,False,NOH,True,41,70,3,10:51,Made 2-pointer from 20 ft,GSW now trails 49-60
-2011-01-05,False,NOH,False,107,195,3,06:16,Missed 2-pointer from 20 ft,GSW trails 57-68
-2011-01-05,False,NOH,True,365,193,3,03:48,Made 2-pointer from 19 ft,GSW now trails 65-72
-2011-01-05,False,NOH,True,197,56,3,00:10,Made 2-pointer from 4 ft,GSW now trails 72-82
-2011-01-05,False,NOH,False,424,234,4,08:10,Missed 3-pointer from 26 ft,GSW trails 85-87
-2011-01-05,False,NOH,True,-3,54,4,04:14,Made 3-pointer from 24 ft,GSW now leads 99-89
-2011-01-05,False,NOH,False,411,272,4,02:18,Missed 3-pointer from 28 ft,GSW leads 101-99
-2011-01-07,True,CLE,True,131,285,1,11:32,Made 3-pointer from 26 ft,GSW now leads 3-2
-2011-01-07,True,CLE,False,367,225,1,08:28,Missed 2-pointer from 22 ft,GSW leads 13-10
-2011-01-07,True,CLE,False,236,61,1,07:25,Missed 2-pointer from 1 ft,GSW leads 15-13
-2011-01-07,True,CLE,False,176,299,1,06:10,Missed 3-pointer from 26 ft,GSW leads 18-15
-2011-01-07,True,CLE,True,156,296,2,03:13,Made 3-pointer from 26 ft,GSW now leads 58-43
-2011-01-07,True,CLE,True,151,226,3,08:26,Made 2-pointer from 20 ft,GSW now leads 75-55
-2011-01-07,True,CLE,True,479,78,3,06:00,Made 3-pointer from 24 ft,GSW now leads 80-59
-2011-01-09,False,LAC,False,230,296,2,03:29,Missed 3-pointer from 25 ft,GSW trails 44-49
-2011-01-09,False,LAC,False,124,198,2,01:28,Missed 2-pointer from 19 ft,GSW trails 47-56
-2011-01-09,False,LAC,True,257,65,3,09:14,Made 2-pointer from 2 ft,GSW now trails 54-66
-2011-01-09,False,LAC,True,233,168,3,08:44,Made 2-pointer from 12 ft,GSW now trails 56-68
-2011-01-09,False,LAC,False,263,300,3,04:47,Missed 3-pointer from 25 ft,GSW trails 62-80
-2011-01-09,False,LAC,False,260,65,3,03:45,Missed 2-pointer from 3 ft,GSW trails 66-80
-2011-01-09,False,LAC,False,118,264,4,10:58,Missed 3-pointer from 25 ft,GSW trails 73-93
-2011-01-09,False,LAC,False,30,40,4,09:49,Missed 2-pointer from 21 ft,GSW trails 75-93
-2011-01-09,False,LAC,False,406,234,4,08:02,Missed 3-pointer from 25 ft,GSW trails 80-95
-2011-01-09,False,LAC,False,216,253,4,05:08,Missed 2-pointer from 20 ft,GSW trails 81-103
-2011-01-09,False,LAC,False,435,195,4,02:39,Missed 3-pointer from 24 ft,GSW trails 89-103
-2011-01-09,False,LAC,False,233,185,4,00:39,Missed 2-pointer from 14 ft,GSW trails 91-105
-2011-01-09,False,LAC,False,186,305,4,00:39,Missed 3-pointer from 26 ft,GSW trails 91-105
-2011-01-12,True,LAL,True,117,267,1,06:14,Made 3-pointer from 25 ft,GSW now trails 9-10
-2011-01-12,True,LAL,False,334,291,1,02:00,Missed 3-pointer from 26 ft,GSW leads 23-17
-2011-01-12,True,LAL,False,12,83,1,00:46,Missed 3-pointer from 23 ft,GSW leads 23-21
-2011-01-12,True,LAL,False,362,280,2,07:03,Missed 3-pointer from 26 ft,GSW leads 37-31
-2011-01-12,True,LAL,True,354,196,2,02:44,Made 2-pointer from 19 ft,GSW now leads 44-43
-2011-01-12,True,LAL,False,296,247,3,09:36,Missed 2-pointer from 20 ft,GSW leads 55-47
-2011-01-12,True,LAL,False,400,173,3,06:10,Missed 2-pointer from 20 ft,GSW leads 62-56
-2011-01-12,True,LAL,True,85,44,4,06:56,Made 2-pointer from 16 ft,GSW now leads 86-85
-2011-01-12,True,LAL,True,118,185,4,04:12,Made 2-pointer from 18 ft,GSW now trails 91-92
-2011-01-12,True,LAL,True,164,87,4,02:50,Made 2-pointer from 8 ft,GSW now trails 95-97
-2011-01-12,True,LAL,False,6,54,4,01:03,Missed 3-pointer from 23 ft,GSW trails 99-102
-2011-01-14,True,LAC,True,484,62,1,11:06,Made 3-pointer from 24 ft,GSW now leads 3-2
-2011-01-14,True,LAC,True,213,304,1,09:45,Made 3-pointer from 26 ft,GSW now leads 8-7
-2011-01-14,True,LAC,True,69,237,1,09:01,Made 3-pointer from 25 ft,GSW now leads 13-9
-2011-01-14,True,LAC,False,115,184,1,06:37,Missed 2-pointer from 18 ft,GSW leads 15-14
-2011-01-14,True,LAC,True,183,65,1,06:00,Made 2-pointer from 6 ft,GSW now leads 19-18
-2011-01-14,True,LAC,False,132,289,1,03:53,Missed 3-pointer from 26 ft,GSW leads 28-24
-2011-01-14,True,LAC,True,244,100,2,06:16,Made 2-pointer from 5 ft,GSW now leads 51-49
-2011-01-14,True,LAC,False,235,50,2,05:42,Missed 2-pointer from 1 ft,GSW tied 51-51
-2011-01-14,True,LAC,True,481,53,2,02:49,Made 3-pointer from 24 ft,GSW now leads 65-53
-2011-01-14,True,LAC,False,250,73,2,01:23,Missed 2-pointer from 3 ft,GSW leads 67-58
-2011-01-14,True,LAC,False,287,80,2,01:23,Missed 2-pointer from 6 ft,GSW leads 69-60
-2011-01-14,True,LAC,False,112,379,2,01:23,Missed 3-pointer from 35 ft,GSW leads 69-62
-2011-01-14,True,LAC,False,232,57,3,09:12,Missed 2-pointer from 1 ft,GSW leads 74-66
-2011-01-14,True,LAC,False,80,95,3,07:50,Missed 2-pointer from 17 ft,GSW leads 74-70
-2011-01-14,True,LAC,True,109,264,3,07:01,Made 3-pointer from 25 ft,GSW now leads 77-72
-2011-01-17,True,NJN,False,44,228,2,07:16,Missed 3-pointer from 26 ft,GSW leads 36-34
-2011-01-17,True,NJN,True,77,149,2,06:27,Made 2-pointer from 19 ft,GSW now leads 40-37
-2011-01-17,True,NJN,False,320,300,2,03:56,Missed 3-pointer from 26 ft,GSW leads 44-37
-2011-01-17,True,NJN,False,238,98,3,11:15,Missed 2-pointer from 5 ft,GSW leads 56-48
-2011-01-17,True,NJN,False,460,179,3,10:10,Missed 3-pointer from 26 ft,GSW leads 59-50
-2011-01-17,True,NJN,False,233,73,3,08:55,Missed 2-pointer from 2 ft,GSW leads 59-52
-2011-01-17,True,NJN,False,257,67,3,08:43,Missed 2-pointer from 2 ft,GSW leads 59-52
-2011-01-17,True,NJN,True,258,311,3,07:46,Made 3-pointer from 26 ft,GSW now leads 62-56
-2011-01-17,True,NJN,True,145,187,4,03:40,Made 2-pointer from 17 ft,GSW now leads 101-91
-2011-01-17,True,NJN,True,414,229,4,01:57,Made 3-pointer from 25 ft,GSW now leads 104-96
-2011-01-19,True,IND,False,85,160,1,06:20,Missed 2-pointer from 19 ft,GSW trails 12-13
-2011-01-19,True,IND,True,271,72,1,03:37,Made 2-pointer from 4 ft,GSW now leads 25-22
-2011-01-19,True,IND,True,372,70,2,06:09,Made 2-pointer from 13 ft,GSW now trails 38-46
-2011-01-19,True,IND,False,354,151,2,02:02,Missed 2-pointer from 15 ft,GSW trails 43-54
-2011-01-19,True,IND,False,68,223,3,08:55,Missed 3-pointer from 24 ft,GSW trails 62-63
-2011-01-19,True,IND,True,340,195,3,08:23,Made 2-pointer from 18 ft,GSW now leads 64-63
-2011-01-19,True,IND,False,475,58,3,04:14,Missed 3-pointer from 24 ft,GSW leads 75-69
-2011-01-19,True,IND,False,82,242,3,02:28,Missed 3-pointer from 25 ft,GSW leads 77-72
-2011-01-19,True,IND,False,356,124,3,02:03,Missed 2-pointer from 14 ft,GSW leads 77-72
-2011-01-19,True,IND,True,313,67,4,00:21,Made 2-pointer from 8 ft,GSW now leads 108-105
-2011-01-21,True,SAC,False,91,97,1,09:46,Missed 2-pointer from 16 ft,GSW trails 2-7
-2011-01-21,True,SAC,False,242,78,1,08:36,Missed 2-pointer from 3 ft,GSW trails 4-9
-2011-01-21,True,SAC,True,279,248,1,02:00,Made 2-pointer from 20 ft,GSW now trails 23-25
-2011-01-21,True,SAC,True,334,218,1,01:24,Made 2-pointer from 19 ft,GSW now trails 25-27
-2011-01-21,True,SAC,False,291,299,2,05:22,Missed 3-pointer from 25 ft,GSW leads 41-36
-2011-01-21,True,SAC,False,384,218,2,01:23,Missed 2-pointer from 22 ft,GSW tied 47-47
-2011-01-21,True,SAC,False,173,218,3,11:01,Missed 2-pointer from 18 ft,GSW trails 53-55
-2011-01-21,True,SAC,True,236,53,3,09:40,Made 2-pointer from 1 ft,GSW now tied 57-57
-2011-01-21,True,SAC,False,315,54,3,07:57,Missed 2-pointer from 8 ft,GSW trails 59-61
-2011-01-21,True,SAC,True,246,185,3,06:17,Made 2-pointer from 14 ft,GSW now trails 63-65
-2011-01-21,True,SAC,True,91,251,3,03:14,Made 3-pointer from 25 ft,GSW now leads 73-69
-2011-01-21,True,SAC,True,474,92,3,02:33,Made 3-pointer from 24 ft,GSW now leads 76-69
-2011-01-21,True,SAC,True,199,270,3,01:10,Made 2-pointer from 22 ft,GSW now leads 80-71
-2011-01-21,True,SAC,True,236,48,3,01:10,Made 2-pointer from 0 ft,GSW now leads 82-73
-2011-01-21,True,SAC,True,290,206,4,04:44,Made 2-pointer from 16 ft,GSW now trails 90-94
-2011-01-21,True,SAC,True,313,302,4,02:47,Made 3-pointer from 26 ft,GSW now trails 93-99
-2011-01-21,True,SAC,True,170,75,4,02:14,Made 2-pointer from 7 ft,GSW now trails 95-99
-2011-01-21,True,SAC,False,235,313,4,00:36,Missed 3-pointer from 26 ft,GSW trails 99-102
-2011-01-21,True,SAC,False,109,269,1,04:33,Missed 3-pointer from 26 ft,GSW tied 104-104
-2011-01-21,True,SAC,True,131,169,1,01:07,Made 2-pointer from 16 ft,GSW now leads 114-104
-2011-01-22,False,LAC,True,279,226,1,10:16,Made 2-pointer from 18 ft,GSW now leads 4-0
-2011-01-22,False,LAC,False,208,80,1,06:39,Missed 2-pointer from 4 ft,GSW trails 8-10
-2011-01-22,False,LAC,False,487,22,1,05:28,Missed 3-pointer from 25 ft,GSW trails 12-14
-2011-01-22,False,LAC,True,221,54,1,04:30,Made 2-pointer from 2 ft,GSW now trails 16-19
-2011-01-22,False,LAC,False,269,229,2,09:13,Missed 2-pointer from 18 ft,GSW trails 29-40
-2011-01-22,False,LAC,False,280,62,2,04:54,Missed 2-pointer from 4 ft,GSW trails 43-51
-2011-01-22,False,LAC,True,60,237,2,03:56,Made 3-pointer from 26 ft,GSW now trails 48-53
-2011-01-22,False,LAC,False,318,311,2,02:30,Missed 3-pointer from 27 ft,GSW trails 51-56
-2011-01-22,False,LAC,False,123,181,2,00:26,Missed 2-pointer from 18 ft,GSW trails 56-63
-2011-01-22,False,LAC,False,416,371,2,00:26,Missed 3-pointer from 37 ft,GSW trails 56-65
-2011-01-22,False,LAC,True,46,51,3,11:15,Made 2-pointer from 19 ft,GSW now trails 58-67
-2011-01-22,False,LAC,True,307,266,3,10:25,Made 2-pointer from 23 ft,GSW now trails 60-67
-2011-01-22,False,LAC,True,94,277,3,09:58,Made 3-pointer from 27 ft,GSW now trails 63-67
-2011-01-22,False,LAC,True,285,81,3,03:52,Made 2-pointer from 5 ft,GSW now trails 71-79
-2011-01-22,False,LAC,True,249,69,3,02:05,Made 2-pointer from 2 ft,GSW now trails 75-81
-2011-01-22,False,LAC,True,259,66,3,01:00,Made 2-pointer from 2 ft,GSW now trails 80-84
-2011-01-22,False,LAC,False,367,218,3,01:00,Missed 2-pointer from 21 ft,GSW trails 82-86
-2011-01-22,False,LAC,True,362,84,4,11:37,Made 2-pointer from 13 ft,GSW now trails 84-86
-2011-01-22,False,LAC,False,378,285,4,10:18,Missed 3-pointer from 27 ft,GSW trails 87-93
-2011-01-22,False,LAC,True,318,297,4,02:45,Made 3-pointer from 26 ft,GSW now trails 98-102
-2011-01-22,False,LAC,True,121,223,4,01:32,Made 2-pointer from 21 ft,GSW now trails 103-105
-2011-01-22,False,LAC,False,241,310,4,00:33,Missed 3-pointer from 26 ft,GSW trails 105-108
-2011-01-22,False,LAC,False,23,160,4,00:10,Missed 3-pointer from 24 ft,GSW trails 109-113
-2011-01-24,True,SAS,True,246,62,1,08:34,Made 2-pointer from 1 ft,GSW now leads 13-7
-2011-01-24,True,SAS,False,354,277,1,07:46,Missed 3-pointer from 25 ft,GSW leads 13-12
-2011-01-24,True,SAS,True,252,310,1,04:01,Made 3-pointer from 26 ft,GSW now trails 24-25
-2011-01-24,True,SAS,False,287,267,1,01:51,Missed 2-pointer from 22 ft,GSW trails 28-30
-2011-01-24,True,SAS,True,394,130,1,01:06,Made 2-pointer from 17 ft,GSW now leads 32-31
-2011-01-24,True,SAS,True,386,165,2,09:38,Made 2-pointer from 19 ft,GSW now tied 40-40
-2011-01-24,True,SAS,False,77,275,2,01:48,Missed 3-pointer from 28 ft,GSW trails 53-56
-2011-01-24,True,SAS,False,222,139,2,01:27,Missed 2-pointer from 9 ft,GSW trails 53-58
-2011-01-24,True,SAS,True,12,81,3,09:12,Made 3-pointer from 23 ft,GSW now trails 60-68
-2011-01-24,True,SAS,False,282,141,3,06:01,Missed 2-pointer from 10 ft,GSW trails 70-75
-2011-01-24,True,SAS,True,252,206,4,07:38,Made 2-pointer from 16 ft,GSW now trails 88-98
-2011-01-24,True,SAS,False,369,166,4,03:59,Missed 2-pointer from 17 ft,GSW trails 95-107
-2011-01-24,True,SAS,False,474,113,4,03:18,Missed 3-pointer from 24 ft,GSW trails 95-109
-2011-01-24,True,SAS,False,99,61,4,02:59,Missed 2-pointer from 14 ft,GSW trails 95-109
-2011-01-24,True,SAS,False,227,64,4,01:54,Missed 2-pointer from 2 ft,GSW trails 97-113
-2011-01-26,True,NOH,True,272,237,1,10:34,Made 2-pointer from 19 ft,GSW now tied 2-2
-2011-01-26,True,NOH,True,38,81,2,11:36,Made 2-pointer from 20 ft,GSW now trails 23-34
-2011-01-26,True,NOH,True,229,128,2,10:15,Made 2-pointer from 8 ft,GSW now trails 25-38
-2011-01-26,True,NOH,True,150,65,2,09:43,Made 2-pointer from 9 ft,GSW now trails 28-38
-2011-01-26,True,NOH,False,232,207,2,08:34,Missed 2-pointer from 16 ft,GSW trails 28-38
-2011-01-26,True,NOH,False,400,51,2,05:02,Missed 2-pointer from 16 ft,GSW trails 35-44
-2011-01-26,True,NOH,True,339,226,2,04:02,Made 2-pointer from 20 ft,GSW now trails 39-46
-2011-01-26,True,NOH,True,416,67,3,08:35,Made 2-pointer from 18 ft,GSW now trails 61-65
-2011-01-26,True,NOH,False,90,114,3,07:24,Missed 2-pointer from 16 ft,GSW trails 61-67
-2011-01-26,True,NOH,True,233,114,3,06:48,Made 2-pointer from 6 ft,GSW now trails 63-68
-2011-01-26,True,NOH,False,296,300,3,00:54,Missed 3-pointer from 26 ft,GSW trails 76-91
-2011-01-26,True,NOH,False,68,387,3,00:54,Missed 3-pointer from 38 ft,GSW trails 76-93
-2011-01-26,True,NOH,True,74,233,4,06:08,Made 3-pointer from 25 ft,GSW now trails 84-104
-2011-01-28,True,CHA,True,235,113,1,09:26,Made 2-pointer from 6 ft,GSW now trails 6-7
-2011-01-28,True,CHA,True,235,53,1,07:46,Made 2-pointer from 1 ft,GSW now leads 11-7
-2011-01-28,True,CHA,True,372,173,1,06:54,Made 2-pointer from 18 ft,GSW now leads 13-7
-2011-01-28,True,CHA,True,334,292,1,05:06,Made 3-pointer from 26 ft,GSW now leads 18-11
-2011-01-28,True,CHA,False,137,278,2,08:55,Missed 3-pointer from 25 ft,GSW leads 32-25
-2011-01-28,True,CHA,False,241,56,2,07:52,Missed 2-pointer from 1 ft,GSW leads 34-27
-2011-01-28,True,CHA,False,241,263,3,01:27,Missed 2-pointer from 21 ft,GSW leads 76-65
-2011-01-28,True,CHA,True,3,56,4,05:50,Made 3-pointer from 24 ft,GSW now leads 86-82
-2011-01-28,True,CHA,True,384,132,4,05:14,Made 2-pointer from 17 ft,GSW now leads 88-84
-2011-01-28,True,CHA,True,417,264,4,03:35,Made 3-pointer from 28 ft,GSW now leads 91-86
-2011-01-28,True,CHA,True,135,291,4,01:46,Made 3-pointer from 26 ft,GSW now leads 98-90
-2011-01-28,True,CHA,False,271,91,4,01:04,Missed 2-pointer from 5 ft,GSW leads 98-93
-2011-01-30,True,UTA,True,94,198,1,09:15,Made 2-pointer from 21 ft,GSW now leads 8-2
-2011-01-30,True,UTA,False,102,220,1,08:44,Missed 2-pointer from 22 ft,GSW leads 8-4
-2011-01-30,True,UTA,False,441,210,1,05:56,Missed 3-pointer from 26 ft,GSW leads 13-12
-2011-01-30,True,UTA,True,263,313,1,03:50,Made 3-pointer from 26 ft,GSW now leads 18-16
-2011-01-30,True,UTA,True,378,168,1,02:54,Made 2-pointer from 18 ft,GSW now leads 20-18
-2011-01-30,True,UTA,False,408,245,1,02:24,Missed 3-pointer from 26 ft,GSW tied 20-20
-2011-01-30,True,UTA,True,356,277,1,02:24,Made 3-pointer from 25 ft,GSW now leads 31-22
-2011-01-30,True,UTA,True,260,57,2,11:35,Made 2-pointer from 2 ft,GSW now leads 33-25
-2011-01-30,True,UTA,False,244,57,2,01:58,Missed 2-pointer from 1 ft,GSW leads 47-40
-2011-01-30,True,UTA,True,246,64,2,01:46,Made 2-pointer from 2 ft,GSW now leads 49-40
-2011-01-30,True,UTA,False,466,174,2,01:09,Missed 3-pointer from 26 ft,GSW leads 49-40
-2011-01-30,True,UTA,False,162,292,2,01:09,Missed 3-pointer from 25 ft,GSW leads 49-45
-2011-01-30,True,UTA,False,8,39,3,08:03,Missed 3-pointer from 23 ft,GSW leads 55-52
-2011-01-30,True,UTA,True,253,53,3,07:09,Made 2-pointer from 1 ft,GSW now leads 59-52
-2011-01-30,True,UTA,True,318,296,3,05:36,Made 3-pointer from 26 ft,GSW now leads 62-52
-2011-01-30,True,UTA,True,285,69,3,00:54,Made 2-pointer from 5 ft,GSW now leads 69-61
-2011-01-30,True,UTA,False,343,151,4,10:44,Missed 2-pointer from 14 ft,GSW leads 73-64
-2011-01-30,True,UTA,True,232,59,4,10:33,Made 2-pointer from 1 ft,GSW now leads 75-64
-2011-02-03,True,MIL,False,313,294,1,10:03,Missed 3-pointer from 25 ft,GSW leads 4-0
-2011-02-03,True,MIL,False,372,65,1,09:06,Missed 2-pointer from 13 ft,GSW leads 4-2
-2011-02-03,True,MIL,False,340,247,1,02:39,Missed 2-pointer from 22 ft,GSW tied 15-15
-2011-02-03,True,MIL,True,380,144,1,01:49,Made 2-pointer from 17 ft,GSW now tied 18-18
-2011-02-03,True,MIL,True,233,54,2,08:58,Made 2-pointer from 1 ft,GSW now leads 30-27
-2011-02-03,True,MIL,True,118,278,3,10:22,Made 3-pointer from 26 ft,GSW now trails 52-54
-2011-02-03,True,MIL,True,320,157,3,08:38,Made 2-pointer from 13 ft,GSW now tied 58-58
-2011-02-03,True,MIL,False,148,285,3,08:04,Missed 3-pointer from 25 ft,GSW trails 58-60
-2011-02-03,True,MIL,True,143,289,4,04:32,Made 3-pointer from 26 ft,GSW now leads 86-84
-2011-02-03,True,MIL,True,76,83,4,03:54,Made 2-pointer from 17 ft,GSW now leads 88-86
-2011-02-03,True,MIL,False,280,78,4,03:20,Missed 2-pointer from 5 ft,GSW leads 88-86
-2011-02-05,True,CHI,False,176,233,1,11:23,Missed 2-pointer from 19 ft,GSW trails 0-3
-2011-02-05,True,CHI,True,192,250,1,06:42,Made 2-pointer from 21 ft,GSW now leads 15-13
-2011-02-05,True,CHI,False,121,171,2,11:46,Missed 2-pointer from 17 ft,GSW trails 23-25
-2011-02-05,True,CHI,True,142,204,2,10:48,Made 2-pointer from 18 ft,GSW now trails 26-27
-2011-02-05,True,CHI,True,6,67,2,08:34,Made 3-pointer from 23 ft,GSW now trails 29-33
-2011-02-05,True,CHI,False,50,204,2,07:59,Missed 3-pointer from 24 ft,GSW trails 29-35
-2011-02-05,True,CHI,False,188,125,2,05:36,Missed 2-pointer from 9 ft,GSW leads 37-35
-2011-02-05,True,CHI,False,260,69,2,01:08,Missed 2-pointer from 3 ft,GSW trails 46-47
-2011-02-05,True,CHI,True,65,223,3,04:45,Made 3-pointer from 25 ft,GSW now trails 61-65
-2011-02-05,True,CHI,True,304,73,3,04:05,Made 2-pointer from 7 ft,GSW now trails 63-67
-2011-02-05,True,CHI,True,240,64,3,00:40,Made 2-pointer from 1 ft,GSW now leads 71-70
-2011-02-05,True,CHI,True,304,84,4,07:32,Made 2-pointer from 7 ft,GSW now leads 83-74
-2011-02-05,True,CHI,True,391,132,4,07:01,Made 2-pointer from 17 ft,GSW now leads 85-74
-2011-02-05,True,CHI,True,394,163,4,05:49,Made 2-pointer from 19 ft,GSW now leads 89-74
-2011-02-05,True,CHI,False,380,286,4,01:27,Missed 3-pointer from 27 ft,GSW leads 97-84
-2011-02-07,True,PHO,False,161,220,1,11:19,Missed 2-pointer from 19 ft,GSW leads 2-1
-2011-02-07,True,PHO,False,80,267,1,05:35,Missed 3-pointer from 27 ft,GSW trails 8-20
-2011-02-07,True,PHO,True,66,48,1,04:41,Made 2-pointer from 17 ft,GSW now trails 10-22
-2011-02-07,True,PHO,False,259,62,2,09:45,Missed 2-pointer from 2 ft,GSW trails 21-40
-2011-02-07,True,PHO,True,337,233,2,09:02,Made 2-pointer from 21 ft,GSW now trails 25-43
-2011-02-07,True,PHO,True,359,231,2,00:27,Made 2-pointer from 22 ft,GSW now trails 45-62
-2011-02-07,True,PHO,False,397,72,3,10:41,Missed 2-pointer from 16 ft,GSW trails 46-65
-2011-02-07,True,PHO,True,233,53,3,09:25,Made 2-pointer from 1 ft,GSW now trails 52-68
-2011-02-07,True,PHO,False,16,75,3,08:41,Missed 3-pointer from 23 ft,GSW trails 52-70
-2011-02-07,True,PHO,True,395,179,3,06:56,Made 2-pointer from 20 ft,GSW now trails 54-75
-2011-02-07,True,PHO,False,184,251,3,03:36,Missed 2-pointer from 21 ft,GSW trails 61-83
-2011-02-07,True,PHO,True,312,75,3,02:58,Made 2-pointer from 8 ft,GSW now trails 63-83
-2011-02-07,True,PHO,False,479,73,4,11:07,Missed 3-pointer from 24 ft,GSW trails 75-91
-2011-02-07,True,PHO,False,169,305,4,06:29,Missed 3-pointer from 26 ft,GSW trails 83-93
-2011-02-07,True,PHO,True,288,97,4,05:55,Made 2-pointer from 7 ft,GSW now trails 85-93
-2011-02-07,True,PHO,False,46,220,4,01:44,Missed 3-pointer from 26 ft,GSW trails 92-104
-2011-02-07,True,PHO,False,72,255,4,00:50,Missed 3-pointer from 27 ft,GSW trails 92-104
-2011-02-09,True,DEN,False,337,229,1,07:41,Missed 2-pointer from 20 ft,GSW trails 4-10
-2011-02-09,True,DEN,True,252,67,1,07:03,Made 2-pointer from 2 ft,GSW now trails 8-10
-2011-02-09,True,DEN,False,399,242,1,02:12,Missed 3-pointer from 25 ft,GSW trails 25-30
-2011-02-09,True,DEN,True,400,251,1,01:14,Made 3-pointer from 26 ft,GSW now trails 31-32
-2011-02-09,True,DEN,True,181,87,2,03:47,Made 2-pointer from 7 ft,GSW now leads 60-57
-2011-02-09,True,DEN,True,110,114,2,00:51,Made 2-pointer from 14 ft,GSW now leads 68-64
-2011-02-09,True,DEN,False,121,165,2,00:51,Missed 2-pointer from 17 ft,GSW leads 70-68
-2011-02-09,True,DEN,False,481,42,4,08:05,Missed 3-pointer from 24 ft,GSW leads 107-101
-2011-02-09,True,DEN,True,151,198,4,07:27,Made 2-pointer from 17 ft,GSW now leads 109-103
-2011-02-10,False,PHO,True,346,111,1,11:30,Made 2-pointer from 12 ft,GSW now leads 2-0
-2011-02-10,False,PHO,False,317,65,1,10:03,Missed 2-pointer from 8 ft,GSW trails 2-3
-2011-02-10,False,PHO,True,147,229,1,03:01,Made 2-pointer from 20 ft,GSW now trails 16-25
-2011-02-10,False,PHO,False,169,83,2,06:54,Missed 2-pointer from 8 ft,GSW trails 30-40
-2011-02-10,False,PHO,True,247,62,2,05:16,Made 2-pointer from 1 ft,GSW now trails 36-43
-2011-02-10,False,PHO,True,408,240,2,04:17,Made 3-pointer from 25 ft,GSW now trails 39-45
-2011-02-10,False,PHO,True,400,236,2,03:33,Made 3-pointer from 25 ft,GSW now trails 42-51
-2011-02-10,False,PHO,False,320,67,2,01:27,Missed 2-pointer from 8 ft,GSW trails 42-58
-2011-02-10,False,PHO,False,101,272,3,06:37,Missed 3-pointer from 26 ft,GSW trails 49-75
-2011-02-13,True,OKC,False,117,188,1,10:42,Missed 2-pointer from 18 ft,GSW trails 0-2
-2011-02-13,True,OKC,True,339,62,1,07:17,Made 2-pointer from 10 ft,GSW now leads 9-8
-2011-02-13,True,OKC,False,117,212,1,03:42,Missed 2-pointer from 20 ft,GSW trails 15-16
-2011-02-13,True,OKC,True,186,166,1,01:52,Made 2-pointer from 13 ft,GSW now leads 19-18
-2011-02-13,True,OKC,False,268,57,2,02:38,Missed 2-pointer from 3 ft,GSW trails 37-39
-2011-02-13,True,OKC,True,6,57,2,02:30,Made 3-pointer from 23 ft,GSW now leads 40-39
-2011-02-13,True,OKC,True,129,56,2,01:35,Made 2-pointer from 11 ft,GSW now leads 43-39
-2011-02-13,True,OKC,False,117,285,2,01:35,Missed 3-pointer from 27 ft,GSW leads 45-43
-2011-02-13,True,OKC,True,283,144,3,09:53,Made 2-pointer from 10 ft,GSW now leads 53-52
-2011-02-13,True,OKC,True,260,319,3,08:39,Made 3-pointer from 27 ft,GSW now leads 58-55
-2011-02-13,True,OKC,False,252,57,3,07:47,Missed 2-pointer from 1 ft,GSW leads 58-55
-2011-02-13,True,OKC,True,107,128,3,05:31,Made 2-pointer from 15 ft,GSW now leads 64-61
-2011-02-13,True,OKC,False,5,57,3,03:19,Missed 3-pointer from 24 ft,GSW leads 69-64
-2011-02-13,True,OKC,False,433,73,3,02:53,Missed 2-pointer from 19 ft,GSW leads 70-64
-2011-02-13,True,OKC,True,129,179,3,00:59,Made 2-pointer from 17 ft,GSW now leads 72-66
-2011-02-13,True,OKC,True,123,176,3,00:28,Made 2-pointer from 17 ft,GSW now leads 74-66
-2011-02-13,True,OKC,True,150,177,4,11:44,Made 2-pointer from 16 ft,GSW now leads 76-66
-2011-02-13,True,OKC,False,476,111,4,06:09,Missed 3-pointer from 24 ft,GSW leads 83-79
-2011-02-15,True,NOH,True,263,59,1,09:25,Made 2-pointer from 2 ft,GSW now trails 2-7
-2011-02-15,True,NOH,True,260,50,2,02:07,Made 2-pointer from 2 ft,GSW now tied 49-49
-2011-02-15,True,NOH,True,39,203,3,07:39,Made 3-pointer from 25 ft,GSW now leads 65-61
-2011-02-15,True,NOH,True,473,163,3,07:04,Made 3-pointer from 26 ft,GSW now leads 68-61
-2011-02-15,True,NOH,True,477,62,3,01:15,Made 3-pointer from 24 ft,GSW now leads 82-71
-2011-02-16,False,UTA,False,424,34,1,10:36,Missed 2-pointer from 18 ft,GSW trails 0-4
-2011-02-16,False,UTA,False,466,40,1,09:19,Missed 3-pointer from 23 ft,GSW trails 3-6
-2011-02-16,False,UTA,False,132,264,1,07:36,Missed 3-pointer from 24 ft,GSW leads 10-8
-2011-02-16,False,UTA,False,25,59,1,04:32,Missed 2-pointer from 22 ft,GSW trails 14-16
-2011-02-16,False,UTA,False,225,50,1,04:20,Missed 2-pointer from 2 ft,GSW trails 14-16
-2011-02-16,False,UTA,False,419,226,2,00:47,Missed 3-pointer from 25 ft,GSW tied 46-46
-2011-02-16,False,UTA,True,216,50,4,00:31,Made 2-pointer from 2 ft,GSW now leads 105-100
-2011-02-22,True,BOS,False,241,54,1,07:06,Missed 2-pointer from 0 ft,GSW trails 8-13
-2011-02-22,True,BOS,True,66,184,2,07:46,Made 2-pointer from 22 ft,GSW now leads 42-40
-2011-02-22,True,BOS,True,361,209,2,05:09,Made 2-pointer from 20 ft,GSW now leads 50-45
-2011-02-22,True,BOS,True,260,70,2,04:27,Made 2-pointer from 3 ft,GSW now leads 52-45
-2011-02-22,True,BOS,True,140,212,3,08:27,Made 2-pointer from 19 ft,GSW now trails 68-71
-2011-02-22,True,BOS,True,477,97,3,05:28,Made 3-pointer from 24 ft,GSW now trails 74-79
-2011-02-22,True,BOS,False,403,251,3,04:57,Missed 3-pointer from 26 ft,GSW trails 74-79
-2011-02-22,True,BOS,False,109,177,3,03:45,Missed 2-pointer from 18 ft,GSW trails 76-79
-2011-02-22,True,BOS,True,384,185,4,11:22,Made 2-pointer from 20 ft,GSW now trails 80-88
-2011-02-22,True,BOS,True,229,50,4,09:05,Made 2-pointer from 1 ft,GSW now trails 86-90
-2011-02-25,True,ATL,True,351,212,2,00:30,Made 2-pointer from 20 ft,GSW now trails 35-51
-2011-02-25,True,ATL,False,162,299,3,08:08,Missed 3-pointer from 26 ft,GSW trails 39-61
-2011-02-25,True,ATL,False,405,106,3,07:03,Missed 2-pointer from 17 ft,GSW trails 41-65
-2011-02-25,True,ATL,False,53,233,3,03:29,Missed 3-pointer from 26 ft,GSW trails 48-77
-2011-02-25,True,ATL,False,233,173,3,00:33,Missed 2-pointer from 12 ft,GSW trails 53-81
-2011-02-25,True,ATL,True,227,69,3,00:03,Made 2-pointer from 2 ft,GSW now trails 55-81
-2011-02-25,True,ATL,False,392,53,4,11:46,Missed 2-pointer from 15 ft,GSW trails 55-81
-2011-02-27,False,MIN,False,252,196,1,09:22,Missed 2-pointer from 15 ft,GSW trails 8-9
-2011-02-27,False,MIN,True,240,48,1,06:15,Made 2-pointer from 0 ft,GSW now trails 17-21
-2011-02-27,False,MIN,True,350,281,1,05:35,Made 3-pointer from 26 ft,GSW now leads 22-21
-2011-02-27,False,MIN,True,235,67,1,05:35,Made 2-pointer from 2 ft,GSW now leads 41-32
-2011-02-27,False,MIN,True,429,106,2,10:55,Made 2-pointer from 20 ft,GSW now leads 47-33
-2011-02-27,False,MIN,False,163,56,2,10:16,Missed 2-pointer from 8 ft,GSW leads 47-33
-2011-02-27,False,MIN,True,373,73,2,09:26,Made 2-pointer from 14 ft,GSW now leads 49-37
-2011-02-27,False,MIN,True,224,61,2,06:13,Made 2-pointer from 2 ft,GSW now leads 58-49
-2011-02-27,False,MIN,False,90,220,2,05:01,Missed 2-pointer from 23 ft,GSW leads 58-51
-2011-02-27,False,MIN,True,264,233,2,04:35,Made 2-pointer from 18 ft,GSW now leads 60-54
-2011-02-27,False,MIN,False,8,56,3,11:45,Missed 3-pointer from 23 ft,GSW leads 73-69
-2011-02-27,False,MIN,True,1,75,3,08:32,Made 3-pointer from 24 ft,GSW now tied 78-78
-2011-02-27,False,MIN,True,165,245,3,02:24,Made 2-pointer from 21 ft,GSW now trails 87-96
-2011-02-27,False,MIN,False,76,182,3,00:54,Missed 2-pointer from 21 ft,GSW trails 87-104
-2011-02-27,False,MIN,False,246,136,3,00:54,Missed 2-pointer from 9 ft,GSW trails 89-104
-2011-02-27,False,MIN,True,121,259,4,07:06,Made 3-pointer from 24 ft,GSW now trails 109-116
-2011-02-27,False,MIN,True,386,98,4,04:38,Made 2-pointer from 15 ft,GSW now trails 113-117
-2011-02-27,False,MIN,True,121,263,4,03:31,Made 3-pointer from 24 ft,GSW now trails 118-119
-2011-02-27,False,MIN,True,120,269,4,02:07,Made 3-pointer from 25 ft,GSW now trails 121-124
-2011-02-27,False,MIN,False,307,110,4,01:01,Missed 2-pointer from 9 ft,GSW trails 123-124
-2011-03-01,False,IND,False,249,255,1,09:40,Missed 2-pointer from 21 ft,GSW trails 0-3
-2011-03-01,False,IND,False,364,296,1,04:01,Missed 3-pointer from 28 ft,GSW trails 13-22
-2011-03-01,False,IND,False,233,234,1,00:31,Missed 2-pointer from 18 ft,GSW trails 19-29
-2011-03-01,False,IND,False,417,259,1,00:31,Missed 3-pointer from 27 ft,GSW trails 19-29
-2011-03-01,False,IND,False,350,251,2,10:35,Missed 2-pointer from 23 ft,GSW trails 21-32
-2011-03-01,False,IND,True,354,291,3,11:12,Made 3-pointer from 27 ft,GSW now leads 49-45
-2011-03-01,False,IND,True,468,181,3,05:57,Made 3-pointer from 26 ft,GSW now trails 57-58
-2011-03-01,False,IND,False,381,198,3,05:34,Missed 2-pointer from 20 ft,GSW trails 57-58
-2011-03-01,False,IND,True,364,275,3,04:15,Made 3-pointer from 26 ft,GSW now trails 60-61
-2011-03-01,False,IND,True,240,108,3,02:51,Made 2-pointer from 6 ft,GSW now trails 64-68
-2011-03-01,False,IND,False,384,113,4,08:01,Missed 2-pointer from 16 ft,GSW trails 75-85
-2011-03-01,False,IND,True,129,111,4,06:45,Made 2-pointer from 13 ft,GSW now trails 82-91
-2011-03-01,False,IND,True,485,51,4,05:41,Made 3-pointer from 25 ft,GSW now trails 88-95
-2011-03-01,False,IND,True,386,86,4,04:58,Made 2-pointer from 15 ft,GSW now trails 90-95
-2011-03-01,False,IND,False,208,304,4,01:29,Missed 3-pointer from 26 ft,GSW trails 97-103
-2011-03-01,False,IND,False,258,45,4,01:08,Missed 2-pointer from 2 ft,GSW trails 97-103
-2011-03-01,False,IND,False,348,286,4,00:20,Missed 3-pointer from 26 ft,GSW trails 100-105
-2011-03-02,False,WAS,False,77,253,1,09:58,Missed 3-pointer from 26 ft,GSW trails 2-6
-2011-03-02,False,WAS,False,192,154,1,09:06,Missed 2-pointer from 11 ft,GSW trails 4-10
-2011-03-02,False,WAS,True,16,105,1,08:34,Made 3-pointer from 23 ft,GSW now trails 7-13
-2011-03-02,False,WAS,True,260,61,1,05:56,Made 2-pointer from 2 ft,GSW now leads 17-16
-2011-03-02,False,WAS,True,94,40,1,05:29,Made 2-pointer from 15 ft,GSW now leads 20-19
-2011-03-02,False,WAS,True,240,37,1,03:43,Made 2-pointer from 1 ft,GSW now trails 24-25
-2011-03-02,False,WAS,False,247,64,2,04:21,Missed 2-pointer from 2 ft,GSW leads 51-44
-2011-03-02,False,WAS,True,261,102,2,00:30,Made 2-pointer from 6 ft,GSW now leads 59-51
-2011-03-02,False,WAS,True,348,292,2,00:30,Made 3-pointer from 27 ft,GSW now leads 62-53
-2011-03-02,False,WAS,True,408,244,3,11:46,Made 3-pointer from 26 ft,GSW now leads 65-53
-2011-03-02,False,WAS,False,392,251,3,10:31,Missed 3-pointer from 25 ft,GSW leads 67-55
-2011-03-02,False,WAS,False,389,54,3,05:45,Missed 2-pointer from 15 ft,GSW leads 81-65
-2011-03-02,False,WAS,True,79,102,3,05:27,Made 2-pointer from 17 ft,GSW now leads 83-65
-2011-03-02,False,WAS,False,252,184,3,00:33,Missed 2-pointer from 13 ft,GSW leads 90-74
-2011-03-02,False,WAS,False,266,47,4,06:18,Missed 2-pointer from 3 ft,GSW leads 98-87
-2011-03-02,False,WAS,True,417,50,4,05:48,Made 2-pointer from 18 ft,GSW now leads 100-90
-2011-03-02,False,WAS,False,354,291,4,04:56,Missed 3-pointer from 27 ft,GSW leads 100-93
-2011-03-02,False,WAS,False,417,263,4,04:35,Missed 3-pointer from 28 ft,GSW leads 100-93
-2011-03-04,False,BOS,False,449,111,1,10:00,Missed 2-pointer from 22 ft,GSW tied 2-2
-2011-03-04,False,BOS,True,403,135,1,08:59,Made 2-pointer from 18 ft,GSW now tied 6-6
-2011-03-04,False,BOS,True,244,294,1,06:41,Made 3-pointer from 24 ft,GSW now tied 13-13
-2011-03-04,False,BOS,False,258,299,1,05:35,Missed 3-pointer from 25 ft,GSW trails 15-18
-2011-03-04,False,BOS,False,219,114,1,04:17,Missed 2-pointer from 7 ft,GSW trails 19-21
-2011-03-04,False,BOS,False,249,168,2,03:24,Missed 2-pointer from 12 ft,GSW trails 45-59
-2011-03-04,False,BOS,False,290,266,2,00:29,Missed 2-pointer from 22 ft,GSW trails 53-62
-2011-03-04,False,BOS,True,403,40,4,08:25,Made 2-pointer from 16 ft,GSW now trails 87-94
-2011-03-04,False,BOS,False,380,251,4,07:42,Missed 3-pointer from 25 ft,GSW trails 87-96
-2011-03-04,False,BOS,False,17,160,4,05:15,Missed 3-pointer from 25 ft,GSW trails 91-100
-2011-03-04,False,BOS,True,253,50,4,05:06,Made 2-pointer from 1 ft,GSW now trails 93-100
-2011-03-06,False,PHI,True,260,37,1,09:22,Made 2-pointer from 2 ft,GSW now leads 8-6
-2011-03-06,False,PHI,False,406,117,1,05:07,Missed 2-pointer from 18 ft,GSW tied 12-12
-2011-03-06,False,PHI,False,131,103,1,02:05,Missed 2-pointer from 12 ft,GSW trails 18-21
-2011-03-06,False,PHI,True,342,250,1,01:20,Made 2-pointer from 22 ft,GSW now trails 22-23
-2011-03-06,False,PHI,False,87,98,2,04:36,Missed 2-pointer from 16 ft,GSW trails 40-54
-2011-03-06,False,PHI,True,236,45,2,03:00,Made 2-pointer from 1 ft,GSW now trails 46-57
-2011-03-06,False,PHI,True,57,80,2,03:00,Made 2-pointer from 19 ft,GSW now trails 56-64
-2011-03-06,False,PHI,False,184,177,3,10:52,Missed 2-pointer from 14 ft,GSW trails 58-64
-2011-03-06,False,PHI,False,378,25,3,08:31,Missed 2-pointer from 14 ft,GSW trails 63-64
-2011-03-06,False,PHI,True,117,127,3,04:58,Made 2-pointer from 15 ft,GSW now leads 71-70
-2011-03-06,False,PHI,False,121,280,3,04:53,Missed 3-pointer from 26 ft,GSW leads 72-70
-2011-03-06,False,PHI,True,358,163,3,02:49,Made 2-pointer from 16 ft,GSW now tied 74-74
-2011-03-06,False,PHI,True,238,50,3,01:58,Made 2-pointer from 0 ft,GSW now leads 78-76
-2011-03-06,False,PHI,False,391,203,1,04:18,Missed 2-pointer from 22 ft,GSW tied 106-106
-2011-03-06,False,PHI,True,438,204,1,00:43,Made 3-pointer from 25 ft,GSW now trails 115-118
-2011-03-06,False,PHI,False,134,277,1,00:19,Missed 3-pointer from 25 ft,GSW trails 117-123
-2011-03-08,False,CLE,False,183,296,1,06:58,Missed 3-pointer from 25 ft,GSW trails 10-11
-2011-03-08,False,CLE,True,5,119,2,11:41,Made 3-pointer from 24 ft,GSW now trails 21-30
-2011-03-08,False,CLE,True,222,103,2,10:45,Made 2-pointer from 6 ft,GSW now trails 23-32
-2011-03-08,False,CLE,True,-3,110,2,08:10,Made 3-pointer from 25 ft,GSW now trails 30-37
-2011-03-08,False,CLE,False,88,80,2,03:17,Missed 2-pointer from 15 ft,GSW trails 38-41
-2011-03-08,False,CLE,True,240,51,2,01:35,Made 2-pointer from 0 ft,GSW now leads 44-43
-2011-03-08,False,CLE,True,79,62,3,10:43,Made 2-pointer from 16 ft,GSW now leads 49-46
-2011-03-08,False,CLE,True,233,59,3,09:17,Made 2-pointer from 1 ft,GSW now leads 53-48
-2011-03-08,False,CLE,False,253,73,3,07:58,Missed 2-pointer from 3 ft,GSW leads 56-49
-2011-03-08,False,CLE,False,203,253,3,07:00,Missed 2-pointer from 21 ft,GSW leads 58-49
-2011-03-08,False,CLE,True,288,100,3,06:34,Made 2-pointer from 7 ft,GSW now leads 60-49
-2011-03-08,False,CLE,True,52,72,3,05:56,Made 2-pointer from 19 ft,GSW now leads 62-49
-2011-03-08,False,CLE,False,233,70,4,05:21,Missed 2-pointer from 2 ft,GSW leads 87-76
-2011-03-08,False,CLE,False,315,291,4,03:46,Missed 3-pointer from 25 ft,GSW leads 89-81
-2011-03-08,False,CLE,True,236,119,4,03:07,Made 2-pointer from 7 ft,GSW now leads 91-81
-2011-03-08,False,CLE,True,370,92,4,01:41,Made 2-pointer from 14 ft,GSW now leads 95-83
-2011-03-08,False,CLE,False,219,130,4,01:09,Missed 2-pointer from 8 ft,GSW leads 95-83
-2011-03-08,False,CLE,False,235,360,4,00:29,Missed 3-pointer from 31 ft,GSW leads 95-85
-2011-03-09,False,NJN,False,44,181,1,10:28,Missed 2-pointer from 24 ft,GSW trails 0-2
-2011-03-09,False,NJN,True,263,67,1,07:11,Made 2-pointer from 3 ft,GSW now leads 10-9
-2011-03-09,False,NJN,False,213,57,1,05:12,Missed 2-pointer from 3 ft,GSW leads 16-11
-2011-03-09,False,NJN,False,241,177,2,01:30,Missed 2-pointer from 13 ft,GSW trails 44-46
-2011-03-09,False,NJN,True,260,316,2,00:33,Made 3-pointer from 27 ft,GSW now trails 47-50
-2011-03-09,False,NJN,True,258,65,2,00:33,Made 2-pointer from 2 ft,GSW now trails 49-50
-2011-03-09,False,NJN,True,421,45,4,10:33,Made 2-pointer from 18 ft,GSW now leads 79-78
-2011-03-09,False,NJN,False,323,256,4,08:16,Missed 2-pointer from 22 ft,GSW trails 81-85
-2011-03-09,False,NJN,True,16,44,4,07:20,Made 3-pointer from 22 ft,GSW now trails 84-85
-2011-03-09,False,NJN,True,221,59,4,06:39,Made 2-pointer from 2 ft,GSW now leads 86-85
-2011-03-09,False,NJN,False,126,269,4,05:43,Missed 3-pointer from 25 ft,GSW leads 87-85
-2011-03-09,False,NJN,False,280,154,4,04:10,Missed 2-pointer from 11 ft,GSW leads 89-87
-2011-03-09,False,NJN,False,218,64,4,02:51,Missed 2-pointer from 3 ft,GSW leads 90-87
-2011-03-09,False,NJN,False,76,132,4,00:56,Missed 2-pointer from 18 ft,GSW trails 90-92
-2011-03-09,False,NJN,False,9,39,4,00:56,Missed 3-pointer from 23 ft,GSW trails 90-94
-2011-03-11,True,ORL,False,53,204,1,11:14,Missed 3-pointer from 24 ft,GSW trails 0-2
-2011-03-11,True,ORL,False,458,187,1,09:10,Missed 3-pointer from 26 ft,GSW trails 4-7
-2011-03-11,True,ORL,False,191,94,1,08:37,Missed 2-pointer from 7 ft,GSW trails 6-9
-2011-03-11,True,ORL,True,258,222,1,05:02,Made 2-pointer from 17 ft,GSW now tied 12-12
-2011-03-11,True,ORL,False,55,226,2,02:19,Missed 3-pointer from 26 ft,GSW trails 35-53
-2011-03-11,True,ORL,True,9,84,2,00:11,Made 3-pointer from 23 ft,GSW now trails 42-56
-2011-03-11,True,ORL,False,440,199,3,11:14,Missed 3-pointer from 25 ft,GSW trails 43-56
-2011-03-11,True,ORL,True,362,291,3,07:17,Made 3-pointer from 27 ft,GSW now tied 61-61
-2011-03-11,True,ORL,False,229,50,3,05:24,Missed 2-pointer from 1 ft,GSW trails 63-66
-2011-03-11,True,ORL,False,324,196,3,03:48,Missed 2-pointer from 17 ft,GSW trails 69-70
-2011-03-11,True,ORL,False,203,299,3,02:37,Missed 3-pointer from 25 ft,GSW trails 69-74
-2011-03-11,True,ORL,False,126,294,3,00:44,Missed 3-pointer from 27 ft,GSW trails 72-79
-2011-03-11,True,ORL,False,372,182,4,06:21,Missed 2-pointer from 19 ft,GSW trails 85-90
-2011-03-11,True,ORL,True,49,158,4,05:02,Made 2-pointer from 22 ft,GSW now trails 87-90
-2011-03-11,True,ORL,True,455,195,4,03:34,Made 3-pointer from 26 ft,GSW now trails 90-92
-2011-03-11,True,ORL,True,77,253,4,01:29,Made 3-pointer from 26 ft,GSW now leads 98-94
-2011-03-11,True,ORL,True,250,69,1,03:50,Made 2-pointer from 2 ft,GSW now leads 106-103
-2011-03-11,True,ORL,False,258,272,1,01:34,Missed 2-pointer from 22 ft,GSW leads 114-113
-2011-03-11,True,ORL,True,214,65,1,00:38,Made 2-pointer from 3 ft,GSW now leads 119-116
-2011-03-13,True,MIN,False,375,196,1,05:41,Missed 2-pointer from 20 ft,GSW trails 11-12
-2011-03-13,True,MIN,True,77,248,1,03:59,Made 3-pointer from 26 ft,GSW now trails 14-17
-2011-03-13,True,MIN,True,217,292,1,03:31,Made 3-pointer from 24 ft,GSW now tied 17-17
-2011-03-13,True,MIN,True,260,47,1,01:39,Made 2-pointer from 2 ft,GSW now leads 21-20
-2011-03-13,True,MIN,False,411,95,1,01:08,Missed 2-pointer from 18 ft,GSW leads 21-20
-2011-03-13,True,MIN,False,240,139,1,00:33,Missed 2-pointer from 9 ft,GSW leads 24-23
-2011-03-13,True,MIN,False,161,181,2,00:47,Missed 2-pointer from 15 ft,GSW leads 47-44
-2011-03-13,True,MIN,False,156,198,3,07:50,Missed 2-pointer from 17 ft,GSW leads 57-46
-2011-03-13,True,MIN,False,487,69,3,04:42,Missed 3-pointer from 25 ft,GSW leads 62-50
-2011-03-13,True,MIN,True,150,236,3,02:55,Made 2-pointer from 21 ft,GSW now leads 66-54
-2011-03-13,True,MIN,True,250,114,3,02:14,Made 2-pointer from 6 ft,GSW now leads 68-57
-2011-03-13,True,MIN,False,454,280,3,02:14,Missed 3-pointer from 31 ft,GSW leads 75-59
-2011-03-13,True,MIN,True,421,234,4,11:11,Made 3-pointer from 26 ft,GSW now leads 78-59
-2011-03-13,True,MIN,True,249,311,4,04:52,Made 3-pointer from 26 ft,GSW now leads 92-70
-2011-03-13,True,MIN,True,444,95,4,02:53,Made 2-pointer from 21 ft,GSW now leads 98-75
-2011-03-14,False,SAC,False,219,302,1,09:02,Missed 3-pointer from 25 ft,GSW trails 3-10
-2011-03-14,False,SAC,True,107,204,2,09:18,Made 2-pointer from 20 ft,GSW now trails 25-47
-2011-03-14,False,SAC,False,294,294,2,08:51,Missed 3-pointer from 25 ft,GSW trails 25-47
-2011-03-14,False,SAC,False,17,97,2,06:15,Missed 3-pointer from 23 ft,GSW trails 34-54
-2011-03-14,False,SAC,True,8,72,2,03:54,Made 3-pointer from 23 ft,GSW now trails 45-60
-2011-03-14,False,SAC,True,232,114,2,02:46,Made 2-pointer from 6 ft,GSW now trails 49-64
-2011-03-14,False,SAC,True,19,157,2,01:16,Made 3-pointer from 25 ft,GSW now trails 56-69
-2011-03-14,False,SAC,False,154,239,3,11:30,Missed 2-pointer from 21 ft,GSW trails 59-73
-2011-03-14,False,SAC,True,0,78,3,09:47,Made 3-pointer from 24 ft,GSW now trails 62-73
-2011-03-14,False,SAC,False,279,70,3,07:59,Missed 2-pointer from 4 ft,GSW trails 66-81
-2011-03-14,False,SAC,True,465,98,3,07:25,Made 3-pointer from 23 ft,GSW now trails 69-84
-2011-03-14,False,SAC,True,169,300,3,06:33,Made 3-pointer from 26 ft,GSW now trails 74-88
-2011-03-14,False,SAC,False,299,64,3,05:14,Missed 2-pointer from 6 ft,GSW trails 76-93
-2011-03-14,False,SAC,False,238,75,3,05:00,Missed 2-pointer from 3 ft,GSW trails 76-93
-2011-03-16,True,DAL,True,249,53,1,09:42,Made 2-pointer from 1 ft,GSW now leads 8-0
-2011-03-16,True,DAL,False,255,121,1,07:15,Missed 2-pointer from 7 ft,GSW leads 14-7
-2011-03-16,True,DAL,True,16,72,1,06:39,Made 3-pointer from 23 ft,GSW now leads 19-7
-2011-03-16,True,DAL,True,206,304,1,03:25,Made 3-pointer from 26 ft,GSW now leads 30-14
-2011-03-16,True,DAL,True,290,245,2,05:52,Made 2-pointer from 20 ft,GSW now leads 53-38
-2011-03-16,True,DAL,False,302,231,2,01:23,Missed 2-pointer from 19 ft,GSW leads 57-51
-2011-03-16,True,DAL,False,264,87,3,07:14,Missed 2-pointer from 4 ft,GSW leads 68-63
-2011-03-16,True,DAL,False,229,57,3,06:31,Missed 2-pointer from 1 ft,GSW leads 68-65
-2011-03-16,True,DAL,False,181,311,4,00:07,Missed 3-pointer from 27 ft,GSW trails 106-112
-2011-03-16,True,DAL,False,148,315,4,00:07,Missed 3-pointer from 28 ft,GSW trails 106-112
-2011-03-18,False,PHO,True,446,39,1,09:41,Made 2-pointer from 21 ft,GSW now leads 5-2
-2011-03-18,False,PHO,True,376,89,1,08:49,Made 2-pointer from 14 ft,GSW now leads 7-2
-2011-03-18,False,PHO,True,217,69,1,06:07,Made 2-pointer from 3 ft,GSW now trails 9-12
-2011-03-18,False,PHO,False,151,277,1,02:24,Missed 3-pointer from 24 ft,GSW trails 13-21
-2011-03-18,False,PHO,True,365,264,1,02:05,Made 3-pointer from 25 ft,GSW now trails 16-23
-2011-03-18,False,PHO,False,143,203,2,02:03,Missed 2-pointer from 18 ft,GSW trails 34-45
-2011-03-18,False,PHO,True,447,122,3,08:09,Made 2-pointer from 22 ft,GSW now trails 48-61
-2011-03-18,False,PHO,False,85,42,3,07:12,Missed 2-pointer from 16 ft,GSW trails 48-63
-2011-03-18,False,PHO,True,337,278,3,03:50,Made 3-pointer from 25 ft,GSW now trails 57-74
-2011-03-18,False,PHO,False,14,33,3,01:02,Missed 3-pointer from 23 ft,GSW trails 63-81
-2011-03-18,False,PHO,False,367,203,4,02:51,Missed 2-pointer from 20 ft,GSW trails 93-104
-2011-03-18,False,PHO,False,340,209,4,01:40,Missed 2-pointer from 19 ft,GSW trails 94-104
-2011-03-18,False,PHO,False,134,278,4,00:41,Missed 3-pointer from 25 ft,GSW trails 97-106
-2011-03-20,False,DAL,True,310,237,1,08:35,Made 2-pointer from 20 ft,GSW now leads 10-9
-2011-03-20,False,DAL,False,307,86,1,03:16,Missed 2-pointer from 8 ft,GSW trails 14-20
-2011-03-20,False,DAL,False,31,70,2,05:38,Missed 2-pointer from 21 ft,GSW trails 31-47
-2011-03-20,False,DAL,False,113,261,2,04:38,Missed 3-pointer from 25 ft,GSW trails 33-47
-2011-03-20,False,DAL,False,288,292,2,01:16,Missed 3-pointer from 25 ft,GSW trails 43-51
-2011-03-20,False,DAL,False,128,73,2,01:16,Missed 2-pointer from 11 ft,GSW trails 43-51
-2011-03-20,False,DAL,False,272,237,3,09:44,Missed 2-pointer from 19 ft,GSW trails 43-56
-2011-03-20,False,DAL,True,318,217,3,09:40,Made 2-pointer from 18 ft,GSW now trails 45-56
-2011-03-20,False,DAL,True,183,261,3,08:09,Made 2-pointer from 22 ft,GSW now trails 51-58
-2011-03-20,False,DAL,True,16,149,3,07:37,Made 3-pointer from 24 ft,GSW now trails 54-58
-2011-03-20,False,DAL,False,282,67,3,03:17,Missed 2-pointer from 5 ft,GSW trails 63-69
-2011-03-20,False,DAL,False,191,258,4,04:23,Missed 2-pointer from 21 ft,GSW trails 68-92
-2011-03-21,False,SAS,False,233,51,1,09:47,Missed 2-pointer from 1 ft,GSW trails 2-7
-2011-03-21,False,SAS,True,153,239,2,03:35,Made 2-pointer from 21 ft,GSW now trails 43-49
-2011-03-21,False,SAS,False,244,256,2,00:59,Missed 2-pointer from 21 ft,GSW trails 45-51
-2011-03-21,False,SAS,False,137,78,3,08:36,Missed 2-pointer from 11 ft,GSW trails 49-62
-2011-03-21,False,SAS,False,254,53,3,06:54,Missed 2-pointer from 1 ft,GSW trails 55-64
-2011-03-21,False,SAS,True,88,251,4,03:56,Made 3-pointer from 25 ft,GSW now trails 89-100
-2011-03-21,False,SAS,True,253,236,4,02:32,Made 2-pointer from 19 ft,GSW now trails 94-102
-2011-03-21,False,SAS,False,72,223,4,00:26,Missed 3-pointer from 24 ft,GSW trails 96-111
-2011-03-23,False,HOU,True,271,207,1,06:40,Made 2-pointer from 16 ft,GSW now leads 16-15
-2011-03-23,False,HOU,False,266,56,1,05:42,Missed 2-pointer from 3 ft,GSW trails 18-20
-2011-03-23,False,HOU,False,161,53,1,05:40,Missed 2-pointer from 8 ft,GSW trails 18-20
-2011-03-23,False,HOU,True,395,50,1,04:06,Made 2-pointer from 16 ft,GSW now trails 22-26
-2011-03-23,False,HOU,False,96,143,1,03:00,Missed 2-pointer from 17 ft,GSW trails 24-28
-2011-03-23,False,HOU,True,224,61,2,11:23,Made 2-pointer from 2 ft,GSW now trails 35-38
-2011-03-23,False,HOU,False,246,141,2,03:28,Missed 2-pointer from 9 ft,GSW trails 50-57
-2011-03-23,False,HOU,False,216,67,2,02:54,Missed 2-pointer from 3 ft,GSW trails 52-57
-2011-03-23,False,HOU,False,178,292,2,01:41,Missed 3-pointer from 25 ft,GSW tied 57-57
-2011-03-23,False,HOU,False,249,98,2,00:54,Missed 2-pointer from 5 ft,GSW trails 57-63
-2011-03-23,False,HOU,True,224,300,3,08:19,Made 3-pointer from 25 ft,GSW now trails 66-76
-2011-03-23,False,HOU,False,148,220,3,07:34,Missed 2-pointer from 19 ft,GSW trails 66-78
-2011-03-23,False,HOU,True,178,78,3,07:24,Made 2-pointer from 7 ft,GSW now trails 68-78
-2011-03-23,False,HOU,False,438,139,3,03:01,Missed 2-pointer from 22 ft,GSW trails 78-94
-2011-03-23,False,HOU,True,263,62,3,02:52,Made 2-pointer from 3 ft,GSW now trails 80-94
-2011-03-23,False,HOU,True,11,158,3,02:13,Made 3-pointer from 25 ft,GSW now trails 83-96
-2011-03-25,True,TOR,True,250,173,1,10:37,Made 2-pointer from 12 ft,GSW now tied 4-4
-2011-03-25,True,TOR,True,476,56,1,05:35,Made 3-pointer from 24 ft,GSW now leads 25-19
-2011-03-25,True,TOR,True,240,56,1,01:07,Made 2-pointer from 1 ft,GSW now leads 43-32
-2011-03-25,True,TOR,True,69,247,2,11:17,Made 3-pointer from 26 ft,GSW now leads 50-38
-2011-03-25,True,TOR,False,178,78,2,07:34,Missed 2-pointer from 7 ft,GSW leads 60-44
-2011-03-25,True,TOR,True,14,40,2,07:07,Made 3-pointer from 23 ft,GSW now leads 63-47
-2011-03-25,True,TOR,False,253,67,2,01:31,Missed 2-pointer from 2 ft,GSW leads 79-55
-2011-03-25,True,TOR,False,236,95,2,01:26,Missed 2-pointer from 5 ft,GSW leads 79-55
-2011-03-25,True,TOR,True,484,50,2,00:48,Made 3-pointer from 24 ft,GSW now leads 84-55
-2011-03-25,True,TOR,True,252,203,3,09:25,Made 2-pointer from 15 ft,GSW now leads 90-60
-2011-03-25,True,TOR,False,290,299,3,06:23,Missed 3-pointer from 25 ft,GSW leads 101-64
-2011-03-25,True,TOR,False,375,201,3,01:53,Missed 2-pointer from 20 ft,GSW leads 113-70
-2011-03-25,True,TOR,False,12,50,3,00:53,Missed 3-pointer from 23 ft,GSW leads 115-72
-2011-03-27,True,WAS,True,14,56,1,11:13,Made 3-pointer from 23 ft,GSW now leads 3-2
-2011-03-27,True,WAS,False,57,236,1,10:43,Missed 3-pointer from 26 ft,GSW trails 3-4
-2011-03-27,True,WAS,True,68,65,1,05:35,Made 2-pointer from 17 ft,GSW now trails 19-20
-2011-03-27,True,WAS,False,203,169,1,02:22,Missed 2-pointer from 12 ft,GSW leads 28-25
-2011-03-27,True,WAS,False,222,203,1,02:22,Missed 2-pointer from 15 ft,GSW trails 33-36
-2011-03-27,True,WAS,True,395,171,2,02:29,Made 2-pointer from 20 ft,GSW now trails 58-60
-2011-03-27,True,WAS,False,11,95,3,10:31,Missed 3-pointer from 23 ft,GSW leads 69-67
-2011-03-27,True,WAS,False,309,171,3,05:03,Missed 2-pointer from 14 ft,GSW leads 83-77
-2011-03-27,True,WAS,False,173,302,3,04:36,Missed 3-pointer from 26 ft,GSW leads 83-77
-2011-03-27,True,WAS,False,408,67,4,01:24,Missed 2-pointer from 17 ft,GSW leads 114-100
-2011-03-27,True,WAS,False,239,49,4,00:34,Missed 2-pointer from 0 ft,GSW leads 114-102
-2011-03-29,False,OKC,True,269,98,1,09:39,Made 2-pointer from 6 ft,GSW now trails 2-3
-2011-03-29,False,OKC,True,12,95,1,08:53,Made 3-pointer from 23 ft,GSW now leads 5-3
-2011-03-29,False,OKC,True,71,57,1,05:32,Made 2-pointer from 17 ft,GSW now leads 13-12
-2011-03-29,False,OKC,True,238,48,1,02:03,Made 2-pointer from 0 ft,GSW now leads 21-18
-2011-03-29,False,OKC,False,175,106,2,06:01,Missed 2-pointer from 9 ft,GSW trails 43-48
-2011-03-29,False,OKC,True,328,50,2,03:32,Made 2-pointer from 9 ft,GSW now trails 47-50
-2011-03-29,False,OKC,False,354,274,2,00:38,Missed 3-pointer from 25 ft,GSW trails 50-58
-2011-03-29,False,OKC,False,272,57,3,09:41,Missed 2-pointer from 3 ft,GSW trails 50-60
-2011-03-29,False,OKC,True,465,73,3,08:46,Made 3-pointer from 23 ft,GSW now trails 55-65
-2011-03-29,False,OKC,True,399,234,3,02:21,Made 3-pointer from 24 ft,GSW now trails 72-73
-2011-03-29,False,OKC,False,255,247,3,01:47,Missed 2-pointer from 20 ft,GSW trails 72-73
-2011-03-29,False,OKC,True,253,39,3,01:32,Made 2-pointer from 2 ft,GSW now leads 74-73
-2011-03-29,False,OKC,True,224,57,3,01:32,Made 2-pointer from 2 ft,GSW now leads 76-75
-2011-03-29,False,OKC,True,257,48,4,11:29,Made 2-pointer from 2 ft,GSW now leads 79-78
-2011-03-29,False,OKC,True,184,274,4,09:40,Made 2-pointer from 23 ft,GSW now trails 83-86
-2011-03-29,False,OKC,False,399,89,4,08:51,Missed 2-pointer from 16 ft,GSW trails 85-86
-2011-03-29,False,OKC,False,399,48,4,08:46,Missed 2-pointer from 16 ft,GSW trails 85-86
-2011-03-29,False,OKC,False,240,70,4,07:01,Missed 2-pointer from 2 ft,GSW trails 85-92
-2011-03-29,False,OKC,True,16,56,4,06:10,Made 3-pointer from 22 ft,GSW now trails 88-94
-2011-03-29,False,OKC,True,17,72,4,01:16,Made 3-pointer from 22 ft,GSW now trails 98-102
-2011-03-29,False,OKC,False,403,237,4,00:50,Missed 3-pointer from 25 ft,GSW trails 98-102
-2011-03-29,False,OKC,False,343,267,4,00:15,Missed 3-pointer from 24 ft,GSW trails 100-104
-2011-03-29,False,OKC,False,219,50,1,01:21,Missed 2-pointer from 2 ft,GSW trails 111-112
-2011-03-30,False,MEM,False,287,73,1,11:25,Missed 2-pointer from 5 ft,GSW tied 0-0
-2011-03-30,False,MEM,False,8,62,1,10:20,Missed 3-pointer from 23 ft,GSW tied 0-0
-2011-03-30,False,MEM,False,214,59,1,09:51,Missed 2-pointer from 3 ft,GSW tied 0-0
-2011-03-30,False,MEM,False,312,141,1,05:50,Missed 2-pointer from 12 ft,GSW trails 8-11
-2011-03-30,False,MEM,False,380,217,3,10:56,Missed 2-pointer from 22 ft,GSW leads 55-48
-2011-03-30,False,MEM,True,410,240,3,10:31,Made 3-pointer from 26 ft,GSW now leads 58-48
-2011-03-30,False,MEM,False,82,248,3,09:39,Missed 3-pointer from 25 ft,GSW leads 58-48
-2011-03-30,False,MEM,False,476,64,3,07:38,Missed 3-pointer from 24 ft,GSW leads 59-56
-2011-03-30,False,MEM,False,345,73,3,03:24,Missed 2-pointer from 11 ft,GSW trails 66-69
-2011-03-30,False,MEM,True,260,53,3,03:16,Made 2-pointer from 2 ft,GSW now trails 68-69
-2011-03-30,False,MEM,False,411,253,3,00:14,Missed 3-pointer from 27 ft,GSW trails 70-79
-2011-03-30,False,MEM,False,221,51,4,06:35,Missed 2-pointer from 2 ft,GSW trails 81-95
-2011-03-30,False,MEM,False,224,47,4,06:32,Missed 2-pointer from 2 ft,GSW trails 81-95
-2011-03-30,False,MEM,False,353,275,4,04:24,Missed 3-pointer from 25 ft,GSW trails 81-100
-2011-04-02,True,DAL,True,340,198,1,11:37,Made 2-pointer from 18 ft,GSW now leads 2-0
-2011-04-02,True,DAL,False,323,291,1,10:42,Missed 3-pointer from 25 ft,GSW leads 2-1
-2011-04-02,True,DAL,False,247,122,1,04:09,Missed 2-pointer from 7 ft,GSW tied 18-18
-2011-04-02,True,DAL,True,117,193,1,01:56,Made 2-pointer from 19 ft,GSW now leads 26-22
-2011-04-02,True,DAL,False,233,72,3,08:08,Missed 2-pointer from 2 ft,GSW leads 55-54
-2011-04-02,True,DAL,False,214,65,3,07:42,Missed 2-pointer from 3 ft,GSW trails 55-57
-2011-04-02,True,DAL,False,60,225,4,06:51,Missed 3-pointer from 25 ft,GSW leads 82-73
-2011-04-02,True,DAL,True,129,286,4,01:47,Made 3-pointer from 26 ft,GSW now leads 96-90
-2011-04-05,False,POR,False,44,51,1,10:16,Missed 2-pointer from 20 ft,GSW tied 2-2
-2011-04-05,False,POR,True,11,83,1,09:13,Made 3-pointer from 23 ft,GSW now leads 7-5
-2011-04-05,False,POR,False,376,236,1,06:51,Missed 2-pointer from 23 ft,GSW tied 9-9
-2011-04-05,False,POR,False,178,184,1,06:28,Missed 2-pointer from 15 ft,GSW tied 9-9
-2011-04-05,False,POR,False,240,184,1,02:58,Missed 2-pointer from 13 ft,GSW tied 15-15
-2011-04-05,False,POR,False,329,117,1,01:36,Missed 2-pointer from 11 ft,GSW trails 15-17
-2011-04-05,False,POR,True,435,47,2,10:07,Made 2-pointer from 20 ft,GSW now leads 23-19
-2011-04-05,False,POR,True,351,272,2,08:11,Made 3-pointer from 25 ft,GSW now leads 28-25
-2011-04-05,False,POR,True,137,214,2,07:02,Made 2-pointer from 19 ft,GSW now leads 31-29
-2011-04-05,False,POR,False,272,56,2,05:37,Missed 2-pointer from 3 ft,GSW trails 32-33
-2011-04-05,False,POR,False,427,69,2,05:34,Missed 2-pointer from 19 ft,GSW trails 32-33
-2011-04-05,False,POR,True,250,51,3,10:58,Made 2-pointer from 1 ft,GSW now leads 51-50
-2011-04-05,False,POR,False,55,136,3,09:54,Missed 2-pointer from 20 ft,GSW tied 54-54
-2011-04-05,False,POR,True,229,48,3,09:29,Made 2-pointer from 1 ft,GSW now leads 56-55
-2011-04-05,False,POR,True,369,256,3,06:43,Made 3-pointer from 24 ft,GSW now leads 65-60
-2011-04-05,False,POR,False,44,206,3,01:07,Missed 3-pointer from 25 ft,GSW leads 80-68
-2011-04-05,False,POR,True,140,234,4,10:16,Made 2-pointer from 21 ft,GSW now leads 88-72
-2011-04-05,False,POR,False,121,185,4,08:57,Missed 2-pointer from 18 ft,GSW leads 90-72
-2011-04-05,False,POR,False,80,275,4,06:15,Missed 3-pointer from 28 ft,GSW leads 92-76
-2011-04-05,False,POR,True,315,56,4,03:56,Made 2-pointer from 8 ft,GSW now leads 99-78
-2011-04-05,False,POR,True,253,263,4,02:24,Made 2-pointer from 21 ft,GSW now leads 103-80
-2011-04-06,True,LAL,False,235,217,1,10:00,Missed 2-pointer from 17 ft,GSW trails 0-6
-2011-04-06,True,LAL,False,253,62,1,06:48,Missed 2-pointer from 2 ft,GSW trails 6-17
-2011-04-06,True,LAL,False,115,185,1,06:14,Missed 2-pointer from 18 ft,GSW trails 8-17
-2011-04-06,True,LAL,False,216,212,1,04:47,Missed 2-pointer from 16 ft,GSW trails 8-17
-2011-04-06,True,LAL,False,253,105,1,03:30,Missed 2-pointer from 6 ft,GSW trails 10-17
-2011-04-06,True,LAL,False,417,264,1,03:26,Missed 3-pointer from 28 ft,GSW trails 10-17
-2011-04-06,True,LAL,False,65,234,1,02:28,Missed 3-pointer from 25 ft,GSW trails 10-17
-2011-04-06,True,LAL,True,264,242,2,05:43,Made 2-pointer from 19 ft,GSW now leads 28-27
-2011-04-06,True,LAL,True,250,70,2,03:10,Made 2-pointer from 2 ft,GSW now leads 35-34
-2011-04-06,True,LAL,False,276,247,2,03:10,Missed 2-pointer from 20 ft,GSW leads 43-38
-2011-04-06,True,LAL,True,454,80,3,10:03,Made 2-pointer from 22 ft,GSW now leads 45-40
-2011-04-06,True,LAL,True,471,188,3,09:06,Made 3-pointer from 27 ft,GSW now leads 50-44
-2011-04-06,True,LAL,True,260,136,3,08:28,Made 2-pointer from 9 ft,GSW now leads 52-46
-2011-04-06,True,LAL,False,104,166,3,06:53,Missed 2-pointer from 18 ft,GSW leads 56-50
-2011-04-06,True,LAL,False,288,87,3,05:18,Missed 2-pointer from 6 ft,GSW leads 61-51
-2011-04-06,True,LAL,False,231,67,4,10:25,Missed 2-pointer from 2 ft,GSW leads 74-55
-2011-04-06,True,LAL,False,340,210,4,09:35,Missed 2-pointer from 19 ft,GSW leads 74-61
-2011-04-06,True,LAL,False,145,292,4,08:52,Missed 3-pointer from 26 ft,GSW leads 74-61
-2011-04-06,True,LAL,True,342,304,4,06:15,Made 3-pointer from 27 ft,GSW now leads 82-67
-2011-04-06,True,LAL,True,253,61,4,04:07,Made 2-pointer from 2 ft,GSW now leads 88-73
-2011-04-06,True,LAL,False,370,179,4,02:27,Missed 2-pointer from 18 ft,GSW leads 90-80
-2011-04-06,True,LAL,False,272,321,4,01:06,Missed 3-pointer from 27 ft,GSW leads 91-82
-2011-04-06,True,LAL,True,244,97,4,00:33,Made 2-pointer from 5 ft,GSW now leads 93-82
-2011-04-10,True,SAC,True,241,69,1,05:44,Made 2-pointer from 2 ft,GSW now trails 10-14
-2011-04-10,True,SAC,True,154,182,1,05:06,Made 2-pointer from 16 ft,GSW now trails 12-16
-2011-04-10,True,SAC,True,395,176,1,04:26,Made 2-pointer from 20 ft,GSW now trails 15-18
-2011-04-10,True,SAC,True,274,258,1,03:33,Made 2-pointer from 21 ft,GSW now trails 18-19
-2011-04-10,True,SAC,True,471,69,3,11:21,Made 3-pointer from 23 ft,GSW now leads 62-60
-2011-04-10,True,SAC,False,65,245,3,09:38,Missed 3-pointer from 26 ft,GSW tied 63-63
-2011-04-10,True,SAC,True,386,258,3,08:01,Made 3-pointer from 25 ft,GSW now leads 68-65
-2011-04-10,True,SAC,True,233,54,3,06:59,Made 2-pointer from 1 ft,GSW now leads 72-65
-2011-04-10,True,SAC,True,232,39,3,02:25,Made 2-pointer from 1 ft,GSW now leads 78-73
-2011-04-10,True,SAC,False,142,105,3,00:11,Missed 2-pointer from 11 ft,GSW leads 83-77
-2011-04-10,True,SAC,False,411,234,4,10:22,Missed 3-pointer from 25 ft,GSW leads 87-81
-2011-04-10,True,SAC,True,143,217,4,05:29,Made 2-pointer from 19 ft,GSW now trails 91-92
-2011-04-10,True,SAC,False,142,225,4,05:12,Missed 2-pointer from 20 ft,GSW trails 91-92
-2011-04-10,True,SAC,False,159,299,4,03:54,Missed 3-pointer from 26 ft,GSW leads 93-92
-2011-04-10,True,SAC,True,313,177,4,02:30,Made 2-pointer from 15 ft,GSW now trails 97-98
-2011-04-10,True,SAC,False,402,53,4,01:57,Missed 2-pointer from 16 ft,GSW trails 97-98
-2011-04-10,True,SAC,True,440,266,4,01:57,Made 3-pointer from 29 ft,GSW now trails 103-104
-2011-04-11,False,DEN,True,438,57,1,11:31,Made 2-pointer from 20 ft,GSW now leads 2-0
-2011-04-11,False,DEN,True,107,258,1,09:41,Made 3-pointer from 25 ft,GSW now leads 9-6
-2011-04-11,False,DEN,True,476,47,1,02:13,Made 3-pointer from 24 ft,GSW now leads 30-25
-2011-04-11,False,DEN,True,414,102,1,00:42,Made 2-pointer from 18 ft,GSW now leads 32-31
-2011-04-11,False,DEN,True,361,163,2,09:36,Made 2-pointer from 17 ft,GSW now leads 36-34
-2011-04-11,False,DEN,False,112,220,2,07:15,Missed 2-pointer from 21 ft,GSW leads 39-38
-2011-04-11,False,DEN,False,17,98,2,04:51,Missed 3-pointer from 23 ft,GSW trails 43-46
-2011-04-11,False,DEN,True,224,54,3,09:31,Made 2-pointer from 2 ft,GSW now trails 60-61
-2011-04-11,False,DEN,True,261,44,3,07:36,Made 2-pointer from 2 ft,GSW now tied 65-65
-2011-04-11,False,DEN,True,288,80,3,07:02,Made 2-pointer from 6 ft,GSW now trails 67-68
-2011-04-11,False,DEN,False,47,158,3,04:26,Missed 2-pointer from 22 ft,GSW trails 76-78
-2011-04-11,False,DEN,True,301,248,3,03:47,Made 2-pointer from 21 ft,GSW now trails 78-80
-2011-04-11,False,DEN,True,400,255,3,00:31,Made 3-pointer from 26 ft,GSW now trails 88-95
-2011-04-13,True,POR,False,376,275,1,11:45,Missed 3-pointer from 26 ft,GSW tied 0-0
-2011-04-13,True,POR,True,354,288,1,07:33,Made 3-pointer from 26 ft,GSW now leads 13-7
-2011-04-13,True,POR,False,80,138,1,03:38,Missed 2-pointer from 18 ft,GSW leads 26-18
-2011-04-13,True,POR,True,238,50,3,10:38,Made 2-pointer from 0 ft,GSW now leads 54-45
-2011-04-13,True,POR,False,255,105,3,08:15,Missed 2-pointer from 6 ft,GSW leads 60-48
-2011-04-13,True,POR,True,69,258,3,06:19,Made 3-pointer from 27 ft,GSW now leads 67-52
-2011-04-13,True,POR,True,246,62,3,03:16,Made 2-pointer from 1 ft,GSW now leads 74-61
-2011-04-13,True,POR,True,266,65,3,00:12,Made 2-pointer from 3 ft,GSW now leads 85-67
-2011-04-13,True,POR,True,321,236,4,11:47,Made 2-pointer from 20 ft,GSW now leads 87-69
-2011-04-13,True,POR,True,41,42,4,10:02,Made 2-pointer from 20 ft,GSW now leads 89-72
+date,home,vs,quarter,time_left,shot_made,shot_value,shot_distance,x,y,shot_description,game_score
+2010-10-27,True,HOU,1,09:39,True,2,17,253,217,Made 2-pointer from 17 ft,GSW now leads 8-6
+2010-10-27,True,HOU,1,08:43,False,2,16,399,64,Missed 2-pointer from 16 ft,GSW leads 12-8
+2010-10-27,True,HOU,1,06:20,True,2,16,154,185,Made 2-pointer from 16 ft,GSW now leads 18-14
+2010-10-27,True,HOU,1,04:52,True,2,18,337,203,Made 2-pointer from 18 ft,GSW now leads 25-18
+2010-10-27,True,HOU,1,01:39,False,3,26,88,264,Missed 3-pointer from 26 ft,GSW leads 31-26
+2010-10-27,True,HOU,1,01:39,False,2,22,154,251,Missed 2-pointer from 22 ft,GSW leads 34-31
+2010-10-27,True,HOU,2,01:39,False,2,2,240,65,Missed 2-pointer from 2 ft,GSW trails 64-66
+2010-10-27,True,HOU,3,09:22,False,3,26,88,267,Missed 3-pointer from 26 ft,GSW leads 71-70
+2010-10-27,True,HOU,3,06:51,True,3,26,25,193,Made 3-pointer from 26 ft,GSW now leads 80-74
+2010-10-27,True,HOU,3,05:41,True,2,21,400,187,Made 2-pointer from 21 ft,GSW now leads 84-77
+2010-10-27,True,HOU,3,05:21,True,3,27,406,267,Made 3-pointer from 27 ft,GSW now leads 87-79
+2010-10-27,True,HOU,3,04:35,True,2,13,370,51,Made 2-pointer from 13 ft,GSW now leads 91-80
+2010-10-27,True,HOU,3,04:03,False,3,24,477,69,Missed 3-pointer from 24 ft,GSW leads 91-80
+2010-10-27,True,HOU,4,07:23,True,2,23,77,209,Made 2-pointer from 23 ft,GSW now leads 110-106
+2010-10-27,True,HOU,4,05:58,True,3,28,441,244,Made 3-pointer from 28 ft,GSW now leads 117-112
+2010-10-27,True,HOU,4,02:53,False,2,16,94,125,Missed 2-pointer from 16 ft,GSW leads 124-116
+2010-10-29,True,LAC,1,06:11,True,2,16,244,207,Made 2-pointer from 16 ft,GSW now leads 19-9
+2010-10-29,True,LAC,1,00:58,False,3,25,47,203,Missed 3-pointer from 25 ft,GSW tied 27-27
+2010-10-29,True,LAC,2,11:41,True,2,20,444,57,Made 2-pointer from 20 ft,GSW now leads 29-28
+2010-10-29,True,LAC,2,07:31,True,3,27,98,281,Made 3-pointer from 27 ft,GSW now leads 44-37
+2010-10-29,True,LAC,2,04:36,False,3,26,158,296,Missed 3-pointer from 26 ft,GSW leads 47-40
+2010-10-29,True,LAC,2,00:01,True,2,6,242,111,Made 2-pointer from 6 ft,GSW now leads 58-54
+2010-10-29,True,LAC,3,11:18,True,2,18,236,226,Made 2-pointer from 18 ft,GSW now leads 60-54
+2010-10-29,True,LAC,3,10:41,True,2,2,263,50,Made 2-pointer from 2 ft,GSW now leads 62-54
+2010-10-29,True,LAC,3,09:59,True,2,2,235,67,Made 2-pointer from 2 ft,GSW now leads 64-54
+2010-11-05,True,UTA,1,08:24,False,2,20,268,253,Missed 2-pointer from 20 ft,GSW trails 6-8
+2010-11-05,True,UTA,1,05:41,False,2,8,244,132,Missed 2-pointer from 8 ft,GSW trails 8-10
+2010-11-05,True,UTA,1,03:39,False,3,25,188,292,Missed 3-pointer from 25 ft,GSW leads 15-10
+2010-11-05,True,UTA,2,08:35,True,2,9,249,136,Made 2-pointer from 9 ft,GSW now trails 19-22
+2010-11-05,True,UTA,2,07:40,True,2,16,253,206,Made 2-pointer from 16 ft,GSW now tied 23-23
+2010-11-05,True,UTA,2,06:38,True,3,26,282,305,Made 3-pointer from 26 ft,GSW now trails 26-27
+2010-11-05,True,UTA,2,04:50,False,3,26,148,296,Missed 3-pointer from 26 ft,GSW trails 28-30
+2010-11-05,True,UTA,3,11:38,True,2,20,326,226,Made 2-pointer from 20 ft,GSW now leads 42-39
+2010-11-05,True,UTA,3,11:17,False,2,19,370,193,Missed 2-pointer from 19 ft,GSW leads 42-41
+2010-11-05,True,UTA,3,07:00,False,2,20,414,144,Missed 2-pointer from 20 ft,GSW leads 50-48
+2010-11-05,True,UTA,3,05:23,False,2,10,247,149,Missed 2-pointer from 10 ft,GSW leads 54-48
+2010-11-05,True,UTA,4,06:22,False,2,21,69,165,Missed 2-pointer from 21 ft,GSW leads 66-61
+2010-11-05,True,UTA,4,04:51,True,2,12,312,152,Made 2-pointer from 12 ft,GSW now leads 72-65
+2010-11-05,True,UTA,4,03:55,False,2,19,101,173,Missed 2-pointer from 19 ft,GSW leads 72-69
+2010-11-05,True,UTA,4,02:35,True,2,18,101,162,Made 2-pointer from 18 ft,GSW now leads 74-72
+2010-11-05,True,UTA,4,02:11,True,2,2,257,64,Made 2-pointer from 2 ft,GSW now leads 76-72
+2010-11-05,True,UTA,4,01:31,False,3,27,288,316,Missed 3-pointer from 27 ft,GSW leads 77-74
+2010-11-07,False,DET,1,10:38,False,2,0,241,51,Missed 2-pointer from 0 ft,GSW tied 0-0
+2010-11-07,False,DET,1,08:26,False,3,24,471,121,Missed 3-pointer from 24 ft,GSW tied 4-4
+2010-11-07,False,DET,1,07:46,False,2,15,235,199,Missed 2-pointer from 15 ft,GSW leads 6-4
+2010-11-07,False,DET,1,06:01,False,2,13,365,69,Missed 2-pointer from 13 ft,GSW trails 8-11
+2010-11-07,False,DET,2,03:14,False,3,24,12,108,Missed 3-pointer from 24 ft,GSW leads 34-33
+2010-11-07,False,DET,2,01:38,True,2,16,361,152,Made 2-pointer from 16 ft,GSW now tied 38-38
+2010-11-07,False,DET,2,00:22,True,2,18,293,217,Made 2-pointer from 18 ft,GSW now trails 44-45
+2010-11-07,False,DET,3,08:44,False,2,0,240,53,Missed 2-pointer from 0 ft,GSW leads 55-51
+2010-11-07,False,DET,4,06:58,False,2,19,413,136,Missed 2-pointer from 19 ft,GSW trails 84-88
+2010-11-07,False,DET,4,05:58,False,2,4,279,65,Missed 2-pointer from 4 ft,GSW trails 87-88
+2010-11-07,False,DET,4,03:09,True,2,9,206,138,Made 2-pointer from 9 ft,GSW now trails 93-96
+2010-11-07,False,DET,4,00:13,False,3,26,328,292,Missed 3-pointer from 26 ft,GSW trails 97-100
+2010-11-08,False,TOR,1,10:08,True,2,15,391,56,Made 2-pointer from 15 ft,GSW now trails 2-8
+2010-11-08,False,TOR,1,09:11,True,2,1,232,53,Made 2-pointer from 1 ft,GSW now trails 6-8
+2010-11-08,False,TOR,1,03:18,False,2,11,246,163,Missed 2-pointer from 11 ft,GSW leads 18-14
+2010-11-08,False,TOR,1,03:14,False,2,2,252,65,Missed 2-pointer from 2 ft,GSW leads 18-14
+2010-11-08,False,TOR,1,02:39,True,2,15,175,190,Made 2-pointer from 15 ft,GSW now leads 20-17
+2010-11-08,False,TOR,2,06:02,False,2,0,244,48,Missed 2-pointer from 0 ft,GSW leads 37-26
+2010-11-08,False,TOR,2,05:10,False,2,13,339,130,Missed 2-pointer from 13 ft,GSW leads 41-26
+2010-11-08,False,TOR,2,03:31,True,2,2,255,56,Made 2-pointer from 2 ft,GSW now leads 47-28
+2010-11-08,False,TOR,3,10:48,False,3,23,12,48,Missed 3-pointer from 23 ft,GSW leads 57-41
+2010-11-08,False,TOR,3,07:05,True,2,2,240,69,Made 2-pointer from 2 ft,GSW now leads 69-49
+2010-11-08,False,TOR,3,00:15,True,2,2,260,53,Made 2-pointer from 2 ft,GSW now leads 84-72
+2010-11-08,False,TOR,3,00:00,False,2,1,240,62,Missed 2-pointer from 1 ft,GSW leads 84-72
+2010-11-08,False,TOR,4,09:52,False,2,2,260,59,Missed 2-pointer from 2 ft,GSW leads 90-76
+2010-11-08,False,TOR,4,09:33,False,2,3,213,61,Missed 2-pointer from 3 ft,GSW leads 90-76
+2010-11-08,False,TOR,4,06:58,True,2,13,361,108,Made 2-pointer from 13 ft,GSW now leads 92-86
+2010-11-08,False,TOR,4,05:10,True,3,24,27,163,Made 3-pointer from 24 ft,GSW now leads 97-86
+2010-11-08,False,TOR,4,04:28,True,2,2,258,51,Made 2-pointer from 2 ft,GSW now leads 99-90
+2010-11-08,False,TOR,4,02:38,True,3,23,9,51,Made 3-pointer from 23 ft,GSW now leads 105-94
+2010-11-08,False,TOR,4,02:15,True,2,3,264,57,Made 2-pointer from 3 ft,GSW now leads 107-96
+2010-11-08,False,TOR,4,01:00,True,2,19,246,240,Made 2-pointer from 19 ft,GSW now leads 109-102
+2010-11-08,False,TOR,4,00:29,False,3,27,214,322,Missed 3-pointer from 27 ft,GSW leads 109-102
+2010-11-10,False,NYK,1,10:42,False,2,20,170,242,Missed 2-pointer from 20 ft,GSW leads 4-3
+2010-11-10,False,NYK,1,05:07,True,2,1,232,51,Made 2-pointer from 1 ft,GSW now trails 20-22
+2010-11-10,False,NYK,1,04:03,True,2,3,271,57,Made 2-pointer from 3 ft,GSW now leads 24-22
+2010-11-10,False,NYK,1,01:08,False,2,15,88,40,Missed 2-pointer from 15 ft,GSW leads 34-27
+2010-11-10,False,NYK,1,01:08,False,2,4,271,78,Missed 2-pointer from 4 ft,GSW leads 34-32
+2010-11-10,False,NYK,2,06:15,False,2,10,180,133,Missed 2-pointer from 10 ft,GSW leads 47-43
+2010-11-10,False,NYK,2,04:48,True,2,2,253,59,Made 2-pointer from 2 ft,GSW now leads 49-47
+2010-11-10,False,NYK,2,01:22,True,2,1,250,53,Made 2-pointer from 1 ft,GSW now leads 56-54
+2010-11-10,False,NYK,2,00:47,True,2,2,261,56,Made 2-pointer from 2 ft,GSW now leads 58-56
+2010-11-10,False,NYK,3,10:42,True,2,1,236,57,Made 2-pointer from 1 ft,GSW now leads 66-58
+2010-11-10,False,NYK,3,10:18,False,2,13,367,45,Missed 2-pointer from 13 ft,GSW leads 66-60
+2010-11-10,False,NYK,3,07:50,True,2,16,384,128,Made 2-pointer from 16 ft,GSW now leads 74-62
+2010-11-10,False,NYK,3,07:09,False,2,5,290,61,Missed 2-pointer from 5 ft,GSW leads 74-62
+2010-11-10,False,NYK,3,05:33,False,2,2,258,50,Missed 2-pointer from 2 ft,GSW leads 79-62
+2010-11-10,False,NYK,3,01:15,False,2,3,242,84,Missed 2-pointer from 3 ft,GSW leads 85-77
+2010-11-10,False,NYK,4,10:54,True,2,5,192,62,Made 2-pointer from 5 ft,GSW now leads 92-85
+2010-11-10,False,NYK,4,10:16,True,3,25,348,275,Made 3-pointer from 25 ft,GSW now leads 95-85
+2010-11-10,False,NYK,4,07:45,True,2,2,258,56,Made 2-pointer from 2 ft,GSW now leads 99-92
+2010-11-10,False,NYK,4,03:34,True,2,3,230,81,Made 2-pointer from 3 ft,GSW now leads 109-107
+2010-11-10,False,NYK,4,02:51,False,2,6,298,54,Missed 2-pointer from 6 ft,GSW tied 109-109
+2010-11-11,False,CHI,1,11:14,True,2,3,261,67,Made 2-pointer from 3 ft,GSW now tied 2-2
+2010-11-11,False,CHI,1,09:44,False,2,15,391,69,Missed 2-pointer from 15 ft,GSW trails 4-6
+2010-11-11,False,CHI,1,05:32,True,2,3,268,67,Made 2-pointer from 3 ft,GSW now trails 12-20
+2010-11-11,False,CHI,1,03:22,False,2,15,392,53,Missed 2-pointer from 15 ft,GSW trails 16-24
+2010-11-11,False,CHI,1,02:55,False,3,25,429,212,Missed 3-pointer from 25 ft,GSW trails 16-26
+2010-11-11,False,CHI,2,11:06,False,2,20,301,236,Missed 2-pointer from 20 ft,GSW trails 20-38
+2010-11-11,False,CHI,2,10:46,False,3,25,346,280,Missed 3-pointer from 25 ft,GSW trails 20-38
+2010-11-11,False,CHI,2,04:11,True,2,17,271,214,Made 2-pointer from 17 ft,GSW now trails 31-56
+2010-11-11,False,CHI,2,03:43,False,2,5,290,51,Missed 2-pointer from 5 ft,GSW trails 31-56
+2010-11-11,False,CHI,2,02:27,True,3,24,5,50,Made 3-pointer from 24 ft,GSW now trails 34-61
+2010-11-11,False,CHI,2,01:21,False,2,20,162,231,Missed 2-pointer from 20 ft,GSW trails 36-61
+2010-11-11,False,CHI,3,09:30,False,2,7,178,91,Missed 2-pointer from 7 ft,GSW trails 43-72
+2010-11-11,False,CHI,3,04:28,True,2,18,309,217,Made 2-pointer from 18 ft,GSW now trails 56-85
+2010-11-11,False,CHI,3,03:38,False,2,23,68,199,Missed 2-pointer from 23 ft,GSW trails 56-89
+2010-11-11,False,CHI,3,01:44,False,3,23,470,47,Missed 3-pointer from 23 ft,GSW trails 56-91
+2010-11-11,False,CHI,3,01:44,True,3,27,241,315,Made 3-pointer from 27 ft,GSW now trails 63-94
+2010-11-11,False,CHI,4,11:25,True,2,1,247,57,Made 2-pointer from 1 ft,GSW now trails 67-94
+2010-11-11,False,CHI,4,09:24,False,2,6,180,61,Missed 2-pointer from 6 ft,GSW trails 69-97
+2010-11-13,False,MIL,1,08:22,True,2,1,232,54,Made 2-pointer from 1 ft,GSW now trails 7-9
+2010-11-13,False,MIL,1,06:17,False,2,15,373,127,Missed 2-pointer from 15 ft,GSW trails 7-16
+2010-11-13,False,MIL,1,04:45,False,3,23,11,48,Missed 3-pointer from 23 ft,GSW trails 7-17
+2010-11-13,False,MIL,1,04:45,True,2,1,237,62,Made 2-pointer from 1 ft,GSW now trails 16-24
+2010-11-13,False,MIL,2,08:45,False,3,27,249,319,Missed 3-pointer from 27 ft,GSW trails 16-26
+2010-11-13,False,MIL,2,05:56,False,2,17,348,184,Missed 2-pointer from 17 ft,GSW trails 22-30
+2010-11-13,False,MIL,2,05:51,False,2,17,411,36,Missed 2-pointer from 17 ft,GSW trails 22-30
+2010-11-13,False,MIL,2,04:54,False,2,2,230,64,Missed 2-pointer from 2 ft,GSW trails 22-33
+2010-11-13,False,MIL,2,04:52,False,2,2,246,67,Missed 2-pointer from 2 ft,GSW trails 22-33
+2010-11-13,False,MIL,2,03:14,False,2,10,299,130,Missed 2-pointer from 10 ft,GSW trails 25-37
+2010-11-13,False,MIL,3,09:28,False,2,3,271,53,Missed 2-pointer from 3 ft,GSW trails 30-48
+2010-11-13,False,MIL,3,07:14,False,2,20,217,253,Missed 2-pointer from 20 ft,GSW trails 35-50
+2010-11-13,False,MIL,4,05:10,True,2,12,356,48,Made 2-pointer from 12 ft,GSW now trails 65-73
+2010-11-13,False,MIL,4,04:05,False,3,25,38,196,Missed 3-pointer from 25 ft,GSW trails 65-73
+2010-11-15,True,DET,1,10:04,False,2,16,403,72,Missed 2-pointer from 16 ft,GSW trails 4-6
+2010-11-15,True,DET,1,07:26,False,2,20,247,251,Missed 2-pointer from 20 ft,GSW leads 12-10
+2010-11-15,True,DET,1,02:09,True,2,9,197,127,Made 2-pointer from 9 ft,GSW now leads 24-21
+2010-11-15,True,DET,1,02:09,True,2,15,249,203,Made 2-pointer from 15 ft,GSW now leads 34-21
+2010-11-15,True,DET,2,11:45,True,2,2,252,59,Made 2-pointer from 2 ft,GSW now leads 36-21
+2010-11-15,True,DET,2,10:05,False,2,19,113,190,Missed 2-pointer from 19 ft,GSW leads 40-21
+2010-11-15,True,DET,2,01:56,True,3,23,11,65,Made 3-pointer from 23 ft,GSW now leads 65-33
+2010-11-15,True,DET,3,10:02,True,3,25,20,168,Made 3-pointer from 25 ft,GSW now leads 70-45
+2010-11-15,True,DET,3,09:31,False,3,27,444,228,Missed 3-pointer from 27 ft,GSW leads 70-47
+2010-11-15,True,DET,4,07:52,True,2,11,340,87,Made 2-pointer from 11 ft,GSW now leads 94-82
+2010-11-15,True,DET,4,06:11,False,2,19,55,61,Missed 2-pointer from 19 ft,GSW leads 94-86
+2010-11-15,True,DET,4,05:01,False,2,20,172,234,Missed 2-pointer from 20 ft,GSW leads 94-86
+2010-11-15,True,DET,4,03:48,True,2,19,384,179,Made 2-pointer from 19 ft,GSW now leads 98-86
+2010-11-15,True,DET,4,02:27,False,2,22,318,253,Missed 2-pointer from 22 ft,GSW leads 98-92
+2010-11-19,True,NYK,1,10:53,False,2,12,235,166,Missed 2-pointer from 12 ft,GSW leads 2-0
+2010-11-19,True,NYK,1,07:26,False,2,20,264,247,Missed 2-pointer from 20 ft,GSW leads 14-9
+2010-11-19,True,NYK,1,02:37,False,2,3,229,76,Missed 2-pointer from 3 ft,GSW leads 27-26
+2010-11-19,True,NYK,1,01:51,False,2,9,147,69,Missed 2-pointer from 9 ft,GSW tied 29-29
+2010-11-19,True,NYK,2,05:46,False,2,17,272,212,Missed 2-pointer from 17 ft,GSW trails 43-50
+2010-11-19,True,NYK,2,05:00,True,2,3,252,72,Made 2-pointer from 3 ft,GSW now trails 45-55
+2010-11-19,True,NYK,2,04:28,True,3,27,123,297,Made 3-pointer from 27 ft,GSW now trails 48-58
+2010-11-19,True,NYK,2,01:31,True,2,19,99,174,Made 2-pointer from 19 ft,GSW now trails 53-66
+2010-11-19,True,NYK,3,09:45,True,2,21,410,171,Made 2-pointer from 21 ft,GSW now trails 63-78
+2010-11-19,True,NYK,3,04:16,False,3,27,348,297,Missed 3-pointer from 27 ft,GSW trails 75-90
+2010-11-19,True,NYK,3,03:21,False,2,17,317,206,Missed 2-pointer from 17 ft,GSW trails 75-92
+2010-11-19,True,NYK,3,03:00,True,2,2,240,73,Made 2-pointer from 2 ft,GSW now trails 77-92
+2010-11-19,True,NYK,3,01:45,True,2,3,221,70,Made 2-pointer from 3 ft,GSW now trails 79-95
+2010-11-19,True,NYK,3,00:37,False,2,21,378,203,Missed 2-pointer from 21 ft,GSW trails 81-98
+2010-11-19,True,NYK,4,11:42,True,3,26,246,308,Made 3-pointer from 26 ft,GSW now trails 87-98
+2010-11-19,True,NYK,4,10:31,False,3,23,8,73,Missed 3-pointer from 23 ft,GSW trails 89-98
+2010-11-19,True,NYK,4,07:28,False,2,21,403,176,Missed 2-pointer from 21 ft,GSW trails 97-104
+2010-11-19,True,NYK,4,04:10,True,3,26,413,245,Made 3-pointer from 26 ft,GSW now trails 107-109
+2010-11-19,True,NYK,4,02:11,False,3,26,217,305,Missed 3-pointer from 26 ft,GSW trails 112-116
+2010-11-19,True,NYK,4,00:58,True,2,20,365,212,Made 2-pointer from 20 ft,GSW now trails 116-121
+2010-11-19,True,NYK,4,00:21,False,2,17,106,154,Missed 2-pointer from 17 ft,GSW trails 116-124
+2010-11-21,False,LAL,1,10:39,False,3,26,68,251,Missed 3-pointer from 26 ft,GSW trails 0-2
+2010-11-21,False,LAL,1,07:32,False,3,25,87,248,Missed 3-pointer from 25 ft,GSW trails 8-10
+2010-11-21,False,LAL,1,04:57,True,3,26,180,299,Made 3-pointer from 26 ft,GSW now trails 13-20
+2010-11-21,False,LAL,1,01:20,True,2,3,238,80,Made 2-pointer from 3 ft,GSW now trails 19-33
+2010-11-21,False,LAL,2,05:54,False,2,16,115,149,Missed 2-pointer from 16 ft,GSW trails 28-52
+2010-11-21,False,LAL,2,03:27,False,2,15,158,179,Missed 2-pointer from 15 ft,GSW trails 34-57
+2010-11-21,False,LAL,2,00:15,True,2,4,238,86,Made 2-pointer from 4 ft,GSW now trails 41-69
+2010-11-21,False,LAL,3,10:25,True,2,7,221,117,Made 2-pointer from 7 ft,GSW now trails 44-73
+2010-11-21,False,LAL,3,09:09,False,2,11,203,158,Missed 2-pointer from 11 ft,GSW trails 44-75
+2010-11-21,False,LAL,3,07:25,True,2,22,361,229,Made 2-pointer from 22 ft,GSW now trails 50-77
+2010-11-22,True,DEN,1,10:19,True,2,17,76,80,Made 2-pointer from 17 ft,GSW now leads 4-3
+2010-11-22,True,DEN,1,08:35,False,3,27,421,250,Missed 3-pointer from 27 ft,GSW leads 6-3
+2010-11-22,True,DEN,1,07:23,False,2,15,129,152,Missed 2-pointer from 15 ft,GSW trails 6-7
+2010-11-22,True,DEN,1,06:34,False,2,12,128,98,Missed 2-pointer from 12 ft,GSW leads 8-7
+2010-11-22,True,DEN,1,05:44,False,3,22,19,86,Missed 3-pointer from 22 ft,GSW leads 10-7
+2010-11-22,True,DEN,1,04:25,True,2,19,126,203,Made 2-pointer from 19 ft,GSW now leads 14-10
+2010-11-22,True,DEN,2,08:53,True,3,23,11,51,Made 3-pointer from 23 ft,GSW now leads 31-25
+2010-11-22,True,DEN,2,06:13,False,3,23,12,56,Missed 3-pointer from 23 ft,GSW trails 34-35
+2010-11-22,True,DEN,2,04:11,True,2,21,118,222,Made 2-pointer from 21 ft,GSW now trails 38-39
+2010-11-22,True,DEN,2,03:33,False,3,26,238,308,Missed 3-pointer from 26 ft,GSW leads 40-39
+2010-11-22,True,DEN,2,02:10,True,2,18,378,168,Made 2-pointer from 18 ft,GSW now trails 44-45
+2010-11-22,True,DEN,3,09:37,True,2,7,264,117,Made 2-pointer from 7 ft,GSW now tied 56-56
+2010-11-22,True,DEN,3,08:56,True,2,9,317,100,Made 2-pointer from 9 ft,GSW now leads 58-56
+2010-11-22,True,DEN,3,07:45,False,2,11,176,139,Missed 2-pointer from 11 ft,GSW trails 58-61
+2010-11-22,True,DEN,3,05:27,True,2,11,346,81,Made 2-pointer from 11 ft,GSW now trails 65-67
+2010-11-22,True,DEN,3,05:02,False,2,22,128,237,Missed 2-pointer from 22 ft,GSW trails 65-67
+2010-11-22,True,DEN,3,05:02,False,3,27,395,272,Missed 3-pointer from 27 ft,GSW trails 71-79
+2010-11-22,True,DEN,4,03:41,False,2,17,165,201,Missed 2-pointer from 17 ft,GSW trails 83-95
+2010-11-22,True,DEN,4,02:06,False,2,3,247,80,Missed 2-pointer from 3 ft,GSW trails 87-99
+2010-11-22,True,DEN,4,01:41,False,2,11,329,114,Missed 2-pointer from 11 ft,GSW trails 87-102
+2010-11-22,True,DEN,4,00:59,False,2,2,232,73,Missed 2-pointer from 2 ft,GSW trails 87-104
+2010-11-24,False,HOU,1,09:36,False,2,11,342,97,Missed 2-pointer from 11 ft,GSW trails 1-6
+2010-11-24,False,HOU,1,05:27,True,2,4,274,69,Made 2-pointer from 4 ft,GSW now trails 11-16
+2010-11-24,False,HOU,1,04:28,True,2,1,230,50,Made 2-pointer from 1 ft,GSW now trails 16-19
+2010-11-24,False,HOU,1,03:12,False,2,16,82,53,Missed 2-pointer from 16 ft,GSW trails 16-25
+2010-11-24,False,HOU,1,01:04,True,2,2,224,56,Made 2-pointer from 2 ft,GSW now trails 22-31
+2010-11-24,False,HOU,2,10:09,False,2,7,312,54,Missed 2-pointer from 7 ft,GSW trails 27-36
+2010-11-24,False,HOU,2,09:31,True,2,1,232,59,Made 2-pointer from 1 ft,GSW now trails 29-39
+2010-11-24,False,HOU,2,00:34,False,3,25,192,300,Missed 3-pointer from 25 ft,GSW trails 51-59
+2010-11-24,False,HOU,3,10:05,False,2,11,255,162,Missed 2-pointer from 11 ft,GSW trails 54-64
+2010-11-24,False,HOU,3,07:28,True,2,1,249,57,Made 2-pointer from 1 ft,GSW now trails 63-66
+2010-11-24,False,HOU,3,06:28,False,2,1,247,61,Missed 2-pointer from 1 ft,GSW trails 65-68
+2010-11-24,False,HOU,4,04:36,False,2,18,387,152,Missed 2-pointer from 18 ft,GSW trails 86-97
+2010-11-24,False,HOU,4,04:03,True,2,2,238,70,Made 2-pointer from 2 ft,GSW now trails 88-99
+2010-11-24,False,HOU,4,03:00,False,2,18,301,215,Missed 2-pointer from 18 ft,GSW trails 90-101
+2010-11-24,False,HOU,4,02:24,False,2,5,277,78,Missed 2-pointer from 5 ft,GSW trails 90-101
+2010-11-24,False,HOU,4,02:17,True,2,2,263,59,Made 2-pointer from 2 ft,GSW now trails 92-101
+2010-11-24,False,HOU,4,00:47,True,2,2,240,72,Made 2-pointer from 2 ft,GSW now trails 94-103
+2010-11-24,False,HOU,4,00:39,False,2,13,132,113,Missed 2-pointer from 13 ft,GSW trails 94-104
+2010-11-24,False,HOU,4,00:19,False,3,25,112,264,Missed 3-pointer from 25 ft,GSW trails 98-109
+2010-11-26,False,MEM,1,09:48,False,2,22,422,177,Missed 2-pointer from 22 ft,GSW trails 2-9
+2010-11-26,False,MEM,1,08:33,True,2,1,227,50,Made 2-pointer from 1 ft,GSW now trails 6-11
+2010-11-26,False,MEM,1,05:26,True,3,23,473,50,Made 3-pointer from 23 ft,GSW now trails 11-21
+2010-11-26,False,MEM,1,03:14,False,2,20,42,80,Missed 2-pointer from 20 ft,GSW trails 18-26
+2010-11-26,False,MEM,2,11:24,True,3,25,298,288,Made 3-pointer from 25 ft,GSW now trails 29-30
+2010-11-26,False,MEM,2,04:49,True,2,3,255,73,Made 2-pointer from 3 ft,GSW now trails 43-45
+2010-11-26,False,MEM,2,03:46,False,3,25,47,209,Missed 3-pointer from 25 ft,GSW trails 45-47
+2010-11-26,False,MEM,2,03:16,True,3,25,449,182,Made 3-pointer from 25 ft,GSW now trails 48-49
+2010-11-26,False,MEM,2,02:31,False,2,4,202,67,Missed 2-pointer from 4 ft,GSW trails 48-52
+2010-11-26,False,MEM,3,07:02,True,3,26,69,240,Made 3-pointer from 26 ft,GSW now trails 67-71
+2010-11-26,False,MEM,4,05:38,False,2,23,247,283,Missed 2-pointer from 23 ft,GSW trails 89-95
+2010-11-26,False,MEM,4,00:43,True,2,23,44,162,Made 2-pointer from 23 ft,GSW now trails 107-110
+2010-11-26,False,MEM,4,00:35,True,2,3,214,70,Made 2-pointer from 3 ft,GSW now trails 109-112
+2010-11-27,False,MIN,1,10:52,False,3,25,477,122,Missed 3-pointer from 25 ft,GSW leads 3-2
+2010-11-27,False,MIN,1,10:05,False,2,18,402,138,Missed 2-pointer from 18 ft,GSW trails 3-4
+2010-11-27,False,MIN,1,08:37,True,3,25,421,220,Made 3-pointer from 25 ft,GSW now leads 8-4
+2010-11-27,False,MIN,1,04:31,True,3,25,162,288,Made 3-pointer from 25 ft,GSW now leads 23-13
+2010-11-27,False,MIN,1,03:42,False,2,9,233,136,Missed 2-pointer from 9 ft,GSW leads 23-15
+2010-11-27,False,MIN,1,03:26,True,2,1,236,61,Made 2-pointer from 1 ft,GSW now leads 25-15
+2010-11-27,False,MIN,2,01:05,True,2,3,261,67,Made 2-pointer from 3 ft,GSW now trails 46-48
+2010-11-27,False,MIN,3,09:54,True,2,19,208,237,Made 2-pointer from 19 ft,GSW now leads 57-53
+2010-11-27,False,MIN,4,08:08,False,2,21,134,231,Missed 2-pointer from 21 ft,GSW leads 90-81
+2010-11-27,False,MIN,4,00:19,True,2,17,205,220,Made 2-pointer from 17 ft,GSW now leads 104-92
+2010-11-30,True,SAS,1,09:31,True,3,26,240,313,Made 3-pointer from 26 ft,GSW now leads 5-4
+2010-11-30,True,SAS,1,07:43,True,2,20,253,250,Made 2-pointer from 20 ft,GSW now trails 9-12
+2010-11-30,True,SAS,1,05:23,False,2,7,274,110,Missed 2-pointer from 7 ft,GSW trails 13-18
+2010-11-30,True,SAS,1,02:29,True,2,17,147,195,Made 2-pointer from 17 ft,GSW now trails 22-23
+2010-11-30,True,SAS,1,01:05,True,2,18,383,160,Made 2-pointer from 18 ft,GSW now leads 26-23
+2010-11-30,True,SAS,1,00:10,False,3,23,14,84,Missed 3-pointer from 23 ft,GSW tied 26-26
+2010-11-30,True,SAS,2,10:29,True,2,17,232,215,Made 2-pointer from 17 ft,GSW now trails 30-32
+2010-11-30,True,SAS,2,04:26,True,3,29,58,278,Made 3-pointer from 29 ft,GSW now trails 40-49
+2010-11-30,True,SAS,2,03:54,False,2,8,310,89,Missed 2-pointer from 8 ft,GSW trails 40-49
+2010-11-30,True,SAS,2,00:41,True,2,22,361,231,Made 2-pointer from 22 ft,GSW now trails 48-58
+2010-11-30,True,SAS,2,00:41,False,2,2,236,73,Missed 2-pointer from 2 ft,GSW trails 48-58
+2010-11-30,True,SAS,3,06:25,True,2,2,258,57,Made 2-pointer from 2 ft,GSW now trails 62-72
+2010-11-30,True,SAS,3,05:50,False,2,16,85,50,Missed 2-pointer from 16 ft,GSW trails 62-75
+2010-11-30,True,SAS,3,03:20,False,3,28,403,275,Missed 3-pointer from 28 ft,GSW trails 66-80
+2010-11-30,True,SAS,3,01:54,False,2,18,323,209,Missed 2-pointer from 18 ft,GSW trails 68-84
+2010-11-30,True,SAS,4,10:07,True,2,5,283,84,Made 2-pointer from 5 ft,GSW now trails 78-95
+2010-11-30,True,SAS,4,09:04,True,2,12,126,67,Made 2-pointer from 12 ft,GSW now trails 83-97
+2010-11-30,True,SAS,4,07:24,False,2,8,255,133,Missed 2-pointer from 8 ft,GSW trails 85-100
+2010-11-30,True,SAS,4,06:49,True,3,25,93,256,Made 3-pointer from 25 ft,GSW now trails 88-100
+2010-11-30,True,SAS,4,05:24,True,2,17,378,151,Made 2-pointer from 17 ft,GSW now trails 90-106
+2010-11-30,True,SAS,4,04:11,False,3,26,425,234,Missed 3-pointer from 26 ft,GSW trails 90-108
+2010-11-30,True,SAS,4,03:01,True,2,3,255,70,Made 2-pointer from 3 ft,GSW now trails 92-110
+2010-12-02,True,PHO,2,07:09,False,2,11,246,158,Missed 2-pointer from 11 ft,GSW trails 32-37
+2010-12-02,True,PHO,2,04:10,True,2,6,299,69,Made 2-pointer from 6 ft,GSW now trails 37-41
+2010-12-02,True,PHO,2,03:48,False,3,27,161,311,Missed 3-pointer from 27 ft,GSW trails 37-41
+2010-12-02,True,PHO,2,03:05,True,3,26,332,291,Made 3-pointer from 26 ft,GSW now trails 40-43
+2010-12-02,True,PHO,3,10:37,False,2,11,299,138,Missed 2-pointer from 11 ft,GSW trails 49-54
+2010-12-02,True,PHO,3,07:31,False,2,18,140,203,Missed 2-pointer from 18 ft,GSW trails 57-63
+2010-12-02,True,PHO,3,05:23,False,3,25,71,228,Missed 3-pointer from 25 ft,GSW trails 61-66
+2010-12-02,True,PHO,3,05:23,False,2,2,222,56,Missed 2-pointer from 2 ft,GSW trails 72-75
+2010-12-02,True,PHO,4,02:12,True,2,16,282,201,Made 2-pointer from 16 ft,GSW now trails 94-99
+2010-12-02,True,PHO,4,00:14,True,2,2,260,64,Made 2-pointer from 2 ft,GSW now trails 101-107
+2010-12-05,False,OKC,1,09:03,False,2,3,268,57,Missed 2-pointer from 3 ft,GSW trails 0-8
+2010-12-05,False,OKC,1,03:43,True,2,2,260,47,Made 2-pointer from 2 ft,GSW now trails 11-28
+2010-12-05,False,OKC,2,10:48,False,3,24,19,155,Missed 3-pointer from 24 ft,GSW trails 17-34
+2010-12-05,False,OKC,2,09:54,True,2,20,369,209,Made 2-pointer from 20 ft,GSW now trails 21-37
+2010-12-05,False,OKC,2,08:31,True,3,23,15,62,Made 3-pointer from 23 ft,GSW now trails 27-40
+2010-12-05,False,OKC,2,06:31,False,2,3,250,73,Missed 2-pointer from 3 ft,GSW trails 27-46
+2010-12-05,False,OKC,2,04:37,True,2,18,156,212,Made 2-pointer from 18 ft,GSW now trails 29-50
+2010-12-05,False,OKC,2,03:23,True,2,17,93,133,Made 2-pointer from 17 ft,GSW now trails 31-50
+2010-12-05,False,OKC,2,02:58,True,2,18,304,214,Made 2-pointer from 18 ft,GSW now trails 33-52
+2010-12-05,False,OKC,2,00:55,True,3,25,408,236,Made 3-pointer from 25 ft,GSW now trails 40-52
+2010-12-05,False,OKC,3,10:14,True,3,23,466,97,Made 3-pointer from 23 ft,GSW now trails 49-60
+2010-12-05,False,OKC,3,07:53,True,2,15,387,59,Made 2-pointer from 15 ft,GSW now trails 53-65
+2010-12-05,False,OKC,3,04:39,True,2,19,79,155,Made 2-pointer from 19 ft,GSW now trails 60-75
+2010-12-05,False,OKC,3,00:27,False,2,1,252,54,Missed 2-pointer from 1 ft,GSW trails 70-88
+2010-12-05,False,OKC,3,00:27,False,3,25,331,278,Missed 3-pointer from 25 ft,GSW trails 70-90
+2010-12-05,False,OKC,4,09:47,True,3,24,61,217,Made 3-pointer from 24 ft,GSW now trails 78-94
+2010-12-05,False,OKC,4,09:18,True,2,20,288,239,Made 2-pointer from 20 ft,GSW now trails 80-96
+2010-12-05,False,OKC,4,08:54,True,2,18,397,138,Made 2-pointer from 18 ft,GSW now trails 83-96
+2010-12-05,False,OKC,4,00:40,True,2,2,219,54,Made 2-pointer from 2 ft,GSW now trails 104-109
+2010-12-05,False,OKC,4,00:16,False,3,25,361,272,Missed 3-pointer from 25 ft,GSW trails 107-112
+2010-12-07,False,DAL,1,07:44,False,2,15,315,176,Missed 2-pointer from 15 ft,GSW trails 12-13
+2010-12-07,False,DAL,1,07:06,True,2,15,206,195,Made 2-pointer from 15 ft,GSW now leads 14-13
+2010-12-07,False,DAL,1,06:23,True,3,25,391,250,Made 3-pointer from 25 ft,GSW now leads 17-15
+2010-12-07,False,DAL,1,05:25,True,2,18,58,67,Made 2-pointer from 18 ft,GSW now leads 19-17
+2010-12-07,False,DAL,1,03:22,False,2,20,343,218,Missed 2-pointer from 20 ft,GSW trails 21-22
+2010-12-07,False,DAL,1,01:46,False,2,3,264,62,Missed 2-pointer from 3 ft,GSW trails 23-26
+2010-12-07,False,DAL,2,07:06,True,2,15,257,196,Made 2-pointer from 15 ft,GSW now trails 35-40
+2010-12-07,False,DAL,2,06:37,False,2,3,214,65,Missed 2-pointer from 3 ft,GSW trails 35-42
+2010-12-07,False,DAL,2,04:39,True,2,6,296,56,Made 2-pointer from 6 ft,GSW now trails 41-42
+2010-12-07,False,DAL,2,03:20,False,3,26,358,278,Missed 3-pointer from 26 ft,GSW trails 43-44
+2010-12-07,False,DAL,3,01:22,True,3,25,19,165,Made 3-pointer from 25 ft,GSW now leads 72-67
+2010-12-07,False,DAL,4,10:03,False,2,6,301,61,Missed 2-pointer from 6 ft,GSW trails 74-76
+2010-12-07,False,DAL,4,07:00,False,2,18,282,229,Missed 2-pointer from 18 ft,GSW trails 81-82
+2010-12-07,False,DAL,4,05:39,True,3,24,370,256,Made 3-pointer from 24 ft,GSW now trails 84-86
+2010-12-07,False,DAL,4,01:59,True,2,1,229,56,Made 2-pointer from 1 ft,GSW now trails 91-96
+2010-12-07,False,DAL,4,01:59,False,3,26,312,300,Missed 3-pointer from 26 ft,GSW trails 100-105
+2010-12-08,False,SAS,1,06:45,False,2,17,389,139,Missed 2-pointer from 17 ft,GSW trails 9-18
+2010-12-08,False,SAS,1,04:30,False,2,18,106,174,Missed 2-pointer from 18 ft,GSW trails 10-21
+2010-12-25,True,POR,1,09:43,False,2,13,134,119,Missed 2-pointer from 13 ft,GSW trails 2-4
+2010-12-25,True,POR,1,09:12,True,2,21,35,54,Made 2-pointer from 21 ft,GSW now trails 4-6
+2010-12-25,True,POR,2,06:45,False,3,26,134,288,Missed 3-pointer from 26 ft,GSW trails 37-39
+2010-12-25,True,POR,2,03:29,False,2,19,294,237,Missed 2-pointer from 19 ft,GSW trails 46-47
+2010-12-25,True,POR,3,09:16,False,2,18,257,231,Missed 2-pointer from 18 ft,GSW leads 63-60
+2010-12-25,True,POR,3,09:05,False,2,18,343,201,Missed 2-pointer from 18 ft,GSW leads 63-60
+2010-12-25,True,POR,3,07:45,False,3,24,477,51,Missed 3-pointer from 24 ft,GSW leads 63-60
+2010-12-25,True,POR,3,07:02,True,2,3,257,70,Made 2-pointer from 3 ft,GSW now leads 65-60
+2010-12-25,True,POR,3,05:45,False,2,2,224,59,Missed 2-pointer from 2 ft,GSW leads 67-60
+2010-12-25,True,POR,3,03:36,False,3,24,476,40,Missed 3-pointer from 24 ft,GSW leads 75-72
+2010-12-25,True,POR,3,03:36,False,3,37,361,401,Missed 3-pointer from 37 ft,GSW trails 78-80
+2010-12-25,True,POR,4,11:46,False,2,17,240,217,Missed 2-pointer from 17 ft,GSW trails 78-80
+2010-12-25,True,POR,4,09:26,False,3,25,487,61,Missed 3-pointer from 25 ft,GSW trails 83-87
+2010-12-25,True,POR,4,07:30,False,2,8,240,125,Missed 2-pointer from 8 ft,GSW trails 85-90
+2010-12-25,True,POR,4,06:16,False,2,3,242,80,Missed 2-pointer from 3 ft,GSW trails 89-92
+2010-12-27,True,PHI,1,11:27,False,2,7,299,89,Missed 2-pointer from 7 ft,GSW tied 0-0
+2010-12-27,True,PHI,1,07:04,True,3,26,162,297,Made 3-pointer from 26 ft,GSW now leads 16-4
+2010-12-27,True,PHI,1,05:54,False,2,12,222,165,Missed 2-pointer from 12 ft,GSW leads 16-8
+2010-12-27,True,PHI,1,05:20,False,2,20,326,229,Missed 2-pointer from 20 ft,GSW leads 16-9
+2010-12-27,True,PHI,2,03:32,True,3,24,481,48,Made 3-pointer from 24 ft,GSW now trails 42-43
+2010-12-27,True,PHI,3,10:48,False,2,9,298,117,Missed 2-pointer from 9 ft,GSW leads 55-49
+2010-12-27,True,PHI,3,10:19,False,2,3,229,75,Missed 2-pointer from 3 ft,GSW leads 55-49
+2010-12-27,True,PHI,4,10:10,False,3,23,11,70,Missed 3-pointer from 23 ft,GSW leads 78-71
+2010-12-27,True,PHI,4,06:38,True,2,3,261,67,Made 2-pointer from 3 ft,GSW now leads 91-80
+2010-12-27,True,PHI,4,06:00,True,3,25,238,302,Made 3-pointer from 25 ft,GSW now leads 94-80
+2010-12-27,True,PHI,4,04:41,False,2,20,389,185,Missed 2-pointer from 20 ft,GSW leads 96-84
+2010-12-27,True,PHI,4,03:16,True,3,24,479,54,Made 3-pointer from 24 ft,GSW now leads 101-85
+2010-12-27,True,PHI,4,01:35,False,3,25,58,225,Missed 3-pointer from 25 ft,GSW leads 106-93
+2010-12-29,False,ATL,1,10:08,True,2,20,282,242,Made 2-pointer from 20 ft,GSW now leads 6-4
+2010-12-29,False,ATL,1,06:23,True,2,2,255,50,Made 2-pointer from 2 ft,GSW now leads 16-12
+2010-12-29,False,ATL,1,05:39,False,2,17,413,67,Missed 2-pointer from 17 ft,GSW leads 17-14
+2010-12-29,False,ATL,2,00:50,False,2,1,250,48,Missed 2-pointer from 1 ft,GSW trails 44-52
+2010-12-29,False,ATL,2,00:00,False,3,26,189,302,Missed 3-pointer from 26 ft,GSW trails 47-52
+2010-12-29,False,ATL,3,11:48,True,2,20,76,169,Made 2-pointer from 20 ft,GSW now trails 49-52
+2010-12-29,False,ATL,3,09:30,False,2,18,80,139,Missed 2-pointer from 18 ft,GSW trails 49-58
+2010-12-29,False,ATL,3,07:58,False,3,24,476,87,Missed 3-pointer from 24 ft,GSW trails 51-63
+2010-12-29,False,ATL,4,05:32,False,2,22,427,173,Missed 2-pointer from 22 ft,GSW trails 79-89
+2010-12-29,False,ATL,4,04:48,False,2,16,247,212,Missed 2-pointer from 16 ft,GSW trails 81-92
+2010-12-29,False,ATL,4,02:29,True,2,1,229,56,Made 2-pointer from 1 ft,GSW now trails 88-97
+2010-12-29,False,ATL,4,01:31,False,3,26,222,307,Missed 3-pointer from 26 ft,GSW trails 91-101
+2010-12-29,False,ATL,4,01:04,False,2,2,255,56,Missed 2-pointer from 2 ft,GSW trails 91-103
+2010-12-31,False,CHA,1,11:46,True,2,20,219,248,Made 2-pointer from 20 ft,GSW now leads 2-0
+2010-12-31,False,CHA,1,10:33,True,2,20,202,244,Made 2-pointer from 20 ft,GSW now leads 9-2
+2010-12-31,False,CHA,1,06:41,False,2,12,250,171,Missed 2-pointer from 12 ft,GSW leads 18-7
+2010-12-31,False,CHA,1,05:35,False,2,22,74,187,Missed 2-pointer from 22 ft,GSW leads 20-13
+2010-12-31,False,CHA,1,03:46,False,2,17,410,69,Missed 2-pointer from 17 ft,GSW leads 24-20
+2010-12-31,False,CHA,2,07:14,False,2,19,173,229,Missed 2-pointer from 19 ft,GSW trails 32-34
+2010-12-31,False,CHA,2,05:43,True,3,26,411,240,Made 3-pointer from 26 ft,GSW now tied 37-37
+2010-12-31,False,CHA,2,04:03,True,3,26,148,288,Made 3-pointer from 26 ft,GSW now leads 45-40
+2010-12-31,False,CHA,2,03:17,True,3,26,150,296,Made 3-pointer from 26 ft,GSW now leads 48-44
+2010-12-31,False,CHA,2,00:30,True,2,1,243,59,Made 2-pointer from 1 ft,GSW now leads 52-46
+2010-12-31,False,CHA,3,08:57,True,2,17,411,81,Made 2-pointer from 17 ft,GSW now leads 62-53
+2010-12-31,False,CHA,3,08:18,False,2,9,197,133,Missed 2-pointer from 9 ft,GSW leads 62-53
+2010-12-31,False,CHA,3,04:34,True,3,25,460,166,Made 3-pointer from 25 ft,GSW now leads 71-62
+2010-12-31,False,CHA,4,09:28,False,3,26,291,305,Missed 3-pointer from 26 ft,GSW leads 81-74
+2010-12-31,False,CHA,4,08:52,True,2,2,257,56,Made 2-pointer from 2 ft,GSW now leads 83-76
+2010-12-31,False,CHA,4,07:29,False,2,17,135,187,Missed 2-pointer from 17 ft,GSW leads 86-80
+2010-12-31,False,CHA,4,05:50,True,2,20,102,201,Made 2-pointer from 20 ft,GSW now leads 89-84
+2011-01-01,False,MIA,1,10:08,True,2,2,222,62,Made 2-pointer from 2 ft,GSW now leads 6-2
+2011-01-01,False,MIA,2,03:02,True,2,5,242,103,Made 2-pointer from 5 ft,GSW now leads 68-48
+2011-01-01,False,MIA,2,01:02,True,2,2,221,62,Made 2-pointer from 2 ft,GSW now leads 72-52
+2011-01-01,False,MIA,2,00:27,False,3,26,175,300,Missed 3-pointer from 26 ft,GSW leads 72-55
+2011-01-01,False,MIA,3,06:25,True,2,22,391,215,Made 2-pointer from 22 ft,GSW now leads 75-68
+2011-01-01,False,MIA,4,10:44,False,2,17,159,204,Missed 2-pointer from 17 ft,GSW trails 84-88
+2011-01-01,False,MIA,4,07:54,False,2,17,318,203,Missed 2-pointer from 17 ft,GSW trails 87-93
+2011-01-01,False,MIA,4,07:01,False,2,3,217,65,Missed 2-pointer from 3 ft,GSW trails 87-96
+2011-01-01,False,MIA,4,02:06,False,2,3,224,73,Missed 2-pointer from 3 ft,GSW trails 98-107
+2011-01-01,False,MIA,4,01:52,True,2,20,85,173,Made 2-pointer from 20 ft,GSW now trails 100-107
+2011-01-01,False,MIA,4,00:45,True,3,23,9,86,Made 3-pointer from 23 ft,GSW now trails 105-111
+2011-01-01,False,MIA,4,00:20,True,2,3,264,64,Made 2-pointer from 3 ft,GSW now trails 107-114
+2011-01-03,False,ORL,1,08:43,False,3,24,0,76,Missed 3-pointer from 24 ft,GSW tied 8-8
+2011-01-03,False,ORL,1,08:38,False,2,16,93,106,Missed 2-pointer from 16 ft,GSW tied 8-8
+2011-01-03,False,ORL,1,06:33,False,2,15,161,173,Missed 2-pointer from 15 ft,GSW tied 10-10
+2011-01-03,False,ORL,1,05:00,False,2,4,252,83,Missed 2-pointer from 4 ft,GSW tied 14-14
+2011-01-03,False,ORL,1,03:02,True,3,26,44,218,Made 3-pointer from 26 ft,GSW now leads 21-16
+2011-01-03,False,ORL,1,02:34,True,2,16,383,124,Made 2-pointer from 16 ft,GSW now leads 23-16
+2011-01-03,False,ORL,2,01:19,False,3,23,9,51,Missed 3-pointer from 23 ft,GSW leads 50-42
+2011-01-03,False,ORL,2,01:14,True,3,23,8,73,Made 3-pointer from 23 ft,GSW now leads 53-42
+2011-01-03,False,ORL,3,11:06,False,3,25,389,248,Missed 3-pointer from 25 ft,GSW leads 53-47
+2011-01-03,False,ORL,3,10:00,False,2,12,135,114,Missed 2-pointer from 12 ft,GSW leads 53-49
+2011-01-03,False,ORL,4,03:24,True,3,23,6,50,Made 3-pointer from 23 ft,GSW now trails 83-99
+2011-01-03,False,ORL,4,02:37,True,2,2,221,65,Made 2-pointer from 2 ft,GSW now trails 85-101
+2011-01-03,False,ORL,4,00:46,False,2,16,148,182,Missed 2-pointer from 16 ft,GSW trails 88-110
+2011-01-05,False,NOH,1,07:03,True,2,19,50,51,Made 2-pointer from 19 ft,GSW now trails 11-12
+2011-01-05,False,NOH,1,06:32,False,2,3,213,57,Missed 2-pointer from 3 ft,GSW trails 11-14
+2011-01-05,False,NOH,1,05:58,True,2,21,403,190,Made 2-pointer from 21 ft,GSW now trails 15-16
+2011-01-05,False,NOH,1,02:35,False,2,5,283,72,Missed 2-pointer from 5 ft,GSW leads 25-24
+2011-01-05,False,NOH,3,10:51,True,2,20,41,70,Made 2-pointer from 20 ft,GSW now trails 49-60
+2011-01-05,False,NOH,3,06:16,False,2,20,107,195,Missed 2-pointer from 20 ft,GSW trails 57-68
+2011-01-05,False,NOH,3,03:48,True,2,19,365,193,Made 2-pointer from 19 ft,GSW now trails 65-72
+2011-01-05,False,NOH,3,00:10,True,2,4,197,56,Made 2-pointer from 4 ft,GSW now trails 72-82
+2011-01-05,False,NOH,4,08:10,False,3,26,424,234,Missed 3-pointer from 26 ft,GSW trails 85-87
+2011-01-05,False,NOH,4,04:14,True,3,24,-3,54,Made 3-pointer from 24 ft,GSW now leads 99-89
+2011-01-05,False,NOH,4,02:18,False,3,28,411,272,Missed 3-pointer from 28 ft,GSW leads 101-99
+2011-01-07,True,CLE,1,11:32,True,3,26,131,285,Made 3-pointer from 26 ft,GSW now leads 3-2
+2011-01-07,True,CLE,1,08:28,False,2,22,367,225,Missed 2-pointer from 22 ft,GSW leads 13-10
+2011-01-07,True,CLE,1,07:25,False,2,1,236,61,Missed 2-pointer from 1 ft,GSW leads 15-13
+2011-01-07,True,CLE,1,06:10,False,3,26,176,299,Missed 3-pointer from 26 ft,GSW leads 18-15
+2011-01-07,True,CLE,2,03:13,True,3,26,156,296,Made 3-pointer from 26 ft,GSW now leads 58-43
+2011-01-07,True,CLE,3,08:26,True,2,20,151,226,Made 2-pointer from 20 ft,GSW now leads 75-55
+2011-01-07,True,CLE,3,06:00,True,3,24,479,78,Made 3-pointer from 24 ft,GSW now leads 80-59
+2011-01-09,False,LAC,2,03:29,False,3,25,230,296,Missed 3-pointer from 25 ft,GSW trails 44-49
+2011-01-09,False,LAC,2,01:28,False,2,19,124,198,Missed 2-pointer from 19 ft,GSW trails 47-56
+2011-01-09,False,LAC,3,09:14,True,2,2,257,65,Made 2-pointer from 2 ft,GSW now trails 54-66
+2011-01-09,False,LAC,3,08:44,True,2,12,233,168,Made 2-pointer from 12 ft,GSW now trails 56-68
+2011-01-09,False,LAC,3,04:47,False,3,25,263,300,Missed 3-pointer from 25 ft,GSW trails 62-80
+2011-01-09,False,LAC,3,03:45,False,2,3,260,65,Missed 2-pointer from 3 ft,GSW trails 66-80
+2011-01-09,False,LAC,4,10:58,False,3,25,118,264,Missed 3-pointer from 25 ft,GSW trails 73-93
+2011-01-09,False,LAC,4,09:49,False,2,21,30,40,Missed 2-pointer from 21 ft,GSW trails 75-93
+2011-01-09,False,LAC,4,08:02,False,3,25,406,234,Missed 3-pointer from 25 ft,GSW trails 80-95
+2011-01-09,False,LAC,4,05:08,False,2,20,216,253,Missed 2-pointer from 20 ft,GSW trails 81-103
+2011-01-09,False,LAC,4,02:39,False,3,24,435,195,Missed 3-pointer from 24 ft,GSW trails 89-103
+2011-01-09,False,LAC,4,00:39,False,2,14,233,185,Missed 2-pointer from 14 ft,GSW trails 91-105
+2011-01-09,False,LAC,4,00:39,False,3,26,186,305,Missed 3-pointer from 26 ft,GSW trails 91-105
+2011-01-12,True,LAL,1,06:14,True,3,25,117,267,Made 3-pointer from 25 ft,GSW now trails 9-10
+2011-01-12,True,LAL,1,02:00,False,3,26,334,291,Missed 3-pointer from 26 ft,GSW leads 23-17
+2011-01-12,True,LAL,1,00:46,False,3,23,12,83,Missed 3-pointer from 23 ft,GSW leads 23-21
+2011-01-12,True,LAL,2,07:03,False,3,26,362,280,Missed 3-pointer from 26 ft,GSW leads 37-31
+2011-01-12,True,LAL,2,02:44,True,2,19,354,196,Made 2-pointer from 19 ft,GSW now leads 44-43
+2011-01-12,True,LAL,3,09:36,False,2,20,296,247,Missed 2-pointer from 20 ft,GSW leads 55-47
+2011-01-12,True,LAL,3,06:10,False,2,20,400,173,Missed 2-pointer from 20 ft,GSW leads 62-56
+2011-01-12,True,LAL,4,06:56,True,2,16,85,44,Made 2-pointer from 16 ft,GSW now leads 86-85
+2011-01-12,True,LAL,4,04:12,True,2,18,118,185,Made 2-pointer from 18 ft,GSW now trails 91-92
+2011-01-12,True,LAL,4,02:50,True,2,8,164,87,Made 2-pointer from 8 ft,GSW now trails 95-97
+2011-01-12,True,LAL,4,01:03,False,3,23,6,54,Missed 3-pointer from 23 ft,GSW trails 99-102
+2011-01-14,True,LAC,1,11:06,True,3,24,484,62,Made 3-pointer from 24 ft,GSW now leads 3-2
+2011-01-14,True,LAC,1,09:45,True,3,26,213,304,Made 3-pointer from 26 ft,GSW now leads 8-7
+2011-01-14,True,LAC,1,09:01,True,3,25,69,237,Made 3-pointer from 25 ft,GSW now leads 13-9
+2011-01-14,True,LAC,1,06:37,False,2,18,115,184,Missed 2-pointer from 18 ft,GSW leads 15-14
+2011-01-14,True,LAC,1,06:00,True,2,6,183,65,Made 2-pointer from 6 ft,GSW now leads 19-18
+2011-01-14,True,LAC,1,03:53,False,3,26,132,289,Missed 3-pointer from 26 ft,GSW leads 28-24
+2011-01-14,True,LAC,2,06:16,True,2,5,244,100,Made 2-pointer from 5 ft,GSW now leads 51-49
+2011-01-14,True,LAC,2,05:42,False,2,1,235,50,Missed 2-pointer from 1 ft,GSW tied 51-51
+2011-01-14,True,LAC,2,02:49,True,3,24,481,53,Made 3-pointer from 24 ft,GSW now leads 65-53
+2011-01-14,True,LAC,2,01:23,False,2,3,250,73,Missed 2-pointer from 3 ft,GSW leads 67-58
+2011-01-14,True,LAC,2,01:23,False,2,6,287,80,Missed 2-pointer from 6 ft,GSW leads 69-60
+2011-01-14,True,LAC,2,01:23,False,3,35,112,379,Missed 3-pointer from 35 ft,GSW leads 69-62
+2011-01-14,True,LAC,3,09:12,False,2,1,232,57,Missed 2-pointer from 1 ft,GSW leads 74-66
+2011-01-14,True,LAC,3,07:50,False,2,17,80,95,Missed 2-pointer from 17 ft,GSW leads 74-70
+2011-01-14,True,LAC,3,07:01,True,3,25,109,264,Made 3-pointer from 25 ft,GSW now leads 77-72
+2011-01-17,True,NJN,2,07:16,False,3,26,44,228,Missed 3-pointer from 26 ft,GSW leads 36-34
+2011-01-17,True,NJN,2,06:27,True,2,19,77,149,Made 2-pointer from 19 ft,GSW now leads 40-37
+2011-01-17,True,NJN,2,03:56,False,3,26,320,300,Missed 3-pointer from 26 ft,GSW leads 44-37
+2011-01-17,True,NJN,3,11:15,False,2,5,238,98,Missed 2-pointer from 5 ft,GSW leads 56-48
+2011-01-17,True,NJN,3,10:10,False,3,26,460,179,Missed 3-pointer from 26 ft,GSW leads 59-50
+2011-01-17,True,NJN,3,08:55,False,2,2,233,73,Missed 2-pointer from 2 ft,GSW leads 59-52
+2011-01-17,True,NJN,3,08:43,False,2,2,257,67,Missed 2-pointer from 2 ft,GSW leads 59-52
+2011-01-17,True,NJN,3,07:46,True,3,26,258,311,Made 3-pointer from 26 ft,GSW now leads 62-56
+2011-01-17,True,NJN,4,03:40,True,2,17,145,187,Made 2-pointer from 17 ft,GSW now leads 101-91
+2011-01-17,True,NJN,4,01:57,True,3,25,414,229,Made 3-pointer from 25 ft,GSW now leads 104-96
+2011-01-19,True,IND,1,06:20,False,2,19,85,160,Missed 2-pointer from 19 ft,GSW trails 12-13
+2011-01-19,True,IND,1,03:37,True,2,4,271,72,Made 2-pointer from 4 ft,GSW now leads 25-22
+2011-01-19,True,IND,2,06:09,True,2,13,372,70,Made 2-pointer from 13 ft,GSW now trails 38-46
+2011-01-19,True,IND,2,02:02,False,2,15,354,151,Missed 2-pointer from 15 ft,GSW trails 43-54
+2011-01-19,True,IND,3,08:55,False,3,24,68,223,Missed 3-pointer from 24 ft,GSW trails 62-63
+2011-01-19,True,IND,3,08:23,True,2,18,340,195,Made 2-pointer from 18 ft,GSW now leads 64-63
+2011-01-19,True,IND,3,04:14,False,3,24,475,58,Missed 3-pointer from 24 ft,GSW leads 75-69
+2011-01-19,True,IND,3,02:28,False,3,25,82,242,Missed 3-pointer from 25 ft,GSW leads 77-72
+2011-01-19,True,IND,3,02:03,False,2,14,356,124,Missed 2-pointer from 14 ft,GSW leads 77-72
+2011-01-19,True,IND,4,00:21,True,2,8,313,67,Made 2-pointer from 8 ft,GSW now leads 108-105
+2011-01-21,True,SAC,1,09:46,False,2,16,91,97,Missed 2-pointer from 16 ft,GSW trails 2-7
+2011-01-21,True,SAC,1,08:36,False,2,3,242,78,Missed 2-pointer from 3 ft,GSW trails 4-9
+2011-01-21,True,SAC,1,02:00,True,2,20,279,248,Made 2-pointer from 20 ft,GSW now trails 23-25
+2011-01-21,True,SAC,1,01:24,True,2,19,334,218,Made 2-pointer from 19 ft,GSW now trails 25-27
+2011-01-21,True,SAC,2,05:22,False,3,25,291,299,Missed 3-pointer from 25 ft,GSW leads 41-36
+2011-01-21,True,SAC,2,01:23,False,2,22,384,218,Missed 2-pointer from 22 ft,GSW tied 47-47
+2011-01-21,True,SAC,3,11:01,False,2,18,173,218,Missed 2-pointer from 18 ft,GSW trails 53-55
+2011-01-21,True,SAC,3,09:40,True,2,1,236,53,Made 2-pointer from 1 ft,GSW now tied 57-57
+2011-01-21,True,SAC,3,07:57,False,2,8,315,54,Missed 2-pointer from 8 ft,GSW trails 59-61
+2011-01-21,True,SAC,3,06:17,True,2,14,246,185,Made 2-pointer from 14 ft,GSW now trails 63-65
+2011-01-21,True,SAC,3,03:14,True,3,25,91,251,Made 3-pointer from 25 ft,GSW now leads 73-69
+2011-01-21,True,SAC,3,02:33,True,3,24,474,92,Made 3-pointer from 24 ft,GSW now leads 76-69
+2011-01-21,True,SAC,3,01:10,True,2,22,199,270,Made 2-pointer from 22 ft,GSW now leads 80-71
+2011-01-21,True,SAC,3,01:10,True,2,0,236,48,Made 2-pointer from 0 ft,GSW now leads 82-73
+2011-01-21,True,SAC,4,04:44,True,2,16,290,206,Made 2-pointer from 16 ft,GSW now trails 90-94
+2011-01-21,True,SAC,4,02:47,True,3,26,313,302,Made 3-pointer from 26 ft,GSW now trails 93-99
+2011-01-21,True,SAC,4,02:14,True,2,7,170,75,Made 2-pointer from 7 ft,GSW now trails 95-99
+2011-01-21,True,SAC,4,00:36,False,3,26,235,313,Missed 3-pointer from 26 ft,GSW trails 99-102
+2011-01-21,True,SAC,1,04:33,False,3,26,109,269,Missed 3-pointer from 26 ft,GSW tied 104-104
+2011-01-21,True,SAC,1,01:07,True,2,16,131,169,Made 2-pointer from 16 ft,GSW now leads 114-104
+2011-01-22,False,LAC,1,10:16,True,2,18,279,226,Made 2-pointer from 18 ft,GSW now leads 4-0
+2011-01-22,False,LAC,1,06:39,False,2,4,208,80,Missed 2-pointer from 4 ft,GSW trails 8-10
+2011-01-22,False,LAC,1,05:28,False,3,25,487,22,Missed 3-pointer from 25 ft,GSW trails 12-14
+2011-01-22,False,LAC,1,04:30,True,2,2,221,54,Made 2-pointer from 2 ft,GSW now trails 16-19
+2011-01-22,False,LAC,2,09:13,False,2,18,269,229,Missed 2-pointer from 18 ft,GSW trails 29-40
+2011-01-22,False,LAC,2,04:54,False,2,4,280,62,Missed 2-pointer from 4 ft,GSW trails 43-51
+2011-01-22,False,LAC,2,03:56,True,3,26,60,237,Made 3-pointer from 26 ft,GSW now trails 48-53
+2011-01-22,False,LAC,2,02:30,False,3,27,318,311,Missed 3-pointer from 27 ft,GSW trails 51-56
+2011-01-22,False,LAC,2,00:26,False,2,18,123,181,Missed 2-pointer from 18 ft,GSW trails 56-63
+2011-01-22,False,LAC,2,00:26,False,3,37,416,371,Missed 3-pointer from 37 ft,GSW trails 56-65
+2011-01-22,False,LAC,3,11:15,True,2,19,46,51,Made 2-pointer from 19 ft,GSW now trails 58-67
+2011-01-22,False,LAC,3,10:25,True,2,23,307,266,Made 2-pointer from 23 ft,GSW now trails 60-67
+2011-01-22,False,LAC,3,09:58,True,3,27,94,277,Made 3-pointer from 27 ft,GSW now trails 63-67
+2011-01-22,False,LAC,3,03:52,True,2,5,285,81,Made 2-pointer from 5 ft,GSW now trails 71-79
+2011-01-22,False,LAC,3,02:05,True,2,2,249,69,Made 2-pointer from 2 ft,GSW now trails 75-81
+2011-01-22,False,LAC,3,01:00,True,2,2,259,66,Made 2-pointer from 2 ft,GSW now trails 80-84
+2011-01-22,False,LAC,3,01:00,False,2,21,367,218,Missed 2-pointer from 21 ft,GSW trails 82-86
+2011-01-22,False,LAC,4,11:37,True,2,13,362,84,Made 2-pointer from 13 ft,GSW now trails 84-86
+2011-01-22,False,LAC,4,10:18,False,3,27,378,285,Missed 3-pointer from 27 ft,GSW trails 87-93
+2011-01-22,False,LAC,4,02:45,True,3,26,318,297,Made 3-pointer from 26 ft,GSW now trails 98-102
+2011-01-22,False,LAC,4,01:32,True,2,21,121,223,Made 2-pointer from 21 ft,GSW now trails 103-105
+2011-01-22,False,LAC,4,00:33,False,3,26,241,310,Missed 3-pointer from 26 ft,GSW trails 105-108
+2011-01-22,False,LAC,4,00:10,False,3,24,23,160,Missed 3-pointer from 24 ft,GSW trails 109-113
+2011-01-24,True,SAS,1,08:34,True,2,1,246,62,Made 2-pointer from 1 ft,GSW now leads 13-7
+2011-01-24,True,SAS,1,07:46,False,3,25,354,277,Missed 3-pointer from 25 ft,GSW leads 13-12
+2011-01-24,True,SAS,1,04:01,True,3,26,252,310,Made 3-pointer from 26 ft,GSW now trails 24-25
+2011-01-24,True,SAS,1,01:51,False,2,22,287,267,Missed 2-pointer from 22 ft,GSW trails 28-30
+2011-01-24,True,SAS,1,01:06,True,2,17,394,130,Made 2-pointer from 17 ft,GSW now leads 32-31
+2011-01-24,True,SAS,2,09:38,True,2,19,386,165,Made 2-pointer from 19 ft,GSW now tied 40-40
+2011-01-24,True,SAS,2,01:48,False,3,28,77,275,Missed 3-pointer from 28 ft,GSW trails 53-56
+2011-01-24,True,SAS,2,01:27,False,2,9,222,139,Missed 2-pointer from 9 ft,GSW trails 53-58
+2011-01-24,True,SAS,3,09:12,True,3,23,12,81,Made 3-pointer from 23 ft,GSW now trails 60-68
+2011-01-24,True,SAS,3,06:01,False,2,10,282,141,Missed 2-pointer from 10 ft,GSW trails 70-75
+2011-01-24,True,SAS,4,07:38,True,2,16,252,206,Made 2-pointer from 16 ft,GSW now trails 88-98
+2011-01-24,True,SAS,4,03:59,False,2,17,369,166,Missed 2-pointer from 17 ft,GSW trails 95-107
+2011-01-24,True,SAS,4,03:18,False,3,24,474,113,Missed 3-pointer from 24 ft,GSW trails 95-109
+2011-01-24,True,SAS,4,02:59,False,2,14,99,61,Missed 2-pointer from 14 ft,GSW trails 95-109
+2011-01-24,True,SAS,4,01:54,False,2,2,227,64,Missed 2-pointer from 2 ft,GSW trails 97-113
+2011-01-26,True,NOH,1,10:34,True,2,19,272,237,Made 2-pointer from 19 ft,GSW now tied 2-2
+2011-01-26,True,NOH,2,11:36,True,2,20,38,81,Made 2-pointer from 20 ft,GSW now trails 23-34
+2011-01-26,True,NOH,2,10:15,True,2,8,229,128,Made 2-pointer from 8 ft,GSW now trails 25-38
+2011-01-26,True,NOH,2,09:43,True,2,9,150,65,Made 2-pointer from 9 ft,GSW now trails 28-38
+2011-01-26,True,NOH,2,08:34,False,2,16,232,207,Missed 2-pointer from 16 ft,GSW trails 28-38
+2011-01-26,True,NOH,2,05:02,False,2,16,400,51,Missed 2-pointer from 16 ft,GSW trails 35-44
+2011-01-26,True,NOH,2,04:02,True,2,20,339,226,Made 2-pointer from 20 ft,GSW now trails 39-46
+2011-01-26,True,NOH,3,08:35,True,2,18,416,67,Made 2-pointer from 18 ft,GSW now trails 61-65
+2011-01-26,True,NOH,3,07:24,False,2,16,90,114,Missed 2-pointer from 16 ft,GSW trails 61-67
+2011-01-26,True,NOH,3,06:48,True,2,6,233,114,Made 2-pointer from 6 ft,GSW now trails 63-68
+2011-01-26,True,NOH,3,00:54,False,3,26,296,300,Missed 3-pointer from 26 ft,GSW trails 76-91
+2011-01-26,True,NOH,3,00:54,False,3,38,68,387,Missed 3-pointer from 38 ft,GSW trails 76-93
+2011-01-26,True,NOH,4,06:08,True,3,25,74,233,Made 3-pointer from 25 ft,GSW now trails 84-104
+2011-01-28,True,CHA,1,09:26,True,2,6,235,113,Made 2-pointer from 6 ft,GSW now trails 6-7
+2011-01-28,True,CHA,1,07:46,True,2,1,235,53,Made 2-pointer from 1 ft,GSW now leads 11-7
+2011-01-28,True,CHA,1,06:54,True,2,18,372,173,Made 2-pointer from 18 ft,GSW now leads 13-7
+2011-01-28,True,CHA,1,05:06,True,3,26,334,292,Made 3-pointer from 26 ft,GSW now leads 18-11
+2011-01-28,True,CHA,2,08:55,False,3,25,137,278,Missed 3-pointer from 25 ft,GSW leads 32-25
+2011-01-28,True,CHA,2,07:52,False,2,1,241,56,Missed 2-pointer from 1 ft,GSW leads 34-27
+2011-01-28,True,CHA,3,01:27,False,2,21,241,263,Missed 2-pointer from 21 ft,GSW leads 76-65
+2011-01-28,True,CHA,4,05:50,True,3,24,3,56,Made 3-pointer from 24 ft,GSW now leads 86-82
+2011-01-28,True,CHA,4,05:14,True,2,17,384,132,Made 2-pointer from 17 ft,GSW now leads 88-84
+2011-01-28,True,CHA,4,03:35,True,3,28,417,264,Made 3-pointer from 28 ft,GSW now leads 91-86
+2011-01-28,True,CHA,4,01:46,True,3,26,135,291,Made 3-pointer from 26 ft,GSW now leads 98-90
+2011-01-28,True,CHA,4,01:04,False,2,5,271,91,Missed 2-pointer from 5 ft,GSW leads 98-93
+2011-01-30,True,UTA,1,09:15,True,2,21,94,198,Made 2-pointer from 21 ft,GSW now leads 8-2
+2011-01-30,True,UTA,1,08:44,False,2,22,102,220,Missed 2-pointer from 22 ft,GSW leads 8-4
+2011-01-30,True,UTA,1,05:56,False,3,26,441,210,Missed 3-pointer from 26 ft,GSW leads 13-12
+2011-01-30,True,UTA,1,03:50,True,3,26,263,313,Made 3-pointer from 26 ft,GSW now leads 18-16
+2011-01-30,True,UTA,1,02:54,True,2,18,378,168,Made 2-pointer from 18 ft,GSW now leads 20-18
+2011-01-30,True,UTA,1,02:24,False,3,26,408,245,Missed 3-pointer from 26 ft,GSW tied 20-20
+2011-01-30,True,UTA,1,02:24,True,3,25,356,277,Made 3-pointer from 25 ft,GSW now leads 31-22
+2011-01-30,True,UTA,2,11:35,True,2,2,260,57,Made 2-pointer from 2 ft,GSW now leads 33-25
+2011-01-30,True,UTA,2,01:58,False,2,1,244,57,Missed 2-pointer from 1 ft,GSW leads 47-40
+2011-01-30,True,UTA,2,01:46,True,2,2,246,64,Made 2-pointer from 2 ft,GSW now leads 49-40
+2011-01-30,True,UTA,2,01:09,False,3,26,466,174,Missed 3-pointer from 26 ft,GSW leads 49-40
+2011-01-30,True,UTA,2,01:09,False,3,25,162,292,Missed 3-pointer from 25 ft,GSW leads 49-45
+2011-01-30,True,UTA,3,08:03,False,3,23,8,39,Missed 3-pointer from 23 ft,GSW leads 55-52
+2011-01-30,True,UTA,3,07:09,True,2,1,253,53,Made 2-pointer from 1 ft,GSW now leads 59-52
+2011-01-30,True,UTA,3,05:36,True,3,26,318,296,Made 3-pointer from 26 ft,GSW now leads 62-52
+2011-01-30,True,UTA,3,00:54,True,2,5,285,69,Made 2-pointer from 5 ft,GSW now leads 69-61
+2011-01-30,True,UTA,4,10:44,False,2,14,343,151,Missed 2-pointer from 14 ft,GSW leads 73-64
+2011-01-30,True,UTA,4,10:33,True,2,1,232,59,Made 2-pointer from 1 ft,GSW now leads 75-64
+2011-02-03,True,MIL,1,10:03,False,3,25,313,294,Missed 3-pointer from 25 ft,GSW leads 4-0
+2011-02-03,True,MIL,1,09:06,False,2,13,372,65,Missed 2-pointer from 13 ft,GSW leads 4-2
+2011-02-03,True,MIL,1,02:39,False,2,22,340,247,Missed 2-pointer from 22 ft,GSW tied 15-15
+2011-02-03,True,MIL,1,01:49,True,2,17,380,144,Made 2-pointer from 17 ft,GSW now tied 18-18
+2011-02-03,True,MIL,2,08:58,True,2,1,233,54,Made 2-pointer from 1 ft,GSW now leads 30-27
+2011-02-03,True,MIL,3,10:22,True,3,26,118,278,Made 3-pointer from 26 ft,GSW now trails 52-54
+2011-02-03,True,MIL,3,08:38,True,2,13,320,157,Made 2-pointer from 13 ft,GSW now tied 58-58
+2011-02-03,True,MIL,3,08:04,False,3,25,148,285,Missed 3-pointer from 25 ft,GSW trails 58-60
+2011-02-03,True,MIL,4,04:32,True,3,26,143,289,Made 3-pointer from 26 ft,GSW now leads 86-84
+2011-02-03,True,MIL,4,03:54,True,2,17,76,83,Made 2-pointer from 17 ft,GSW now leads 88-86
+2011-02-03,True,MIL,4,03:20,False,2,5,280,78,Missed 2-pointer from 5 ft,GSW leads 88-86
+2011-02-05,True,CHI,1,11:23,False,2,19,176,233,Missed 2-pointer from 19 ft,GSW trails 0-3
+2011-02-05,True,CHI,1,06:42,True,2,21,192,250,Made 2-pointer from 21 ft,GSW now leads 15-13
+2011-02-05,True,CHI,2,11:46,False,2,17,121,171,Missed 2-pointer from 17 ft,GSW trails 23-25
+2011-02-05,True,CHI,2,10:48,True,2,18,142,204,Made 2-pointer from 18 ft,GSW now trails 26-27
+2011-02-05,True,CHI,2,08:34,True,3,23,6,67,Made 3-pointer from 23 ft,GSW now trails 29-33
+2011-02-05,True,CHI,2,07:59,False,3,24,50,204,Missed 3-pointer from 24 ft,GSW trails 29-35
+2011-02-05,True,CHI,2,05:36,False,2,9,188,125,Missed 2-pointer from 9 ft,GSW leads 37-35
+2011-02-05,True,CHI,2,01:08,False,2,3,260,69,Missed 2-pointer from 3 ft,GSW trails 46-47
+2011-02-05,True,CHI,3,04:45,True,3,25,65,223,Made 3-pointer from 25 ft,GSW now trails 61-65
+2011-02-05,True,CHI,3,04:05,True,2,7,304,73,Made 2-pointer from 7 ft,GSW now trails 63-67
+2011-02-05,True,CHI,3,00:40,True,2,1,240,64,Made 2-pointer from 1 ft,GSW now leads 71-70
+2011-02-05,True,CHI,4,07:32,True,2,7,304,84,Made 2-pointer from 7 ft,GSW now leads 83-74
+2011-02-05,True,CHI,4,07:01,True,2,17,391,132,Made 2-pointer from 17 ft,GSW now leads 85-74
+2011-02-05,True,CHI,4,05:49,True,2,19,394,163,Made 2-pointer from 19 ft,GSW now leads 89-74
+2011-02-05,True,CHI,4,01:27,False,3,27,380,286,Missed 3-pointer from 27 ft,GSW leads 97-84
+2011-02-07,True,PHO,1,11:19,False,2,19,161,220,Missed 2-pointer from 19 ft,GSW leads 2-1
+2011-02-07,True,PHO,1,05:35,False,3,27,80,267,Missed 3-pointer from 27 ft,GSW trails 8-20
+2011-02-07,True,PHO,1,04:41,True,2,17,66,48,Made 2-pointer from 17 ft,GSW now trails 10-22
+2011-02-07,True,PHO,2,09:45,False,2,2,259,62,Missed 2-pointer from 2 ft,GSW trails 21-40
+2011-02-07,True,PHO,2,09:02,True,2,21,337,233,Made 2-pointer from 21 ft,GSW now trails 25-43
+2011-02-07,True,PHO,2,00:27,True,2,22,359,231,Made 2-pointer from 22 ft,GSW now trails 45-62
+2011-02-07,True,PHO,3,10:41,False,2,16,397,72,Missed 2-pointer from 16 ft,GSW trails 46-65
+2011-02-07,True,PHO,3,09:25,True,2,1,233,53,Made 2-pointer from 1 ft,GSW now trails 52-68
+2011-02-07,True,PHO,3,08:41,False,3,23,16,75,Missed 3-pointer from 23 ft,GSW trails 52-70
+2011-02-07,True,PHO,3,06:56,True,2,20,395,179,Made 2-pointer from 20 ft,GSW now trails 54-75
+2011-02-07,True,PHO,3,03:36,False,2,21,184,251,Missed 2-pointer from 21 ft,GSW trails 61-83
+2011-02-07,True,PHO,3,02:58,True,2,8,312,75,Made 2-pointer from 8 ft,GSW now trails 63-83
+2011-02-07,True,PHO,4,11:07,False,3,24,479,73,Missed 3-pointer from 24 ft,GSW trails 75-91
+2011-02-07,True,PHO,4,06:29,False,3,26,169,305,Missed 3-pointer from 26 ft,GSW trails 83-93
+2011-02-07,True,PHO,4,05:55,True,2,7,288,97,Made 2-pointer from 7 ft,GSW now trails 85-93
+2011-02-07,True,PHO,4,01:44,False,3,26,46,220,Missed 3-pointer from 26 ft,GSW trails 92-104
+2011-02-07,True,PHO,4,00:50,False,3,27,72,255,Missed 3-pointer from 27 ft,GSW trails 92-104
+2011-02-09,True,DEN,1,07:41,False,2,20,337,229,Missed 2-pointer from 20 ft,GSW trails 4-10
+2011-02-09,True,DEN,1,07:03,True,2,2,252,67,Made 2-pointer from 2 ft,GSW now trails 8-10
+2011-02-09,True,DEN,1,02:12,False,3,25,399,242,Missed 3-pointer from 25 ft,GSW trails 25-30
+2011-02-09,True,DEN,1,01:14,True,3,26,400,251,Made 3-pointer from 26 ft,GSW now trails 31-32
+2011-02-09,True,DEN,2,03:47,True,2,7,181,87,Made 2-pointer from 7 ft,GSW now leads 60-57
+2011-02-09,True,DEN,2,00:51,True,2,14,110,114,Made 2-pointer from 14 ft,GSW now leads 68-64
+2011-02-09,True,DEN,2,00:51,False,2,17,121,165,Missed 2-pointer from 17 ft,GSW leads 70-68
+2011-02-09,True,DEN,4,08:05,False,3,24,481,42,Missed 3-pointer from 24 ft,GSW leads 107-101
+2011-02-09,True,DEN,4,07:27,True,2,17,151,198,Made 2-pointer from 17 ft,GSW now leads 109-103
+2011-02-10,False,PHO,1,11:30,True,2,12,346,111,Made 2-pointer from 12 ft,GSW now leads 2-0
+2011-02-10,False,PHO,1,10:03,False,2,8,317,65,Missed 2-pointer from 8 ft,GSW trails 2-3
+2011-02-10,False,PHO,1,03:01,True,2,20,147,229,Made 2-pointer from 20 ft,GSW now trails 16-25
+2011-02-10,False,PHO,2,06:54,False,2,8,169,83,Missed 2-pointer from 8 ft,GSW trails 30-40
+2011-02-10,False,PHO,2,05:16,True,2,1,247,62,Made 2-pointer from 1 ft,GSW now trails 36-43
+2011-02-10,False,PHO,2,04:17,True,3,25,408,240,Made 3-pointer from 25 ft,GSW now trails 39-45
+2011-02-10,False,PHO,2,03:33,True,3,25,400,236,Made 3-pointer from 25 ft,GSW now trails 42-51
+2011-02-10,False,PHO,2,01:27,False,2,8,320,67,Missed 2-pointer from 8 ft,GSW trails 42-58
+2011-02-10,False,PHO,3,06:37,False,3,26,101,272,Missed 3-pointer from 26 ft,GSW trails 49-75
+2011-02-13,True,OKC,1,10:42,False,2,18,117,188,Missed 2-pointer from 18 ft,GSW trails 0-2
+2011-02-13,True,OKC,1,07:17,True,2,10,339,62,Made 2-pointer from 10 ft,GSW now leads 9-8
+2011-02-13,True,OKC,1,03:42,False,2,20,117,212,Missed 2-pointer from 20 ft,GSW trails 15-16
+2011-02-13,True,OKC,1,01:52,True,2,13,186,166,Made 2-pointer from 13 ft,GSW now leads 19-18
+2011-02-13,True,OKC,2,02:38,False,2,3,268,57,Missed 2-pointer from 3 ft,GSW trails 37-39
+2011-02-13,True,OKC,2,02:30,True,3,23,6,57,Made 3-pointer from 23 ft,GSW now leads 40-39
+2011-02-13,True,OKC,2,01:35,True,2,11,129,56,Made 2-pointer from 11 ft,GSW now leads 43-39
+2011-02-13,True,OKC,2,01:35,False,3,27,117,285,Missed 3-pointer from 27 ft,GSW leads 45-43
+2011-02-13,True,OKC,3,09:53,True,2,10,283,144,Made 2-pointer from 10 ft,GSW now leads 53-52
+2011-02-13,True,OKC,3,08:39,True,3,27,260,319,Made 3-pointer from 27 ft,GSW now leads 58-55
+2011-02-13,True,OKC,3,07:47,False,2,1,252,57,Missed 2-pointer from 1 ft,GSW leads 58-55
+2011-02-13,True,OKC,3,05:31,True,2,15,107,128,Made 2-pointer from 15 ft,GSW now leads 64-61
+2011-02-13,True,OKC,3,03:19,False,3,24,5,57,Missed 3-pointer from 24 ft,GSW leads 69-64
+2011-02-13,True,OKC,3,02:53,False,2,19,433,73,Missed 2-pointer from 19 ft,GSW leads 70-64
+2011-02-13,True,OKC,3,00:59,True,2,17,129,179,Made 2-pointer from 17 ft,GSW now leads 72-66
+2011-02-13,True,OKC,3,00:28,True,2,17,123,176,Made 2-pointer from 17 ft,GSW now leads 74-66
+2011-02-13,True,OKC,4,11:44,True,2,16,150,177,Made 2-pointer from 16 ft,GSW now leads 76-66
+2011-02-13,True,OKC,4,06:09,False,3,24,476,111,Missed 3-pointer from 24 ft,GSW leads 83-79
+2011-02-15,True,NOH,1,09:25,True,2,2,263,59,Made 2-pointer from 2 ft,GSW now trails 2-7
+2011-02-15,True,NOH,2,02:07,True,2,2,260,50,Made 2-pointer from 2 ft,GSW now tied 49-49
+2011-02-15,True,NOH,3,07:39,True,3,25,39,203,Made 3-pointer from 25 ft,GSW now leads 65-61
+2011-02-15,True,NOH,3,07:04,True,3,26,473,163,Made 3-pointer from 26 ft,GSW now leads 68-61
+2011-02-15,True,NOH,3,01:15,True,3,24,477,62,Made 3-pointer from 24 ft,GSW now leads 82-71
+2011-02-16,False,UTA,1,10:36,False,2,18,424,34,Missed 2-pointer from 18 ft,GSW trails 0-4
+2011-02-16,False,UTA,1,09:19,False,3,23,466,40,Missed 3-pointer from 23 ft,GSW trails 3-6
+2011-02-16,False,UTA,1,07:36,False,3,24,132,264,Missed 3-pointer from 24 ft,GSW leads 10-8
+2011-02-16,False,UTA,1,04:32,False,2,22,25,59,Missed 2-pointer from 22 ft,GSW trails 14-16
+2011-02-16,False,UTA,1,04:20,False,2,2,225,50,Missed 2-pointer from 2 ft,GSW trails 14-16
+2011-02-16,False,UTA,2,00:47,False,3,25,419,226,Missed 3-pointer from 25 ft,GSW tied 46-46
+2011-02-16,False,UTA,4,00:31,True,2,2,216,50,Made 2-pointer from 2 ft,GSW now leads 105-100
+2011-02-22,True,BOS,1,07:06,False,2,0,241,54,Missed 2-pointer from 0 ft,GSW trails 8-13
+2011-02-22,True,BOS,2,07:46,True,2,22,66,184,Made 2-pointer from 22 ft,GSW now leads 42-40
+2011-02-22,True,BOS,2,05:09,True,2,20,361,209,Made 2-pointer from 20 ft,GSW now leads 50-45
+2011-02-22,True,BOS,2,04:27,True,2,3,260,70,Made 2-pointer from 3 ft,GSW now leads 52-45
+2011-02-22,True,BOS,3,08:27,True,2,19,140,212,Made 2-pointer from 19 ft,GSW now trails 68-71
+2011-02-22,True,BOS,3,05:28,True,3,24,477,97,Made 3-pointer from 24 ft,GSW now trails 74-79
+2011-02-22,True,BOS,3,04:57,False,3,26,403,251,Missed 3-pointer from 26 ft,GSW trails 74-79
+2011-02-22,True,BOS,3,03:45,False,2,18,109,177,Missed 2-pointer from 18 ft,GSW trails 76-79
+2011-02-22,True,BOS,4,11:22,True,2,20,384,185,Made 2-pointer from 20 ft,GSW now trails 80-88
+2011-02-22,True,BOS,4,09:05,True,2,1,229,50,Made 2-pointer from 1 ft,GSW now trails 86-90
+2011-02-25,True,ATL,2,00:30,True,2,20,351,212,Made 2-pointer from 20 ft,GSW now trails 35-51
+2011-02-25,True,ATL,3,08:08,False,3,26,162,299,Missed 3-pointer from 26 ft,GSW trails 39-61
+2011-02-25,True,ATL,3,07:03,False,2,17,405,106,Missed 2-pointer from 17 ft,GSW trails 41-65
+2011-02-25,True,ATL,3,03:29,False,3,26,53,233,Missed 3-pointer from 26 ft,GSW trails 48-77
+2011-02-25,True,ATL,3,00:33,False,2,12,233,173,Missed 2-pointer from 12 ft,GSW trails 53-81
+2011-02-25,True,ATL,3,00:03,True,2,2,227,69,Made 2-pointer from 2 ft,GSW now trails 55-81
+2011-02-25,True,ATL,4,11:46,False,2,15,392,53,Missed 2-pointer from 15 ft,GSW trails 55-81
+2011-02-27,False,MIN,1,09:22,False,2,15,252,196,Missed 2-pointer from 15 ft,GSW trails 8-9
+2011-02-27,False,MIN,1,06:15,True,2,0,240,48,Made 2-pointer from 0 ft,GSW now trails 17-21
+2011-02-27,False,MIN,1,05:35,True,3,26,350,281,Made 3-pointer from 26 ft,GSW now leads 22-21
+2011-02-27,False,MIN,1,05:35,True,2,2,235,67,Made 2-pointer from 2 ft,GSW now leads 41-32
+2011-02-27,False,MIN,2,10:55,True,2,20,429,106,Made 2-pointer from 20 ft,GSW now leads 47-33
+2011-02-27,False,MIN,2,10:16,False,2,8,163,56,Missed 2-pointer from 8 ft,GSW leads 47-33
+2011-02-27,False,MIN,2,09:26,True,2,14,373,73,Made 2-pointer from 14 ft,GSW now leads 49-37
+2011-02-27,False,MIN,2,06:13,True,2,2,224,61,Made 2-pointer from 2 ft,GSW now leads 58-49
+2011-02-27,False,MIN,2,05:01,False,2,23,90,220,Missed 2-pointer from 23 ft,GSW leads 58-51
+2011-02-27,False,MIN,2,04:35,True,2,18,264,233,Made 2-pointer from 18 ft,GSW now leads 60-54
+2011-02-27,False,MIN,3,11:45,False,3,23,8,56,Missed 3-pointer from 23 ft,GSW leads 73-69
+2011-02-27,False,MIN,3,08:32,True,3,24,1,75,Made 3-pointer from 24 ft,GSW now tied 78-78
+2011-02-27,False,MIN,3,02:24,True,2,21,165,245,Made 2-pointer from 21 ft,GSW now trails 87-96
+2011-02-27,False,MIN,3,00:54,False,2,21,76,182,Missed 2-pointer from 21 ft,GSW trails 87-104
+2011-02-27,False,MIN,3,00:54,False,2,9,246,136,Missed 2-pointer from 9 ft,GSW trails 89-104
+2011-02-27,False,MIN,4,07:06,True,3,24,121,259,Made 3-pointer from 24 ft,GSW now trails 109-116
+2011-02-27,False,MIN,4,04:38,True,2,15,386,98,Made 2-pointer from 15 ft,GSW now trails 113-117
+2011-02-27,False,MIN,4,03:31,True,3,24,121,263,Made 3-pointer from 24 ft,GSW now trails 118-119
+2011-02-27,False,MIN,4,02:07,True,3,25,120,269,Made 3-pointer from 25 ft,GSW now trails 121-124
+2011-02-27,False,MIN,4,01:01,False,2,9,307,110,Missed 2-pointer from 9 ft,GSW trails 123-124
+2011-03-01,False,IND,1,09:40,False,2,21,249,255,Missed 2-pointer from 21 ft,GSW trails 0-3
+2011-03-01,False,IND,1,04:01,False,3,28,364,296,Missed 3-pointer from 28 ft,GSW trails 13-22
+2011-03-01,False,IND,1,00:31,False,2,18,233,234,Missed 2-pointer from 18 ft,GSW trails 19-29
+2011-03-01,False,IND,1,00:31,False,3,27,417,259,Missed 3-pointer from 27 ft,GSW trails 19-29
+2011-03-01,False,IND,2,10:35,False,2,23,350,251,Missed 2-pointer from 23 ft,GSW trails 21-32
+2011-03-01,False,IND,3,11:12,True,3,27,354,291,Made 3-pointer from 27 ft,GSW now leads 49-45
+2011-03-01,False,IND,3,05:57,True,3,26,468,181,Made 3-pointer from 26 ft,GSW now trails 57-58
+2011-03-01,False,IND,3,05:34,False,2,20,381,198,Missed 2-pointer from 20 ft,GSW trails 57-58
+2011-03-01,False,IND,3,04:15,True,3,26,364,275,Made 3-pointer from 26 ft,GSW now trails 60-61
+2011-03-01,False,IND,3,02:51,True,2,6,240,108,Made 2-pointer from 6 ft,GSW now trails 64-68
+2011-03-01,False,IND,4,08:01,False,2,16,384,113,Missed 2-pointer from 16 ft,GSW trails 75-85
+2011-03-01,False,IND,4,06:45,True,2,13,129,111,Made 2-pointer from 13 ft,GSW now trails 82-91
+2011-03-01,False,IND,4,05:41,True,3,25,485,51,Made 3-pointer from 25 ft,GSW now trails 88-95
+2011-03-01,False,IND,4,04:58,True,2,15,386,86,Made 2-pointer from 15 ft,GSW now trails 90-95
+2011-03-01,False,IND,4,01:29,False,3,26,208,304,Missed 3-pointer from 26 ft,GSW trails 97-103
+2011-03-01,False,IND,4,01:08,False,2,2,258,45,Missed 2-pointer from 2 ft,GSW trails 97-103
+2011-03-01,False,IND,4,00:20,False,3,26,348,286,Missed 3-pointer from 26 ft,GSW trails 100-105
+2011-03-02,False,WAS,1,09:58,False,3,26,77,253,Missed 3-pointer from 26 ft,GSW trails 2-6
+2011-03-02,False,WAS,1,09:06,False,2,11,192,154,Missed 2-pointer from 11 ft,GSW trails 4-10
+2011-03-02,False,WAS,1,08:34,True,3,23,16,105,Made 3-pointer from 23 ft,GSW now trails 7-13
+2011-03-02,False,WAS,1,05:56,True,2,2,260,61,Made 2-pointer from 2 ft,GSW now leads 17-16
+2011-03-02,False,WAS,1,05:29,True,2,15,94,40,Made 2-pointer from 15 ft,GSW now leads 20-19
+2011-03-02,False,WAS,1,03:43,True,2,1,240,37,Made 2-pointer from 1 ft,GSW now trails 24-25
+2011-03-02,False,WAS,2,04:21,False,2,2,247,64,Missed 2-pointer from 2 ft,GSW leads 51-44
+2011-03-02,False,WAS,2,00:30,True,2,6,261,102,Made 2-pointer from 6 ft,GSW now leads 59-51
+2011-03-02,False,WAS,2,00:30,True,3,27,348,292,Made 3-pointer from 27 ft,GSW now leads 62-53
+2011-03-02,False,WAS,3,11:46,True,3,26,408,244,Made 3-pointer from 26 ft,GSW now leads 65-53
+2011-03-02,False,WAS,3,10:31,False,3,25,392,251,Missed 3-pointer from 25 ft,GSW leads 67-55
+2011-03-02,False,WAS,3,05:45,False,2,15,389,54,Missed 2-pointer from 15 ft,GSW leads 81-65
+2011-03-02,False,WAS,3,05:27,True,2,17,79,102,Made 2-pointer from 17 ft,GSW now leads 83-65
+2011-03-02,False,WAS,3,00:33,False,2,13,252,184,Missed 2-pointer from 13 ft,GSW leads 90-74
+2011-03-02,False,WAS,4,06:18,False,2,3,266,47,Missed 2-pointer from 3 ft,GSW leads 98-87
+2011-03-02,False,WAS,4,05:48,True,2,18,417,50,Made 2-pointer from 18 ft,GSW now leads 100-90
+2011-03-02,False,WAS,4,04:56,False,3,27,354,291,Missed 3-pointer from 27 ft,GSW leads 100-93
+2011-03-02,False,WAS,4,04:35,False,3,28,417,263,Missed 3-pointer from 28 ft,GSW leads 100-93
+2011-03-04,False,BOS,1,10:00,False,2,22,449,111,Missed 2-pointer from 22 ft,GSW tied 2-2
+2011-03-04,False,BOS,1,08:59,True,2,18,403,135,Made 2-pointer from 18 ft,GSW now tied 6-6
+2011-03-04,False,BOS,1,06:41,True,3,24,244,294,Made 3-pointer from 24 ft,GSW now tied 13-13
+2011-03-04,False,BOS,1,05:35,False,3,25,258,299,Missed 3-pointer from 25 ft,GSW trails 15-18
+2011-03-04,False,BOS,1,04:17,False,2,7,219,114,Missed 2-pointer from 7 ft,GSW trails 19-21
+2011-03-04,False,BOS,2,03:24,False,2,12,249,168,Missed 2-pointer from 12 ft,GSW trails 45-59
+2011-03-04,False,BOS,2,00:29,False,2,22,290,266,Missed 2-pointer from 22 ft,GSW trails 53-62
+2011-03-04,False,BOS,4,08:25,True,2,16,403,40,Made 2-pointer from 16 ft,GSW now trails 87-94
+2011-03-04,False,BOS,4,07:42,False,3,25,380,251,Missed 3-pointer from 25 ft,GSW trails 87-96
+2011-03-04,False,BOS,4,05:15,False,3,25,17,160,Missed 3-pointer from 25 ft,GSW trails 91-100
+2011-03-04,False,BOS,4,05:06,True,2,1,253,50,Made 2-pointer from 1 ft,GSW now trails 93-100
+2011-03-06,False,PHI,1,09:22,True,2,2,260,37,Made 2-pointer from 2 ft,GSW now leads 8-6
+2011-03-06,False,PHI,1,05:07,False,2,18,406,117,Missed 2-pointer from 18 ft,GSW tied 12-12
+2011-03-06,False,PHI,1,02:05,False,2,12,131,103,Missed 2-pointer from 12 ft,GSW trails 18-21
+2011-03-06,False,PHI,1,01:20,True,2,22,342,250,Made 2-pointer from 22 ft,GSW now trails 22-23
+2011-03-06,False,PHI,2,04:36,False,2,16,87,98,Missed 2-pointer from 16 ft,GSW trails 40-54
+2011-03-06,False,PHI,2,03:00,True,2,1,236,45,Made 2-pointer from 1 ft,GSW now trails 46-57
+2011-03-06,False,PHI,2,03:00,True,2,19,57,80,Made 2-pointer from 19 ft,GSW now trails 56-64
+2011-03-06,False,PHI,3,10:52,False,2,14,184,177,Missed 2-pointer from 14 ft,GSW trails 58-64
+2011-03-06,False,PHI,3,08:31,False,2,14,378,25,Missed 2-pointer from 14 ft,GSW trails 63-64
+2011-03-06,False,PHI,3,04:58,True,2,15,117,127,Made 2-pointer from 15 ft,GSW now leads 71-70
+2011-03-06,False,PHI,3,04:53,False,3,26,121,280,Missed 3-pointer from 26 ft,GSW leads 72-70
+2011-03-06,False,PHI,3,02:49,True,2,16,358,163,Made 2-pointer from 16 ft,GSW now tied 74-74
+2011-03-06,False,PHI,3,01:58,True,2,0,238,50,Made 2-pointer from 0 ft,GSW now leads 78-76
+2011-03-06,False,PHI,1,04:18,False,2,22,391,203,Missed 2-pointer from 22 ft,GSW tied 106-106
+2011-03-06,False,PHI,1,00:43,True,3,25,438,204,Made 3-pointer from 25 ft,GSW now trails 115-118
+2011-03-06,False,PHI,1,00:19,False,3,25,134,277,Missed 3-pointer from 25 ft,GSW trails 117-123
+2011-03-08,False,CLE,1,06:58,False,3,25,183,296,Missed 3-pointer from 25 ft,GSW trails 10-11
+2011-03-08,False,CLE,2,11:41,True,3,24,5,119,Made 3-pointer from 24 ft,GSW now trails 21-30
+2011-03-08,False,CLE,2,10:45,True,2,6,222,103,Made 2-pointer from 6 ft,GSW now trails 23-32
+2011-03-08,False,CLE,2,08:10,True,3,25,-3,110,Made 3-pointer from 25 ft,GSW now trails 30-37
+2011-03-08,False,CLE,2,03:17,False,2,15,88,80,Missed 2-pointer from 15 ft,GSW trails 38-41
+2011-03-08,False,CLE,2,01:35,True,2,0,240,51,Made 2-pointer from 0 ft,GSW now leads 44-43
+2011-03-08,False,CLE,3,10:43,True,2,16,79,62,Made 2-pointer from 16 ft,GSW now leads 49-46
+2011-03-08,False,CLE,3,09:17,True,2,1,233,59,Made 2-pointer from 1 ft,GSW now leads 53-48
+2011-03-08,False,CLE,3,07:58,False,2,3,253,73,Missed 2-pointer from 3 ft,GSW leads 56-49
+2011-03-08,False,CLE,3,07:00,False,2,21,203,253,Missed 2-pointer from 21 ft,GSW leads 58-49
+2011-03-08,False,CLE,3,06:34,True,2,7,288,100,Made 2-pointer from 7 ft,GSW now leads 60-49
+2011-03-08,False,CLE,3,05:56,True,2,19,52,72,Made 2-pointer from 19 ft,GSW now leads 62-49
+2011-03-08,False,CLE,4,05:21,False,2,2,233,70,Missed 2-pointer from 2 ft,GSW leads 87-76
+2011-03-08,False,CLE,4,03:46,False,3,25,315,291,Missed 3-pointer from 25 ft,GSW leads 89-81
+2011-03-08,False,CLE,4,03:07,True,2,7,236,119,Made 2-pointer from 7 ft,GSW now leads 91-81
+2011-03-08,False,CLE,4,01:41,True,2,14,370,92,Made 2-pointer from 14 ft,GSW now leads 95-83
+2011-03-08,False,CLE,4,01:09,False,2,8,219,130,Missed 2-pointer from 8 ft,GSW leads 95-83
+2011-03-08,False,CLE,4,00:29,False,3,31,235,360,Missed 3-pointer from 31 ft,GSW leads 95-85
+2011-03-09,False,NJN,1,10:28,False,2,24,44,181,Missed 2-pointer from 24 ft,GSW trails 0-2
+2011-03-09,False,NJN,1,07:11,True,2,3,263,67,Made 2-pointer from 3 ft,GSW now leads 10-9
+2011-03-09,False,NJN,1,05:12,False,2,3,213,57,Missed 2-pointer from 3 ft,GSW leads 16-11
+2011-03-09,False,NJN,2,01:30,False,2,13,241,177,Missed 2-pointer from 13 ft,GSW trails 44-46
+2011-03-09,False,NJN,2,00:33,True,3,27,260,316,Made 3-pointer from 27 ft,GSW now trails 47-50
+2011-03-09,False,NJN,2,00:33,True,2,2,258,65,Made 2-pointer from 2 ft,GSW now trails 49-50
+2011-03-09,False,NJN,4,10:33,True,2,18,421,45,Made 2-pointer from 18 ft,GSW now leads 79-78
+2011-03-09,False,NJN,4,08:16,False,2,22,323,256,Missed 2-pointer from 22 ft,GSW trails 81-85
+2011-03-09,False,NJN,4,07:20,True,3,22,16,44,Made 3-pointer from 22 ft,GSW now trails 84-85
+2011-03-09,False,NJN,4,06:39,True,2,2,221,59,Made 2-pointer from 2 ft,GSW now leads 86-85
+2011-03-09,False,NJN,4,05:43,False,3,25,126,269,Missed 3-pointer from 25 ft,GSW leads 87-85
+2011-03-09,False,NJN,4,04:10,False,2,11,280,154,Missed 2-pointer from 11 ft,GSW leads 89-87
+2011-03-09,False,NJN,4,02:51,False,2,3,218,64,Missed 2-pointer from 3 ft,GSW leads 90-87
+2011-03-09,False,NJN,4,00:56,False,2,18,76,132,Missed 2-pointer from 18 ft,GSW trails 90-92
+2011-03-09,False,NJN,4,00:56,False,3,23,9,39,Missed 3-pointer from 23 ft,GSW trails 90-94
+2011-03-11,True,ORL,1,11:14,False,3,24,53,204,Missed 3-pointer from 24 ft,GSW trails 0-2
+2011-03-11,True,ORL,1,09:10,False,3,26,458,187,Missed 3-pointer from 26 ft,GSW trails 4-7
+2011-03-11,True,ORL,1,08:37,False,2,7,191,94,Missed 2-pointer from 7 ft,GSW trails 6-9
+2011-03-11,True,ORL,1,05:02,True,2,17,258,222,Made 2-pointer from 17 ft,GSW now tied 12-12
+2011-03-11,True,ORL,2,02:19,False,3,26,55,226,Missed 3-pointer from 26 ft,GSW trails 35-53
+2011-03-11,True,ORL,2,00:11,True,3,23,9,84,Made 3-pointer from 23 ft,GSW now trails 42-56
+2011-03-11,True,ORL,3,11:14,False,3,25,440,199,Missed 3-pointer from 25 ft,GSW trails 43-56
+2011-03-11,True,ORL,3,07:17,True,3,27,362,291,Made 3-pointer from 27 ft,GSW now tied 61-61
+2011-03-11,True,ORL,3,05:24,False,2,1,229,50,Missed 2-pointer from 1 ft,GSW trails 63-66
+2011-03-11,True,ORL,3,03:48,False,2,17,324,196,Missed 2-pointer from 17 ft,GSW trails 69-70
+2011-03-11,True,ORL,3,02:37,False,3,25,203,299,Missed 3-pointer from 25 ft,GSW trails 69-74
+2011-03-11,True,ORL,3,00:44,False,3,27,126,294,Missed 3-pointer from 27 ft,GSW trails 72-79
+2011-03-11,True,ORL,4,06:21,False,2,19,372,182,Missed 2-pointer from 19 ft,GSW trails 85-90
+2011-03-11,True,ORL,4,05:02,True,2,22,49,158,Made 2-pointer from 22 ft,GSW now trails 87-90
+2011-03-11,True,ORL,4,03:34,True,3,26,455,195,Made 3-pointer from 26 ft,GSW now trails 90-92
+2011-03-11,True,ORL,4,01:29,True,3,26,77,253,Made 3-pointer from 26 ft,GSW now leads 98-94
+2011-03-11,True,ORL,1,03:50,True,2,2,250,69,Made 2-pointer from 2 ft,GSW now leads 106-103
+2011-03-11,True,ORL,1,01:34,False,2,22,258,272,Missed 2-pointer from 22 ft,GSW leads 114-113
+2011-03-11,True,ORL,1,00:38,True,2,3,214,65,Made 2-pointer from 3 ft,GSW now leads 119-116
+2011-03-13,True,MIN,1,05:41,False,2,20,375,196,Missed 2-pointer from 20 ft,GSW trails 11-12
+2011-03-13,True,MIN,1,03:59,True,3,26,77,248,Made 3-pointer from 26 ft,GSW now trails 14-17
+2011-03-13,True,MIN,1,03:31,True,3,24,217,292,Made 3-pointer from 24 ft,GSW now tied 17-17
+2011-03-13,True,MIN,1,01:39,True,2,2,260,47,Made 2-pointer from 2 ft,GSW now leads 21-20
+2011-03-13,True,MIN,1,01:08,False,2,18,411,95,Missed 2-pointer from 18 ft,GSW leads 21-20
+2011-03-13,True,MIN,1,00:33,False,2,9,240,139,Missed 2-pointer from 9 ft,GSW leads 24-23
+2011-03-13,True,MIN,2,00:47,False,2,15,161,181,Missed 2-pointer from 15 ft,GSW leads 47-44
+2011-03-13,True,MIN,3,07:50,False,2,17,156,198,Missed 2-pointer from 17 ft,GSW leads 57-46
+2011-03-13,True,MIN,3,04:42,False,3,25,487,69,Missed 3-pointer from 25 ft,GSW leads 62-50
+2011-03-13,True,MIN,3,02:55,True,2,21,150,236,Made 2-pointer from 21 ft,GSW now leads 66-54
+2011-03-13,True,MIN,3,02:14,True,2,6,250,114,Made 2-pointer from 6 ft,GSW now leads 68-57
+2011-03-13,True,MIN,3,02:14,False,3,31,454,280,Missed 3-pointer from 31 ft,GSW leads 75-59
+2011-03-13,True,MIN,4,11:11,True,3,26,421,234,Made 3-pointer from 26 ft,GSW now leads 78-59
+2011-03-13,True,MIN,4,04:52,True,3,26,249,311,Made 3-pointer from 26 ft,GSW now leads 92-70
+2011-03-13,True,MIN,4,02:53,True,2,21,444,95,Made 2-pointer from 21 ft,GSW now leads 98-75
+2011-03-14,False,SAC,1,09:02,False,3,25,219,302,Missed 3-pointer from 25 ft,GSW trails 3-10
+2011-03-14,False,SAC,2,09:18,True,2,20,107,204,Made 2-pointer from 20 ft,GSW now trails 25-47
+2011-03-14,False,SAC,2,08:51,False,3,25,294,294,Missed 3-pointer from 25 ft,GSW trails 25-47
+2011-03-14,False,SAC,2,06:15,False,3,23,17,97,Missed 3-pointer from 23 ft,GSW trails 34-54
+2011-03-14,False,SAC,2,03:54,True,3,23,8,72,Made 3-pointer from 23 ft,GSW now trails 45-60
+2011-03-14,False,SAC,2,02:46,True,2,6,232,114,Made 2-pointer from 6 ft,GSW now trails 49-64
+2011-03-14,False,SAC,2,01:16,True,3,25,19,157,Made 3-pointer from 25 ft,GSW now trails 56-69
+2011-03-14,False,SAC,3,11:30,False,2,21,154,239,Missed 2-pointer from 21 ft,GSW trails 59-73
+2011-03-14,False,SAC,3,09:47,True,3,24,0,78,Made 3-pointer from 24 ft,GSW now trails 62-73
+2011-03-14,False,SAC,3,07:59,False,2,4,279,70,Missed 2-pointer from 4 ft,GSW trails 66-81
+2011-03-14,False,SAC,3,07:25,True,3,23,465,98,Made 3-pointer from 23 ft,GSW now trails 69-84
+2011-03-14,False,SAC,3,06:33,True,3,26,169,300,Made 3-pointer from 26 ft,GSW now trails 74-88
+2011-03-14,False,SAC,3,05:14,False,2,6,299,64,Missed 2-pointer from 6 ft,GSW trails 76-93
+2011-03-14,False,SAC,3,05:00,False,2,3,238,75,Missed 2-pointer from 3 ft,GSW trails 76-93
+2011-03-16,True,DAL,1,09:42,True,2,1,249,53,Made 2-pointer from 1 ft,GSW now leads 8-0
+2011-03-16,True,DAL,1,07:15,False,2,7,255,121,Missed 2-pointer from 7 ft,GSW leads 14-7
+2011-03-16,True,DAL,1,06:39,True,3,23,16,72,Made 3-pointer from 23 ft,GSW now leads 19-7
+2011-03-16,True,DAL,1,03:25,True,3,26,206,304,Made 3-pointer from 26 ft,GSW now leads 30-14
+2011-03-16,True,DAL,2,05:52,True,2,20,290,245,Made 2-pointer from 20 ft,GSW now leads 53-38
+2011-03-16,True,DAL,2,01:23,False,2,19,302,231,Missed 2-pointer from 19 ft,GSW leads 57-51
+2011-03-16,True,DAL,3,07:14,False,2,4,264,87,Missed 2-pointer from 4 ft,GSW leads 68-63
+2011-03-16,True,DAL,3,06:31,False,2,1,229,57,Missed 2-pointer from 1 ft,GSW leads 68-65
+2011-03-16,True,DAL,4,00:07,False,3,27,181,311,Missed 3-pointer from 27 ft,GSW trails 106-112
+2011-03-16,True,DAL,4,00:07,False,3,28,148,315,Missed 3-pointer from 28 ft,GSW trails 106-112
+2011-03-18,False,PHO,1,09:41,True,2,21,446,39,Made 2-pointer from 21 ft,GSW now leads 5-2
+2011-03-18,False,PHO,1,08:49,True,2,14,376,89,Made 2-pointer from 14 ft,GSW now leads 7-2
+2011-03-18,False,PHO,1,06:07,True,2,3,217,69,Made 2-pointer from 3 ft,GSW now trails 9-12
+2011-03-18,False,PHO,1,02:24,False,3,24,151,277,Missed 3-pointer from 24 ft,GSW trails 13-21
+2011-03-18,False,PHO,1,02:05,True,3,25,365,264,Made 3-pointer from 25 ft,GSW now trails 16-23
+2011-03-18,False,PHO,2,02:03,False,2,18,143,203,Missed 2-pointer from 18 ft,GSW trails 34-45
+2011-03-18,False,PHO,3,08:09,True,2,22,447,122,Made 2-pointer from 22 ft,GSW now trails 48-61
+2011-03-18,False,PHO,3,07:12,False,2,16,85,42,Missed 2-pointer from 16 ft,GSW trails 48-63
+2011-03-18,False,PHO,3,03:50,True,3,25,337,278,Made 3-pointer from 25 ft,GSW now trails 57-74
+2011-03-18,False,PHO,3,01:02,False,3,23,14,33,Missed 3-pointer from 23 ft,GSW trails 63-81
+2011-03-18,False,PHO,4,02:51,False,2,20,367,203,Missed 2-pointer from 20 ft,GSW trails 93-104
+2011-03-18,False,PHO,4,01:40,False,2,19,340,209,Missed 2-pointer from 19 ft,GSW trails 94-104
+2011-03-18,False,PHO,4,00:41,False,3,25,134,278,Missed 3-pointer from 25 ft,GSW trails 97-106
+2011-03-20,False,DAL,1,08:35,True,2,20,310,237,Made 2-pointer from 20 ft,GSW now leads 10-9
+2011-03-20,False,DAL,1,03:16,False,2,8,307,86,Missed 2-pointer from 8 ft,GSW trails 14-20
+2011-03-20,False,DAL,2,05:38,False,2,21,31,70,Missed 2-pointer from 21 ft,GSW trails 31-47
+2011-03-20,False,DAL,2,04:38,False,3,25,113,261,Missed 3-pointer from 25 ft,GSW trails 33-47
+2011-03-20,False,DAL,2,01:16,False,3,25,288,292,Missed 3-pointer from 25 ft,GSW trails 43-51
+2011-03-20,False,DAL,2,01:16,False,2,11,128,73,Missed 2-pointer from 11 ft,GSW trails 43-51
+2011-03-20,False,DAL,3,09:44,False,2,19,272,237,Missed 2-pointer from 19 ft,GSW trails 43-56
+2011-03-20,False,DAL,3,09:40,True,2,18,318,217,Made 2-pointer from 18 ft,GSW now trails 45-56
+2011-03-20,False,DAL,3,08:09,True,2,22,183,261,Made 2-pointer from 22 ft,GSW now trails 51-58
+2011-03-20,False,DAL,3,07:37,True,3,24,16,149,Made 3-pointer from 24 ft,GSW now trails 54-58
+2011-03-20,False,DAL,3,03:17,False,2,5,282,67,Missed 2-pointer from 5 ft,GSW trails 63-69
+2011-03-20,False,DAL,4,04:23,False,2,21,191,258,Missed 2-pointer from 21 ft,GSW trails 68-92
+2011-03-21,False,SAS,1,09:47,False,2,1,233,51,Missed 2-pointer from 1 ft,GSW trails 2-7
+2011-03-21,False,SAS,2,03:35,True,2,21,153,239,Made 2-pointer from 21 ft,GSW now trails 43-49
+2011-03-21,False,SAS,2,00:59,False,2,21,244,256,Missed 2-pointer from 21 ft,GSW trails 45-51
+2011-03-21,False,SAS,3,08:36,False,2,11,137,78,Missed 2-pointer from 11 ft,GSW trails 49-62
+2011-03-21,False,SAS,3,06:54,False,2,1,254,53,Missed 2-pointer from 1 ft,GSW trails 55-64
+2011-03-21,False,SAS,4,03:56,True,3,25,88,251,Made 3-pointer from 25 ft,GSW now trails 89-100
+2011-03-21,False,SAS,4,02:32,True,2,19,253,236,Made 2-pointer from 19 ft,GSW now trails 94-102
+2011-03-21,False,SAS,4,00:26,False,3,24,72,223,Missed 3-pointer from 24 ft,GSW trails 96-111
+2011-03-23,False,HOU,1,06:40,True,2,16,271,207,Made 2-pointer from 16 ft,GSW now leads 16-15
+2011-03-23,False,HOU,1,05:42,False,2,3,266,56,Missed 2-pointer from 3 ft,GSW trails 18-20
+2011-03-23,False,HOU,1,05:40,False,2,8,161,53,Missed 2-pointer from 8 ft,GSW trails 18-20
+2011-03-23,False,HOU,1,04:06,True,2,16,395,50,Made 2-pointer from 16 ft,GSW now trails 22-26
+2011-03-23,False,HOU,1,03:00,False,2,17,96,143,Missed 2-pointer from 17 ft,GSW trails 24-28
+2011-03-23,False,HOU,2,11:23,True,2,2,224,61,Made 2-pointer from 2 ft,GSW now trails 35-38
+2011-03-23,False,HOU,2,03:28,False,2,9,246,141,Missed 2-pointer from 9 ft,GSW trails 50-57
+2011-03-23,False,HOU,2,02:54,False,2,3,216,67,Missed 2-pointer from 3 ft,GSW trails 52-57
+2011-03-23,False,HOU,2,01:41,False,3,25,178,292,Missed 3-pointer from 25 ft,GSW tied 57-57
+2011-03-23,False,HOU,2,00:54,False,2,5,249,98,Missed 2-pointer from 5 ft,GSW trails 57-63
+2011-03-23,False,HOU,3,08:19,True,3,25,224,300,Made 3-pointer from 25 ft,GSW now trails 66-76
+2011-03-23,False,HOU,3,07:34,False,2,19,148,220,Missed 2-pointer from 19 ft,GSW trails 66-78
+2011-03-23,False,HOU,3,07:24,True,2,7,178,78,Made 2-pointer from 7 ft,GSW now trails 68-78
+2011-03-23,False,HOU,3,03:01,False,2,22,438,139,Missed 2-pointer from 22 ft,GSW trails 78-94
+2011-03-23,False,HOU,3,02:52,True,2,3,263,62,Made 2-pointer from 3 ft,GSW now trails 80-94
+2011-03-23,False,HOU,3,02:13,True,3,25,11,158,Made 3-pointer from 25 ft,GSW now trails 83-96
+2011-03-25,True,TOR,1,10:37,True,2,12,250,173,Made 2-pointer from 12 ft,GSW now tied 4-4
+2011-03-25,True,TOR,1,05:35,True,3,24,476,56,Made 3-pointer from 24 ft,GSW now leads 25-19
+2011-03-25,True,TOR,1,01:07,True,2,1,240,56,Made 2-pointer from 1 ft,GSW now leads 43-32
+2011-03-25,True,TOR,2,11:17,True,3,26,69,247,Made 3-pointer from 26 ft,GSW now leads 50-38
+2011-03-25,True,TOR,2,07:34,False,2,7,178,78,Missed 2-pointer from 7 ft,GSW leads 60-44
+2011-03-25,True,TOR,2,07:07,True,3,23,14,40,Made 3-pointer from 23 ft,GSW now leads 63-47
+2011-03-25,True,TOR,2,01:31,False,2,2,253,67,Missed 2-pointer from 2 ft,GSW leads 79-55
+2011-03-25,True,TOR,2,01:26,False,2,5,236,95,Missed 2-pointer from 5 ft,GSW leads 79-55
+2011-03-25,True,TOR,2,00:48,True,3,24,484,50,Made 3-pointer from 24 ft,GSW now leads 84-55
+2011-03-25,True,TOR,3,09:25,True,2,15,252,203,Made 2-pointer from 15 ft,GSW now leads 90-60
+2011-03-25,True,TOR,3,06:23,False,3,25,290,299,Missed 3-pointer from 25 ft,GSW leads 101-64
+2011-03-25,True,TOR,3,01:53,False,2,20,375,201,Missed 2-pointer from 20 ft,GSW leads 113-70
+2011-03-25,True,TOR,3,00:53,False,3,23,12,50,Missed 3-pointer from 23 ft,GSW leads 115-72
+2011-03-27,True,WAS,1,11:13,True,3,23,14,56,Made 3-pointer from 23 ft,GSW now leads 3-2
+2011-03-27,True,WAS,1,10:43,False,3,26,57,236,Missed 3-pointer from 26 ft,GSW trails 3-4
+2011-03-27,True,WAS,1,05:35,True,2,17,68,65,Made 2-pointer from 17 ft,GSW now trails 19-20
+2011-03-27,True,WAS,1,02:22,False,2,12,203,169,Missed 2-pointer from 12 ft,GSW leads 28-25
+2011-03-27,True,WAS,1,02:22,False,2,15,222,203,Missed 2-pointer from 15 ft,GSW trails 33-36
+2011-03-27,True,WAS,2,02:29,True,2,20,395,171,Made 2-pointer from 20 ft,GSW now trails 58-60
+2011-03-27,True,WAS,3,10:31,False,3,23,11,95,Missed 3-pointer from 23 ft,GSW leads 69-67
+2011-03-27,True,WAS,3,05:03,False,2,14,309,171,Missed 2-pointer from 14 ft,GSW leads 83-77
+2011-03-27,True,WAS,3,04:36,False,3,26,173,302,Missed 3-pointer from 26 ft,GSW leads 83-77
+2011-03-27,True,WAS,4,01:24,False,2,17,408,67,Missed 2-pointer from 17 ft,GSW leads 114-100
+2011-03-27,True,WAS,4,00:34,False,2,0,239,49,Missed 2-pointer from 0 ft,GSW leads 114-102
+2011-03-29,False,OKC,1,09:39,True,2,6,269,98,Made 2-pointer from 6 ft,GSW now trails 2-3
+2011-03-29,False,OKC,1,08:53,True,3,23,12,95,Made 3-pointer from 23 ft,GSW now leads 5-3
+2011-03-29,False,OKC,1,05:32,True,2,17,71,57,Made 2-pointer from 17 ft,GSW now leads 13-12
+2011-03-29,False,OKC,1,02:03,True,2,0,238,48,Made 2-pointer from 0 ft,GSW now leads 21-18
+2011-03-29,False,OKC,2,06:01,False,2,9,175,106,Missed 2-pointer from 9 ft,GSW trails 43-48
+2011-03-29,False,OKC,2,03:32,True,2,9,328,50,Made 2-pointer from 9 ft,GSW now trails 47-50
+2011-03-29,False,OKC,2,00:38,False,3,25,354,274,Missed 3-pointer from 25 ft,GSW trails 50-58
+2011-03-29,False,OKC,3,09:41,False,2,3,272,57,Missed 2-pointer from 3 ft,GSW trails 50-60
+2011-03-29,False,OKC,3,08:46,True,3,23,465,73,Made 3-pointer from 23 ft,GSW now trails 55-65
+2011-03-29,False,OKC,3,02:21,True,3,24,399,234,Made 3-pointer from 24 ft,GSW now trails 72-73
+2011-03-29,False,OKC,3,01:47,False,2,20,255,247,Missed 2-pointer from 20 ft,GSW trails 72-73
+2011-03-29,False,OKC,3,01:32,True,2,2,253,39,Made 2-pointer from 2 ft,GSW now leads 74-73
+2011-03-29,False,OKC,3,01:32,True,2,2,224,57,Made 2-pointer from 2 ft,GSW now leads 76-75
+2011-03-29,False,OKC,4,11:29,True,2,2,257,48,Made 2-pointer from 2 ft,GSW now leads 79-78
+2011-03-29,False,OKC,4,09:40,True,2,23,184,274,Made 2-pointer from 23 ft,GSW now trails 83-86
+2011-03-29,False,OKC,4,08:51,False,2,16,399,89,Missed 2-pointer from 16 ft,GSW trails 85-86
+2011-03-29,False,OKC,4,08:46,False,2,16,399,48,Missed 2-pointer from 16 ft,GSW trails 85-86
+2011-03-29,False,OKC,4,07:01,False,2,2,240,70,Missed 2-pointer from 2 ft,GSW trails 85-92
+2011-03-29,False,OKC,4,06:10,True,3,22,16,56,Made 3-pointer from 22 ft,GSW now trails 88-94
+2011-03-29,False,OKC,4,01:16,True,3,22,17,72,Made 3-pointer from 22 ft,GSW now trails 98-102
+2011-03-29,False,OKC,4,00:50,False,3,25,403,237,Missed 3-pointer from 25 ft,GSW trails 98-102
+2011-03-29,False,OKC,4,00:15,False,3,24,343,267,Missed 3-pointer from 24 ft,GSW trails 100-104
+2011-03-29,False,OKC,1,01:21,False,2,2,219,50,Missed 2-pointer from 2 ft,GSW trails 111-112
+2011-03-30,False,MEM,1,11:25,False,2,5,287,73,Missed 2-pointer from 5 ft,GSW tied 0-0
+2011-03-30,False,MEM,1,10:20,False,3,23,8,62,Missed 3-pointer from 23 ft,GSW tied 0-0
+2011-03-30,False,MEM,1,09:51,False,2,3,214,59,Missed 2-pointer from 3 ft,GSW tied 0-0
+2011-03-30,False,MEM,1,05:50,False,2,12,312,141,Missed 2-pointer from 12 ft,GSW trails 8-11
+2011-03-30,False,MEM,3,10:56,False,2,22,380,217,Missed 2-pointer from 22 ft,GSW leads 55-48
+2011-03-30,False,MEM,3,10:31,True,3,26,410,240,Made 3-pointer from 26 ft,GSW now leads 58-48
+2011-03-30,False,MEM,3,09:39,False,3,25,82,248,Missed 3-pointer from 25 ft,GSW leads 58-48
+2011-03-30,False,MEM,3,07:38,False,3,24,476,64,Missed 3-pointer from 24 ft,GSW leads 59-56
+2011-03-30,False,MEM,3,03:24,False,2,11,345,73,Missed 2-pointer from 11 ft,GSW trails 66-69
+2011-03-30,False,MEM,3,03:16,True,2,2,260,53,Made 2-pointer from 2 ft,GSW now trails 68-69
+2011-03-30,False,MEM,3,00:14,False,3,27,411,253,Missed 3-pointer from 27 ft,GSW trails 70-79
+2011-03-30,False,MEM,4,06:35,False,2,2,221,51,Missed 2-pointer from 2 ft,GSW trails 81-95
+2011-03-30,False,MEM,4,06:32,False,2,2,224,47,Missed 2-pointer from 2 ft,GSW trails 81-95
+2011-03-30,False,MEM,4,04:24,False,3,25,353,275,Missed 3-pointer from 25 ft,GSW trails 81-100
+2011-04-02,True,DAL,1,11:37,True,2,18,340,198,Made 2-pointer from 18 ft,GSW now leads 2-0
+2011-04-02,True,DAL,1,10:42,False,3,25,323,291,Missed 3-pointer from 25 ft,GSW leads 2-1
+2011-04-02,True,DAL,1,04:09,False,2,7,247,122,Missed 2-pointer from 7 ft,GSW tied 18-18
+2011-04-02,True,DAL,1,01:56,True,2,19,117,193,Made 2-pointer from 19 ft,GSW now leads 26-22
+2011-04-02,True,DAL,3,08:08,False,2,2,233,72,Missed 2-pointer from 2 ft,GSW leads 55-54
+2011-04-02,True,DAL,3,07:42,False,2,3,214,65,Missed 2-pointer from 3 ft,GSW trails 55-57
+2011-04-02,True,DAL,4,06:51,False,3,25,60,225,Missed 3-pointer from 25 ft,GSW leads 82-73
+2011-04-02,True,DAL,4,01:47,True,3,26,129,286,Made 3-pointer from 26 ft,GSW now leads 96-90
+2011-04-05,False,POR,1,10:16,False,2,20,44,51,Missed 2-pointer from 20 ft,GSW tied 2-2
+2011-04-05,False,POR,1,09:13,True,3,23,11,83,Made 3-pointer from 23 ft,GSW now leads 7-5
+2011-04-05,False,POR,1,06:51,False,2,23,376,236,Missed 2-pointer from 23 ft,GSW tied 9-9
+2011-04-05,False,POR,1,06:28,False,2,15,178,184,Missed 2-pointer from 15 ft,GSW tied 9-9
+2011-04-05,False,POR,1,02:58,False,2,13,240,184,Missed 2-pointer from 13 ft,GSW tied 15-15
+2011-04-05,False,POR,1,01:36,False,2,11,329,117,Missed 2-pointer from 11 ft,GSW trails 15-17
+2011-04-05,False,POR,2,10:07,True,2,20,435,47,Made 2-pointer from 20 ft,GSW now leads 23-19
+2011-04-05,False,POR,2,08:11,True,3,25,351,272,Made 3-pointer from 25 ft,GSW now leads 28-25
+2011-04-05,False,POR,2,07:02,True,2,19,137,214,Made 2-pointer from 19 ft,GSW now leads 31-29
+2011-04-05,False,POR,2,05:37,False,2,3,272,56,Missed 2-pointer from 3 ft,GSW trails 32-33
+2011-04-05,False,POR,2,05:34,False,2,19,427,69,Missed 2-pointer from 19 ft,GSW trails 32-33
+2011-04-05,False,POR,3,10:58,True,2,1,250,51,Made 2-pointer from 1 ft,GSW now leads 51-50
+2011-04-05,False,POR,3,09:54,False,2,20,55,136,Missed 2-pointer from 20 ft,GSW tied 54-54
+2011-04-05,False,POR,3,09:29,True,2,1,229,48,Made 2-pointer from 1 ft,GSW now leads 56-55
+2011-04-05,False,POR,3,06:43,True,3,24,369,256,Made 3-pointer from 24 ft,GSW now leads 65-60
+2011-04-05,False,POR,3,01:07,False,3,25,44,206,Missed 3-pointer from 25 ft,GSW leads 80-68
+2011-04-05,False,POR,4,10:16,True,2,21,140,234,Made 2-pointer from 21 ft,GSW now leads 88-72
+2011-04-05,False,POR,4,08:57,False,2,18,121,185,Missed 2-pointer from 18 ft,GSW leads 90-72
+2011-04-05,False,POR,4,06:15,False,3,28,80,275,Missed 3-pointer from 28 ft,GSW leads 92-76
+2011-04-05,False,POR,4,03:56,True,2,8,315,56,Made 2-pointer from 8 ft,GSW now leads 99-78
+2011-04-05,False,POR,4,02:24,True,2,21,253,263,Made 2-pointer from 21 ft,GSW now leads 103-80
+2011-04-06,True,LAL,1,10:00,False,2,17,235,217,Missed 2-pointer from 17 ft,GSW trails 0-6
+2011-04-06,True,LAL,1,06:48,False,2,2,253,62,Missed 2-pointer from 2 ft,GSW trails 6-17
+2011-04-06,True,LAL,1,06:14,False,2,18,115,185,Missed 2-pointer from 18 ft,GSW trails 8-17
+2011-04-06,True,LAL,1,04:47,False,2,16,216,212,Missed 2-pointer from 16 ft,GSW trails 8-17
+2011-04-06,True,LAL,1,03:30,False,2,6,253,105,Missed 2-pointer from 6 ft,GSW trails 10-17
+2011-04-06,True,LAL,1,03:26,False,3,28,417,264,Missed 3-pointer from 28 ft,GSW trails 10-17
+2011-04-06,True,LAL,1,02:28,False,3,25,65,234,Missed 3-pointer from 25 ft,GSW trails 10-17
+2011-04-06,True,LAL,2,05:43,True,2,19,264,242,Made 2-pointer from 19 ft,GSW now leads 28-27
+2011-04-06,True,LAL,2,03:10,True,2,2,250,70,Made 2-pointer from 2 ft,GSW now leads 35-34
+2011-04-06,True,LAL,2,03:10,False,2,20,276,247,Missed 2-pointer from 20 ft,GSW leads 43-38
+2011-04-06,True,LAL,3,10:03,True,2,22,454,80,Made 2-pointer from 22 ft,GSW now leads 45-40
+2011-04-06,True,LAL,3,09:06,True,3,27,471,188,Made 3-pointer from 27 ft,GSW now leads 50-44
+2011-04-06,True,LAL,3,08:28,True,2,9,260,136,Made 2-pointer from 9 ft,GSW now leads 52-46
+2011-04-06,True,LAL,3,06:53,False,2,18,104,166,Missed 2-pointer from 18 ft,GSW leads 56-50
+2011-04-06,True,LAL,3,05:18,False,2,6,288,87,Missed 2-pointer from 6 ft,GSW leads 61-51
+2011-04-06,True,LAL,4,10:25,False,2,2,231,67,Missed 2-pointer from 2 ft,GSW leads 74-55
+2011-04-06,True,LAL,4,09:35,False,2,19,340,210,Missed 2-pointer from 19 ft,GSW leads 74-61
+2011-04-06,True,LAL,4,08:52,False,3,26,145,292,Missed 3-pointer from 26 ft,GSW leads 74-61
+2011-04-06,True,LAL,4,06:15,True,3,27,342,304,Made 3-pointer from 27 ft,GSW now leads 82-67
+2011-04-06,True,LAL,4,04:07,True,2,2,253,61,Made 2-pointer from 2 ft,GSW now leads 88-73
+2011-04-06,True,LAL,4,02:27,False,2,18,370,179,Missed 2-pointer from 18 ft,GSW leads 90-80
+2011-04-06,True,LAL,4,01:06,False,3,27,272,321,Missed 3-pointer from 27 ft,GSW leads 91-82
+2011-04-06,True,LAL,4,00:33,True,2,5,244,97,Made 2-pointer from 5 ft,GSW now leads 93-82
+2011-04-10,True,SAC,1,05:44,True,2,2,241,69,Made 2-pointer from 2 ft,GSW now trails 10-14
+2011-04-10,True,SAC,1,05:06,True,2,16,154,182,Made 2-pointer from 16 ft,GSW now trails 12-16
+2011-04-10,True,SAC,1,04:26,True,2,20,395,176,Made 2-pointer from 20 ft,GSW now trails 15-18
+2011-04-10,True,SAC,1,03:33,True,2,21,274,258,Made 2-pointer from 21 ft,GSW now trails 18-19
+2011-04-10,True,SAC,3,11:21,True,3,23,471,69,Made 3-pointer from 23 ft,GSW now leads 62-60
+2011-04-10,True,SAC,3,09:38,False,3,26,65,245,Missed 3-pointer from 26 ft,GSW tied 63-63
+2011-04-10,True,SAC,3,08:01,True,3,25,386,258,Made 3-pointer from 25 ft,GSW now leads 68-65
+2011-04-10,True,SAC,3,06:59,True,2,1,233,54,Made 2-pointer from 1 ft,GSW now leads 72-65
+2011-04-10,True,SAC,3,02:25,True,2,1,232,39,Made 2-pointer from 1 ft,GSW now leads 78-73
+2011-04-10,True,SAC,3,00:11,False,2,11,142,105,Missed 2-pointer from 11 ft,GSW leads 83-77
+2011-04-10,True,SAC,4,10:22,False,3,25,411,234,Missed 3-pointer from 25 ft,GSW leads 87-81
+2011-04-10,True,SAC,4,05:29,True,2,19,143,217,Made 2-pointer from 19 ft,GSW now trails 91-92
+2011-04-10,True,SAC,4,05:12,False,2,20,142,225,Missed 2-pointer from 20 ft,GSW trails 91-92
+2011-04-10,True,SAC,4,03:54,False,3,26,159,299,Missed 3-pointer from 26 ft,GSW leads 93-92
+2011-04-10,True,SAC,4,02:30,True,2,15,313,177,Made 2-pointer from 15 ft,GSW now trails 97-98
+2011-04-10,True,SAC,4,01:57,False,2,16,402,53,Missed 2-pointer from 16 ft,GSW trails 97-98
+2011-04-10,True,SAC,4,01:57,True,3,29,440,266,Made 3-pointer from 29 ft,GSW now trails 103-104
+2011-04-11,False,DEN,1,11:31,True,2,20,438,57,Made 2-pointer from 20 ft,GSW now leads 2-0
+2011-04-11,False,DEN,1,09:41,True,3,25,107,258,Made 3-pointer from 25 ft,GSW now leads 9-6
+2011-04-11,False,DEN,1,02:13,True,3,24,476,47,Made 3-pointer from 24 ft,GSW now leads 30-25
+2011-04-11,False,DEN,1,00:42,True,2,18,414,102,Made 2-pointer from 18 ft,GSW now leads 32-31
+2011-04-11,False,DEN,2,09:36,True,2,17,361,163,Made 2-pointer from 17 ft,GSW now leads 36-34
+2011-04-11,False,DEN,2,07:15,False,2,21,112,220,Missed 2-pointer from 21 ft,GSW leads 39-38
+2011-04-11,False,DEN,2,04:51,False,3,23,17,98,Missed 3-pointer from 23 ft,GSW trails 43-46
+2011-04-11,False,DEN,3,09:31,True,2,2,224,54,Made 2-pointer from 2 ft,GSW now trails 60-61
+2011-04-11,False,DEN,3,07:36,True,2,2,261,44,Made 2-pointer from 2 ft,GSW now tied 65-65
+2011-04-11,False,DEN,3,07:02,True,2,6,288,80,Made 2-pointer from 6 ft,GSW now trails 67-68
+2011-04-11,False,DEN,3,04:26,False,2,22,47,158,Missed 2-pointer from 22 ft,GSW trails 76-78
+2011-04-11,False,DEN,3,03:47,True,2,21,301,248,Made 2-pointer from 21 ft,GSW now trails 78-80
+2011-04-11,False,DEN,3,00:31,True,3,26,400,255,Made 3-pointer from 26 ft,GSW now trails 88-95
+2011-04-13,True,POR,1,11:45,False,3,26,376,275,Missed 3-pointer from 26 ft,GSW tied 0-0
+2011-04-13,True,POR,1,07:33,True,3,26,354,288,Made 3-pointer from 26 ft,GSW now leads 13-7
+2011-04-13,True,POR,1,03:38,False,2,18,80,138,Missed 2-pointer from 18 ft,GSW leads 26-18
+2011-04-13,True,POR,3,10:38,True,2,0,238,50,Made 2-pointer from 0 ft,GSW now leads 54-45
+2011-04-13,True,POR,3,08:15,False,2,6,255,105,Missed 2-pointer from 6 ft,GSW leads 60-48
+2011-04-13,True,POR,3,06:19,True,3,27,69,258,Made 3-pointer from 27 ft,GSW now leads 67-52
+2011-04-13,True,POR,3,03:16,True,2,1,246,62,Made 2-pointer from 1 ft,GSW now leads 74-61
+2011-04-13,True,POR,3,00:12,True,2,3,266,65,Made 2-pointer from 3 ft,GSW now leads 85-67
+2011-04-13,True,POR,4,11:47,True,2,20,321,236,Made 2-pointer from 20 ft,GSW now leads 87-69
+2011-04-13,True,POR,4,10:02,True,2,20,41,42,Made 2-pointer from 20 ft,GSW now leads 89-72
