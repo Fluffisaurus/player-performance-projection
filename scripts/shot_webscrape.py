@@ -78,17 +78,35 @@ def parseDataFromList(list):
             y_pos = None
             x_pos = None
 
+        
+        # shot_value and shot_distance
+        shot_val_match = re.search('\d{1}(?=-)', tip[2])
+        if(shot_val_match):
+            shot_value = int(shot_val_match.group(0))
+            # print(shot_value)
+        else:
+            shot_Value = None
+        
+        shot_dist_match = re.search('\d*(?=(\sft))', tip[2])
+        if(shot_dist_match):
+            shot_distance = int(shot_dist_match.group(0))
+            # print(shot_distance)
+        else:
+            shot_distance = None
+
 
 
         row_info = {
             'date': date,
             'home': at_home,
             'vs': vs,
-            'shot_made': made_shot,
-            'x': x_pos,
-            'y': y_pos,
             'quarter': quarter,
             'time_left': time_left,
+            'shot_made': made_shot,
+            'shot_value': shot_value,
+            'shot_distance': shot_distance,
+            'x': x_pos,
+            'y': y_pos,
             'shot_description': tip[2],
             'game_score': tip[3],
         }
