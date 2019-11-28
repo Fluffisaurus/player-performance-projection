@@ -1,0 +1,1727 @@
+date,home,vs,shot_made,x,y,quarter,time_left,shot_description,game_score
+2016-10-25,True,SAS,False,370,307,1,09:02,Missed 3-pointer from 28 ft,GSW trails 2-6
+2016-10-25,True,SAS,True,429,224,1,08:06,Made 3-pointer from 25 ft,GSW now trails 7-10
+2016-10-25,True,SAS,False,399,279,1,02:23,Missed 3-pointer from 27 ft,GSW tied 18-18
+2016-10-25,True,SAS,False,403,191,1,02:01,Missed 2-pointer from 21 ft,GSW trails 18-21
+2016-10-25,True,SAS,True,231,317,2,06:47,Made 3-pointer from 26 ft,GSW now trails 28-42
+2016-10-25,True,SAS,True,224,120,2,04:58,Made 2-pointer from 7 ft,GSW now trails 34-46
+2016-10-25,True,SAS,True,239,57,2,03:34,Made 2-pointer from 0 ft,GSW now trails 36-50
+2016-10-25,True,SAS,True,354,297,2,03:17,Made 3-pointer from 27 ft,GSW now trails 40-50
+2016-10-25,True,SAS,False,370,302,2,02:55,Missed 3-pointer from 28 ft,GSW trails 40-50
+2016-10-25,True,SAS,False,71,312,3,08:36,Missed 3-pointer from 31 ft,GSW trails 58-71
+2016-10-25,True,SAS,False,167,338,3,05:08,Missed 3-pointer from 29 ft,GSW trails 64-80
+2016-10-25,True,SAS,False,238,57,3,04:34,Missed 2-pointer from 0 ft,GSW trails 64-80
+2016-10-25,True,SAS,False,465,86,3,04:06,Missed 3-pointer from 22 ft,GSW trails 64-82
+2016-10-25,True,SAS,True,248,55,3,03:35,Made 2-pointer from 0 ft,GSW now trails 66-84
+2016-10-25,True,SAS,True,249,63,3,01:16,Made 2-pointer from 1 ft,GSW now trails 73-89
+2016-10-25,True,SAS,True,26,106,3,00:51,Made 2-pointer from 22 ft,GSW now trails 75-91
+2016-10-25,True,SAS,True,242,91,4,06:46,Made 2-pointer from 4 ft,GSW now trails 91-115
+2016-10-25,True,SAS,False,8,76,4,06:11,Missed 3-pointer from 23 ft,GSW trails 91-117
+2016-10-28,False,NOP,True,133,278,1,10:53,Made 3-pointer from 25 ft,GSW now leads 5-4
+2016-10-28,False,NOP,False,218,66,1,09:41,Missed 2-pointer from 2 ft,GSW leads 7-6
+2016-10-28,False,NOP,False,84,253,1,08:57,Missed 3-pointer from 25 ft,GSW leads 9-8
+2016-10-28,False,NOP,False,259,297,1,04:54,Missed 3-pointer from 24 ft,GSW leads 17-12
+2016-10-28,False,NOP,True,345,292,2,06:36,Made 3-pointer from 26 ft,GSW now leads 46-34
+2016-10-28,False,NOP,False,69,140,3,10:14,Missed 2-pointer from 19 ft,GSW leads 62-52
+2016-10-28,False,NOP,True,249,76,3,09:14,Made 2-pointer from 2 ft,GSW now leads 64-56
+2016-10-28,False,NOP,False,226,57,3,08:55,Missed 2-pointer from 1 ft,GSW leads 64-58
+2016-10-28,False,NOP,False,62,250,3,05:00,Missed 3-pointer from 26 ft,GSW leads 73-72
+2016-10-28,False,NOP,True,12,49,3,03:57,Made 3-pointer from 22 ft,GSW now leads 76-74
+2016-10-28,False,NOP,True,257,57,3,03:12,Made 2-pointer from 1 ft,GSW now leads 80-74
+2016-10-28,False,NOP,True,102,312,3,00:57,Made 3-pointer from 30 ft,GSW now leads 90-79
+2016-10-28,False,NOP,False,304,356,3,00:40,Missed 3-pointer from 31 ft,GSW leads 90-79
+2016-10-28,False,NOP,True,234,255,4,05:49,Made 2-pointer from 20 ft,GSW now leads 107-92
+2016-10-28,False,NOP,False,220,58,4,05:26,Missed 2-pointer from 2 ft,GSW leads 107-92
+2016-10-28,False,NOP,False,375,268,4,04:52,Missed 3-pointer from 25 ft,GSW leads 107-95
+2016-10-28,False,NOP,False,259,57,4,04:41,Missed 2-pointer from 2 ft,GSW leads 107-97
+2016-10-28,False,NOP,True,244,58,4,01:47,Made 2-pointer from 0 ft,GSW now leads 114-103
+2016-10-28,False,NOP,False,185,307,4,01:22,Missed 3-pointer from 26 ft,GSW leads 114-105
+2016-10-30,False,PHO,True,71,111,1,11:26,Made 2-pointer from 17 ft,GSW now leads 2-0
+2016-10-30,False,PHO,True,241,302,1,10:14,Made 3-pointer from 25 ft,GSW now leads 5-4
+2016-10-30,False,PHO,True,298,97,1,08:55,Made 2-pointer from 7 ft,GSW now leads 7-6
+2016-10-30,False,PHO,True,93,264,1,08:22,Made 3-pointer from 25 ft,GSW now leads 10-8
+2016-10-30,False,PHO,False,259,57,1,04:02,Missed 2-pointer from 2 ft,GSW trails 15-19
+2016-10-30,False,PHO,False,8,49,1,03:26,Missed 3-pointer from 23 ft,GSW trails 15-22
+2016-10-30,False,PHO,True,475,170,2,06:36,Made 3-pointer from 26 ft,GSW now trails 34-39
+2016-10-30,False,PHO,False,111,93,2,05:16,Missed 2-pointer from 13 ft,GSW trails 34-43
+2016-10-30,False,PHO,True,491,86,2,04:42,Made 3-pointer from 25 ft,GSW now trails 37-43
+2016-10-30,False,PHO,True,205,86,2,01:46,Made 2-pointer from 5 ft,GSW now trails 45-51
+2016-10-30,False,PHO,True,149,302,3,07:29,Made 3-pointer from 26 ft,GSW now leads 65-62
+2016-10-30,False,PHO,False,391,282,3,00:08,Missed 3-pointer from 28 ft,GSW leads 81-78
+2016-10-30,False,PHO,False,224,122,4,10:00,Missed 2-pointer from 7 ft,GSW trails 83-84
+2016-10-30,False,PHO,False,238,68,4,09:51,Missed 2-pointer from 1 ft,GSW trails 83-84
+2016-10-30,False,PHO,True,184,235,4,05:27,Made 2-pointer from 19 ft,GSW now leads 93-89
+2016-10-30,False,PHO,False,8,29,4,04:40,Missed 3-pointer from 23 ft,GSW leads 93-91
+2016-10-30,False,PHO,False,71,71,4,00:25,Missed 2-pointer from 17 ft,GSW leads 102-98
+2016-11-01,False,POR,False,10,53,1,09:51,Missed 3-pointer from 23 ft,GSW trails 3-5
+2016-11-01,False,POR,False,141,302,1,08:37,Missed 3-pointer from 27 ft,GSW trails 7-9
+2016-11-01,False,POR,False,291,184,1,06:45,Missed 2-pointer from 14 ft,GSW trails 9-16
+2016-11-01,False,POR,True,218,52,2,05:08,Made 2-pointer from 2 ft,GSW now leads 51-39
+2016-11-01,False,POR,True,250,53,2,03:03,Made 2-pointer from 1 ft,GSW now leads 55-48
+2016-11-01,False,POR,False,322,314,2,02:43,Missed 3-pointer from 27 ft,GSW leads 55-51
+2016-11-01,False,POR,False,115,224,2,01:23,Missed 2-pointer from 21 ft,GSW leads 55-51
+2016-11-01,False,POR,False,187,199,2,00:02,Missed 2-pointer from 16 ft,GSW leads 59-53
+2016-11-01,False,POR,True,30,253,3,09:30,Made 3-pointer from 29 ft,GSW now leads 66-57
+2016-11-01,False,POR,True,321,282,3,08:50,Made 3-pointer from 24 ft,GSW now leads 71-59
+2016-11-01,False,POR,True,252,52,3,08:23,Made 2-pointer from 1 ft,GSW now leads 73-63
+2016-11-01,False,POR,True,238,338,3,07:28,Made 3-pointer from 28 ft,GSW now leads 76-63
+2016-11-01,False,POR,False,304,302,3,06:41,Missed 3-pointer from 26 ft,GSW leads 76-63
+2016-11-01,False,POR,False,306,63,3,06:19,Missed 2-pointer from 6 ft,GSW leads 76-63
+2016-11-01,False,POR,True,468,61,3,03:22,Made 3-pointer from 22 ft,GSW now leads 85-71
+2016-11-01,False,POR,False,257,52,3,02:30,Missed 2-pointer from 1 ft,GSW leads 87-71
+2016-11-01,False,POR,True,218,57,3,01:30,Made 2-pointer from 2 ft,GSW now leads 93-71
+2016-11-01,False,POR,False,342,248,3,01:11,Missed 2-pointer from 22 ft,GSW leads 94-71
+2016-11-01,False,POR,True,249,52,3,00:52,Made 2-pointer from 0 ft,GSW now leads 96-72
+2016-11-01,False,POR,True,344,279,3,00:13,Made 3-pointer from 25 ft,GSW now leads 100-72
+2016-11-03,True,OKC,True,234,61,1,09:54,Made 2-pointer from 1 ft,GSW now trails 5-6
+2016-11-03,True,OKC,True,236,66,1,08:59,Made 2-pointer from 1 ft,GSW now trails 7-10
+2016-11-03,True,OKC,False,391,250,1,08:34,Missed 3-pointer from 25 ft,GSW trails 7-12
+2016-11-03,True,OKC,False,13,176,1,06:03,Missed 3-pointer from 25 ft,GSW trails 9-18
+2016-11-03,True,OKC,False,206,132,1,05:01,Missed 2-pointer from 8 ft,GSW trails 12-20
+2016-11-03,True,OKC,False,257,76,1,04:16,Missed 2-pointer from 3 ft,GSW trails 16-21
+2016-11-03,True,OKC,False,322,294,2,06:48,Missed 3-pointer from 25 ft,GSW leads 45-38
+2016-11-03,True,OKC,False,257,71,2,05:25,Missed 2-pointer from 2 ft,GSW leads 49-38
+2016-11-03,True,OKC,True,272,228,2,01:29,Made 2-pointer from 18 ft,GSW now leads 63-43
+2016-11-03,True,OKC,True,458,194,3,06:01,Made 3-pointer from 26 ft,GSW now leads 84-57
+2016-11-03,True,OKC,False,206,86,3,05:29,Missed 2-pointer from 4 ft,GSW leads 84-57
+2016-11-03,True,OKC,True,470,76,3,03:23,Made 3-pointer from 23 ft,GSW now leads 91-63
+2016-11-03,True,OKC,True,231,66,3,02:58,Made 2-pointer from 1 ft,GSW now leads 93-65
+2016-11-03,True,OKC,False,233,363,3,02:27,Missed 3-pointer from 31 ft,GSW leads 93-68
+2016-11-04,False,LAL,False,44,218,1,11:11,Missed 3-pointer from 25 ft,GSW trails 0-3
+2016-11-04,False,LAL,False,8,164,1,11:04,Missed 3-pointer from 25 ft,GSW trails 0-3
+2016-11-04,False,LAL,True,241,51,1,09:44,Made 2-pointer from 0 ft,GSW now trails 2-8
+2016-11-04,False,LAL,False,13,110,1,09:00,Missed 3-pointer from 23 ft,GSW trails 2-8
+2016-11-04,False,LAL,True,222,51,1,08:04,Made 2-pointer from 1 ft,GSW now trails 6-8
+2016-11-04,False,LAL,False,38,91,1,05:12,Missed 2-pointer from 20 ft,GSW trails 10-14
+2016-11-04,False,LAL,True,80,190,1,04:44,Made 2-pointer from 21 ft,GSW now trails 12-16
+2016-11-04,False,LAL,False,-6,44,2,08:42,Missed 3-pointer from 24 ft,GSW trails 21-36
+2016-11-04,False,LAL,False,124,273,2,06:23,Missed 3-pointer from 25 ft,GSW trails 27-44
+2016-11-04,False,LAL,True,222,51,2,03:09,Made 2-pointer from 1 ft,GSW now trails 41-52
+2016-11-04,False,LAL,False,70,244,2,02:33,Missed 3-pointer from 25 ft,GSW trails 41-52
+2016-11-04,False,LAL,False,219,50,3,11:28,Missed 2-pointer from 2 ft,GSW trails 49-65
+2016-11-04,False,LAL,False,155,293,3,08:49,Missed 3-pointer from 25 ft,GSW trails 56-73
+2016-11-04,False,LAL,False,-5,144,3,04:30,Missed 3-pointer from 26 ft,GSW trails 70-80
+2016-11-04,False,LAL,False,277,288,4,07:16,Missed 3-pointer from 24 ft,GSW trails 87-101
+2016-11-04,False,LAL,True,230,53,4,05:02,Made 2-pointer from 1 ft,GSW now trails 91-107
+2016-11-04,False,LAL,False,118,273,4,04:38,Missed 3-pointer from 25 ft,GSW trails 91-109
+2016-11-07,True,NOP,True,241,61,1,10:04,Made 2-pointer from 1 ft,GSW now trails 4-5
+2016-11-07,True,NOP,True,44,278,1,07:29,Made 3-pointer from 30 ft,GSW now trails 9-11
+2016-11-07,True,NOP,False,187,322,1,07:05,Missed 3-pointer from 28 ft,GSW trails 9-13
+2016-11-07,True,NOP,True,56,253,1,04:32,Made 3-pointer from 27 ft,GSW now tied 17-17
+2016-11-07,True,NOP,True,7,81,1,03:35,Made 3-pointer from 24 ft,GSW now leads 22-19
+2016-11-07,True,NOP,False,77,214,1,01:54,Missed 2-pointer from 23 ft,GSW tied 22-22
+2016-11-07,True,NOP,True,39,215,2,05:05,Made 3-pointer from 26 ft,GSW now leads 47-40
+2016-11-07,True,NOP,True,33,233,2,04:20,Made 3-pointer from 28 ft,GSW now leads 50-40
+2016-11-07,True,NOP,True,224,309,2,03:54,Made 3-pointer from 26 ft,GSW now leads 53-40
+2016-11-07,True,NOP,False,244,125,2,03:14,Missed 2-pointer from 8 ft,GSW leads 53-40
+2016-11-07,True,NOP,True,239,61,2,02:00,Made 2-pointer from 1 ft,GSW now leads 61-40
+2016-11-07,True,NOP,True,259,312,3,11:13,Made 3-pointer from 26 ft,GSW now leads 66-49
+2016-11-07,True,NOP,True,98,66,3,09:13,Made 2-pointer from 14 ft,GSW now leads 70-56
+2016-11-07,True,NOP,False,280,165,3,07:43,Missed 2-pointer from 12 ft,GSW leads 70-63
+2016-11-07,True,NOP,False,18,171,3,05:59,Missed 3-pointer from 25 ft,GSW leads 72-70
+2016-11-07,True,NOP,False,368,194,3,05:41,Missed 2-pointer from 19 ft,GSW leads 72-71
+2016-11-07,True,NOP,True,120,278,3,03:59,Made 3-pointer from 26 ft,GSW now leads 75-73
+2016-11-07,True,NOP,True,149,302,3,01:41,Made 3-pointer from 27 ft,GSW now leads 80-76
+2016-11-07,True,NOP,False,242,107,3,01:11,Missed 2-pointer from 6 ft,GSW leads 80-76
+2016-11-07,True,NOP,True,44,204,3,00:10,Made 3-pointer from 25 ft,GSW now leads 84-78
+2016-11-07,True,NOP,False,367,274,4,06:02,Missed 3-pointer from 26 ft,GSW leads 96-91
+2016-11-07,True,NOP,True,46,209,4,03:34,Made 3-pointer from 25 ft,GSW now leads 103-95
+2016-11-07,True,NOP,True,151,287,4,02:54,Made 3-pointer from 25 ft,GSW now leads 106-97
+2016-11-07,True,NOP,True,311,302,4,02:23,Made 3-pointer from 26 ft,GSW now leads 109-97
+2016-11-07,True,NOP,False,239,107,4,01:28,Missed 2-pointer from 6 ft,GSW leads 109-99
+2016-11-09,True,DAL,False,33,245,1,10:38,Missed 3-pointer from 28 ft,GSW leads 4-0
+2016-11-09,True,DAL,False,7,52,2,09:39,Missed 3-pointer from 23 ft,GSW leads 37-17
+2016-11-09,True,DAL,True,250,66,2,08:42,Made 2-pointer from 2 ft,GSW now leads 40-20
+2016-11-09,True,DAL,True,103,327,2,08:10,Made 3-pointer from 31 ft,GSW now leads 43-20
+2016-11-09,True,DAL,True,422,228,2,05:23,Made 3-pointer from 25 ft,GSW now leads 50-25
+2016-11-09,True,DAL,False,205,314,2,00:07,Missed 3-pointer from 27 ft,GSW leads 67-36
+2016-11-09,True,DAL,False,3,52,3,10:39,Missed 3-pointer from 24 ft,GSW leads 67-37
+2016-11-09,True,DAL,True,226,317,3,04:38,Made 3-pointer from 27 ft,GSW now leads 76-56
+2016-11-09,True,DAL,True,240,78,3,01:23,Made 2-pointer from 3 ft,GSW now leads 80-65
+2016-11-09,True,DAL,True,403,179,4,11:05,Made 2-pointer from 21 ft,GSW now leads 86-68
+2016-11-09,True,DAL,True,329,155,4,09:34,Made 2-pointer from 14 ft,GSW now leads 90-75
+2016-11-09,True,DAL,True,367,351,4,09:12,Made 3-pointer from 33 ft,GSW now leads 93-75
+2016-11-10,False,DEN,True,265,57,1,06:48,Made 2-pointer from 2 ft,GSW now leads 13-8
+2016-11-10,False,DEN,True,93,258,1,06:32,Made 3-pointer from 25 ft,GSW now leads 16-8
+2016-11-10,False,DEN,False,203,317,1,05:21,Missed 3-pointer from 26 ft,GSW leads 20-9
+2016-11-10,False,DEN,True,92,255,1,02:22,Made 3-pointer from 25 ft,GSW now leads 30-17
+2016-11-10,False,DEN,True,84,248,1,00:37,Made 3-pointer from 25 ft,GSW now leads 36-19
+2016-11-10,False,DEN,False,93,258,2,04:49,Missed 3-pointer from 25 ft,GSW leads 52-32
+2016-11-10,False,DEN,True,223,52,2,03:53,Made 2-pointer from 1 ft,GSW now leads 54-36
+2016-11-10,False,DEN,False,-3,39,2,01:38,Missed 3-pointer from 24 ft,GSW leads 58-44
+2016-11-10,False,DEN,False,447,61,3,10:37,Missed 2-pointer from 20 ft,GSW leads 68-51
+2016-11-10,False,DEN,True,228,44,3,10:24,Made 2-pointer from 1 ft,GSW now leads 70-51
+2016-11-10,False,DEN,True,308,292,3,07:36,Made 3-pointer from 25 ft,GSW now leads 80-56
+2016-11-10,False,DEN,False,3,39,3,07:02,Missed 3-pointer from 23 ft,GSW leads 81-56
+2016-11-10,False,DEN,True,39,199,3,06:32,Made 3-pointer from 25 ft,GSW now leads 84-58
+2016-11-10,False,DEN,True,64,282,3,04:12,Made 3-pointer from 29 ft,GSW now leads 92-66
+2016-11-10,False,DEN,True,35,245,3,03:25,Made 3-pointer from 28 ft,GSW now leads 95-66
+2016-11-10,False,DEN,False,347,371,3,03:03,Missed 3-pointer from 33 ft,GSW leads 95-66
+2016-11-10,False,DEN,False,395,297,3,00:02,Missed 3-pointer from 29 ft,GSW leads 99-75
+2016-11-13,True,PHO,True,231,53,1,09:14,Made 2-pointer from 1 ft,GSW now leads 8-7
+2016-11-13,True,PHO,True,8,68,1,08:47,Made 3-pointer from 23 ft,GSW now leads 12-7
+2016-11-13,True,PHO,False,233,71,1,01:48,Missed 2-pointer from 2 ft,GSW trails 23-30
+2016-11-13,True,PHO,True,286,302,2,05:59,Made 3-pointer from 26 ft,GSW now trails 42-46
+2016-11-13,True,PHO,True,170,135,2,05:30,Made 2-pointer from 11 ft,GSW now trails 44-48
+2016-11-13,True,PHO,False,354,278,2,05:08,Missed 3-pointer from 25 ft,GSW trails 44-51
+2016-11-13,True,PHO,True,240,71,2,02:06,Made 2-pointer from 2 ft,GSW now trails 54-55
+2016-11-13,True,PHO,True,146,299,2,01:38,Made 3-pointer from 27 ft,GSW now leads 57-55
+2016-11-13,True,PHO,False,234,338,2,01:09,Missed 3-pointer from 29 ft,GSW leads 57-55
+2016-11-13,True,PHO,False,48,220,3,11:28,Missed 3-pointer from 26 ft,GSW leads 62-59
+2016-11-13,True,PHO,False,293,196,3,10:42,Missed 2-pointer from 16 ft,GSW leads 62-61
+2016-11-13,True,PHO,False,90,292,3,04:09,Missed 3-pointer from 28 ft,GSW leads 85-82
+2016-11-13,True,PHO,True,268,297,3,02:53,Made 3-pointer from 25 ft,GSW now leads 88-84
+2016-11-13,True,PHO,True,255,322,3,01:44,Made 3-pointer from 27 ft,GSW now leads 94-85
+2016-11-13,True,PHO,True,239,71,3,01:06,Made 2-pointer from 2 ft,GSW now leads 96-87
+2016-11-13,True,PHO,False,273,151,3,00:08,Missed 2-pointer from 11 ft,GSW leads 99-90
+2016-11-13,True,PHO,False,249,93,4,05:08,Missed 2-pointer from 4 ft,GSW trails 112-114
+2016-11-16,False,TOR,False,447,201,1,10:29,Missed 3-pointer from 26 ft,GSW trails 2-4
+2016-11-16,False,TOR,True,211,61,1,07:22,Made 2-pointer from 3 ft,GSW now trails 10-12
+2016-11-16,False,TOR,True,206,58,1,05:11,Made 2-pointer from 3 ft,GSW now trails 17-22
+2016-11-16,False,TOR,True,143,255,1,03:15,Made 2-pointer from 23 ft,GSW now trails 24-32
+2016-11-16,False,TOR,False,234,307,2,05:58,Missed 3-pointer from 26 ft,GSW trails 45-47
+2016-11-16,False,TOR,True,432,206,2,04:39,Made 3-pointer from 25 ft,GSW now leads 50-49
+2016-11-16,False,TOR,True,239,53,2,03:20,Made 2-pointer from 0 ft,GSW now leads 56-51
+2016-11-16,False,TOR,False,390,253,2,01:45,Missed 3-pointer from 25 ft,GSW leads 60-51
+2016-11-16,False,TOR,True,221,52,3,08:01,Made 2-pointer from 2 ft,GSW now leads 76-61
+2016-11-16,False,TOR,True,275,44,3,07:27,Made 2-pointer from 4 ft,GSW now leads 78-61
+2016-11-16,False,TOR,False,240,59,3,04:51,Missed 2-pointer from 1 ft,GSW leads 85-71
+2016-11-16,False,TOR,False,93,269,3,03:12,Missed 3-pointer from 26 ft,GSW leads 87-75
+2016-11-16,False,TOR,True,97,132,3,01:41,Made 2-pointer from 16 ft,GSW now leads 89-82
+2016-11-16,False,TOR,True,408,255,3,01:04,Made 3-pointer from 27 ft,GSW now leads 92-84
+2016-11-16,False,TOR,True,383,258,3,00:34,Made 3-pointer from 25 ft,GSW now leads 95-86
+2016-11-16,False,TOR,False,395,132,4,05:49,Missed 2-pointer from 18 ft,GSW leads 113-99
+2016-11-16,False,TOR,False,295,312,4,03:16,Missed 3-pointer from 27 ft,GSW leads 118-103
+2016-11-16,False,TOR,False,143,219,4,01:59,Missed 2-pointer from 19 ft,GSW leads 120-109
+2016-11-16,False,TOR,False,472,171,4,01:38,Missed 3-pointer from 26 ft,GSW leads 120-111
+2016-11-18,False,BOS,False,249,58,1,11:06,Missed 2-pointer from 1 ft,GSW tied 2-2
+2016-11-18,False,BOS,False,241,66,1,07:35,Missed 2-pointer from 2 ft,GSW tied 10-10
+2016-11-18,False,BOS,True,213,106,1,07:28,Made 2-pointer from 6 ft,GSW now leads 12-10
+2016-11-18,False,BOS,False,378,268,1,03:02,Missed 3-pointer from 26 ft,GSW leads 25-18
+2016-11-18,False,BOS,False,95,68,1,02:39,Missed 2-pointer from 15 ft,GSW leads 25-20
+2016-11-18,False,BOS,False,375,268,1,02:00,Missed 3-pointer from 26 ft,GSW leads 25-23
+2016-11-18,False,BOS,True,174,268,2,04:53,Made 2-pointer from 23 ft,GSW now leads 44-36
+2016-11-18,False,BOS,False,226,312,2,04:22,Missed 3-pointer from 26 ft,GSW leads 44-36
+2016-11-18,False,BOS,True,215,57,2,01:52,Made 2-pointer from 3 ft,GSW now leads 51-46
+2016-11-18,False,BOS,False,375,273,3,11:25,Missed 3-pointer from 26 ft,GSW leads 55-48
+2016-11-18,False,BOS,True,250,307,3,07:48,Made 3-pointer from 26 ft,GSW now leads 73-51
+2016-11-18,False,BOS,True,249,45,3,07:18,Made 2-pointer from 1 ft,GSW now leads 75-51
+2016-11-18,False,BOS,False,36,243,3,01:46,Missed 3-pointer from 28 ft,GSW leads 81-57
+2016-11-18,False,BOS,False,138,220,4,06:55,Missed 2-pointer from 20 ft,GSW leads 95-75
+2016-11-18,False,BOS,False,475,71,4,06:18,Missed 3-pointer from 24 ft,GSW leads 95-75
+2016-11-18,False,BOS,False,233,53,4,04:30,Missed 2-pointer from 1 ft,GSW leads 97-81
+2016-11-18,False,BOS,True,473,107,4,01:13,Made 3-pointer from 24 ft,GSW now leads 102-88
+2016-11-18,False,BOS,True,231,66,4,00:49,Made 2-pointer from 2 ft,GSW now leads 104-88
+2016-11-18,False,BOS,False,329,337,4,00:13,Missed 3-pointer from 30 ft,GSW leads 104-88
+2016-11-19,False,MIL,False,319,294,1,11:21,Missed 3-pointer from 26 ft,GSW tied 0-0
+2016-11-19,False,MIL,False,43,228,1,06:30,Missed 3-pointer from 27 ft,GSW trails 13-16
+2016-11-19,False,MIL,True,314,112,1,05:25,Made 2-pointer from 10 ft,GSW now leads 18-16
+2016-11-19,False,MIL,True,242,50,1,05:09,Made 2-pointer from 0 ft,GSW now leads 21-16
+2016-11-19,False,MIL,False,290,57,1,03:12,Missed 2-pointer from 5 ft,GSW leads 23-22
+2016-11-19,False,MIL,False,92,260,2,06:02,Missed 3-pointer from 26 ft,GSW trails 47-50
+2016-11-19,False,MIL,False,237,44,2,04:15,Missed 2-pointer from 1 ft,GSW trails 49-54
+2016-11-19,False,MIL,False,277,312,2,03:46,Missed 3-pointer from 26 ft,GSW trails 51-54
+2016-11-19,False,MIL,True,470,91,2,01:33,Made 3-pointer from 23 ft,GSW now tied 61-61
+2016-11-19,False,MIL,False,254,338,3,09:25,Missed 3-pointer from 29 ft,GSW leads 75-70
+2016-11-19,False,MIL,True,240,57,3,08:03,Made 2-pointer from 1 ft,GSW now leads 77-74
+2016-11-19,False,MIL,False,26,206,3,04:44,Missed 3-pointer from 26 ft,GSW leads 90-80
+2016-11-19,False,MIL,False,13,81,3,04:20,Missed 3-pointer from 23 ft,GSW leads 90-80
+2016-11-19,False,MIL,False,239,52,3,03:18,Missed 2-pointer from 0 ft,GSW leads 92-84
+2016-11-19,False,MIL,True,28,39,3,03:13,Made 2-pointer from 21 ft,GSW now leads 94-84
+2016-11-19,False,MIL,False,285,132,3,02:16,Missed 2-pointer from 9 ft,GSW leads 96-87
+2016-11-19,False,MIL,False,38,228,4,06:03,Missed 3-pointer from 27 ft,GSW leads 116-105
+2016-11-19,False,MIL,True,242,57,4,05:36,Made 2-pointer from 1 ft,GSW now leads 118-107
+2016-11-19,False,MIL,False,210,319,4,05:14,Missed 3-pointer from 27 ft,GSW leads 118-107
+2016-11-19,False,MIL,True,255,57,4,02:47,Made 2-pointer from 2 ft,GSW now leads 122-117
+2016-11-19,False,MIL,False,231,322,4,01:14,Missed 3-pointer from 27 ft,GSW leads 122-120
+2016-11-21,False,IND,False,236,248,1,11:11,Missed 2-pointer from 20 ft,GSW tied 0-0
+2016-11-21,False,IND,False,125,282,1,09:04,Missed 3-pointer from 26 ft,GSW leads 6-5
+2016-11-21,False,IND,False,3,52,1,07:19,Missed 3-pointer from 24 ft,GSW leads 11-5
+2016-11-21,False,IND,False,449,184,2,05:32,Missed 3-pointer from 25 ft,GSW leads 42-32
+2016-11-21,False,IND,True,419,228,2,04:05,Made 3-pointer from 25 ft,GSW now leads 47-34
+2016-11-21,False,IND,True,311,53,2,00:37,Made 2-pointer from 7 ft,GSW now leads 58-38
+2016-11-21,False,IND,True,455,189,2,00:11,Made 3-pointer from 26 ft,GSW now leads 61-40
+2016-11-21,False,IND,True,239,52,3,09:51,Made 2-pointer from 0 ft,GSW now leads 68-44
+2016-11-21,False,IND,True,130,86,3,06:46,Made 2-pointer from 12 ft,GSW now leads 80-52
+2016-11-21,False,IND,True,141,240,3,05:55,Made 2-pointer from 21 ft,GSW now leads 84-55
+2016-11-21,False,IND,False,234,312,3,03:02,Missed 3-pointer from 26 ft,GSW leads 92-63
+2016-11-23,True,LAL,True,25,196,1,09:53,Made 3-pointer from 26 ft,GSW now leads 7-4
+2016-11-23,True,LAL,True,334,302,1,09:20,Made 3-pointer from 27 ft,GSW now leads 10-4
+2016-11-23,True,LAL,False,218,312,1,06:08,Missed 3-pointer from 26 ft,GSW leads 23-14
+2016-11-23,True,LAL,True,71,253,1,03:37,Made 3-pointer from 26 ft,GSW now leads 32-21
+2016-11-23,True,LAL,True,206,86,1,03:19,Made 2-pointer from 5 ft,GSW now leads 34-21
+2016-11-23,True,LAL,True,53,238,1,01:49,Made 3-pointer from 27 ft,GSW now leads 40-22
+2016-11-23,True,LAL,False,367,235,1,00:05,Missed 2-pointer from 22 ft,GSW leads 41-26
+2016-11-23,True,LAL,True,202,312,2,05:03,Made 3-pointer from 26 ft,GSW now leads 61-45
+2016-11-23,True,LAL,True,41,214,2,03:26,Made 3-pointer from 26 ft,GSW now leads 66-45
+2016-11-23,True,LAL,True,250,66,2,02:41,Made 2-pointer from 2 ft,GSW now leads 69-47
+2016-11-23,True,LAL,False,44,224,2,00:43,Missed 3-pointer from 26 ft,GSW leads 76-49
+2016-11-23,True,LAL,True,249,66,3,09:36,Made 2-pointer from 2 ft,GSW now leads 84-53
+2016-11-23,True,LAL,True,472,115,3,06:11,Made 3-pointer from 24 ft,GSW now leads 96-62
+2016-11-23,True,LAL,False,64,233,3,04:58,Missed 3-pointer from 25 ft,GSW leads 96-66
+2016-11-23,True,LAL,False,257,71,3,03:49,Missed 2-pointer from 3 ft,GSW leads 98-68
+2016-11-23,True,LAL,True,241,61,3,02:55,Made 2-pointer from 1 ft,GSW now leads 103-73
+2016-11-23,True,LAL,False,393,253,3,00:02,Missed 3-pointer from 25 ft,GSW leads 106-78
+2016-11-25,False,LAL,False,390,242,1,11:43,Missed 3-pointer from 24 ft,GSW tied 0-0
+2016-11-25,False,LAL,False,238,61,1,09:00,Missed 2-pointer from 1 ft,GSW trails 5-9
+2016-11-25,False,LAL,False,60,213,1,07:28,Missed 3-pointer from 24 ft,GSW trails 7-12
+2016-11-25,False,LAL,True,3,51,1,05:36,Made 3-pointer from 24 ft,GSW now leads 13-12
+2016-11-25,False,LAL,True,109,264,1,02:48,Made 3-pointer from 25 ft,GSW now leads 23-14
+2016-11-25,False,LAL,False,145,355,1,01:33,Missed 3-pointer from 32 ft,GSW leads 23-18
+2016-11-25,False,LAL,False,387,203,2,05:57,Missed 2-pointer from 21 ft,GSW leads 43-32
+2016-11-25,False,LAL,False,240,51,2,04:17,Missed 2-pointer from 0 ft,GSW leads 44-39
+2016-11-25,False,LAL,False,398,237,2,01:46,Missed 3-pointer from 24 ft,GSW leads 51-43
+2016-11-25,False,LAL,True,253,56,3,10:59,Made 2-pointer from 1 ft,GSW now leads 57-43
+2016-11-25,False,LAL,True,240,51,3,07:37,Made 2-pointer from 0 ft,GSW now leads 66-50
+2016-11-25,False,LAL,False,445,179,3,03:20,Missed 3-pointer from 24 ft,GSW leads 74-56
+2016-11-25,False,LAL,True,362,291,3,01:59,Made 3-pointer from 27 ft,GSW now leads 77-58
+2016-11-25,False,LAL,True,245,296,4,06:58,Made 3-pointer from 25 ft,GSW now leads 93-73
+2016-11-25,False,LAL,False,351,282,4,06:09,Missed 3-pointer from 26 ft,GSW leads 95-74
+2016-11-25,False,LAL,True,248,48,4,02:31,Made 2-pointer from 1 ft,GSW now leads 102-82
+2016-11-25,False,LAL,True,224,58,4,01:56,Made 2-pointer from 2 ft,GSW now leads 104-85
+2016-11-26,True,MIN,True,2,120,1,09:47,Made 3-pointer from 25 ft,GSW now leads 10-4
+2016-11-26,True,MIN,True,167,179,1,08:14,Made 2-pointer from 15 ft,GSW now leads 16-9
+2016-11-26,True,MIN,False,75,317,1,07:59,Missed 3-pointer from 31 ft,GSW leads 16-9
+2016-11-26,True,MIN,True,336,71,1,03:14,Made 2-pointer from 10 ft,GSW now leads 24-22
+2016-11-26,True,MIN,True,252,81,1,02:41,Made 2-pointer from 3 ft,GSW now leads 26-24
+2016-11-26,True,MIN,False,53,250,1,01:44,Missed 3-pointer from 27 ft,GSW trails 26-29
+2016-11-26,True,MIN,True,327,81,1,00:58,Made 2-pointer from 9 ft,GSW now trails 28-31
+2016-11-26,True,MIN,False,249,73,1,00:31,Missed 2-pointer from 2 ft,GSW trails 28-33
+2016-11-26,True,MIN,True,98,299,3,09:30,Made 3-pointer from 29 ft,GSW now leads 61-50
+2016-11-26,True,MIN,True,318,230,3,08:06,Made 2-pointer from 20 ft,GSW now leads 66-53
+2016-11-26,True,MIN,False,388,61,3,06:49,Missed 2-pointer from 15 ft,GSW leads 68-56
+2016-11-26,True,MIN,True,244,135,3,02:55,Made 2-pointer from 9 ft,GSW now leads 80-69
+2016-11-26,True,MIN,True,240,76,3,02:09,Made 2-pointer from 3 ft,GSW now leads 82-71
+2016-11-26,True,MIN,True,249,68,3,01:48,Made 2-pointer from 2 ft,GSW now leads 84-71
+2016-11-26,True,MIN,True,465,76,3,01:16,Made 3-pointer from 23 ft,GSW now leads 87-71
+2016-11-26,True,MIN,True,134,322,3,00:36,Made 3-pointer from 29 ft,GSW now leads 90-73
+2016-11-26,True,MIN,False,162,309,3,00:03,Missed 3-pointer from 27 ft,GSW leads 90-73
+2016-11-26,True,MIN,True,246,66,4,05:03,Made 2-pointer from 2 ft,GSW now leads 102-89
+2016-11-26,True,MIN,False,210,312,4,03:47,Missed 3-pointer from 26 ft,GSW leads 102-92
+2016-11-28,True,ATL,True,44,220,1,10:32,Made 3-pointer from 26 ft,GSW now leads 3-2
+2016-11-28,True,ATL,False,322,292,1,06:58,Missed 3-pointer from 26 ft,GSW trails 8-12
+2016-11-28,True,ATL,False,431,238,1,04:42,Missed 3-pointer from 27 ft,GSW trails 13-14
+2016-11-28,True,ATL,True,71,263,1,01:33,Made 3-pointer from 27 ft,GSW now leads 28-24
+2016-11-28,True,ATL,False,216,240,2,06:57,Missed 2-pointer from 19 ft,GSW trails 40-42
+2016-11-28,True,ATL,False,396,278,2,06:05,Missed 3-pointer from 28 ft,GSW trails 40-44
+2016-11-28,True,ATL,False,445,219,2,04:37,Missed 3-pointer from 27 ft,GSW tied 44-44
+2016-11-28,True,ATL,False,244,86,2,00:10,Missed 2-pointer from 4 ft,GSW trails 50-51
+2016-11-28,True,ATL,True,359,170,3,11:32,Made 2-pointer from 17 ft,GSW now trails 52-55
+2016-11-28,True,ATL,True,344,278,3,05:33,Made 3-pointer from 25 ft,GSW now trails 65-67
+2016-11-28,True,ATL,False,242,302,3,04:18,Missed 3-pointer from 25 ft,GSW trails 67-72
+2016-11-28,True,ATL,False,244,57,4,06:33,Missed 2-pointer from 1 ft,GSW leads 91-88
+2016-11-28,True,ATL,False,147,99,4,04:06,Missed 2-pointer from 11 ft,GSW leads 95-89
+2016-11-28,True,ATL,True,236,96,4,03:29,Made 2-pointer from 5 ft,GSW now leads 99-92
+2016-11-28,True,ATL,True,77,279,4,03:00,Made 3-pointer from 28 ft,GSW now leads 102-94
+2016-11-28,True,ATL,False,265,314,4,00:57,Missed 3-pointer from 27 ft,GSW leads 104-100
+2016-11-28,True,ATL,False,136,299,4,00:20,Missed 3-pointer from 27 ft,GSW leads 104-100
+2016-12-01,True,HOU,True,195,165,1,10:48,Made 2-pointer from 12 ft,GSW now tied 4-4
+2016-12-01,True,HOU,False,174,299,1,07:12,Missed 3-pointer from 26 ft,GSW trails 8-13
+2016-12-01,True,HOU,True,61,273,2,06:56,Made 3-pointer from 29 ft,GSW now leads 44-43
+2016-12-01,True,HOU,False,231,171,3,10:29,Missed 2-pointer from 12 ft,GSW trails 62-64
+2016-12-01,True,HOU,False,391,297,3,08:01,Missed 3-pointer from 29 ft,GSW trails 66-70
+2016-12-01,True,HOU,False,240,71,3,06:21,Missed 2-pointer from 2 ft,GSW trails 67-77
+2016-12-01,True,HOU,False,125,278,3,06:15,Missed 3-pointer from 26 ft,GSW trails 67-77
+2016-12-01,True,HOU,True,242,57,3,05:27,Made 2-pointer from 1 ft,GSW now trails 72-79
+2016-12-01,True,HOU,True,249,66,3,05:01,Made 2-pointer from 2 ft,GSW now trails 74-79
+2016-12-01,True,HOU,True,156,312,3,04:04,Made 3-pointer from 28 ft,GSW now trails 77-79
+2016-12-01,True,HOU,False,472,107,3,01:47,Missed 3-pointer from 24 ft,GSW trails 78-81
+2016-12-01,True,HOU,False,385,174,3,00:41,Missed 2-pointer from 19 ft,GSW trails 80-86
+2016-12-01,True,HOU,False,249,319,4,07:34,Missed 3-pointer from 27 ft,GSW trails 90-94
+2016-12-01,True,HOU,True,424,214,4,04:25,Made 3-pointer from 25 ft,GSW now tied 100-100
+2016-12-01,True,HOU,False,470,66,4,02:46,Missed 3-pointer from 23 ft,GSW leads 104-103
+2016-12-01,True,HOU,True,350,219,4,01:49,Made 2-pointer from 20 ft,GSW now leads 109-108
+2016-12-01,True,HOU,False,329,302,4,01:10,Missed 3-pointer from 27 ft,GSW trails 109-111
+2016-12-01,True,HOU,True,226,68,1,04:45,Made 2-pointer from 2 ft,GSW now leads 115-113
+2016-12-01,True,HOU,True,467,125,1,04:11,Made 3-pointer from 24 ft,GSW now leads 119-115
+2016-12-01,True,HOU,False,368,268,1,02:33,Missed 3-pointer from 25 ft,GSW leads 121-118
+2016-12-01,True,HOU,False,319,287,1,01:49,Missed 3-pointer from 25 ft,GSW leads 121-118
+2016-12-01,True,HOU,False,224,63,2,04:07,Missed 2-pointer from 2 ft,GSW tied 123-123
+2016-12-03,True,PHO,True,337,209,1,04:14,Made 2-pointer from 19 ft,GSW now leads 22-20
+2016-12-03,True,PHO,True,72,243,1,02:23,Made 3-pointer from 26 ft,GSW now leads 30-26
+2016-12-03,True,PHO,True,12,111,1,00:38,Made 3-pointer from 24 ft,GSW now leads 35-30
+2016-12-03,True,PHO,False,244,176,1,00:03,Missed 2-pointer from 13 ft,GSW leads 37-30
+2016-12-03,True,PHO,False,309,317,2,04:51,Missed 3-pointer from 28 ft,GSW leads 61-42
+2016-12-03,True,PHO,True,250,63,2,00:29,Made 2-pointer from 2 ft,GSW now leads 66-57
+2016-12-03,True,PHO,False,128,287,3,10:29,Missed 3-pointer from 26 ft,GSW leads 70-60
+2016-12-03,True,PHO,True,240,61,3,09:14,Made 2-pointer from 1 ft,GSW now leads 75-62
+2016-12-03,True,PHO,True,36,204,3,07:48,Made 3-pointer from 26 ft,GSW now leads 81-64
+2016-12-03,True,PHO,True,31,204,3,04:43,Made 3-pointer from 26 ft,GSW now leads 91-67
+2016-12-03,True,PHO,True,332,91,3,03:46,Made 2-pointer from 10 ft,GSW now leads 95-71
+2016-12-03,True,PHO,False,211,130,3,03:05,Missed 2-pointer from 9 ft,GSW leads 97-71
+2016-12-03,True,PHO,True,355,287,3,02:30,Made 3-pointer from 26 ft,GSW now leads 101-71
+2016-12-03,True,PHO,True,233,101,3,01:36,Made 2-pointer from 5 ft,GSW now leads 103-75
+2016-12-03,True,PHO,False,333,84,3,00:02,Missed 2-pointer from 10 ft,GSW leads 108-84
+2016-12-05,True,IND,True,385,268,1,07:25,Made 3-pointer from 26 ft,GSW now leads 13-11
+2016-12-05,True,IND,False,213,86,1,01:41,Missed 2-pointer from 5 ft,GSW leads 34-25
+2016-12-05,True,IND,False,280,304,1,01:06,Missed 3-pointer from 26 ft,GSW leads 36-27
+2016-12-05,True,IND,False,316,297,1,00:26,Missed 3-pointer from 26 ft,GSW leads 38-27
+2016-12-05,True,IND,False,472,115,2,04:13,Missed 3-pointer from 24 ft,GSW leads 61-41
+2016-12-05,True,IND,True,231,66,2,04:02,Made 2-pointer from 2 ft,GSW now leads 63-41
+2016-12-05,True,IND,True,7,71,2,03:29,Made 3-pointer from 23 ft,GSW now leads 66-41
+2016-12-05,True,IND,True,240,58,2,01:10,Made 2-pointer from 1 ft,GSW now leads 74-46
+2016-12-05,True,IND,False,321,307,3,08:57,Missed 3-pointer from 27 ft,GSW leads 88-56
+2016-12-07,False,LAC,False,193,371,1,08:28,Missed 3-pointer from 32 ft,GSW leads 5-2
+2016-12-07,False,LAC,True,265,52,1,07:06,Made 2-pointer from 3 ft,GSW now leads 9-8
+2016-12-07,False,LAC,True,234,61,1,04:17,Made 2-pointer from 1 ft,GSW now leads 20-13
+2016-12-07,False,LAC,True,75,161,1,03:42,Made 2-pointer from 20 ft,GSW now leads 22-13
+2016-12-07,False,LAC,True,233,71,1,03:08,Made 2-pointer from 2 ft,GSW now leads 24-13
+2016-12-07,False,LAC,False,10,53,1,02:28,Missed 3-pointer from 23 ft,GSW leads 27-13
+2016-12-07,False,LAC,True,260,68,1,02:10,Made 2-pointer from 3 ft,GSW now leads 29-15
+2016-12-07,False,LAC,True,246,71,2,04:38,Made 2-pointer from 2 ft,GSW now leads 50-37
+2016-12-07,False,LAC,False,108,260,2,02:35,Missed 3-pointer from 25 ft,GSW leads 53-44
+2016-12-07,False,LAC,False,480,53,3,08:56,Missed 3-pointer from 24 ft,GSW leads 71-52
+2016-12-07,False,LAC,False,381,273,3,08:05,Missed 3-pointer from 26 ft,GSW leads 71-54
+2016-12-07,False,LAC,True,246,58,3,07:47,Made 2-pointer from 1 ft,GSW now leads 73-54
+2016-12-07,False,LAC,False,80,273,3,02:43,Missed 3-pointer from 27 ft,GSW leads 85-63
+2016-12-07,False,LAC,False,239,166,3,00:39,Missed 2-pointer from 12 ft,GSW leads 89-75
+2016-12-07,False,LAC,False,146,297,4,02:56,Missed 3-pointer from 26 ft,GSW leads 113-96
+2016-12-08,False,UTA,True,355,273,1,09:25,Made 3-pointer from 25 ft,GSW now leads 5-4
+2016-12-08,False,UTA,True,472,71,1,08:27,Made 3-pointer from 23 ft,GSW now leads 10-4
+2016-12-08,False,UTA,True,23,140,1,06:29,Made 2-pointer from 23 ft,GSW now leads 16-4
+2016-12-08,False,UTA,True,138,228,1,03:55,Made 2-pointer from 21 ft,GSW now leads 28-5
+2016-12-08,False,UTA,False,167,278,1,02:39,Missed 3-pointer from 24 ft,GSW leads 29-9
+2016-12-08,False,UTA,False,460,165,1,01:54,Missed 3-pointer from 25 ft,GSW leads 31-12
+2016-12-08,False,UTA,False,434,258,2,00:02,Missed 3-pointer from 28 ft,GSW leads 65-46
+2016-12-08,False,UTA,False,159,61,3,09:21,Missed 2-pointer from 8 ft,GSW leads 65-48
+2016-12-08,False,UTA,True,262,50,3,07:36,Made 2-pointer from 2 ft,GSW now leads 73-52
+2016-12-08,False,UTA,False,149,235,3,05:28,Missed 2-pointer from 21 ft,GSW leads 73-61
+2016-12-08,False,UTA,False,8,53,3,02:59,Missed 3-pointer from 23 ft,GSW leads 77-66
+2016-12-08,False,UTA,True,365,263,3,02:45,Made 3-pointer from 25 ft,GSW now leads 80-66
+2016-12-08,False,UTA,False,472,63,3,00:26,Missed 3-pointer from 23 ft,GSW leads 82-70
+2016-12-08,False,UTA,False,342,219,4,05:26,Missed 2-pointer from 20 ft,GSW leads 90-80
+2016-12-08,False,UTA,False,15,130,4,03:26,Missed 3-pointer from 24 ft,GSW leads 95-85
+2016-12-08,False,UTA,True,259,52,4,01:29,Made 2-pointer from 2 ft,GSW now leads 103-89
+2016-12-10,False,MEM,False,187,302,1,08:18,Missed 3-pointer from 26 ft,GSW trails 5-9
+2016-12-10,False,MEM,True,226,49,1,05:06,Made 2-pointer from 1 ft,GSW now trails 11-20
+2016-12-10,False,MEM,False,282,299,1,03:23,Missed 3-pointer from 25 ft,GSW trails 11-25
+2016-12-10,False,MEM,True,365,273,2,05:35,Made 3-pointer from 26 ft,GSW now trails 32-43
+2016-12-10,False,MEM,False,345,282,2,03:52,Missed 3-pointer from 25 ft,GSW trails 34-48
+2016-12-10,False,MEM,False,445,209,2,03:03,Missed 3-pointer from 26 ft,GSW trails 34-50
+2016-12-10,False,MEM,False,304,292,2,00:04,Missed 3-pointer from 25 ft,GSW trails 38-61
+2016-12-10,False,MEM,True,345,294,3,06:41,Made 3-pointer from 27 ft,GSW now trails 54-77
+2016-12-10,False,MEM,False,308,292,3,06:09,Missed 3-pointer from 25 ft,GSW trails 54-78
+2016-12-10,False,MEM,False,270,57,3,04:42,Missed 2-pointer from 3 ft,GSW trails 58-83
+2016-12-10,False,MEM,False,216,44,3,04:12,Missed 2-pointer from 2 ft,GSW trails 58-83
+2016-12-10,False,MEM,True,377,264,3,01:33,Made 3-pointer from 25 ft,GSW now trails 65-85
+2016-12-10,False,MEM,False,134,284,3,00:37,Missed 3-pointer from 26 ft,GSW trails 65-85
+2016-12-11,False,MIN,False,74,233,1,07:51,Missed 3-pointer from 25 ft,GSW leads 9-8
+2016-12-11,False,MIN,False,339,219,1,03:24,Missed 2-pointer from 20 ft,GSW leads 22-21
+2016-12-11,False,MIN,False,373,181,1,02:49,Missed 2-pointer from 19 ft,GSW trails 22-23
+2016-12-11,False,MIN,True,246,71,1,01:14,Made 2-pointer from 2 ft,GSW now trails 26-27
+2016-12-11,False,MIN,False,264,81,2,00:30,Missed 2-pointer from 4 ft,GSW tied 58-58
+2016-12-11,False,MIN,True,229,66,2,00:19,Made 2-pointer from 2 ft,GSW now leads 60-58
+2016-12-11,False,MIN,False,252,57,3,10:22,Missed 2-pointer from 1 ft,GSW tied 62-62
+2016-12-11,False,MIN,True,368,194,3,07:23,Made 2-pointer from 19 ft,GSW now trails 69-70
+2016-12-11,False,MIN,True,113,264,3,06:30,Made 3-pointer from 25 ft,GSW now trails 72-73
+2016-12-11,False,MIN,True,240,302,3,05:58,Made 3-pointer from 25 ft,GSW now leads 75-74
+2016-12-11,False,MIN,False,378,263,3,04:51,Missed 3-pointer from 25 ft,GSW leads 77-76
+2016-12-11,False,MIN,False,380,263,3,00:03,Missed 3-pointer from 25 ft,GSW trails 78-86
+2016-12-11,False,MIN,True,254,57,4,03:34,Made 2-pointer from 2 ft,GSW now leads 108-98
+2016-12-13,False,NOP,False,75,240,1,11:23,Missed 3-pointer from 25 ft,GSW trails 0-2
+2016-12-13,False,NOP,False,370,58,1,05:17,Missed 2-pointer from 13 ft,GSW trails 12-20
+2016-12-13,False,NOP,True,77,253,1,04:51,Made 3-pointer from 26 ft,GSW now trails 15-20
+2016-12-13,False,NOP,True,7,91,1,04:16,Made 3-pointer from 24 ft,GSW now trails 18-20
+2016-12-13,False,NOP,True,246,317,1,02:29,Made 3-pointer from 27 ft,GSW now leads 25-22
+2016-12-13,False,NOP,False,434,233,1,02:04,Missed 3-pointer from 27 ft,GSW leads 25-24
+2016-12-13,False,NOP,True,218,53,1,01:08,Made 2-pointer from 2 ft,GSW now trails 27-30
+2016-12-13,False,NOP,True,264,57,2,00:29,Made 2-pointer from 3 ft,GSW now trails 58-65
+2016-12-13,False,NOP,True,252,58,3,10:42,Made 2-pointer from 1 ft,GSW now trails 64-67
+2016-12-13,False,NOP,True,31,215,3,09:40,Made 3-pointer from 27 ft,GSW now trails 68-72
+2016-12-13,False,NOP,True,329,299,3,08:40,Made 3-pointer from 26 ft,GSW now trails 73-74
+2016-12-13,False,NOP,True,386,219,3,06:19,Made 2-pointer from 22 ft,GSW now leads 81-75
+2016-12-13,False,NOP,False,355,161,3,05:18,Missed 2-pointer from 16 ft,GSW leads 83-77
+2016-12-13,False,NOP,False,220,58,3,03:51,Missed 2-pointer from 2 ft,GSW leads 87-82
+2016-12-13,False,NOP,False,388,66,3,02:55,Missed 2-pointer from 15 ft,GSW leads 87-85
+2016-12-13,False,NOP,False,390,106,3,02:22,Missed 2-pointer from 16 ft,GSW trails 87-88
+2016-12-13,False,NOP,False,255,57,3,01:36,Missed 2-pointer from 2 ft,GSW trails 90-91
+2016-12-13,False,NOP,False,226,52,4,05:35,Missed 2-pointer from 1 ft,GSW trails 104-105
+2016-12-13,False,NOP,False,337,289,4,04:33,Missed 3-pointer from 26 ft,GSW tied 107-107
+2016-12-13,False,NOP,True,40,69,4,03:14,Made 2-pointer from 20 ft,GSW now leads 109-108
+2016-12-13,False,NOP,True,216,57,4,01:53,Made 2-pointer from 3 ft,GSW now leads 111-108
+2016-12-13,False,NOP,False,62,155,4,00:48,Missed 2-pointer from 21 ft,GSW leads 111-108
+2016-12-15,True,NYK,False,43,245,1,10:13,Missed 3-pointer from 28 ft,GSW trails 0-2
+2016-12-15,True,NYK,False,46,233,1,06:09,Missed 3-pointer from 27 ft,GSW leads 12-8
+2016-12-15,True,NYK,False,264,93,2,11:35,Missed 2-pointer from 5 ft,GSW leads 32-25
+2016-12-15,True,NYK,False,143,204,2,10:26,Missed 2-pointer from 18 ft,GSW leads 32-25
+2016-12-15,True,NYK,False,249,58,2,07:40,Missed 2-pointer from 1 ft,GSW leads 40-30
+2016-12-15,True,NYK,False,249,58,2,07:40,Missed 2-pointer from 1 ft,GSW leads 40-30
+2016-12-15,True,NYK,True,54,219,2,05:34,Made 3-pointer from 25 ft,GSW now leads 45-37
+2016-12-15,True,NYK,False,79,294,2,03:13,Missed 3-pointer from 29 ft,GSW leads 52-41
+2016-12-15,True,NYK,True,470,66,2,02:23,Made 3-pointer from 23 ft,GSW now leads 55-43
+2016-12-15,True,NYK,True,265,71,3,03:51,Made 2-pointer from 3 ft,GSW now leads 81-58
+2016-12-15,True,NYK,False,238,312,3,03:25,Missed 3-pointer from 26 ft,GSW leads 81-58
+2016-12-15,True,NYK,False,25,112,3,01:42,Missed 2-pointer from 22 ft,GSW leads 83-61
+2016-12-15,True,NYK,False,85,268,4,05:27,Missed 3-pointer from 27 ft,GSW leads 98-80
+2016-12-15,True,NYK,False,246,322,4,05:00,Missed 3-pointer from 27 ft,GSW leads 98-80
+2016-12-17,True,POR,True,71,279,1,09:13,Made 3-pointer from 28 ft,GSW now leads 9-5
+2016-12-17,True,POR,True,21,194,1,08:40,Made 3-pointer from 26 ft,GSW now leads 12-7
+2016-12-17,True,POR,True,463,137,1,07:37,Made 3-pointer from 24 ft,GSW now leads 18-12
+2016-12-17,True,POR,False,20,189,1,04:08,Missed 3-pointer from 26 ft,GSW leads 24-15
+2016-12-17,True,POR,True,239,73,1,03:20,Made 2-pointer from 2 ft,GSW now leads 26-15
+2016-12-17,True,POR,False,231,120,2,05:32,Missed 2-pointer from 7 ft,GSW leads 57-30
+2016-12-17,True,POR,False,234,297,2,05:09,Missed 3-pointer from 25 ft,GSW leads 58-32
+2016-12-17,True,POR,False,249,66,2,02:51,Missed 2-pointer from 2 ft,GSW leads 62-37
+2016-12-17,True,POR,True,372,332,3,07:41,Made 3-pointer from 31 ft,GSW now leads 84-51
+2016-12-17,True,POR,False,401,260,3,07:11,Missed 3-pointer from 26 ft,GSW leads 84-51
+2016-12-17,True,POR,True,98,289,3,00:00,Made 3-pointer from 28 ft,GSW now leads 108-72
+2016-12-20,True,UTA,False,367,199,1,08:13,Missed 2-pointer from 20 ft,GSW tied 2-2
+2016-12-20,True,UTA,False,470,52,1,07:45,Missed 3-pointer from 23 ft,GSW leads 4-2
+2016-12-20,True,UTA,True,166,294,1,04:22,Made 3-pointer from 26 ft,GSW now leads 11-8
+2016-12-20,True,UTA,True,238,57,1,03:28,Made 2-pointer from 1 ft,GSW now leads 13-10
+2016-12-20,True,UTA,False,113,282,1,02:51,Missed 3-pointer from 26 ft,GSW leads 13-10
+2016-12-20,True,UTA,True,242,71,1,01:49,Made 2-pointer from 2 ft,GSW now leads 17-12
+2016-12-20,True,UTA,False,231,78,1,01:00,Missed 2-pointer from 3 ft,GSW leads 17-12
+2016-12-20,True,UTA,False,177,228,1,00:39,Missed 2-pointer from 19 ft,GSW leads 19-15
+2016-12-20,True,UTA,False,332,120,2,05:29,Missed 2-pointer from 12 ft,GSW leads 32-25
+2016-12-20,True,UTA,True,239,66,2,01:36,Made 2-pointer from 2 ft,GSW now leads 47-30
+2016-12-20,True,UTA,True,368,269,2,00:28,Made 3-pointer from 25 ft,GSW now leads 55-31
+2016-12-20,True,UTA,False,313,297,3,10:45,Missed 3-pointer from 26 ft,GSW leads 57-36
+2016-12-20,True,UTA,True,239,52,3,08:58,Made 2-pointer from 0 ft,GSW now leads 61-39
+2016-12-20,True,UTA,True,272,312,3,08:25,Made 3-pointer from 26 ft,GSW now leads 64-39
+2016-12-20,True,UTA,False,41,194,3,07:30,Missed 3-pointer from 25 ft,GSW leads 64-41
+2016-12-20,True,UTA,False,233,57,3,03:42,Missed 2-pointer from 1 ft,GSW leads 73-46
+2016-12-20,True,UTA,True,409,233,3,01:24,Made 3-pointer from 25 ft,GSW now leads 78-49
+2016-12-20,True,UTA,False,339,292,3,00:04,Missed 3-pointer from 26 ft,GSW leads 82-54
+2016-12-22,False,BRK,False,115,263,1,06:58,Missed 3-pointer from 25 ft,GSW trails 12-18
+2016-12-22,False,BRK,True,100,86,1,04:50,Made 2-pointer from 14 ft,GSW now tied 20-20
+2016-12-22,False,BRK,False,8,31,1,02:51,Missed 3-pointer from 23 ft,GSW leads 27-26
+2016-12-22,False,BRK,False,390,255,1,02:06,Missed 3-pointer from 25 ft,GSW leads 28-26
+2016-12-22,False,BRK,False,18,127,1,01:40,Missed 3-pointer from 24 ft,GSW trails 28-29
+2016-12-22,False,BRK,True,467,49,1,01:06,Made 3-pointer from 23 ft,GSW now leads 31-29
+2016-12-22,False,BRK,False,326,194,2,05:23,Missed 2-pointer from 17 ft,GSW trails 43-57
+2016-12-22,False,BRK,False,218,44,2,01:59,Missed 2-pointer from 2 ft,GSW trails 47-61
+2016-12-22,False,BRK,True,136,150,2,00:39,Made 2-pointer from 14 ft,GSW now trails 49-63
+2016-12-22,False,BRK,False,7,91,2,00:23,Missed 3-pointer from 24 ft,GSW trails 49-63
+2016-12-22,False,BRK,True,334,273,3,10:49,Made 3-pointer from 24 ft,GSW now trails 57-65
+2016-12-22,False,BRK,False,424,209,3,10:15,Missed 3-pointer from 24 ft,GSW trails 57-65
+2016-12-22,False,BRK,True,31,71,3,09:28,Made 2-pointer from 21 ft,GSW now trails 61-65
+2016-12-22,False,BRK,False,354,76,3,06:45,Missed 2-pointer from 12 ft,GSW trails 66-70
+2016-12-22,False,BRK,False,0,44,4,06:22,Missed 3-pointer from 24 ft,GSW leads 101-91
+2016-12-22,False,BRK,False,334,278,4,05:29,Missed 3-pointer from 25 ft,GSW leads 103-91
+2016-12-22,False,BRK,True,61,253,4,04:12,Made 3-pointer from 27 ft,GSW now leads 108-93
+2016-12-23,False,DET,True,267,215,1,07:44,Made 2-pointer from 16 ft,GSW now leads 15-13
+2016-12-23,False,DET,True,3,58,1,01:00,Made 3-pointer from 24 ft,GSW now leads 30-28
+2016-12-23,False,DET,False,238,49,2,04:46,Missed 2-pointer from 0 ft,GSW trails 48-50
+2016-12-23,False,DET,False,48,209,2,04:14,Missed 3-pointer from 24 ft,GSW trails 48-50
+2016-12-23,False,DET,True,13,179,2,02:55,Made 3-pointer from 26 ft,GSW now trails 51-52
+2016-12-23,False,DET,False,108,273,2,00:32,Missed 3-pointer from 26 ft,GSW trails 55-59
+2016-12-23,False,DET,False,233,150,3,10:50,Missed 2-pointer from 10 ft,GSW trails 57-61
+2016-12-23,False,DET,False,460,179,3,08:47,Missed 3-pointer from 25 ft,GSW trails 61-65
+2016-12-23,False,DET,True,476,130,3,07:25,Made 3-pointer from 24 ft,GSW now trails 67-69
+2016-12-23,False,DET,False,453,191,3,03:34,Missed 3-pointer from 25 ft,GSW leads 81-78
+2016-12-23,False,DET,True,465,189,3,02:27,Made 3-pointer from 26 ft,GSW now leads 86-78
+2016-12-23,False,DET,False,381,151,3,01:21,Missed 2-pointer from 17 ft,GSW leads 86-82
+2016-12-23,False,DET,True,239,53,4,03:48,Made 2-pointer from 0 ft,GSW now tied 104-104
+2016-12-23,False,DET,True,108,278,4,03:14,Made 3-pointer from 26 ft,GSW now leads 107-104
+2016-12-23,False,DET,False,396,125,4,02:34,Missed 2-pointer from 17 ft,GSW tied 107-107
+2016-12-25,False,CLE,False,5,140,1,04:36,Missed 3-pointer from 25 ft,GSW tied 14-14
+2016-12-25,False,CLE,False,2,165,1,02:07,Missed 3-pointer from 26 ft,GSW leads 20-16
+2016-12-25,False,CLE,True,0,52,2,04:15,Made 3-pointer from 24 ft,GSW now leads 49-38
+2016-12-25,False,CLE,False,193,137,2,02:47,Missed 2-pointer from 10 ft,GSW leads 50-44
+2016-12-25,False,CLE,False,7,170,2,00:00,Missed 3-pointer from 26 ft,GSW leads 55-52
+2016-12-25,False,CLE,True,259,101,3,09:36,Made 2-pointer from 5 ft,GSW now leads 62-56
+2016-12-25,False,CLE,False,378,263,3,08:43,Missed 3-pointer from 25 ft,GSW leads 64-60
+2016-12-25,False,CLE,False,138,171,3,06:54,Missed 2-pointer from 16 ft,GSW leads 67-66
+2016-12-25,False,CLE,False,435,209,4,05:31,Missed 3-pointer from 25 ft,GSW leads 97-94
+2016-12-25,False,CLE,True,241,45,4,04:28,Made 2-pointer from 1 ft,GSW now leads 101-97
+2016-12-25,False,CLE,True,12,166,4,01:14,Made 3-pointer from 26 ft,GSW now leads 108-105
+2016-12-28,True,TOR,True,300,165,1,08:46,Made 2-pointer from 13 ft,GSW now leads 13-4
+2016-12-28,True,TOR,True,211,322,1,07:49,Made 3-pointer from 27 ft,GSW now leads 19-4
+2016-12-28,True,TOR,False,314,317,1,05:51,Missed 3-pointer from 28 ft,GSW leads 24-8
+2016-12-28,True,TOR,False,149,294,1,01:13,Missed 3-pointer from 26 ft,GSW leads 35-14
+2016-12-28,True,TOR,False,220,130,1,00:05,Missed 2-pointer from 8 ft,GSW leads 40-17
+2016-12-28,True,TOR,True,238,52,2,02:43,Made 2-pointer from 0 ft,GSW now leads 58-51
+2016-12-28,True,TOR,True,93,279,2,00:35,Made 3-pointer from 27 ft,GSW now leads 69-55
+2016-12-28,True,TOR,False,116,204,3,11:36,Missed 2-pointer from 20 ft,GSW leads 72-55
+2016-12-28,True,TOR,False,224,233,3,08:52,Missed 2-pointer from 18 ft,GSW leads 75-64
+2016-12-28,True,TOR,True,5,106,3,08:22,Made 3-pointer from 24 ft,GSW now leads 78-64
+2016-12-28,True,TOR,True,231,58,3,03:54,Made 2-pointer from 1 ft,GSW now leads 97-78
+2016-12-28,True,TOR,True,148,101,3,01:36,Made 2-pointer from 11 ft,GSW now leads 101-81
+2016-12-28,True,TOR,False,355,189,4,05:54,Missed 2-pointer from 18 ft,GSW leads 112-100
+2016-12-28,True,TOR,False,221,68,4,05:44,Missed 2-pointer from 3 ft,GSW leads 112-100
+2016-12-28,True,TOR,True,228,61,4,05:24,Made 2-pointer from 2 ft,GSW now leads 114-103
+2016-12-28,True,TOR,False,447,209,4,04:25,Missed 3-pointer from 26 ft,GSW leads 114-105
+2016-12-28,True,TOR,False,246,71,4,02:45,Missed 2-pointer from 2 ft,GSW leads 114-109
+2016-12-28,True,TOR,True,240,66,4,00:14,Made 2-pointer from 2 ft,GSW now leads 121-111
+2016-12-30,True,DAL,True,465,115,1,09:50,Made 3-pointer from 23 ft,GSW now trails 5-7
+2016-12-30,True,DAL,False,59,287,1,07:58,Missed 3-pointer from 30 ft,GSW trails 9-10
+2016-12-30,True,DAL,True,242,57,1,07:31,Made 2-pointer from 1 ft,GSW now leads 11-10
+2016-12-30,True,DAL,True,391,268,1,04:02,Made 3-pointer from 27 ft,GSW now leads 23-22
+2016-12-30,True,DAL,False,290,307,1,02:43,Missed 3-pointer from 26 ft,GSW tied 25-25
+2016-12-30,True,DAL,False,220,69,1,02:06,Missed 2-pointer from 3 ft,GSW tied 25-25
+2016-12-30,True,DAL,True,26,83,1,00:44,Made 2-pointer from 22 ft,GSW now tied 29-29
+2016-12-30,True,DAL,False,236,73,2,02:13,Missed 2-pointer from 2 ft,GSW leads 59-46
+2016-12-30,True,DAL,True,445,199,3,11:18,Made 3-pointer from 25 ft,GSW now leads 62-48
+2016-12-30,True,DAL,False,250,73,3,08:54,Missed 2-pointer from 3 ft,GSW leads 67-54
+2016-12-30,True,DAL,False,309,298,3,01:47,Missed 3-pointer from 26 ft,GSW leads 89-64
+2016-12-30,True,DAL,False,393,81,3,01:11,Missed 2-pointer from 16 ft,GSW leads 89-66
+2017-01-02,True,DEN,True,74,243,1,06:14,Made 3-pointer from 25 ft,GSW now leads 19-15
+2017-01-02,True,DEN,False,257,61,1,02:24,Missed 2-pointer from 2 ft,GSW leads 26-24
+2017-01-02,True,DEN,True,241,61,1,00:53,Made 2-pointer from 1 ft,GSW now leads 32-31
+2017-01-02,True,DEN,False,59,253,1,00:28,Missed 3-pointer from 27 ft,GSW leads 33-31
+2017-01-02,True,DEN,True,355,224,2,05:16,Made 2-pointer from 21 ft,GSW now leads 53-52
+2017-01-02,True,DEN,True,179,382,2,04:54,Made 3-pointer from 34 ft,GSW now leads 56-52
+2017-01-02,True,DEN,False,187,323,2,03:06,Missed 3-pointer from 28 ft,GSW leads 60-56
+2017-01-02,True,DEN,False,244,76,2,01:11,Missed 2-pointer from 3 ft,GSW leads 65-60
+2017-01-02,True,DEN,True,360,201,3,11:27,Made 2-pointer from 19 ft,GSW now leads 70-66
+2017-01-02,True,DEN,False,380,184,3,08:35,Missed 2-pointer from 19 ft,GSW leads 76-70
+2017-01-02,True,DEN,False,296,338,3,07:28,Missed 3-pointer from 29 ft,GSW leads 80-70
+2017-01-02,True,DEN,False,231,314,3,05:25,Missed 3-pointer from 26 ft,GSW leads 82-74
+2017-01-02,True,DEN,True,241,68,3,03:06,Made 2-pointer from 2 ft,GSW now leads 88-80
+2017-01-02,True,DEN,False,267,348,3,02:10,Missed 3-pointer from 30 ft,GSW leads 88-80
+2017-01-02,True,DEN,True,244,206,3,00:59,Made 2-pointer from 16 ft,GSW now leads 92-80
+2017-01-02,True,DEN,True,381,309,4,03:53,Made 3-pointer from 29 ft,GSW now leads 118-104
+2017-01-02,True,DEN,False,301,238,4,01:47,Missed 2-pointer from 20 ft,GSW leads 121-113
+2017-01-02,True,DEN,False,476,106,4,00:30,Missed 3-pointer from 24 ft,GSW leads 123-117
+2017-01-04,True,POR,True,211,302,1,11:22,Made 3-pointer from 25 ft,GSW now leads 3-0
+2017-01-04,True,POR,False,262,332,1,08:55,Missed 3-pointer from 28 ft,GSW leads 12-7
+2017-01-04,True,POR,True,233,76,1,05:53,Made 2-pointer from 2 ft,GSW now leads 24-18
+2017-01-04,True,POR,False,303,289,1,04:27,Missed 3-pointer from 24 ft,GSW leads 24-23
+2017-01-04,True,POR,False,131,294,1,00:56,Missed 3-pointer from 27 ft,GSW leads 38-30
+2017-01-04,True,POR,True,342,278,2,04:05,Made 3-pointer from 24 ft,GSW now leads 57-49
+2017-01-04,True,POR,False,277,250,2,03:42,Missed 2-pointer from 20 ft,GSW leads 57-52
+2017-01-04,True,POR,True,226,111,2,03:21,Made 2-pointer from 6 ft,GSW now leads 59-54
+2017-01-04,True,POR,False,179,135,2,02:52,Missed 2-pointer from 10 ft,GSW leads 59-57
+2017-01-04,True,POR,False,121,289,2,01:01,Missed 3-pointer from 26 ft,GSW trails 63-69
+2017-01-04,True,POR,False,121,289,2,01:00,Missed 3-pointer from 27 ft,GSW trails 63-69
+2017-01-04,True,POR,True,236,76,2,00:06,Made 2-pointer from 3 ft,GSW now trails 69-71
+2017-01-04,True,POR,False,327,209,3,11:15,Missed 2-pointer from 18 ft,GSW trails 69-73
+2017-01-04,True,POR,True,388,304,3,08:41,Made 3-pointer from 29 ft,GSW now leads 79-74
+2017-01-04,True,POR,True,249,52,3,08:18,Made 2-pointer from 0 ft,GSW now leads 81-74
+2017-01-04,True,POR,True,239,132,3,04:25,Made 2-pointer from 8 ft,GSW now leads 92-84
+2017-01-04,True,POR,False,463,71,3,03:46,Missed 3-pointer from 22 ft,GSW leads 92-85
+2017-01-04,True,POR,True,468,96,3,03:40,Made 3-pointer from 23 ft,GSW now leads 95-85
+2017-01-04,True,POR,True,229,147,3,02:01,Made 2-pointer from 9 ft,GSW now leads 97-88
+2017-01-04,True,POR,True,241,179,4,05:11,Made 2-pointer from 12 ft,GSW now leads 113-105
+2017-01-04,True,POR,False,233,332,4,04:09,Missed 3-pointer from 28 ft,GSW leads 113-107
+2017-01-04,True,POR,True,468,78,4,03:09,Made 3-pointer from 22 ft,GSW now leads 118-107
+2017-01-04,True,POR,False,257,248,4,01:37,Missed 2-pointer from 19 ft,GSW leads 123-113
+2017-01-04,True,POR,False,277,284,4,00:32,Missed 2-pointer from 24 ft,GSW leads 123-115
+2017-01-06,True,MEM,True,267,81,1,10:56,Made 2-pointer from 4 ft,GSW now leads 4-2
+2017-01-06,True,MEM,False,331,284,1,10:11,Missed 3-pointer from 25 ft,GSW leads 4-2
+2017-01-06,True,MEM,True,244,61,1,08:39,Made 2-pointer from 1 ft,GSW now leads 8-6
+2017-01-06,True,MEM,True,250,61,1,05:35,Made 2-pointer from 1 ft,GSW now leads 16-8
+2017-01-06,True,MEM,True,250,68,1,04:28,Made 2-pointer from 2 ft,GSW now leads 21-11
+2017-01-06,True,MEM,True,254,73,1,03:33,Made 2-pointer from 3 ft,GSW now leads 23-13
+2017-01-06,True,MEM,False,313,166,1,02:04,Missed 2-pointer from 14 ft,GSW leads 26-19
+2017-01-06,True,MEM,True,224,312,1,01:27,Made 3-pointer from 26 ft,GSW now leads 29-20
+2017-01-06,True,MEM,True,134,189,2,03:53,Made 2-pointer from 17 ft,GSW now leads 56-45
+2017-01-06,True,MEM,False,427,220,2,02:58,Missed 3-pointer from 25 ft,GSW leads 58-47
+2017-01-06,True,MEM,False,202,214,3,11:00,Missed 2-pointer from 17 ft,GSW leads 67-57
+2017-01-06,True,MEM,True,341,287,3,09:23,Made 3-pointer from 26 ft,GSW now leads 74-59
+2017-01-06,True,MEM,True,453,201,3,08:06,Made 3-pointer from 26 ft,GSW now leads 79-62
+2017-01-06,True,MEM,True,447,233,3,06:34,Made 3-pointer from 28 ft,GSW now leads 84-64
+2017-01-06,True,MEM,True,360,282,3,05:16,Made 3-pointer from 26 ft,GSW now leads 87-64
+2017-01-06,True,MEM,True,241,58,3,04:52,Made 2-pointer from 1 ft,GSW now leads 90-66
+2017-01-06,True,MEM,False,406,284,3,04:28,Missed 3-pointer from 29 ft,GSW leads 90-68
+2017-01-06,True,MEM,False,242,57,3,02:50,Missed 2-pointer from 1 ft,GSW leads 94-72
+2017-01-06,True,MEM,True,299,171,3,00:04,Made 2-pointer from 13 ft,GSW now leads 98-79
+2017-01-06,True,MEM,False,406,264,4,05:14,Missed 3-pointer from 27 ft,GSW leads 104-100
+2017-01-06,True,MEM,True,234,156,4,03:14,Made 2-pointer from 11 ft,GSW now leads 108-104
+2017-01-06,True,MEM,True,197,96,4,01:20,Made 2-pointer from 6 ft,GSW now leads 111-107
+2017-01-06,True,MEM,False,337,292,4,00:42,Missed 3-pointer from 26 ft,GSW leads 111-109
+2017-01-06,True,MEM,False,417,351,4,00:01,Missed 3-pointer from 35 ft,GSW tied 111-111
+2017-01-06,True,MEM,False,360,278,1,02:56,Missed 3-pointer from 26 ft,GSW trails 113-117
+2017-01-06,True,MEM,False,231,68,1,00:44,Missed 2-pointer from 2 ft,GSW trails 119-124
+2017-01-06,True,MEM,False,416,282,1,00:12,Missed 3-pointer from 29 ft,GSW trails 119-128
+2017-01-08,False,SAC,True,100,269,1,08:38,Made 3-pointer from 26 ft,GSW now trails 9-12
+2017-01-08,False,SAC,False,444,206,1,07:47,Missed 3-pointer from 26 ft,GSW trails 9-12
+2017-01-08,False,SAC,True,35,194,1,06:38,Made 3-pointer from 25 ft,GSW now trails 14-15
+2017-01-08,False,SAC,False,306,115,1,06:08,Missed 2-pointer from 9 ft,GSW trails 14-17
+2017-01-08,False,SAC,True,408,49,1,03:30,Made 2-pointer from 17 ft,GSW now trails 22-26
+2017-01-08,False,SAC,False,383,53,1,02:54,Missed 2-pointer from 14 ft,GSW trails 22-28
+2017-01-08,False,SAC,False,475,57,1,01:02,Missed 3-pointer from 24 ft,GSW trails 24-30
+2017-01-08,False,SAC,False,416,88,1,00:03,Missed 2-pointer from 18 ft,GSW trails 24-33
+2017-01-08,False,SAC,False,288,287,2,07:06,Missed 3-pointer from 24 ft,GSW trails 32-45
+2017-01-08,False,SAC,True,244,52,2,03:00,Made 2-pointer from 0 ft,GSW now trails 46-54
+2017-01-08,False,SAC,True,255,61,3,09:16,Made 2-pointer from 2 ft,GSW now trails 61-64
+2017-01-08,False,SAC,False,388,194,3,08:21,Missed 2-pointer from 21 ft,GSW trails 62-65
+2017-01-08,False,SAC,True,206,294,3,07:35,Made 3-pointer from 25 ft,GSW now leads 68-65
+2017-01-08,False,SAC,True,377,273,3,03:52,Made 3-pointer from 26 ft,GSW now leads 82-72
+2017-01-08,False,SAC,True,238,71,3,03:01,Made 2-pointer from 2 ft,GSW now leads 84-72
+2017-01-08,False,SAC,False,13,68,3,02:31,Missed 3-pointer from 23 ft,GSW leads 84-73
+2017-01-08,False,SAC,True,264,58,3,01:59,Made 2-pointer from 3 ft,GSW now leads 86-75
+2017-01-08,False,SAC,False,162,206,4,07:15,Missed 2-pointer from 17 ft,GSW leads 95-85
+2017-01-08,False,SAC,True,256,272,4,04:23,Made 2-pointer from 22 ft,GSW now leads 99-89
+2017-01-08,False,SAC,False,72,228,4,04:01,Missed 3-pointer from 24 ft,GSW leads 99-89
+2017-01-08,False,SAC,True,15,61,4,01:52,Made 3-pointer from 23 ft,GSW now leads 112-95
+2017-01-08,False,SAC,False,242,307,4,01:37,Missed 3-pointer from 26 ft,GSW leads 112-98
+2017-01-10,True,MIA,False,7,58,1,10:52,Missed 3-pointer from 23 ft,GSW leads 2-0
+2017-01-10,True,MIA,True,236,258,1,10:00,Made 2-pointer from 21 ft,GSW now trails 4-5
+2017-01-10,True,MIA,False,23,176,1,09:20,Missed 3-pointer from 25 ft,GSW trails 4-8
+2017-01-10,True,MIA,False,250,73,1,08:10,Missed 2-pointer from 3 ft,GSW trails 6-10
+2017-01-10,True,MIA,True,30,214,1,07:52,Made 3-pointer from 27 ft,GSW now trails 9-10
+2017-01-10,True,MIA,True,123,337,1,02:23,Made 3-pointer from 31 ft,GSW now trails 20-25
+2017-01-10,True,MIA,False,255,66,2,05:02,Missed 2-pointer from 2 ft,GSW leads 43-38
+2017-01-10,True,MIA,True,166,287,2,04:03,Made 3-pointer from 25 ft,GSW now leads 48-42
+2017-01-10,True,MIA,False,337,307,2,03:00,Missed 3-pointer from 27 ft,GSW leads 48-46
+2017-01-10,True,MIA,False,221,88,2,01:37,Missed 2-pointer from 4 ft,GSW leads 48-46
+2017-01-10,True,MIA,True,298,228,2,00:39,Made 2-pointer from 19 ft,GSW now tied 51-51
+2017-01-10,True,MIA,True,301,224,3,11:26,Made 2-pointer from 18 ft,GSW now leads 58-54
+2017-01-10,True,MIA,False,98,268,3,10:40,Missed 3-pointer from 26 ft,GSW leads 58-54
+2017-01-10,True,MIA,False,350,204,3,09:33,Missed 2-pointer from 19 ft,GSW leads 60-56
+2017-01-10,True,MIA,False,74,71,3,08:21,Missed 2-pointer from 17 ft,GSW leads 60-56
+2017-01-10,True,MIA,False,259,322,3,05:39,Missed 3-pointer from 27 ft,GSW leads 64-60
+2017-01-10,True,MIA,False,229,76,3,04:07,Missed 2-pointer from 3 ft,GSW leads 67-63
+2017-01-10,True,MIA,False,439,204,3,02:12,Missed 3-pointer from 25 ft,GSW leads 72-66
+2017-01-10,True,MIA,True,64,278,4,03:13,Made 3-pointer from 29 ft,GSW now leads 96-86
+2017-01-10,True,MIA,False,422,243,4,02:29,Missed 3-pointer from 27 ft,GSW leads 96-89
+2017-01-10,True,MIA,True,252,63,4,01:18,Made 2-pointer from 2 ft,GSW now leads 100-89
+2017-01-12,True,DET,True,157,228,1,10:45,Made 2-pointer from 20 ft,GSW now tied 2-2
+2017-01-12,True,DET,True,296,253,1,08:17,Made 2-pointer from 21 ft,GSW now trails 10-11
+2017-01-12,True,DET,True,162,302,1,07:53,Made 3-pointer from 26 ft,GSW now leads 13-11
+2017-01-12,True,DET,True,167,253,1,04:58,Made 2-pointer from 22 ft,GSW now tied 22-22
+2017-01-12,True,DET,True,30,240,1,04:28,Made 3-pointer from 28 ft,GSW now leads 25-22
+2017-01-12,True,DET,False,33,215,1,01:32,Missed 3-pointer from 26 ft,GSW leads 29-28
+2017-01-12,True,DET,True,240,214,1,00:54,Made 2-pointer from 16 ft,GSW now leads 31-30
+2017-01-12,True,DET,False,205,304,2,04:57,Missed 3-pointer from 26 ft,GSW trails 43-44
+2017-01-12,True,DET,True,249,61,2,04:42,Made 2-pointer from 1 ft,GSW now leads 45-44
+2017-01-12,True,DET,False,223,294,2,02:10,Missed 3-pointer from 24 ft,GSW leads 51-50
+2017-01-12,True,DET,True,242,66,2,00:05,Made 2-pointer from 2 ft,GSW now leads 59-58
+2017-01-12,True,DET,False,254,63,3,11:18,Missed 2-pointer from 2 ft,GSW leads 62-58
+2017-01-12,True,DET,False,80,264,3,06:49,Missed 3-pointer from 27 ft,GSW leads 73-65
+2017-01-12,True,DET,False,419,243,3,04:56,Missed 3-pointer from 26 ft,GSW leads 78-68
+2017-01-12,True,DET,False,249,63,3,02:56,Missed 2-pointer from 2 ft,GSW leads 86-73
+2017-01-12,True,DET,False,97,268,3,02:03,Missed 3-pointer from 26 ft,GSW leads 91-73
+2017-01-12,True,DET,True,133,282,3,00:49,Made 3-pointer from 26 ft,GSW now leads 98-75
+2017-01-16,True,CLE,True,220,66,1,11:41,Made 2-pointer from 3 ft,GSW now leads 2-0
+2017-01-16,True,CLE,False,221,351,1,10:56,Missed 3-pointer from 30 ft,GSW leads 5-0
+2017-01-16,True,CLE,False,12,83,1,10:03,Missed 3-pointer from 23 ft,GSW leads 7-0
+2017-01-16,True,CLE,False,39,204,1,08:30,Missed 3-pointer from 25 ft,GSW leads 9-2
+2017-01-16,True,CLE,False,239,76,1,04:57,Missed 2-pointer from 3 ft,GSW leads 19-12
+2017-01-16,True,CLE,True,38,243,1,03:58,Made 3-pointer from 28 ft,GSW now leads 25-14
+2017-01-16,True,CLE,True,246,312,1,00:12,Made 3-pointer from 26 ft,GSW now leads 37-22
+2017-01-16,True,CLE,False,336,289,2,04:31,Missed 3-pointer from 26 ft,GSW leads 58-44
+2017-01-16,True,CLE,False,244,52,2,04:18,Missed 2-pointer from 0 ft,GSW leads 58-44
+2017-01-16,True,CLE,True,53,170,2,02:34,Made 2-pointer from 22 ft,GSW now leads 67-46
+2017-01-16,True,CLE,True,357,294,2,00:02,Made 3-pointer from 27 ft,GSW now leads 78-49
+2017-01-16,True,CLE,True,408,243,3,10:49,Made 3-pointer from 26 ft,GSW now leads 84-49
+2017-01-16,True,CLE,False,370,189,3,09:32,Missed 2-pointer from 19 ft,GSW leads 84-49
+2017-01-16,True,CLE,False,257,76,3,08:10,Missed 2-pointer from 3 ft,GSW leads 86-55
+2017-01-16,True,CLE,False,470,61,3,06:23,Missed 3-pointer from 23 ft,GSW leads 89-58
+2017-01-16,True,CLE,True,347,273,3,05:15,Made 3-pointer from 25 ft,GSW now leads 92-58
+2017-01-16,True,CLE,False,336,186,3,02:48,Missed 2-pointer from 17 ft,GSW leads 94-61
+2017-01-16,True,CLE,False,435,215,3,01:28,Missed 3-pointer from 26 ft,GSW leads 94-68
+2017-01-16,True,CLE,False,262,76,3,00:11,Missed 2-pointer from 3 ft,GSW leads 95-71
+2017-01-16,True,CLE,False,90,260,3,00:02,Missed 3-pointer from 26 ft,GSW leads 95-71
+2017-01-18,True,OKC,False,226,127,1,09:32,Missed 2-pointer from 8 ft,GSW trails 4-5
+2017-01-18,True,OKC,True,234,341,1,08:28,Made 3-pointer from 29 ft,GSW now leads 12-5
+2017-01-18,True,OKC,True,239,76,1,07:08,Made 2-pointer from 3 ft,GSW now leads 14-8
+2017-01-18,True,OKC,True,236,52,1,05:58,Made 2-pointer from 0 ft,GSW now leads 18-13
+2017-01-18,True,OKC,False,102,282,1,03:48,Missed 3-pointer from 27 ft,GSW tied 22-22
+2017-01-18,True,OKC,True,229,76,1,02:51,Made 2-pointer from 3 ft,GSW now trails 24-25
+2017-01-18,True,OKC,False,123,243,1,02:41,Missed 2-pointer from 23 ft,GSW trails 24-25
+2017-01-18,True,OKC,False,244,45,2,03:51,Missed 2-pointer from 1 ft,GSW leads 50-47
+2017-01-18,True,OKC,False,221,63,2,02:52,Missed 2-pointer from 2 ft,GSW leads 51-48
+2017-01-18,True,OKC,True,239,71,2,01:01,Made 2-pointer from 2 ft,GSW now leads 53-50
+2017-01-18,True,OKC,False,197,333,2,00:39,Missed 3-pointer from 29 ft,GSW leads 53-52
+2017-01-18,True,OKC,True,254,57,2,00:15,Made 2-pointer from 2 ft,GSW now leads 56-52
+2017-01-18,True,OKC,True,255,327,3,05:45,Made 3-pointer from 28 ft,GSW now leads 78-69
+2017-01-18,True,OKC,True,238,53,3,04:21,Made 2-pointer from 0 ft,GSW now leads 84-74
+2017-01-18,True,OKC,False,233,61,3,02:18,Missed 2-pointer from 1 ft,GSW leads 89-76
+2017-01-18,True,OKC,False,241,66,3,00:42,Missed 2-pointer from 2 ft,GSW leads 93-78
+2017-01-18,True,OKC,False,226,319,4,04:48,Missed 3-pointer from 27 ft,GSW leads 110-90
+2017-01-18,True,OKC,True,238,63,4,02:13,Made 2-pointer from 1 ft,GSW now leads 117-94
+2017-01-20,False,HOU,False,250,314,1,11:25,Missed 3-pointer from 26 ft,GSW trails 0-2
+2017-01-20,False,HOU,True,255,61,1,10:37,Made 2-pointer from 2 ft,GSW now tied 4-4
+2017-01-20,False,HOU,True,244,66,1,06:04,Made 2-pointer from 2 ft,GSW now leads 16-15
+2017-01-20,False,HOU,True,79,242,1,02:20,Made 3-pointer from 25 ft,GSW now leads 30-22
+2017-01-20,False,HOU,False,53,228,1,01:58,Missed 3-pointer from 26 ft,GSW leads 30-24
+2017-01-20,False,HOU,True,404,160,1,00:57,Made 2-pointer from 20 ft,GSW now leads 32-27
+2017-01-20,False,HOU,False,409,258,2,05:08,Missed 3-pointer from 27 ft,GSW leads 52-40
+2017-01-20,False,HOU,False,381,186,2,00:39,Missed 2-pointer from 20 ft,GSW leads 59-55
+2017-01-20,False,HOU,True,159,282,2,00:01,Made 3-pointer from 25 ft,GSW now leads 62-57
+2017-01-20,False,HOU,False,64,253,3,09:22,Missed 3-pointer from 27 ft,GSW leads 72-61
+2017-01-20,False,HOU,True,254,333,3,06:14,Made 3-pointer from 28 ft,GSW now leads 84-67
+2017-01-20,False,HOU,True,372,253,3,05:58,Made 3-pointer from 24 ft,GSW now leads 87-67
+2017-01-20,False,HOU,False,257,61,3,04:10,Missed 2-pointer from 2 ft,GSW leads 91-71
+2017-01-20,False,HOU,False,247,323,3,01:25,Missed 3-pointer from 27 ft,GSW leads 97-79
+2017-01-20,False,HOU,False,444,191,3,00:02,Missed 3-pointer from 25 ft,GSW leads 99-79
+2017-01-20,False,HOU,False,53,81,4,05:15,Missed 2-pointer from 19 ft,GSW leads 110-91
+2017-01-20,False,HOU,False,424,86,4,04:50,Missed 2-pointer from 19 ft,GSW leads 110-91
+2017-01-20,False,HOU,True,7,86,4,03:20,Made 3-pointer from 24 ft,GSW now leads 117-93
+2017-01-22,False,ORL,False,424,228,1,08:45,Missed 3-pointer from 26 ft,GSW leads 7-6
+2017-01-22,False,ORL,True,143,294,1,04:47,Made 3-pointer from 26 ft,GSW now trails 13-16
+2017-01-22,False,ORL,True,268,57,1,04:18,Made 2-pointer from 3 ft,GSW now trails 15-18
+2017-01-22,False,ORL,False,372,268,1,04:00,Missed 3-pointer from 25 ft,GSW trails 15-20
+2017-01-22,False,ORL,False,228,58,1,00:00,Missed 2-pointer from 1 ft,GSW leads 28-22
+2017-01-22,False,ORL,True,250,332,2,02:51,Made 3-pointer from 28 ft,GSW now trails 40-45
+2017-01-22,False,ORL,True,10,61,2,01:03,Made 3-pointer from 23 ft,GSW now tied 47-47
+2017-01-22,False,ORL,False,476,61,3,10:51,Missed 3-pointer from 24 ft,GSW trails 50-53
+2017-01-22,False,ORL,True,478,145,3,09:58,Made 3-pointer from 26 ft,GSW now trails 53-55
+2017-01-22,False,ORL,True,385,284,3,06:54,Made 3-pointer from 28 ft,GSW now leads 69-57
+2017-01-22,False,ORL,False,440,215,3,05:19,Missed 3-pointer from 26 ft,GSW leads 72-63
+2017-01-22,False,ORL,False,223,302,3,02:49,Missed 3-pointer from 25 ft,GSW leads 79-70
+2017-01-22,False,ORL,True,18,39,3,01:30,Made 3-pointer from 22 ft,GSW now leads 87-70
+2017-01-22,False,ORL,True,417,289,3,01:09,Made 3-pointer from 30 ft,GSW now leads 90-70
+2017-01-22,False,ORL,False,175,332,3,00:06,Missed 3-pointer from 29 ft,GSW leads 92-74
+2017-01-23,False,MIA,True,249,297,1,10:23,Made 3-pointer from 25 ft,GSW now trails 3-4
+2017-01-23,False,MIA,False,30,176,1,09:55,Missed 3-pointer from 24 ft,GSW trails 3-4
+2017-01-23,False,MIA,False,262,58,1,09:31,Missed 2-pointer from 2 ft,GSW trails 3-6
+2017-01-23,False,MIA,False,240,61,1,07:31,Missed 2-pointer from 1 ft,GSW trails 7-11
+2017-01-23,False,MIA,True,107,253,1,05:33,Made 3-pointer from 24 ft,GSW now trails 13-17
+2017-01-23,False,MIA,False,262,219,1,03:42,Missed 2-pointer from 17 ft,GSW trails 15-22
+2017-01-23,False,MIA,False,257,297,1,00:49,Missed 3-pointer from 25 ft,GSW trails 25-28
+2017-01-23,False,MIA,True,262,302,1,00:27,Made 3-pointer from 25 ft,GSW now tied 28-28
+2017-01-23,False,MIA,True,151,52,1,00:00,Made 2-pointer from 9 ft,GSW now leads 30-28
+2017-01-23,False,MIA,False,404,243,2,04:56,Missed 3-pointer from 25 ft,GSW leads 42-40
+2017-01-23,False,MIA,False,249,52,2,02:12,Missed 2-pointer from 1 ft,GSW leads 46-44
+2017-01-23,False,MIA,False,240,66,2,00:32,Missed 2-pointer from 2 ft,GSW leads 48-46
+2017-01-23,False,MIA,True,290,76,3,06:58,Made 2-pointer from 6 ft,GSW now trails 60-61
+2017-01-23,False,MIA,True,177,219,3,05:43,Made 2-pointer from 18 ft,GSW now leads 64-63
+2017-01-23,False,MIA,False,298,289,3,04:07,Missed 3-pointer from 25 ft,GSW leads 69-65
+2017-01-23,False,MIA,False,51,209,3,01:00,Missed 3-pointer from 25 ft,GSW trails 71-75
+2017-01-23,False,MIA,True,249,58,3,00:30,Made 2-pointer from 1 ft,GSW now trails 73-75
+2017-01-23,False,MIA,False,95,263,4,03:52,Missed 3-pointer from 26 ft,GSW trails 88-98
+2017-01-23,False,MIA,False,21,44,4,00:00,Missed 2-pointer from 22 ft,GSW trails 102-105
+2017-01-25,False,CHO,False,303,58,1,10:18,Missed 2-pointer from 6 ft,GSW trails 2-3
+2017-01-25,False,CHO,True,138,171,1,10:02,Made 2-pointer from 16 ft,GSW now leads 4-3
+2017-01-25,False,CHO,True,309,282,1,08:07,Made 3-pointer from 24 ft,GSW now leads 9-3
+2017-01-25,False,CHO,True,226,57,1,05:29,Made 2-pointer from 2 ft,GSW now leads 19-13
+2017-01-25,False,CHO,True,395,269,1,05:02,Made 3-pointer from 27 ft,GSW now leads 22-16
+2017-01-25,False,CHO,False,367,125,1,01:57,Missed 2-pointer from 15 ft,GSW leads 26-23
+2017-01-25,False,CHO,True,385,322,1,01:32,Made 3-pointer from 31 ft,GSW now leads 29-23
+2017-01-25,False,CHO,False,170,353,1,01:04,Missed 3-pointer from 31 ft,GSW leads 29-23
+2017-01-25,False,CHO,False,177,297,2,04:17,Missed 3-pointer from 25 ft,GSW leads 41-34
+2017-01-25,False,CHO,False,249,57,2,03:16,Missed 2-pointer from 1 ft,GSW leads 43-36
+2017-01-25,False,CHO,False,228,52,2,00:02,Missed 2-pointer from 1 ft,GSW leads 53-47
+2017-01-25,False,CHO,False,314,194,3,11:34,Missed 2-pointer from 16 ft,GSW leads 53-49
+2017-01-25,False,CHO,False,318,287,3,06:10,Missed 3-pointer from 25 ft,GSW trails 59-66
+2017-01-25,False,CHO,True,309,287,3,04:53,Made 3-pointer from 25 ft,GSW now trails 66-73
+2017-01-25,False,CHO,True,151,253,3,02:35,Made 2-pointer from 22 ft,GSW now trails 70-73
+2017-01-25,False,CHO,True,233,50,3,01:45,Made 2-pointer from 1 ft,GSW now trails 72-75
+2017-01-25,False,CHO,False,365,337,3,01:07,Missed 3-pointer from 31 ft,GSW trails 73-75
+2017-01-25,False,CHO,True,228,53,4,04:48,Made 2-pointer from 1 ft,GSW now leads 97-94
+2017-01-25,False,CHO,True,473,81,4,03:30,Made 3-pointer from 24 ft,GSW now leads 102-96
+2017-01-25,False,CHO,False,239,73,4,02:33,Missed 2-pointer from 2 ft,GSW leads 104-101
+2017-01-25,False,CHO,True,363,263,4,01:08,Made 3-pointer from 25 ft,GSW now leads 113-101
+2017-01-25,False,CHO,False,421,327,4,00:26,Missed 3-pointer from 33 ft,GSW leads 113-101
+2017-01-28,True,LAC,True,233,66,1,11:22,Made 2-pointer from 2 ft,GSW now trails 2-3
+2017-01-28,True,LAC,True,303,337,1,08:36,Made 3-pointer from 29 ft,GSW now leads 11-7
+2017-01-28,True,LAC,True,233,58,1,06:21,Made 2-pointer from 1 ft,GSW now leads 18-9
+2017-01-28,True,LAC,False,357,274,1,05:34,Missed 3-pointer from 25 ft,GSW leads 18-9
+2017-01-28,True,LAC,False,203,302,1,02:10,Missed 3-pointer from 25 ft,GSW leads 24-20
+2017-01-28,True,LAC,False,352,214,1,01:34,Missed 2-pointer from 20 ft,GSW leads 24-20
+2017-01-28,True,LAC,True,3,63,1,01:05,Made 3-pointer from 24 ft,GSW now leads 29-20
+2017-01-28,True,LAC,True,236,52,1,00:34,Made 2-pointer from 0 ft,GSW now leads 31-20
+2017-01-28,True,LAC,False,367,282,1,00:06,Missed 3-pointer from 26 ft,GSW leads 31-22
+2017-01-28,True,LAC,False,260,66,2,04:40,Missed 2-pointer from 3 ft,GSW leads 48-38
+2017-01-28,True,LAC,True,28,224,2,02:38,Made 3-pointer from 27 ft,GSW now leads 55-42
+2017-01-28,True,LAC,True,221,191,3,11:20,Made 2-pointer from 14 ft,GSW now leads 74-51
+2017-01-28,True,LAC,True,249,57,3,09:46,Made 2-pointer from 1 ft,GSW now leads 78-55
+2017-01-28,True,LAC,False,174,309,3,06:58,Missed 3-pointer from 27 ft,GSW leads 84-58
+2017-01-28,True,LAC,True,272,307,3,05:41,Made 3-pointer from 26 ft,GSW now leads 90-61
+2017-01-28,True,LAC,True,408,302,3,03:07,Made 3-pointer from 30 ft,GSW now leads 100-67
+2017-01-28,True,LAC,True,72,273,3,02:45,Made 3-pointer from 28 ft,GSW now leads 103-69
+2017-01-28,True,LAC,True,233,61,3,01:46,Made 2-pointer from 1 ft,GSW now leads 108-72
+2017-01-28,True,LAC,True,383,307,3,01:28,Made 3-pointer from 29 ft,GSW now leads 112-72
+2017-01-28,True,LAC,False,470,88,3,01:05,Missed 3-pointer from 23 ft,GSW leads 112-72
+2017-01-28,True,LAC,True,408,243,3,00:24,Made 3-pointer from 26 ft,GSW now leads 117-74
+2017-02-01,True,CHO,True,44,233,1,11:38,Made 3-pointer from 27 ft,GSW now leads 3-0
+2017-02-01,True,CHO,True,36,204,1,10:22,Made 3-pointer from 26 ft,GSW now leads 6-3
+2017-02-01,True,CHO,True,265,348,1,09:32,Made 3-pointer from 30 ft,GSW now leads 12-5
+2017-02-01,True,CHO,True,30,201,1,06:47,Made 3-pointer from 26 ft,GSW now leads 23-9
+2017-02-01,True,CHO,False,367,294,1,03:25,Missed 3-pointer from 28 ft,GSW leads 33-13
+2017-02-01,True,CHO,False,244,57,1,01:44,Missed 2-pointer from 1 ft,GSW leads 35-17
+2017-02-01,True,CHO,True,44,219,1,01:27,Made 3-pointer from 26 ft,GSW now leads 38-17
+2017-02-01,True,CHO,False,352,287,1,01:04,Missed 3-pointer from 26 ft,GSW leads 38-17
+2017-02-01,True,CHO,True,61,284,1,00:02,Made 3-pointer from 29 ft,GSW now leads 41-21
+2017-02-01,True,CHO,True,390,273,2,03:37,Made 3-pointer from 27 ft,GSW now leads 64-45
+2017-02-01,True,CHO,True,249,61,2,03:12,Made 2-pointer from 1 ft,GSW now leads 66-45
+2017-02-01,True,CHO,True,179,356,2,01:19,Made 3-pointer from 31 ft,GSW now leads 73-51
+2017-02-01,True,CHO,False,36,45,3,09:08,Missed 2-pointer from 20 ft,GSW leads 84-59
+2017-02-01,True,CHO,False,378,278,3,08:36,Missed 3-pointer from 27 ft,GSW leads 84-59
+2017-02-01,True,CHO,True,108,282,3,06:53,Made 3-pointer from 27 ft,GSW now leads 92-64
+2017-02-01,True,CHO,True,233,61,3,06:17,Made 2-pointer from 1 ft,GSW now leads 94-64
+2017-02-01,True,CHO,False,444,194,3,04:58,Missed 3-pointer from 25 ft,GSW leads 98-69
+2017-02-01,True,CHO,True,130,224,3,01:19,Made 2-pointer from 21 ft,GSW now leads 102-79
+2017-02-01,True,CHO,True,26,191,3,00:56,Made 3-pointer from 26 ft,GSW now leads 105-79
+2017-02-01,True,CHO,True,403,287,3,00:04,Made 3-pointer from 29 ft,GSW now leads 108-83
+2017-02-02,False,LAC,False,231,332,1,11:13,Missed 3-pointer from 28 ft,GSW leads 2-0
+2017-02-02,False,LAC,True,246,68,1,07:19,Made 2-pointer from 2 ft,GSW now leads 16-11
+2017-02-02,False,LAC,False,93,258,1,05:40,Missed 3-pointer from 25 ft,GSW leads 20-15
+2017-02-02,False,LAC,True,188,68,1,04:07,Made 2-pointer from 6 ft,GSW now leads 24-17
+2017-02-02,False,LAC,False,10,34,1,01:25,Missed 3-pointer from 23 ft,GSW leads 29-17
+2017-02-02,False,LAC,False,180,312,1,00:04,Missed 3-pointer from 27 ft,GSW leads 31-22
+2017-02-02,False,LAC,False,324,248,2,04:34,Missed 2-pointer from 22 ft,GSW leads 47-39
+2017-02-02,False,LAC,True,368,264,2,02:37,Made 3-pointer from 25 ft,GSW now leads 53-44
+2017-02-02,False,LAC,True,241,68,2,01:19,Made 2-pointer from 2 ft,GSW now leads 61-49
+2017-02-02,False,LAC,False,254,142,2,00:45,Missed 2-pointer from 9 ft,GSW leads 61-50
+2017-02-02,False,LAC,True,316,94,3,11:06,Made 2-pointer from 9 ft,GSW now leads 67-57
+2017-02-02,False,LAC,True,411,260,3,10:54,Made 3-pointer from 27 ft,GSW now leads 70-57
+2017-02-02,False,LAC,False,265,57,3,09:59,Missed 2-pointer from 3 ft,GSW leads 70-59
+2017-02-02,False,LAC,False,373,273,3,07:43,Missed 3-pointer from 26 ft,GSW leads 78-64
+2017-02-02,False,LAC,True,239,78,3,06:07,Made 2-pointer from 3 ft,GSW now leads 83-69
+2017-02-02,False,LAC,True,334,170,3,02:48,Made 2-pointer from 15 ft,GSW now leads 96-80
+2017-02-02,False,LAC,False,202,317,3,02:18,Missed 3-pointer from 27 ft,GSW leads 96-82
+2017-02-02,False,LAC,False,250,71,3,02:01,Missed 2-pointer from 2 ft,GSW leads 96-82
+2017-02-02,False,LAC,True,300,160,3,00:57,Made 2-pointer from 13 ft,GSW now leads 100-84
+2017-02-02,False,LAC,True,262,66,4,06:16,Made 2-pointer from 3 ft,GSW now leads 117-100
+2017-02-02,False,LAC,True,452,214,4,05:14,Made 3-pointer from 27 ft,GSW now leads 122-103
+2017-02-02,False,LAC,False,38,214,4,03:27,Missed 3-pointer from 26 ft,GSW leads 124-108
+2017-02-02,False,LAC,False,49,57,4,03:08,Missed 2-pointer from 19 ft,GSW leads 124-110
+2017-02-04,False,SAC,False,242,253,1,11:04,Missed 2-pointer from 20 ft,GSW trails 0-2
+2017-02-04,False,SAC,True,221,307,1,09:24,Made 3-pointer from 25 ft,GSW now leads 9-6
+2017-02-04,False,SAC,True,329,225,1,08:49,Made 2-pointer from 19 ft,GSW now leads 11-6
+2017-02-04,False,SAC,False,164,302,1,08:25,Missed 3-pointer from 26 ft,GSW leads 11-8
+2017-02-04,False,SAC,True,69,243,1,02:41,Made 3-pointer from 25 ft,GSW now leads 26-22
+2017-02-04,False,SAC,True,220,78,1,02:07,Made 2-pointer from 3 ft,GSW now leads 28-24
+2017-02-04,False,SAC,True,28,191,1,01:05,Made 3-pointer from 25 ft,GSW now leads 31-24
+2017-02-04,False,SAC,False,334,282,1,00:19,Missed 3-pointer from 25 ft,GSW leads 31-24
+2017-02-04,False,SAC,True,268,52,2,01:36,Made 2-pointer from 2 ft,GSW now leads 52-49
+2017-02-04,False,SAC,False,241,317,2,00:00,Missed 3-pointer from 26 ft,GSW tied 56-56
+2017-02-04,False,SAC,True,139,278,3,09:25,Made 3-pointer from 24 ft,GSW now trails 59-64
+2017-02-04,False,SAC,True,360,287,3,03:17,Made 3-pointer from 26 ft,GSW now trails 76-78
+2017-02-04,False,SAC,True,375,317,3,00:01,Made 3-pointer from 30 ft,GSW now tied 82-82
+2017-02-04,False,SAC,False,100,274,4,06:01,Missed 3-pointer from 26 ft,GSW trails 90-91
+2017-02-04,False,SAC,True,462,165,4,03:38,Made 3-pointer from 25 ft,GSW now trails 93-94
+2017-02-04,False,SAC,False,427,238,4,01:30,Missed 3-pointer from 26 ft,GSW trails 96-98
+2017-02-04,False,SAC,False,213,327,4,00:17,Missed 3-pointer from 28 ft,GSW tied 98-98
+2017-02-04,False,SAC,True,126,304,1,02:11,Made 3-pointer from 27 ft,GSW now trails 102-105
+2017-02-04,False,SAC,False,251,86,1,00:07,Missed 2-pointer from 4 ft,GSW trails 106-107
+2017-02-04,False,SAC,False,251,86,1,00:05,Missed 2-pointer from 4 ft,GSW trails 106-107
+2017-02-08,True,CHI,True,8,57,1,09:29,Made 3-pointer from 23 ft,GSW now leads 7-2
+2017-02-08,True,CHI,False,130,282,1,08:21,Missed 3-pointer from 26 ft,GSW leads 9-4
+2017-02-08,True,CHI,False,171,69,1,06:57,Missed 2-pointer from 7 ft,GSW leads 11-9
+2017-02-08,True,CHI,False,283,346,1,03:12,Missed 3-pointer from 30 ft,GSW leads 21-11
+2017-02-08,True,CHI,True,98,215,1,00:33,Made 2-pointer from 22 ft,GSW now leads 28-15
+2017-02-08,True,CHI,False,240,204,2,03:21,Missed 2-pointer from 15 ft,GSW leads 46-35
+2017-02-08,True,CHI,False,240,71,2,01:20,Missed 2-pointer from 2 ft,GSW leads 50-39
+2017-02-08,True,CHI,False,231,302,3,09:36,Missed 3-pointer from 25 ft,GSW leads 63-46
+2017-02-08,True,CHI,True,234,228,3,07:15,Made 2-pointer from 18 ft,GSW now leads 71-56
+2017-02-08,True,CHI,True,327,194,3,03:59,Made 2-pointer from 17 ft,GSW now leads 77-64
+2017-02-08,True,CHI,True,185,170,3,03:14,Made 2-pointer from 13 ft,GSW now leads 79-66
+2017-02-10,False,MEM,False,393,189,1,09:12,Missed 2-pointer from 21 ft,GSW leads 6-2
+2017-02-10,False,MEM,False,352,225,1,04:47,Missed 2-pointer from 21 ft,GSW leads 19-12
+2017-02-10,False,MEM,False,141,287,1,04:21,Missed 3-pointer from 26 ft,GSW leads 19-14
+2017-02-10,False,MEM,True,187,150,1,03:50,Made 2-pointer from 11 ft,GSW now leads 21-15
+2017-02-10,False,MEM,True,264,57,1,02:41,Made 2-pointer from 3 ft,GSW now leads 24-18
+2017-02-10,False,MEM,True,470,34,1,01:07,Made 3-pointer from 23 ft,GSW now leads 28-22
+2017-02-10,False,MEM,False,303,292,1,00:49,Missed 3-pointer from 25 ft,GSW leads 29-22
+2017-02-10,False,MEM,False,334,289,2,04:00,Missed 3-pointer from 26 ft,GSW leads 47-39
+2017-02-10,False,MEM,True,8,61,2,02:44,Made 3-pointer from 23 ft,GSW now leads 54-41
+2017-02-10,False,MEM,True,233,52,3,07:05,Made 2-pointer from 1 ft,GSW now leads 79-60
+2017-02-10,False,MEM,True,244,52,3,04:40,Made 2-pointer from 0 ft,GSW now leads 86-65
+2017-02-10,False,MEM,False,226,57,4,06:54,Missed 2-pointer from 2 ft,GSW leads 110-89
+2017-02-10,False,MEM,False,301,297,4,04:56,Missed 3-pointer from 25 ft,GSW leads 113-96
+2017-02-11,False,OKC,True,319,191,1,09:46,Made 2-pointer from 16 ft,GSW now trails 6-7
+2017-02-11,False,OKC,False,10,101,1,08:13,Missed 3-pointer from 24 ft,GSW trails 6-11
+2017-02-11,False,OKC,False,322,282,1,04:26,Missed 3-pointer from 25 ft,GSW trails 14-19
+2017-02-11,False,OKC,True,250,57,1,03:19,Made 2-pointer from 1 ft,GSW now trails 18-19
+2017-02-11,False,OKC,False,414,224,1,01:46,Missed 3-pointer from 25 ft,GSW tied 22-22
+2017-02-11,False,OKC,True,215,307,1,00:11,Made 3-pointer from 26 ft,GSW now leads 30-24
+2017-02-11,False,OKC,True,388,238,2,04:54,Made 3-pointer from 24 ft,GSW now leads 55-37
+2017-02-11,False,OKC,True,54,76,2,03:56,Made 2-pointer from 19 ft,GSW now leads 59-39
+2017-02-11,False,OKC,False,465,81,2,01:26,Missed 3-pointer from 23 ft,GSW leads 66-48
+2017-02-11,False,OKC,True,15,102,2,00:31,Made 3-pointer from 23 ft,GSW now leads 71-50
+2017-02-11,False,OKC,True,268,50,3,06:48,Made 2-pointer from 3 ft,GSW now leads 89-64
+2017-02-11,False,OKC,False,220,111,3,02:09,Missed 2-pointer from 6 ft,GSW leads 98-81
+2017-02-11,False,OKC,True,240,57,3,02:05,Made 2-pointer from 1 ft,GSW now leads 100-81
+2017-02-11,False,OKC,False,396,176,3,01:21,Missed 2-pointer from 20 ft,GSW leads 103-83
+2017-02-11,False,OKC,False,164,278,3,00:59,Missed 3-pointer from 24 ft,GSW leads 103-85
+2017-02-11,False,OKC,False,265,71,4,05:27,Missed 2-pointer from 3 ft,GSW leads 115-100
+2017-02-11,False,OKC,True,359,263,4,02:19,Made 3-pointer from 24 ft,GSW now leads 130-108
+2017-02-13,False,DEN,True,270,209,1,11:24,Made 2-pointer from 16 ft,GSW now leads 2-0
+2017-02-13,False,DEN,False,444,189,1,10:48,Missed 3-pointer from 25 ft,GSW leads 2-0
+2017-02-13,False,DEN,True,113,224,1,08:56,Made 2-pointer from 22 ft,GSW now tied 9-9
+2017-02-13,False,DEN,False,444,194,1,07:54,Missed 3-pointer from 25 ft,GSW trails 11-14
+2017-02-13,False,DEN,False,365,224,1,06:52,Missed 2-pointer from 21 ft,GSW trails 11-17
+2017-02-13,False,DEN,False,285,302,1,04:58,Missed 3-pointer from 26 ft,GSW trails 15-23
+2017-02-13,False,DEN,True,386,179,1,03:59,Made 2-pointer from 19 ft,GSW now trails 17-27
+2017-02-13,False,DEN,False,465,137,1,00:06,Missed 3-pointer from 24 ft,GSW trails 30-42
+2017-02-13,False,DEN,False,291,120,2,05:42,Missed 2-pointer from 9 ft,GSW trails 43-57
+2017-02-13,False,DEN,True,372,279,2,02:36,Made 3-pointer from 26 ft,GSW now trails 52-71
+2017-02-13,False,DEN,False,49,214,2,02:09,Missed 3-pointer from 25 ft,GSW trails 52-71
+2017-02-13,False,DEN,False,61,243,2,01:43,Missed 3-pointer from 26 ft,GSW trails 52-74
+2017-02-13,False,DEN,False,72,240,2,00:02,Missed 3-pointer from 25 ft,GSW trails 54-79
+2017-02-13,False,DEN,False,7,26,3,11:37,Missed 3-pointer from 23 ft,GSW trails 54-79
+2017-02-13,False,DEN,False,126,269,3,09:44,Missed 3-pointer from 25 ft,GSW trails 61-82
+2017-02-13,False,DEN,False,234,292,3,08:25,Missed 3-pointer from 24 ft,GSW trails 65-82
+2017-02-13,False,DEN,False,211,49,3,04:42,Missed 2-pointer from 3 ft,GSW trails 72-95
+2017-02-13,False,DEN,False,115,155,3,04:19,Missed 2-pointer from 16 ft,GSW trails 72-98
+2017-02-15,True,SAC,False,203,120,1,10:23,Missed 2-pointer from 8 ft,GSW trails 4-5
+2017-02-15,True,SAC,True,246,66,1,09:28,Made 2-pointer from 2 ft,GSW now tied 6-6
+2017-02-15,True,SAC,True,328,94,1,08:34,Made 2-pointer from 10 ft,GSW now leads 10-9
+2017-02-15,True,SAC,False,334,199,1,07:25,Missed 2-pointer from 18 ft,GSW leads 12-9
+2017-02-15,True,SAC,False,240,292,1,03:07,Missed 3-pointer from 24 ft,GSW leads 24-20
+2017-02-15,True,SAC,False,395,258,1,02:18,Missed 3-pointer from 26 ft,GSW leads 26-20
+2017-02-15,True,SAC,False,226,71,1,02:03,Missed 2-pointer from 3 ft,GSW leads 26-20
+2017-02-15,True,SAC,True,48,220,2,03:44,Made 3-pointer from 26 ft,GSW now leads 45-41
+2017-02-15,True,SAC,False,349,322,2,02:43,Missed 3-pointer from 29 ft,GSW leads 45-43
+2017-02-15,True,SAC,False,373,312,2,00:01,Missed 3-pointer from 29 ft,GSW trails 47-50
+2017-02-15,True,SAC,False,229,58,3,09:47,Missed 2-pointer from 1 ft,GSW trails 54-55
+2017-02-15,True,SAC,True,118,333,3,07:34,Made 3-pointer from 31 ft,GSW now leads 64-59
+2017-02-15,True,SAC,False,18,206,3,03:51,Missed 3-pointer from 27 ft,GSW leads 80-59
+2017-02-15,True,SAC,False,210,337,3,00:33,Missed 3-pointer from 29 ft,GSW leads 89-65
+2017-02-23,True,LAC,True,66,66,1,11:04,Made 2-pointer from 17 ft,GSW now leads 2-1
+2017-02-23,True,LAC,False,134,292,1,07:59,Missed 3-pointer from 26 ft,GSW leads 11-6
+2017-02-23,True,LAC,True,67,189,1,05:57,Made 2-pointer from 22 ft,GSW now leads 13-9
+2017-02-23,True,LAC,False,244,66,1,04:59,Missed 2-pointer from 2 ft,GSW leads 15-14
+2017-02-23,True,LAC,True,141,225,1,02:31,Made 2-pointer from 20 ft,GSW now leads 24-19
+2017-02-23,True,LAC,True,208,319,1,01:38,Made 3-pointer from 27 ft,GSW now leads 27-21
+2017-02-23,True,LAC,False,226,115,2,03:27,Missed 2-pointer from 7 ft,GSW trails 41-47
+2017-02-23,True,LAC,False,422,224,3,11:28,Missed 3-pointer from 25 ft,GSW trails 49-61
+2017-02-23,True,LAC,True,84,263,3,10:29,Made 3-pointer from 26 ft,GSW now trails 54-63
+2017-02-23,True,LAC,False,403,255,3,03:42,Missed 3-pointer from 26 ft,GSW tied 78-78
+2017-02-23,True,LAC,True,470,61,3,03:37,Made 3-pointer from 23 ft,GSW now leads 81-78
+2017-02-23,True,LAC,True,417,224,3,03:07,Made 3-pointer from 25 ft,GSW now leads 84-80
+2017-02-23,True,LAC,False,48,215,3,02:19,Missed 3-pointer from 25 ft,GSW leads 84-82
+2017-02-23,True,LAC,True,228,66,3,01:52,Made 2-pointer from 2 ft,GSW now leads 86-82
+2017-02-23,True,LAC,True,41,238,3,00:31,Made 3-pointer from 27 ft,GSW now leads 95-85
+2017-02-23,True,LAC,True,411,309,3,00:02,Made 3-pointer from 31 ft,GSW now leads 99-87
+2017-02-25,True,BRK,False,399,282,1,09:39,Missed 3-pointer from 28 ft,GSW leads 6-4
+2017-02-25,True,BRK,True,334,282,1,09:15,Made 3-pointer from 25 ft,GSW now leads 9-4
+2017-02-25,True,BRK,True,115,269,1,06:36,Made 3-pointer from 25 ft,GSW now leads 17-8
+2017-02-25,True,BRK,False,244,81,1,05:55,Missed 2-pointer from 3 ft,GSW leads 17-8
+2017-02-25,True,BRK,True,138,287,1,04:17,Made 3-pointer from 26 ft,GSW now leads 25-17
+2017-02-25,True,BRK,False,226,125,1,03:08,Missed 2-pointer from 8 ft,GSW leads 25-19
+2017-02-25,True,BRK,False,386,273,1,02:53,Missed 3-pointer from 27 ft,GSW leads 25-19
+2017-02-25,True,BRK,True,169,220,1,01:41,Made 2-pointer from 18 ft,GSW now leads 30-21
+2017-02-25,True,BRK,False,238,57,1,00:09,Missed 2-pointer from 1 ft,GSW leads 32-28
+2017-02-25,True,BRK,False,234,86,2,05:36,Missed 2-pointer from 4 ft,GSW leads 43-41
+2017-02-25,True,BRK,False,240,317,2,00:30,Missed 3-pointer from 27 ft,GSW leads 58-51
+2017-02-25,True,BRK,True,80,253,2,00:00,Made 3-pointer from 26 ft,GSW now leads 61-51
+2017-02-25,True,BRK,False,242,253,3,04:48,Missed 2-pointer from 20 ft,GSW leads 80-68
+2017-02-25,True,BRK,False,290,292,3,03:02,Missed 3-pointer from 25 ft,GSW leads 84-70
+2017-02-25,True,BRK,False,262,68,3,02:32,Missed 2-pointer from 3 ft,GSW leads 84-70
+2017-02-25,True,BRK,True,260,57,3,00:03,Made 2-pointer from 2 ft,GSW now leads 91-76
+2017-02-25,True,BRK,True,25,76,4,05:21,Made 2-pointer from 22 ft,GSW now leads 99-89
+2017-02-25,True,BRK,False,242,81,4,04:45,Missed 2-pointer from 3 ft,GSW leads 99-91
+2017-02-25,True,BRK,False,377,269,4,03:47,Missed 3-pointer from 26 ft,GSW leads 99-91
+2017-02-25,True,BRK,True,260,73,4,02:59,Made 2-pointer from 3 ft,GSW now leads 101-91
+2017-02-25,True,BRK,True,221,309,4,02:31,Made 3-pointer from 26 ft,GSW now leads 105-91
+2017-02-27,False,PHI,False,318,292,1,10:10,Missed 3-pointer from 25 ft,GSW tied 7-7
+2017-02-27,False,PHI,True,233,44,1,09:29,Made 2-pointer from 1 ft,GSW now leads 9-7
+2017-02-27,False,PHI,False,105,279,1,04:30,Missed 3-pointer from 27 ft,GSW trails 22-23
+2017-02-27,False,PHI,False,30,224,1,02:52,Missed 3-pointer from 27 ft,GSW trails 26-29
+2017-02-27,False,PHI,False,476,35,1,02:08,Missed 3-pointer from 24 ft,GSW trails 28-31
+2017-02-27,False,PHI,False,48,219,1,01:14,Missed 3-pointer from 26 ft,GSW trails 28-31
+2017-02-27,False,PHI,False,296,66,1,00:00,Missed 2-pointer from 6 ft,GSW leads 32-31
+2017-02-27,False,PHI,False,270,314,2,05:51,Missed 3-pointer from 27 ft,GSW leads 46-40
+2017-02-27,False,PHI,True,250,61,2,04:51,Made 2-pointer from 1 ft,GSW now leads 48-45
+2017-02-27,False,PHI,False,354,122,2,03:18,Missed 2-pointer from 13 ft,GSW leads 52-49
+2017-02-27,False,PHI,False,105,269,2,02:30,Missed 3-pointer from 26 ft,GSW leads 54-51
+2017-02-27,False,PHI,True,234,66,3,10:26,Made 2-pointer from 2 ft,GSW now leads 67-59
+2017-02-27,False,PHI,False,406,260,3,09:01,Missed 3-pointer from 27 ft,GSW leads 71-61
+2017-02-27,False,PHI,False,259,52,3,08:03,Missed 2-pointer from 2 ft,GSW leads 73-61
+2017-02-27,False,PHI,True,231,57,3,06:32,Made 2-pointer from 1 ft,GSW now leads 77-65
+2017-02-27,False,PHI,False,238,68,3,05:55,Missed 2-pointer from 2 ft,GSW leads 77-68
+2017-02-27,False,PHI,False,391,245,3,02:50,Missed 3-pointer from 25 ft,GSW leads 84-73
+2017-02-27,False,PHI,False,409,201,3,01:51,Missed 2-pointer from 23 ft,GSW leads 87-77
+2017-02-27,False,PHI,False,8,29,3,00:53,Missed 3-pointer from 23 ft,GSW leads 89-79
+2017-02-27,False,PHI,True,240,66,3,00:25,Made 2-pointer from 2 ft,GSW now leads 93-80
+2017-02-27,False,PHI,True,252,57,4,05:51,Made 2-pointer from 1 ft,GSW now leads 106-92
+2017-02-27,False,PHI,False,102,278,4,05:19,Missed 3-pointer from 27 ft,GSW leads 106-93
+2017-02-27,False,PHI,True,231,66,4,03:42,Made 2-pointer from 2 ft,GSW now leads 110-97
+2017-02-28,False,WAS,False,413,179,1,10:22,Missed 2-pointer from 22 ft,GSW trails 2-5
+2017-02-28,False,WAS,True,321,219,1,08:00,Made 2-pointer from 19 ft,GSW now trails 6-16
+2017-02-28,False,WAS,False,463,174,1,07:29,Missed 3-pointer from 26 ft,GSW trails 6-19
+2017-02-28,False,WAS,False,298,165,2,05:05,Missed 2-pointer from 13 ft,GSW trails 38-49
+2017-02-28,False,WAS,False,472,189,2,03:36,Missed 3-pointer from 27 ft,GSW trails 40-51
+2017-02-28,False,WAS,True,270,71,2,02:28,Made 2-pointer from 4 ft,GSW now trails 44-55
+2017-02-28,False,WAS,False,447,243,2,02:07,Missed 3-pointer from 28 ft,GSW trails 44-57
+2017-02-28,False,WAS,True,25,184,3,11:18,Made 3-pointer from 25 ft,GSW now trails 52-63
+2017-02-28,False,WAS,True,77,151,3,09:09,Made 2-pointer from 19 ft,GSW now trails 61-65
+2017-02-28,False,WAS,True,240,49,3,07:29,Made 2-pointer from 0 ft,GSW now trails 63-69
+2017-02-28,False,WAS,False,362,319,3,07:08,Missed 3-pointer from 30 ft,GSW trails 63-69
+2017-02-28,False,WAS,True,234,58,3,04:58,Made 2-pointer from 1 ft,GSW now trails 72-75
+2017-02-28,False,WAS,False,15,68,3,04:30,Missed 3-pointer from 23 ft,GSW trails 72-77
+2017-02-28,False,WAS,True,255,57,3,01:45,Made 2-pointer from 2 ft,GSW now tied 82-82
+2017-02-28,False,WAS,True,64,248,3,01:03,Made 3-pointer from 26 ft,GSW now tied 85-85
+2017-02-28,False,WAS,False,85,289,3,00:03,Missed 3-pointer from 28 ft,GSW tied 85-85
+2017-02-28,False,WAS,False,257,35,4,06:21,Missed 2-pointer from 2 ft,GSW leads 94-92
+2017-02-28,False,WAS,False,221,52,4,05:55,Missed 2-pointer from 2 ft,GSW leads 94-92
+2017-02-28,False,WAS,True,220,44,4,00:42,Made 2-pointer from 2 ft,GSW now tied 108-108
+2017-02-28,False,WAS,False,250,363,4,00:07,Missed 3-pointer from 31 ft,GSW trails 108-110
+2017-03-02,False,CHI,False,223,58,1,09:35,Missed 2-pointer from 2 ft,GSW tied 2-2
+2017-03-02,False,CHI,True,360,238,1,08:20,Made 2-pointer from 22 ft,GSW now leads 6-4
+2017-03-02,False,CHI,True,244,88,1,06:16,Made 2-pointer from 4 ft,GSW now tied 11-11
+2017-03-02,False,CHI,False,386,49,1,03:49,Missed 2-pointer from 15 ft,GSW leads 15-13
+2017-03-02,False,CHI,False,79,264,1,01:38,Missed 3-pointer from 27 ft,GSW leads 22-17
+2017-03-02,False,CHI,False,350,264,1,00:34,Missed 3-pointer from 24 ft,GSW leads 24-19
+2017-03-02,False,CHI,True,248,55,1,00:21,Made 2-pointer from 1 ft,GSW now leads 26-19
+2017-03-02,False,CHI,True,7,29,2,03:13,Made 3-pointer from 23 ft,GSW now leads 44-39
+2017-03-02,False,CHI,True,249,53,2,02:38,Made 2-pointer from 1 ft,GSW now leads 46-41
+2017-03-02,False,CHI,False,313,287,2,02:08,Missed 3-pointer from 25 ft,GSW leads 46-41
+2017-03-02,False,CHI,False,406,405,2,00:00,Missed 3-pointer from 39 ft,GSW leads 51-47
+2017-03-02,False,CHI,False,264,61,3,11:22,Missed 2-pointer from 3 ft,GSW leads 51-49
+2017-03-02,False,CHI,False,350,224,3,07:39,Missed 2-pointer from 21 ft,GSW trails 58-59
+2017-03-02,False,CHI,True,362,273,3,06:28,Made 3-pointer from 25 ft,GSW now leads 63-59
+2017-03-02,False,CHI,False,367,240,3,04:21,Missed 2-pointer from 23 ft,GSW tied 65-65
+2017-03-02,False,CHI,True,252,199,3,02:48,Made 2-pointer from 15 ft,GSW now trails 67-71
+2017-03-02,False,CHI,True,226,52,4,07:41,Made 2-pointer from 1 ft,GSW now trails 79-82
+2017-03-02,False,CHI,False,234,317,4,07:11,Missed 3-pointer from 27 ft,GSW trails 79-84
+2017-03-02,False,CHI,True,254,53,4,06:46,Made 2-pointer from 1 ft,GSW now trails 81-84
+2017-03-02,False,CHI,False,180,63,4,06:08,Missed 2-pointer from 6 ft,GSW trails 81-84
+2017-03-02,False,CHI,True,54,49,4,06:04,Made 2-pointer from 19 ft,GSW now trails 83-84
+2017-03-02,False,CHI,False,105,263,4,04:44,Missed 3-pointer from 25 ft,GSW leads 85-84
+2017-03-02,False,CHI,False,375,258,4,02:07,Missed 3-pointer from 25 ft,GSW trails 85-88
+2017-03-02,False,CHI,False,249,71,4,01:27,Missed 2-pointer from 2 ft,GSW trails 85-91
+2017-03-02,False,CHI,False,295,299,4,01:01,Missed 3-pointer from 26 ft,GSW trails 85-91
+2017-03-02,False,CHI,False,46,68,4,00:32,Missed 2-pointer from 19 ft,GSW trails 87-91
+2017-03-05,False,NYK,False,426,228,1,10:54,Missed 3-pointer from 26 ft,GSW tied 2-2
+2017-03-05,False,NYK,False,66,224,1,07:12,Missed 3-pointer from 25 ft,GSW leads 10-4
+2017-03-05,False,NYK,False,259,57,1,06:33,Missed 2-pointer from 2 ft,GSW leads 10-4
+2017-03-05,False,NYK,False,0,14,1,06:27,Missed 3-pointer from 24 ft,GSW leads 10-4
+2017-03-05,False,NYK,True,113,140,1,05:23,Made 2-pointer from 16 ft,GSW now leads 12-6
+2017-03-05,False,NYK,False,267,61,1,03:05,Missed 2-pointer from 3 ft,GSW leads 19-14
+2017-03-05,False,NYK,True,211,50,1,01:56,Made 2-pointer from 3 ft,GSW now leads 25-14
+2017-03-05,False,NYK,False,472,14,1,00:39,Missed 3-pointer from 23 ft,GSW leads 27-16
+2017-03-05,False,NYK,True,152,272,2,05:48,Made 3-pointer from 24 ft,GSW now tied 34-34
+2017-03-05,False,NYK,False,480,31,2,04:17,Missed 3-pointer from 24 ft,GSW leads 37-36
+2017-03-05,False,NYK,False,259,49,2,04:13,Missed 2-pointer from 2 ft,GSW leads 37-36
+2017-03-05,False,NYK,True,385,253,2,01:04,Made 3-pointer from 25 ft,GSW now leads 47-46
+2017-03-05,False,NYK,True,403,258,3,10:56,Made 3-pointer from 26 ft,GSW now trails 52-53
+2017-03-05,False,NYK,False,268,61,3,10:24,Missed 2-pointer from 3 ft,GSW trails 52-55
+2017-03-05,False,NYK,False,386,248,3,07:18,Missed 3-pointer from 25 ft,GSW leads 61-59
+2017-03-05,False,NYK,True,228,53,3,04:38,Made 2-pointer from 1 ft,GSW now leads 69-65
+2017-03-05,False,NYK,True,259,45,3,03:40,Made 2-pointer from 2 ft,GSW now leads 73-69
+2017-03-05,False,NYK,True,234,53,3,01:23,Made 2-pointer from 1 ft,GSW now leads 78-74
+2017-03-05,False,NYK,True,12,39,3,01:01,Made 3-pointer from 23 ft,GSW now leads 81-76
+2017-03-05,False,NYK,True,103,263,3,00:03,Made 3-pointer from 25 ft,GSW now leads 84-76
+2017-03-05,False,NYK,False,220,39,4,06:05,Missed 2-pointer from 2 ft,GSW leads 97-93
+2017-03-05,False,NYK,False,85,245,4,04:12,Missed 3-pointer from 25 ft,GSW leads 102-96
+2017-03-05,False,NYK,True,93,215,4,01:09,Made 2-pointer from 22 ft,GSW now leads 110-101
+2017-03-06,False,ATL,False,472,81,1,11:45,Missed 3-pointer from 23 ft,GSW tied 0-0
+2017-03-06,False,ATL,False,437,135,1,07:26,Missed 2-pointer from 21 ft,GSW trails 7-14
+2017-03-06,False,ATL,False,304,302,1,04:14,Missed 3-pointer from 26 ft,GSW trails 18-25
+2017-03-06,False,ATL,True,260,57,1,01:40,Made 2-pointer from 2 ft,GSW now trails 29-35
+2017-03-06,False,ATL,True,365,258,1,00:45,Made 3-pointer from 24 ft,GSW now trails 32-37
+2017-03-06,False,ATL,False,131,299,2,00:38,Missed 3-pointer from 27 ft,GSW trails 61-64
+2017-03-06,False,ATL,True,21,184,3,09:39,Made 3-pointer from 26 ft,GSW now leads 72-70
+2017-03-06,False,ATL,False,395,240,3,08:13,Missed 3-pointer from 25 ft,GSW leads 75-70
+2017-03-06,False,ATL,False,249,297,3,07:34,Missed 3-pointer from 25 ft,GSW leads 77-72
+2017-03-06,False,ATL,True,345,273,3,06:36,Made 3-pointer from 25 ft,GSW now leads 83-74
+2017-03-06,False,ATL,False,154,76,3,06:16,Missed 2-pointer from 9 ft,GSW leads 83-74
+2017-03-06,False,ATL,False,285,297,3,05:59,Missed 3-pointer from 25 ft,GSW leads 83-74
+2017-03-06,False,ATL,False,7,68,3,03:28,Missed 3-pointer from 23 ft,GSW leads 87-79
+2017-03-06,False,ATL,False,427,145,3,01:51,Missed 2-pointer from 21 ft,GSW leads 89-85
+2017-03-06,False,ATL,False,169,292,3,01:46,Missed 3-pointer from 25 ft,GSW leads 89-85
+2017-03-06,False,ATL,True,457,191,3,00:46,Made 3-pointer from 26 ft,GSW now leads 94-87
+2017-03-06,False,ATL,True,7,50,4,04:10,Made 3-pointer from 23 ft,GSW now leads 111-99
+2017-03-06,False,ATL,True,437,214,4,03:16,Made 3-pointer from 26 ft,GSW now leads 114-102
+2017-03-06,False,ATL,True,259,52,4,01:59,Made 2-pointer from 2 ft,GSW now leads 119-106
+2017-03-06,False,ATL,False,380,263,4,00:34,Missed 3-pointer from 25 ft,GSW leads 119-108
+2017-03-08,True,BOS,True,241,78,1,06:55,Made 2-pointer from 2 ft,GSW now leads 12-5
+2017-03-08,True,BOS,True,82,258,1,06:17,Made 3-pointer from 26 ft,GSW now leads 15-7
+2017-03-08,True,BOS,True,254,61,1,03:54,Made 2-pointer from 1 ft,GSW now leads 19-15
+2017-03-08,True,BOS,False,408,258,1,02:06,Missed 3-pointer from 26 ft,GSW leads 24-19
+2017-03-08,True,BOS,True,339,130,2,03:20,Made 2-pointer from 12 ft,GSW now trails 42-45
+2017-03-08,True,BOS,False,339,302,2,03:04,Missed 3-pointer from 27 ft,GSW trails 42-45
+2017-03-08,True,BOS,False,12,106,3,11:15,Missed 3-pointer from 23 ft,GSW leads 50-48
+2017-03-08,True,BOS,False,193,314,3,05:20,Missed 3-pointer from 26 ft,GSW leads 63-59
+2017-03-08,True,BOS,True,234,66,3,04:39,Made 2-pointer from 1 ft,GSW now leads 65-61
+2017-03-08,True,BOS,False,229,130,3,04:02,Missed 2-pointer from 8 ft,GSW leads 65-63
+2017-03-08,True,BOS,True,106,232,3,03:45,Made 2-pointer from 22 ft,GSW now leads 67-63
+2017-03-08,True,BOS,False,342,287,3,02:19,Missed 3-pointer from 25 ft,GSW leads 69-67
+2017-03-08,True,BOS,True,255,57,3,01:40,Made 2-pointer from 1 ft,GSW now leads 71-67
+2017-03-08,True,BOS,False,20,196,3,00:22,Missed 3-pointer from 26 ft,GSW leads 71-70
+2017-03-08,True,BOS,True,282,307,3,00:01,Made 3-pointer from 26 ft,GSW now leads 74-72
+2017-03-08,True,BOS,False,203,314,4,04:27,Missed 3-pointer from 26 ft,GSW trails 79-90
+2017-03-10,False,MIN,False,334,86,1,11:29,Missed 2-pointer from 10 ft,GSW tied 0-0
+2017-03-10,False,MIN,False,21,160,1,08:37,Missed 3-pointer from 24 ft,GSW tied 6-6
+2017-03-10,False,MIN,True,221,44,1,05:25,Made 2-pointer from 1 ft,GSW now trails 15-18
+2017-03-10,False,MIN,False,398,240,1,04:52,Missed 3-pointer from 24 ft,GSW trails 15-20
+2017-03-10,False,MIN,True,92,199,1,03:50,Made 2-pointer from 21 ft,GSW now trails 18-23
+2017-03-10,False,MIN,False,347,269,1,02:30,Missed 3-pointer from 24 ft,GSW trails 18-27
+2017-03-10,False,MIN,False,250,66,1,01:54,Missed 2-pointer from 1 ft,GSW trails 18-28
+2017-03-10,False,MIN,True,241,49,1,01:03,Made 2-pointer from 0 ft,GSW now trails 22-30
+2017-03-10,False,MIN,True,223,78,1,00:02,Made 2-pointer from 3 ft,GSW now trails 24-34
+2017-03-10,False,MIN,False,253,59,2,04:01,Missed 2-pointer from 1 ft,GSW trails 37-52
+2017-03-10,False,MIN,True,216,243,2,03:29,Made 2-pointer from 19 ft,GSW now trails 39-54
+2017-03-10,False,MIN,False,239,297,2,01:49,Missed 3-pointer from 24 ft,GSW trails 43-56
+2017-03-10,False,MIN,True,249,44,2,00:11,Made 2-pointer from 1 ft,GSW now trails 51-60
+2017-03-10,False,MIN,True,344,282,3,07:59,Made 3-pointer from 25 ft,GSW now trails 64-71
+2017-03-10,False,MIN,False,296,292,3,07:01,Missed 3-pointer from 24 ft,GSW trails 66-71
+2017-03-10,False,MIN,False,251,50,3,05:29,Missed 2-pointer from 1 ft,GSW trails 68-71
+2017-03-10,False,MIN,False,452,63,3,05:24,Missed 2-pointer from 21 ft,GSW trails 68-71
+2017-03-10,False,MIN,False,296,61,3,04:37,Missed 2-pointer from 5 ft,GSW trails 68-76
+2017-03-10,False,MIN,False,390,255,3,02:17,Missed 3-pointer from 25 ft,GSW trails 72-82
+2017-03-10,False,MIN,False,268,61,3,01:18,Missed 2-pointer from 3 ft,GSW trails 72-83
+2017-03-10,False,MIN,True,244,58,3,00:50,Made 2-pointer from 1 ft,GSW now trails 74-83
+2017-03-10,False,MIN,False,368,260,4,05:56,Missed 3-pointer from 24 ft,GSW trails 90-94
+2017-03-10,False,MIN,False,244,50,4,04:22,Missed 2-pointer from 0 ft,GSW trails 92-96
+2017-03-10,False,MIN,True,255,101,4,02:13,Made 2-pointer from 5 ft,GSW now trails 100-101
+2017-03-10,False,MIN,False,231,233,4,00:25,Missed 2-pointer from 18 ft,GSW trails 100-101
+2017-03-10,False,MIN,True,339,189,4,00:20,Made 2-pointer from 17 ft,GSW now leads 102-101
+2017-03-10,False,MIN,False,107,166,4,00:05,Missed 2-pointer from 17 ft,GSW trails 102-103
+2017-03-14,True,PHI,False,277,299,1,11:49,Missed 3-pointer from 25 ft,GSW tied 0-0
+2017-03-14,True,PHI,True,342,150,1,10:35,Made 2-pointer from 14 ft,GSW now trails 2-6
+2017-03-14,True,PHI,False,286,314,1,07:51,Missed 3-pointer from 26 ft,GSW trails 6-13
+2017-03-14,True,PHI,False,257,68,1,07:44,Missed 2-pointer from 2 ft,GSW trails 6-13
+2017-03-14,True,PHI,True,250,66,1,05:21,Made 2-pointer from 1 ft,GSW now leads 20-15
+2017-03-14,True,PHI,True,8,97,1,03:13,Made 3-pointer from 23 ft,GSW now leads 25-24
+2017-03-14,True,PHI,False,380,219,2,04:02,Missed 2-pointer from 21 ft,GSW trails 51-53
+2017-03-14,True,PHI,False,61,317,2,03:15,Missed 3-pointer from 32 ft,GSW leads 54-53
+2017-03-14,True,PHI,False,242,255,2,02:43,Missed 2-pointer from 20 ft,GSW tied 54-54
+2017-03-14,True,PHI,False,229,307,2,01:38,Missed 3-pointer from 25 ft,GSW trails 56-57
+2017-03-14,True,PHI,False,242,299,3,10:46,Missed 3-pointer from 24 ft,GSW trails 62-63
+2017-03-14,True,PHI,False,229,101,3,08:17,Missed 2-pointer from 5 ft,GSW trails 62-70
+2017-03-14,True,PHI,True,242,322,3,07:21,Made 3-pointer from 27 ft,GSW now trails 65-73
+2017-03-14,True,PHI,False,230,74,3,06:28,Missed 2-pointer from 2 ft,GSW trails 67-75
+2017-03-14,True,PHI,False,249,57,3,06:00,Missed 2-pointer from 1 ft,GSW trails 67-77
+2017-03-14,True,PHI,False,239,147,3,04:46,Missed 2-pointer from 9 ft,GSW trails 69-79
+2017-03-14,True,PHI,False,470,81,3,00:01,Missed 3-pointer from 23 ft,GSW trails 78-90
+2017-03-14,True,PHI,True,313,304,4,10:43,Made 3-pointer from 26 ft,GSW now trails 83-90
+2017-03-14,True,PHI,True,193,235,4,09:55,Made 2-pointer from 19 ft,GSW now trails 86-90
+2017-03-14,True,PHI,False,146,292,4,09:18,Missed 3-pointer from 25 ft,GSW trails 86-90
+2017-03-14,True,PHI,False,416,240,4,06:17,Missed 3-pointer from 25 ft,GSW trails 95-96
+2017-03-14,True,PHI,True,82,273,4,05:51,Made 3-pointer from 27 ft,GSW now leads 98-96
+2017-03-14,True,PHI,True,13,61,4,03:42,Made 3-pointer from 22 ft,GSW now leads 101-99
+2017-03-16,True,ORL,True,228,52,1,04:26,Made 2-pointer from 1 ft,GSW now leads 26-10
+2017-03-16,True,ORL,False,39,243,1,00:01,Missed 3-pointer from 28 ft,GSW leads 34-20
+2017-03-16,True,ORL,True,311,88,2,11:06,Made 2-pointer from 8 ft,GSW now leads 36-20
+2017-03-16,True,ORL,True,236,61,2,10:45,Made 2-pointer from 1 ft,GSW now leads 38-20
+2017-03-16,True,ORL,False,20,179,2,09:37,Missed 3-pointer from 25 ft,GSW leads 40-24
+2017-03-16,True,ORL,False,67,253,2,08:19,Missed 3-pointer from 26 ft,GSW leads 45-27
+2017-03-16,True,ORL,False,337,294,2,01:55,Missed 3-pointer from 26 ft,GSW leads 63-43
+2017-03-16,True,ORL,True,352,294,3,11:36,Made 3-pointer from 26 ft,GSW now leads 70-50
+2017-03-16,True,ORL,False,350,238,3,11:03,Missed 2-pointer from 21 ft,GSW leads 70-52
+2017-03-16,True,ORL,True,240,101,3,07:55,Made 2-pointer from 5 ft,GSW now leads 78-56
+2017-03-16,True,ORL,False,262,68,3,05:51,Missed 2-pointer from 2 ft,GSW leads 80-60
+2017-03-16,True,ORL,True,275,307,3,03:56,Made 3-pointer from 25 ft,GSW now leads 91-66
+2017-03-16,True,ORL,True,233,63,3,03:14,Made 2-pointer from 1 ft,GSW now leads 93-66
+2017-03-16,True,ORL,True,259,68,3,00:55,Made 2-pointer from 3 ft,GSW now leads 99-71
+2017-03-18,True,MIL,False,249,71,1,09:10,Missed 2-pointer from 2 ft,GSW trails 5-10
+2017-03-18,True,MIL,True,221,57,1,06:51,Made 2-pointer from 2 ft,GSW now trails 9-17
+2017-03-18,True,MIL,True,33,206,1,04:53,Made 3-pointer from 25 ft,GSW now trails 14-25
+2017-03-18,True,MIL,False,334,302,1,03:22,Missed 3-pointer from 26 ft,GSW trails 16-27
+2017-03-18,True,MIL,False,360,278,1,01:32,Missed 3-pointer from 25 ft,GSW trails 18-27
+2017-03-18,True,MIL,True,244,66,1,00:35,Made 2-pointer from 1 ft,GSW now trails 24-29
+2017-03-18,True,MIL,True,17,189,1,00:03,Made 3-pointer from 26 ft,GSW now trails 27-29
+2017-03-18,True,MIL,True,177,307,2,01:47,Made 3-pointer from 26 ft,GSW now leads 56-40
+2017-03-18,True,MIL,True,241,63,2,00:38,Made 2-pointer from 1 ft,GSW now leads 60-42
+2017-03-18,True,MIL,True,97,348,2,00:27,Made 3-pointer from 33 ft,GSW now leads 63-44
+2017-03-18,True,MIL,True,77,243,3,07:36,Made 3-pointer from 25 ft,GSW now leads 76-49
+2017-03-18,True,MIL,False,229,57,3,05:16,Missed 2-pointer from 1 ft,GSW leads 78-53
+2017-03-18,True,MIL,True,378,279,3,02:18,Made 3-pointer from 26 ft,GSW now leads 88-61
+2017-03-20,False,OKC,True,62,240,1,10:52,Made 3-pointer from 26 ft,GSW now trails 3-4
+2017-03-20,False,OKC,False,71,224,1,10:09,Missed 3-pointer from 24 ft,GSW trails 3-6
+2017-03-20,False,OKC,False,149,176,1,09:13,Missed 2-pointer from 15 ft,GSW trails 3-8
+2017-03-20,False,OKC,True,291,284,1,08:33,Made 3-pointer from 23 ft,GSW now trails 6-8
+2017-03-20,False,OKC,True,240,51,1,08:13,Made 2-pointer from 0 ft,GSW now tied 8-8
+2017-03-20,False,OKC,True,12,58,1,06:18,Made 3-pointer from 22 ft,GSW now leads 13-12
+2017-03-20,False,OKC,False,198,307,1,05:50,Missed 3-pointer from 26 ft,GSW leads 13-12
+2017-03-20,False,OKC,False,372,253,1,01:54,Missed 3-pointer from 24 ft,GSW leads 23-20
+2017-03-20,False,OKC,False,236,53,1,01:29,Missed 2-pointer from 0 ft,GSW leads 23-20
+2017-03-20,False,OKC,False,241,91,2,05:18,Missed 2-pointer from 4 ft,GSW leads 42-31
+2017-03-20,False,OKC,True,15,58,2,03:49,Made 3-pointer from 22 ft,GSW now leads 48-33
+2017-03-20,False,OKC,False,156,263,2,00:27,Missed 2-pointer from 23 ft,GSW leads 56-39
+2017-03-20,False,OKC,True,350,274,2,00:00,Made 3-pointer from 24 ft,GSW now leads 59-39
+2017-03-20,False,OKC,False,390,263,3,09:42,Missed 3-pointer from 26 ft,GSW leads 64-46
+2017-03-20,False,OKC,True,231,289,3,06:08,Made 3-pointer from 23 ft,GSW now leads 72-55
+2017-03-20,False,OKC,False,467,106,3,04:55,Missed 3-pointer from 23 ft,GSW leads 75-55
+2017-03-20,False,OKC,True,215,299,3,00:00,Made 3-pointer from 25 ft,GSW now leads 92-66
+2017-03-21,False,DAL,False,202,253,1,11:24,Missed 2-pointer from 20 ft,GSW tied 0-0
+2017-03-21,False,DAL,True,252,49,1,08:40,Made 2-pointer from 1 ft,GSW now leads 9-6
+2017-03-21,False,DAL,True,264,243,1,08:07,Made 2-pointer from 19 ft,GSW now leads 11-9
+2017-03-21,False,DAL,False,386,278,1,04:17,Missed 3-pointer from 27 ft,GSW trails 17-18
+2017-03-21,False,DAL,False,409,248,1,03:39,Missed 3-pointer from 26 ft,GSW trails 17-21
+2017-03-21,False,DAL,True,13,52,1,01:15,Made 3-pointer from 22 ft,GSW now trails 26-27
+2017-03-21,False,DAL,True,203,122,3,07:24,Made 2-pointer from 8 ft,GSW now leads 74-59
+2017-03-21,False,DAL,True,116,287,3,06:43,Made 3-pointer from 26 ft,GSW now leads 77-61
+2017-03-21,False,DAL,True,255,57,3,06:18,Made 2-pointer from 1 ft,GSW now leads 79-61
+2017-03-21,False,DAL,False,15,91,3,04:48,Missed 3-pointer from 22 ft,GSW leads 81-61
+2017-03-21,False,DAL,False,473,53,3,03:42,Missed 3-pointer from 23 ft,GSW leads 81-63
+2017-03-21,False,DAL,True,105,263,3,01:15,Made 3-pointer from 25 ft,GSW now leads 88-70
+2017-03-21,False,DAL,False,39,189,3,00:52,Missed 3-pointer from 24 ft,GSW leads 88-70
+2017-03-24,True,SAC,True,56,224,1,11:35,Made 3-pointer from 25 ft,GSW now leads 3-0
+2017-03-24,True,SAC,True,223,209,1,08:36,Made 2-pointer from 15 ft,GSW now trails 7-8
+2017-03-24,True,SAC,False,98,274,1,07:40,Missed 3-pointer from 26 ft,GSW trails 9-10
+2017-03-24,True,SAC,False,313,287,1,03:00,Missed 3-pointer from 24 ft,GSW trails 17-18
+2017-03-24,True,SAC,True,295,312,1,02:26,Made 3-pointer from 26 ft,GSW now leads 20-18
+2017-03-24,True,SAC,False,200,150,1,01:39,Missed 2-pointer from 10 ft,GSW tied 20-20
+2017-03-24,True,SAC,False,12,61,2,03:33,Missed 3-pointer from 22 ft,GSW leads 51-39
+2017-03-24,True,SAC,False,395,258,2,02:58,Missed 3-pointer from 25 ft,GSW leads 51-41
+2017-03-24,True,SAC,True,130,155,2,02:33,Made 2-pointer from 15 ft,GSW now leads 53-41
+2017-03-24,True,SAC,False,231,351,2,00:30,Missed 3-pointer from 30 ft,GSW leads 55-50
+2017-03-24,True,SAC,True,218,68,3,09:49,Made 2-pointer from 2 ft,GSW now leads 64-55
+2017-03-24,True,SAC,True,424,174,3,07:14,Made 2-pointer from 22 ft,GSW now leads 71-60
+2017-03-24,True,SAC,False,246,101,3,04:34,Missed 2-pointer from 5 ft,GSW leads 77-65
+2017-03-24,True,SAC,False,39,61,3,00:50,Missed 2-pointer from 20 ft,GSW leads 88-72
+2017-03-24,True,SAC,True,43,230,4,05:04,Made 3-pointer from 26 ft,GSW now leads 102-88
+2017-03-24,True,SAC,True,48,228,4,04:12,Made 3-pointer from 26 ft,GSW now leads 105-88
+2017-03-24,True,SAC,True,192,327,4,03:45,Made 3-pointer from 28 ft,GSW now leads 108-88
+2017-03-24,True,SAC,False,53,294,4,03:12,Missed 3-pointer from 30 ft,GSW leads 108-88
+2017-03-26,True,MEM,False,123,317,1,10:16,Missed 3-pointer from 29 ft,GSW trails 3-4
+2017-03-26,True,MEM,True,5,58,1,09:55,Made 3-pointer from 23 ft,GSW now leads 6-4
+2017-03-26,True,MEM,False,229,71,1,08:48,Missed 2-pointer from 2 ft,GSW leads 8-6
+2017-03-26,True,MEM,False,218,322,1,06:49,Missed 3-pointer from 27 ft,GSW leads 10-8
+2017-03-26,True,MEM,False,64,250,1,04:36,Missed 3-pointer from 26 ft,GSW trails 13-14
+2017-03-26,True,MEM,True,31,235,1,01:23,Made 3-pointer from 27 ft,GSW now tied 23-23
+2017-03-26,True,MEM,False,395,258,1,00:08,Missed 3-pointer from 26 ft,GSW trails 25-28
+2017-03-26,True,MEM,False,35,76,2,04:42,Missed 2-pointer from 20 ft,GSW trails 42-43
+2017-03-26,True,MEM,True,465,66,2,03:17,Made 3-pointer from 22 ft,GSW now leads 46-45
+2017-03-26,True,MEM,True,242,68,2,01:44,Made 2-pointer from 1 ft,GSW now leads 50-48
+2017-03-26,True,MEM,False,177,317,3,10:34,Missed 3-pointer from 27 ft,GSW leads 58-54
+2017-03-26,True,MEM,False,249,71,3,08:09,Missed 2-pointer from 2 ft,GSW leads 64-62
+2017-03-26,True,MEM,False,344,294,3,00:58,Missed 3-pointer from 26 ft,GSW leads 81-76
+2017-03-26,True,MEM,True,205,165,3,00:03,Made 2-pointer from 12 ft,GSW now leads 83-81
+2017-03-26,True,MEM,True,221,297,4,04:57,Made 3-pointer from 24 ft,GSW now leads 96-86
+2017-03-26,True,MEM,True,391,273,4,03:36,Made 3-pointer from 26 ft,GSW now leads 99-88
+2017-03-26,True,MEM,True,377,150,4,02:58,Made 2-pointer from 16 ft,GSW now leads 101-89
+2017-03-26,True,MEM,False,373,312,4,00:52,Missed 3-pointer from 29 ft,GSW leads 103-91
+2017-03-28,False,HOU,True,473,150,1,10:39,Made 3-pointer from 25 ft,GSW now leads 7-2
+2017-03-28,False,HOU,False,241,130,1,07:28,Missed 2-pointer from 8 ft,GSW leads 16-8
+2017-03-28,False,HOU,False,313,287,1,03:58,Missed 3-pointer from 24 ft,GSW leads 27-16
+2017-03-28,False,HOU,True,238,39,1,03:29,Made 2-pointer from 1 ft,GSW now leads 29-16
+2017-03-28,False,HOU,True,252,44,1,02:44,Made 2-pointer from 1 ft,GSW now leads 33-16
+2017-03-28,False,HOU,False,360,258,1,01:52,Missed 3-pointer from 24 ft,GSW leads 33-18
+2017-03-28,False,HOU,True,224,45,2,05:23,Made 2-pointer from 1 ft,GSW now leads 51-36
+2017-03-28,False,HOU,True,79,194,2,04:34,Made 2-pointer from 21 ft,GSW now leads 53-36
+2017-03-28,False,HOU,False,326,284,2,03:56,Missed 3-pointer from 24 ft,GSW leads 53-40
+2017-03-28,False,HOU,True,238,52,2,03:53,Made 2-pointer from 0 ft,GSW now leads 55-40
+2017-03-28,False,HOU,False,180,292,2,02:54,Missed 3-pointer from 24 ft,GSW leads 56-44
+2017-03-28,False,HOU,False,3,91,2,02:37,Missed 3-pointer from 24 ft,GSW leads 56-44
+2017-03-28,False,HOU,False,373,263,2,02:31,Missed 3-pointer from 25 ft,GSW leads 56-44
+2017-03-28,False,HOU,False,220,304,2,00:35,Missed 3-pointer from 25 ft,GSW leads 58-50
+2017-03-28,False,HOU,False,240,53,3,08:49,Missed 2-pointer from 0 ft,GSW leads 67-60
+2017-03-28,False,HOU,True,66,228,3,08:12,Made 3-pointer from 24 ft,GSW now leads 70-62
+2017-03-28,False,HOU,False,301,179,4,11:01,Missed 2-pointer from 14 ft,GSW leads 86-77
+2017-03-28,False,HOU,True,375,53,4,10:18,Made 2-pointer from 13 ft,GSW now leads 89-80
+2017-03-28,False,HOU,True,236,45,4,09:36,Made 2-pointer from 0 ft,GSW now leads 91-82
+2017-03-28,False,HOU,False,350,269,4,08:28,Missed 3-pointer from 24 ft,GSW leads 91-82
+2017-03-28,False,HOU,True,249,309,4,01:46,Made 3-pointer from 25 ft,GSW now leads 110-99
+2017-03-28,False,HOU,True,187,224,4,00:45,Made 2-pointer from 18 ft,GSW now leads 112-104
+2017-03-29,False,SAS,False,143,240,1,09:09,Missed 2-pointer from 21 ft,GSW trails 0-10
+2017-03-29,False,SAS,True,15,165,1,07:46,Made 3-pointer from 25 ft,GSW now trails 3-15
+2017-03-29,False,SAS,False,357,76,1,06:17,Missed 2-pointer from 11 ft,GSW trails 3-17
+2017-03-29,False,SAS,False,238,58,1,01:49,Missed 2-pointer from 0 ft,GSW trails 13-31
+2017-03-29,False,SAS,False,218,52,2,05:19,Missed 2-pointer from 2 ft,GSW trails 36-45
+2017-03-29,False,SAS,False,354,312,2,03:00,Missed 3-pointer from 28 ft,GSW trails 45-48
+2017-03-29,False,SAS,False,238,39,2,02:02,Missed 2-pointer from 1 ft,GSW trails 45-52
+2017-03-29,False,SAS,True,268,50,2,01:40,Made 2-pointer from 2 ft,GSW now trails 47-52
+2017-03-29,False,SAS,True,221,52,2,00:50,Made 2-pointer from 2 ft,GSW now trails 52-55
+2017-03-29,False,SAS,True,413,253,3,09:21,Made 3-pointer from 26 ft,GSW now leads 62-57
+2017-03-29,False,SAS,True,437,215,3,07:34,Made 3-pointer from 25 ft,GSW now leads 67-59
+2017-03-29,False,SAS,False,283,327,3,06:54,Missed 3-pointer from 28 ft,GSW leads 67-59
+2017-03-29,False,SAS,True,434,215,3,05:52,Made 3-pointer from 25 ft,GSW now leads 70-63
+2017-03-29,False,SAS,True,249,45,3,05:22,Made 2-pointer from 1 ft,GSW now leads 72-65
+2017-03-29,False,SAS,False,206,332,3,03:16,Missed 3-pointer from 28 ft,GSW leads 72-69
+2017-03-29,False,SAS,False,268,45,3,02:13,Missed 2-pointer from 2 ft,GSW leads 76-73
+2017-03-29,False,SAS,True,240,51,3,00:09,Made 2-pointer from 0 ft,GSW now leads 84-77
+2017-03-29,False,SAS,False,270,435,3,00:01,Missed 3-pointer from 38 ft,GSW leads 84-77
+2017-03-29,False,SAS,False,337,81,4,04:43,Missed 2-pointer from 10 ft,GSW leads 103-93
+2017-03-29,False,SAS,True,234,58,4,02:08,Made 2-pointer from 1 ft,GSW now leads 107-96
+2017-03-31,True,HOU,True,282,299,1,10:41,Made 3-pointer from 25 ft,GSW now leads 7-2
+2017-03-31,True,HOU,False,350,179,1,08:30,Missed 2-pointer from 16 ft,GSW tied 12-12
+2017-03-31,True,HOU,False,224,199,1,05:35,Missed 2-pointer from 14 ft,GSW trails 14-17
+2017-03-31,True,HOU,False,242,68,1,03:43,Missed 2-pointer from 1 ft,GSW trails 16-17
+2017-03-31,True,HOU,True,121,204,1,03:25,Made 2-pointer from 19 ft,GSW now trails 18-20
+2017-03-31,True,HOU,False,327,299,1,02:17,Missed 3-pointer from 26 ft,GSW trails 18-23
+2017-03-31,True,HOU,False,291,166,1,02:11,Missed 2-pointer from 12 ft,GSW trails 18-23
+2017-03-31,True,HOU,False,26,199,2,04:39,Missed 3-pointer from 26 ft,GSW trails 35-45
+2017-03-31,True,HOU,False,111,191,2,01:41,Missed 2-pointer from 19 ft,GSW trails 46-57
+2017-03-31,True,HOU,True,252,57,3,09:15,Made 2-pointer from 1 ft,GSW now trails 65-67
+2017-03-31,True,HOU,True,470,115,3,06:22,Made 3-pointer from 23 ft,GSW now trails 70-72
+2017-03-31,True,HOU,False,411,263,3,05:31,Missed 3-pointer from 27 ft,GSW trails 70-74
+2017-03-31,True,HOU,False,236,341,3,04:48,Missed 3-pointer from 29 ft,GSW trails 71-74
+2017-03-31,True,HOU,True,239,71,3,03:28,Made 2-pointer from 2 ft,GSW now trails 75-78
+2017-03-31,True,HOU,True,447,194,3,02:40,Made 3-pointer from 25 ft,GSW now trails 78-80
+2017-03-31,True,HOU,True,401,282,4,02:22,Made 3-pointer from 28 ft,GSW now leads 103-95
+2017-03-31,True,HOU,False,316,332,4,01:11,Missed 3-pointer from 29 ft,GSW leads 103-96
+2017-03-31,True,HOU,True,149,111,4,00:47,Made 2-pointer from 11 ft,GSW now leads 105-96
+2017-04-02,True,WAS,True,422,233,1,11:04,Made 3-pointer from 25 ft,GSW now leads 6-0
+2017-04-02,True,WAS,True,23,214,1,09:12,Made 3-pointer from 27 ft,GSW now leads 11-5
+2017-04-02,True,WAS,True,3,61,1,08:27,Made 3-pointer from 23 ft,GSW now leads 14-8
+2017-04-02,True,WAS,False,15,196,1,06:16,Missed 3-pointer from 26 ft,GSW leads 18-16
+2017-04-02,True,WAS,True,391,269,1,04:39,Made 3-pointer from 26 ft,GSW now leads 23-18
+2017-04-02,True,WAS,False,201,59,1,00:46,Missed 2-pointer from 4 ft,GSW leads 35-27
+2017-04-02,True,WAS,False,413,243,2,04:01,Missed 3-pointer from 25 ft,GSW leads 53-46
+2017-04-02,True,WAS,True,444,210,2,01:52,Made 3-pointer from 25 ft,GSW now leads 58-53
+2017-04-02,True,WAS,True,303,309,2,01:25,Made 3-pointer from 26 ft,GSW now leads 61-53
+2017-04-02,True,WAS,True,239,78,2,01:14,Made 2-pointer from 2 ft,GSW now leads 63-53
+2017-04-02,True,WAS,True,239,57,2,00:50,Made 2-pointer from 0 ft,GSW now leads 65-53
+2017-04-02,True,WAS,False,370,264,2,00:29,Missed 3-pointer from 25 ft,GSW leads 65-55
+2017-04-02,True,WAS,True,429,240,3,09:19,Made 3-pointer from 26 ft,GSW now leads 80-66
+2017-04-02,True,WAS,False,133,199,3,08:44,Missed 2-pointer from 18 ft,GSW leads 80-66
+2017-04-02,True,WAS,True,255,76,3,04:13,Made 2-pointer from 3 ft,GSW now leads 94-76
+2017-04-02,True,WAS,True,240,66,3,03:36,Made 2-pointer from 1 ft,GSW now leads 97-78
+2017-04-02,True,WAS,True,391,278,3,03:06,Made 3-pointer from 27 ft,GSW now leads 100-78
+2017-04-02,True,WAS,False,291,299,3,01:42,Missed 3-pointer from 25 ft,GSW leads 100-83
+2017-04-02,True,WAS,True,303,147,3,00:50,Made 2-pointer from 12 ft,GSW now leads 104-88
+2017-04-02,True,WAS,False,403,243,4,05:20,Missed 3-pointer from 25 ft,GSW leads 116-105
+2017-04-02,True,WAS,True,391,273,4,02:52,Made 3-pointer from 26 ft,GSW now leads 128-111
+2017-04-02,True,WAS,True,380,63,4,01:20,Made 2-pointer from 14 ft,GSW now leads 132-115
+2017-04-04,True,MIN,False,262,76,1,10:16,Missed 2-pointer from 3 ft,GSW leads 3-2
+2017-04-04,True,MIN,False,359,282,1,09:55,Missed 3-pointer from 26 ft,GSW leads 3-2
+2017-04-04,True,MIN,False,8,111,1,08:25,Missed 3-pointer from 23 ft,GSW leads 5-4
+2017-04-04,True,MIN,True,241,317,1,03:40,Made 3-pointer from 26 ft,GSW now leads 22-21
+2017-04-04,True,MIN,True,240,53,1,03:04,Made 2-pointer from 0 ft,GSW now leads 24-23
+2017-04-04,True,MIN,False,347,214,1,01:48,Missed 2-pointer from 19 ft,GSW leads 26-25
+2017-04-04,True,MIN,False,62,278,1,00:00,Missed 3-pointer from 28 ft,GSW tied 32-32
+2017-04-04,True,MIN,False,249,76,2,03:26,Missed 2-pointer from 2 ft,GSW leads 60-54
+2017-04-04,True,MIN,False,35,219,2,02:59,Missed 3-pointer from 26 ft,GSW leads 60-56
+2017-04-04,True,MIN,False,260,107,2,02:11,Missed 2-pointer from 6 ft,GSW leads 60-56
+2017-04-04,True,MIN,True,240,51,3,08:11,Made 2-pointer from 0 ft,GSW now leads 77-69
+2017-04-04,True,MIN,True,71,57,3,07:45,Made 2-pointer from 16 ft,GSW now leads 79-71
+2017-04-04,True,MIN,True,238,312,3,04:52,Made 3-pointer from 26 ft,GSW now leads 91-75
+2017-04-04,True,MIN,True,93,264,3,04:29,Made 3-pointer from 25 ft,GSW now leads 94-75
+2017-04-04,True,MIN,False,84,193,3,02:52,Missed 2-pointer from 21 ft,GSW leads 99-80
+2017-04-04,True,MIN,True,241,76,3,02:04,Made 2-pointer from 2 ft,GSW now leads 103-80
+2017-04-04,True,MIN,False,15,66,3,01:39,Missed 3-pointer from 22 ft,GSW leads 103-81
+2017-04-04,True,MIN,False,220,125,3,01:12,Missed 2-pointer from 7 ft,GSW leads 103-84
+2017-04-05,False,PHO,True,485,44,1,11:14,Made 3-pointer from 24 ft,GSW now leads 3-2
+2017-04-05,False,PHO,True,3,151,1,09:00,Made 3-pointer from 25 ft,GSW now leads 10-7
+2017-04-05,False,PHO,True,293,299,1,07:41,Made 3-pointer from 25 ft,GSW now leads 15-9
+2017-04-05,False,PHO,False,359,58,1,06:58,Missed 2-pointer from 11 ft,GSW leads 16-11
+2017-04-05,False,PHO,True,242,299,1,06:51,Made 3-pointer from 24 ft,GSW now leads 19-11
+2017-04-05,False,PHO,True,239,61,1,06:28,Made 2-pointer from 1 ft,GSW now leads 21-11
+2017-04-05,False,PHO,True,89,174,1,04:01,Made 2-pointer from 19 ft,GSW now leads 26-13
+2017-04-05,False,PHO,True,175,292,1,03:32,Made 3-pointer from 25 ft,GSW now leads 29-13
+2017-04-05,False,PHO,False,41,219,1,03:04,Missed 3-pointer from 26 ft,GSW leads 29-15
+2017-04-05,False,PHO,True,280,61,1,02:31,Made 2-pointer from 4 ft,GSW now leads 31-15
+2017-04-05,False,PHO,False,473,86,1,01:15,Missed 3-pointer from 23 ft,GSW leads 35-18
+2017-04-05,False,PHO,False,51,228,1,00:08,Missed 3-pointer from 25 ft,GSW leads 38-18
+2017-04-05,False,PHO,True,116,278,2,03:14,Made 3-pointer from 25 ft,GSW now leads 52-41
+2017-04-05,False,PHO,True,264,52,2,02:52,Made 2-pointer from 2 ft,GSW now leads 54-43
+2017-04-05,False,PHO,False,250,57,2,01:44,Missed 2-pointer from 1 ft,GSW leads 54-45
+2017-04-05,False,PHO,True,264,57,3,10:24,Made 2-pointer from 2 ft,GSW now leads 62-56
+2017-04-05,False,PHO,False,154,292,3,08:00,Missed 3-pointer from 25 ft,GSW leads 71-61
+2017-04-05,False,PHO,False,267,53,3,05:29,Missed 2-pointer from 2 ft,GSW leads 73-65
+2017-04-05,False,PHO,False,236,57,3,02:58,Missed 2-pointer from 0 ft,GSW leads 82-74
+2017-04-05,False,PHO,True,463,170,3,01:32,Made 3-pointer from 25 ft,GSW now leads 85-76
+2017-04-05,False,PHO,True,339,214,3,01:08,Made 2-pointer from 19 ft,GSW now leads 87-76
+2017-04-05,False,PHO,False,309,302,3,00:03,Missed 3-pointer from 26 ft,GSW leads 89-78
+2017-04-05,False,PHO,False,115,191,4,04:45,Missed 2-pointer from 18 ft,GSW leads 104-101
+2017-04-05,False,PHO,True,249,309,4,03:55,Made 3-pointer from 25 ft,GSW now leads 107-101
+2017-04-05,False,PHO,False,363,204,4,00:45,Missed 2-pointer from 20 ft,GSW leads 116-111
+2017-04-05,False,PHO,True,240,52,4,00:32,Made 2-pointer from 0 ft,GSW now leads 118-111
+2017-04-10,True,UTA,False,118,140,1,10:27,Missed 2-pointer from 15 ft,GSW trails 2-7
+2017-04-10,True,UTA,True,250,302,1,09:04,Made 3-pointer from 25 ft,GSW now trails 10-13
+2017-04-10,True,UTA,True,250,314,1,05:19,Made 3-pointer from 26 ft,GSW now trails 20-23
+2017-04-10,True,UTA,True,416,66,1,04:41,Made 2-pointer from 17 ft,GSW now trails 22-25
+2017-04-10,True,UTA,True,239,73,1,03:10,Made 2-pointer from 2 ft,GSW now leads 28-27
+2017-04-10,True,UTA,True,458,166,1,01:37,Made 3-pointer from 24 ft,GSW now trails 31-32
+2017-04-10,True,UTA,False,334,76,2,05:26,Missed 2-pointer from 9 ft,GSW trails 37-45
+2017-04-10,True,UTA,True,447,204,2,04:30,Made 3-pointer from 25 ft,GSW now trails 42-45
+2017-04-10,True,UTA,False,326,307,2,02:44,Missed 3-pointer from 27 ft,GSW trails 46-47
+2017-04-10,True,UTA,True,229,327,2,01:39,Made 3-pointer from 27 ft,GSW now leads 49-47
+2017-04-10,True,UTA,False,239,68,2,00:26,Missed 2-pointer from 2 ft,GSW leads 51-49
+2017-04-10,True,UTA,False,108,112,2,00:00,Missed 2-pointer from 14 ft,GSW leads 51-49
+2017-04-10,True,UTA,False,231,44,3,09:38,Missed 2-pointer from 1 ft,GSW leads 57-54
+2017-04-10,True,UTA,True,262,63,3,05:06,Made 2-pointer from 2 ft,GSW now trails 63-67
+2017-04-10,True,UTA,True,57,243,3,02:15,Made 3-pointer from 26 ft,GSW now tied 72-72
+2017-04-10,True,UTA,False,80,317,3,00:52,Missed 3-pointer from 31 ft,GSW leads 74-72
+2017-04-12,True,LAL,False,87,253,1,11:44,Missed 3-pointer from 25 ft,GSW tied 0-0
+2017-04-12,True,LAL,True,318,289,1,09:01,Made 3-pointer from 25 ft,GSW now leads 8-5
+2017-04-12,True,LAL,True,28,191,1,07:57,Made 3-pointer from 25 ft,GSW now leads 16-8
+2017-04-12,True,LAL,True,38,228,1,07:09,Made 3-pointer from 26 ft,GSW now leads 21-10
+2017-04-12,True,LAL,False,8,130,1,06:05,Missed 3-pointer from 24 ft,GSW leads 21-12
+2017-04-12,True,LAL,False,205,346,1,03:19,Missed 3-pointer from 29 ft,GSW leads 32-16
+2017-04-12,True,LAL,False,327,289,1,00:05,Missed 3-pointer from 25 ft,GSW leads 41-28
+2017-04-12,True,LAL,False,7,49,2,02:32,Missed 3-pointer from 23 ft,GSW leads 55-43
+2017-04-12,True,LAL,False,240,111,2,00:25,Missed 2-pointer from 6 ft,GSW leads 64-50
+2017-04-12,True,LAL,False,180,115,3,09:35,Missed 2-pointer from 8 ft,GSW leads 70-52
+2017-04-12,True,LAL,True,467,132,3,07:18,Made 3-pointer from 24 ft,GSW now leads 78-58
+2017-04-12,True,LAL,True,424,235,3,05:23,Made 3-pointer from 26 ft,GSW now leads 81-64
+2017-04-12,True,LAL,False,362,274,3,02:51,Missed 3-pointer from 25 ft,GSW leads 87-68
+2017-04-12,True,LAL,True,224,58,3,01:40,Made 2-pointer from 1 ft,GSW now leads 91-68
+2017-04-12,True,LAL,False,8,73,3,01:05,Missed 3-pointer from 23 ft,GSW leads 91-68
+2017-04-12,True,LAL,False,239,317,3,00:26,Missed 3-pointer from 27 ft,GSW leads 93-70
+2017-04-16,True,POR,True,270,309,1,10:43,Made 3-pointer from 26 ft,GSW now leads 5-2
+2017-04-16,True,POR,False,377,269,1,08:01,Missed 3-pointer from 26 ft,GSW tied 11-11
+2017-04-16,True,POR,False,257,63,1,07:44,Missed 2-pointer from 2 ft,GSW tied 11-11
+2017-04-16,True,POR,True,88,191,1,04:40,Made 2-pointer from 21 ft,GSW now leads 18-16
+2017-04-16,True,POR,False,103,292,1,04:09,Missed 3-pointer from 28 ft,GSW tied 18-18
+2017-04-16,True,POR,True,350,101,1,01:00,Made 2-pointer from 12 ft,GSW now leads 28-24
+2017-04-16,True,POR,False,148,189,2,06:20,Missed 2-pointer from 17 ft,GSW leads 44-41
+2017-04-16,True,POR,False,31,189,2,06:00,Missed 3-pointer from 25 ft,GSW leads 44-43
+2017-04-16,True,POR,False,202,297,2,04:30,Missed 3-pointer from 25 ft,GSW trails 46-47
+2017-04-16,True,POR,True,241,66,2,01:53,Made 2-pointer from 2 ft,GSW now leads 55-53
+2017-04-16,True,POR,True,250,66,3,10:50,Made 2-pointer from 2 ft,GSW now leads 60-58
+2017-04-16,True,POR,True,339,282,3,08:50,Made 3-pointer from 25 ft,GSW now leads 67-66
+2017-04-16,True,POR,True,242,61,3,08:17,Made 2-pointer from 1 ft,GSW now leads 69-68
+2017-04-16,True,POR,True,236,96,3,07:21,Made 2-pointer from 5 ft,GSW now leads 71-70
+2017-04-16,True,POR,True,7,81,3,03:30,Made 3-pointer from 24 ft,GSW now leads 80-77
+2017-04-16,True,POR,False,252,58,3,02:33,Missed 2-pointer from 1 ft,GSW leads 83-77
+2017-04-16,True,POR,False,195,332,3,00:30,Missed 3-pointer from 29 ft,GSW leads 88-83
+2017-04-16,True,POR,False,105,86,4,06:14,Missed 2-pointer from 14 ft,GSW leads 103-93
+2017-04-16,True,POR,False,241,76,4,04:59,Missed 2-pointer from 3 ft,GSW leads 105-99
+2017-04-19,True,POR,False,134,278,1,10:37,Missed 3-pointer from 25 ft,GSW trails 2-3
+2017-04-19,True,POR,False,121,282,1,10:17,Missed 3-pointer from 26 ft,GSW trails 2-3
+2017-04-19,True,POR,True,164,297,1,07:27,Made 3-pointer from 26 ft,GSW now leads 15-9
+2017-04-19,True,POR,False,365,263,1,06:48,Missed 3-pointer from 25 ft,GSW leads 15-9
+2017-04-19,True,POR,False,460,174,1,01:29,Missed 3-pointer from 25 ft,GSW leads 31-17
+2017-04-19,True,POR,False,238,78,1,01:13,Missed 2-pointer from 3 ft,GSW leads 31-17
+2017-04-19,True,POR,True,246,66,1,00:56,Made 2-pointer from 2 ft,GSW now leads 33-17
+2017-04-19,True,POR,False,246,63,2,04:40,Missed 2-pointer from 1 ft,GSW leads 43-37
+2017-04-19,True,POR,False,72,260,2,00:02,Missed 3-pointer from 27 ft,GSW leads 55-46
+2017-04-19,True,POR,True,175,307,3,11:32,Made 3-pointer from 27 ft,GSW now leads 58-46
+2017-04-19,True,POR,True,250,58,3,10:13,Made 2-pointer from 1 ft,GSW now leads 62-46
+2017-04-19,True,POR,False,324,297,3,08:17,Missed 3-pointer from 26 ft,GSW leads 66-50
+2017-04-19,True,POR,False,190,214,3,07:46,Missed 2-pointer from 17 ft,GSW leads 66-52
+2017-04-19,True,POR,False,262,312,3,06:33,Missed 3-pointer from 26 ft,GSW leads 66-52
+2017-04-19,True,POR,False,259,61,3,06:04,Missed 2-pointer from 2 ft,GSW leads 66-52
+2017-04-19,True,POR,True,92,361,3,04:56,Made 3-pointer from 34 ft,GSW now leads 71-52
+2017-04-19,True,POR,False,49,302,3,02:19,Missed 3-pointer from 32 ft,GSW leads 79-54
+2017-04-19,True,POR,True,36,194,3,00:34,Made 3-pointer from 25 ft,GSW now leads 82-58
+2017-04-22,False,POR,False,80,253,1,10:20,Missed 3-pointer from 26 ft,GSW trails 3-4
+2017-04-22,False,POR,True,321,189,1,08:59,Made 2-pointer from 16 ft,GSW now trails 5-11
+2017-04-22,False,POR,False,241,319,1,07:44,Missed 3-pointer from 27 ft,GSW trails 5-11
+2017-04-22,False,POR,False,368,269,1,07:28,Missed 3-pointer from 25 ft,GSW trails 5-11
+2017-04-22,False,POR,True,264,86,1,07:06,Made 2-pointer from 4 ft,GSW now trails 7-11
+2017-04-22,False,POR,False,102,278,1,05:34,Missed 3-pointer from 27 ft,GSW trails 9-17
+2017-04-22,False,POR,False,241,66,1,02:08,Missed 2-pointer from 2 ft,GSW trails 21-27
+2017-04-22,False,POR,True,357,278,2,06:27,Made 3-pointer from 26 ft,GSW now trails 43-51
+2017-04-22,False,POR,True,275,61,2,05:44,Made 2-pointer from 4 ft,GSW now trails 45-53
+2017-04-22,False,POR,False,318,235,2,03:52,Missed 2-pointer from 20 ft,GSW trails 48-61
+2017-04-22,False,POR,False,264,57,2,02:35,Missed 2-pointer from 3 ft,GSW trails 48-63
+2017-04-22,False,POR,False,435,220,2,02:09,Missed 3-pointer from 26 ft,GSW trails 48-65
+2017-04-22,False,POR,True,82,263,2,00:35,Made 3-pointer from 27 ft,GSW now trails 54-65
+2017-04-22,False,POR,False,157,245,2,00:01,Missed 2-pointer from 21 ft,GSW trails 54-67
+2017-04-22,False,POR,False,470,44,3,10:02,Missed 3-pointer from 23 ft,GSW trails 57-70
+2017-04-22,False,POR,False,242,165,3,08:36,Missed 2-pointer from 12 ft,GSW trails 59-72
+2017-04-22,False,POR,True,2,35,3,08:15,Made 3-pointer from 24 ft,GSW now trails 62-75
+2017-04-22,False,POR,False,255,307,3,07:29,Missed 3-pointer from 26 ft,GSW trails 62-75
+2017-04-22,False,POR,True,234,45,3,06:03,Made 2-pointer from 1 ft,GSW now trails 68-82
+2017-04-22,False,POR,False,218,57,3,04:04,Missed 2-pointer from 2 ft,GSW trails 73-82
+2017-04-22,False,POR,True,77,248,4,07:01,Made 3-pointer from 26 ft,GSW now leads 98-96
+2017-04-22,False,POR,False,77,248,4,05:51,Missed 3-pointer from 26 ft,GSW leads 100-96
+2017-04-22,False,POR,False,62,278,4,03:31,Missed 3-pointer from 29 ft,GSW leads 108-102
+2017-04-22,False,POR,True,239,304,4,00:49,Made 3-pointer from 25 ft,GSW now leads 113-106
+2017-04-22,False,POR,True,162,88,4,00:26,Made 2-pointer from 9 ft,GSW now leads 115-109
+2017-04-24,False,POR,True,15,61,1,08:02,Made 3-pointer from 23 ft,GSW now leads 17-3
+2017-04-24,False,POR,True,388,297,1,05:45,Made 3-pointer from 29 ft,GSW now leads 28-5
+2017-04-24,False,POR,True,381,248,1,04:11,Made 3-pointer from 24 ft,GSW now leads 35-9
+2017-04-24,False,POR,False,262,78,1,03:41,Missed 2-pointer from 4 ft,GSW leads 35-11
+2017-04-24,False,POR,False,218,52,1,01:20,Missed 2-pointer from 2 ft,GSW leads 43-19
+2017-04-24,False,POR,False,167,297,1,00:35,Missed 3-pointer from 26 ft,GSW leads 45-19
+2017-04-24,False,POR,True,257,233,2,05:15,Made 2-pointer from 18 ft,GSW now leads 59-35
+2017-04-24,False,POR,True,75,248,2,02:14,Made 3-pointer from 26 ft,GSW now leads 64-43
+2017-04-24,False,POR,False,411,287,2,01:44,Missed 3-pointer from 29 ft,GSW leads 64-43
+2017-04-24,False,POR,True,395,248,2,00:31,Made 3-pointer from 25 ft,GSW now leads 72-48
+2017-04-24,False,POR,False,447,189,2,00:02,Missed 3-pointer from 25 ft,GSW leads 72-48
+2017-04-24,False,POR,True,156,147,3,10:08,Made 2-pointer from 13 ft,GSW now leads 78-48
+2017-04-24,False,POR,True,259,312,3,07:00,Made 3-pointer from 26 ft,GSW now leads 91-58
+2017-04-24,False,POR,True,223,52,3,03:59,Made 2-pointer from 2 ft,GSW now leads 95-68
+2017-04-24,False,POR,False,240,76,3,03:25,Missed 2-pointer from 3 ft,GSW leads 95-71
+2017-04-24,False,POR,False,252,61,3,03:11,Missed 2-pointer from 2 ft,GSW leads 95-71
+2017-04-24,False,POR,True,449,53,3,03:05,Made 2-pointer from 21 ft,GSW now leads 97-71
+2017-04-24,False,POR,False,404,228,3,02:31,Missed 3-pointer from 24 ft,GSW leads 97-73
+2017-04-24,False,POR,True,120,332,3,00:30,Made 3-pointer from 31 ft,GSW now leads 104-77
+2017-04-24,False,POR,True,246,63,3,00:03,Made 2-pointer from 1 ft,GSW now leads 106-80
+2017-05-02,True,UTA,False,403,235,1,09:56,Missed 3-pointer from 25 ft,GSW leads 2-0
+2017-05-02,True,UTA,True,51,228,1,06:25,Made 3-pointer from 26 ft,GSW now leads 14-6
+2017-05-02,True,UTA,True,334,166,1,04:21,Made 2-pointer from 15 ft,GSW now leads 18-11
+2017-05-02,True,UTA,False,411,228,1,03:45,Missed 3-pointer from 25 ft,GSW leads 18-13
+2017-05-02,True,UTA,True,139,115,1,01:10,Made 2-pointer from 12 ft,GSW now leads 25-21
+2017-05-02,True,UTA,True,254,63,2,02:46,Made 2-pointer from 2 ft,GSW now leads 54-39
+2017-05-02,True,UTA,True,236,53,2,01:51,Made 2-pointer from 1 ft,GSW now leads 56-39
+2017-05-02,True,UTA,True,229,50,3,09:37,Made 2-pointer from 1 ft,GSW now leads 65-54
+2017-05-02,True,UTA,False,246,302,3,08:01,Missed 3-pointer from 25 ft,GSW leads 70-55
+2017-05-02,True,UTA,True,241,219,3,02:53,Made 2-pointer from 17 ft,GSW now leads 80-67
+2017-05-02,True,UTA,False,131,130,3,00:56,Missed 2-pointer from 14 ft,GSW leads 82-71
+2017-05-04,True,UTA,False,352,170,1,08:42,Missed 2-pointer from 16 ft,GSW leads 12-3
+2017-05-04,True,UTA,True,13,50,1,06:49,Made 3-pointer from 23 ft,GSW now leads 19-8
+2017-05-04,True,UTA,False,92,309,1,06:19,Missed 3-pointer from 30 ft,GSW leads 19-8
+2017-05-04,True,UTA,False,359,282,1,02:47,Missed 3-pointer from 26 ft,GSW leads 25-11
+2017-05-04,True,UTA,True,231,214,1,02:14,Made 2-pointer from 16 ft,GSW now leads 27-13
+2017-05-04,True,UTA,True,242,304,2,06:17,Made 3-pointer from 25 ft,GSW now leads 47-27
+2017-05-04,True,UTA,False,421,258,2,00:31,Missed 3-pointer from 28 ft,GSW leads 60-45
+2017-05-04,True,UTA,False,329,76,3,10:04,Missed 2-pointer from 9 ft,GSW leads 63-55
+2017-05-04,True,UTA,True,331,96,3,08:37,Made 2-pointer from 10 ft,GSW now leads 67-58
+2017-05-04,True,UTA,False,174,106,3,05:03,Missed 2-pointer from 9 ft,GSW leads 78-66
+2017-05-04,True,UTA,False,242,83,3,04:16,Missed 2-pointer from 3 ft,GSW leads 82-66
+2017-05-04,True,UTA,True,82,292,3,02:55,Made 3-pointer from 29 ft,GSW now leads 85-70
+2017-05-04,True,UTA,True,314,307,3,02:18,Made 3-pointer from 27 ft,GSW now leads 88-72
+2017-05-04,True,UTA,True,331,204,4,05:00,Made 2-pointer from 18 ft,GSW now leads 104-93
+2017-05-04,True,UTA,True,472,91,4,03:22,Made 3-pointer from 24 ft,GSW now leads 109-95
+2017-05-06,False,UTA,False,362,58,1,10:14,Missed 2-pointer from 12 ft,GSW tied 0-0
+2017-05-06,False,UTA,True,218,49,1,10:08,Made 2-pointer from 2 ft,GSW now leads 2-0
+2017-05-06,False,UTA,False,133,278,1,07:08,Missed 3-pointer from 25 ft,GSW leads 8-4
+2017-05-06,False,UTA,True,85,191,1,06:32,Made 2-pointer from 21 ft,GSW now leads 10-6
+2017-05-06,False,UTA,False,3,39,1,05:58,Missed 3-pointer from 24 ft,GSW leads 10-8
+2017-05-06,False,UTA,False,318,102,1,01:26,Missed 2-pointer from 9 ft,GSW leads 22-15
+2017-05-06,False,UTA,False,375,50,2,04:12,Missed 2-pointer from 14 ft,GSW leads 39-36
+2017-05-06,False,UTA,False,134,268,2,01:20,Missed 3-pointer from 24 ft,GSW leads 47-45
+2017-05-06,False,UTA,False,210,57,3,11:06,Missed 2-pointer from 3 ft,GSW trails 49-50
+2017-05-06,False,UTA,False,385,258,3,09:22,Missed 3-pointer from 25 ft,GSW trails 51-52
+2017-05-06,False,UTA,False,264,287,3,08:54,Missed 3-pointer from 24 ft,GSW trails 51-54
+2017-05-06,False,UTA,False,363,171,3,07:39,Missed 2-pointer from 17 ft,GSW trails 53-60
+2017-05-06,False,UTA,False,316,282,3,05:33,Missed 3-pointer from 24 ft,GSW trails 57-62
+2017-05-06,False,UTA,False,372,132,3,04:10,Missed 2-pointer from 16 ft,GSW trails 60-66
+2017-05-06,False,UTA,True,239,297,3,03:05,Made 3-pointer from 25 ft,GSW now trails 65-66
+2017-05-06,False,UTA,True,424,140,3,02:36,Made 2-pointer from 20 ft,GSW now leads 67-66
+2017-05-06,False,UTA,False,470,57,3,00:43,Missed 3-pointer from 23 ft,GSW tied 70-70
+2017-05-06,False,UTA,True,432,220,4,03:39,Made 3-pointer from 26 ft,GSW now leads 89-84
+2017-05-06,False,UTA,True,10,135,4,00:30,Made 3-pointer from 25 ft,GSW now leads 102-89
+2017-05-08,False,UTA,True,10,125,1,10:02,Made 3-pointer from 24 ft,GSW now leads 7-3
+2017-05-08,False,UTA,False,268,287,1,09:08,Missed 3-pointer from 24 ft,GSW leads 7-3
+2017-05-08,False,UTA,True,473,135,1,09:03,Made 3-pointer from 25 ft,GSW now leads 10-3
+2017-05-08,False,UTA,True,208,52,1,07:52,Made 2-pointer from 3 ft,GSW now leads 14-6
+2017-05-08,False,UTA,False,10,83,1,04:08,Missed 3-pointer from 23 ft,GSW leads 24-7
+2017-05-08,False,UTA,False,102,263,2,06:54,Missed 3-pointer from 25 ft,GSW leads 46-31
+2017-05-08,False,UTA,True,241,209,2,04:53,Made 2-pointer from 16 ft,GSW now leads 52-35
+2017-05-08,False,UTA,True,241,66,2,04:06,Made 2-pointer from 2 ft,GSW now leads 56-38
+2017-05-08,False,UTA,False,280,297,2,03:05,Missed 3-pointer from 25 ft,GSW leads 56-40
+2017-05-08,False,UTA,False,36,189,2,00:00,Missed 3-pointer from 25 ft,GSW leads 60-52
+2017-05-08,False,UTA,True,239,86,3,07:59,Made 2-pointer from 4 ft,GSW now leads 68-61
+2017-05-08,False,UTA,True,210,53,3,04:38,Made 2-pointer from 3 ft,GSW now leads 80-70
+2017-05-08,False,UTA,False,12,130,3,02:16,Missed 3-pointer from 24 ft,GSW leads 86-79
+2017-05-08,False,UTA,True,17,160,3,00:36,Made 3-pointer from 25 ft,GSW now leads 90-79
+2017-05-08,False,UTA,True,252,304,4,04:00,Made 3-pointer from 25 ft,GSW now leads 113-87
+2017-05-14,True,SAS,True,30,61,1,09:53,Made 2-pointer from 21 ft,GSW now trails 2-5
+2017-05-14,True,SAS,False,262,63,1,09:07,Missed 2-pointer from 3 ft,GSW trails 2-5
+2017-05-14,True,SAS,False,370,292,1,02:58,Missed 3-pointer from 27 ft,GSW trails 14-18
+2017-05-14,True,SAS,False,337,356,1,00:29,Missed 3-pointer from 32 ft,GSW trails 16-28
+2017-05-14,True,SAS,True,249,63,2,06:12,Made 2-pointer from 2 ft,GSW now trails 25-46
+2017-05-14,True,SAS,True,476,39,2,05:05,Made 3-pointer from 24 ft,GSW now trails 32-46
+2017-05-14,True,SAS,True,80,268,2,03:19,Made 3-pointer from 27 ft,GSW now trails 35-50
+2017-05-14,True,SAS,False,238,66,2,02:15,Missed 2-pointer from 2 ft,GSW trails 35-55
+2017-05-14,True,SAS,False,167,366,2,00:01,Missed 3-pointer from 32 ft,GSW trails 42-62
+2017-05-14,True,SAS,True,239,155,3,11:43,Made 2-pointer from 11 ft,GSW now trails 44-62
+2017-05-14,True,SAS,True,314,287,3,10:45,Made 3-pointer from 25 ft,GSW now trails 49-64
+2017-05-14,True,SAS,True,31,199,3,10:00,Made 3-pointer from 26 ft,GSW now trails 52-67
+2017-05-14,True,SAS,True,347,292,3,08:45,Made 3-pointer from 26 ft,GSW now trails 55-75
+2017-05-14,True,SAS,True,311,297,3,07:21,Made 3-pointer from 26 ft,GSW now trails 60-78
+2017-05-14,True,SAS,False,51,224,3,05:43,Missed 3-pointer from 26 ft,GSW trails 64-78
+2017-05-14,True,SAS,True,350,243,3,04:44,Made 2-pointer from 22 ft,GSW now trails 71-78
+2017-05-14,True,SAS,True,249,155,3,03:37,Made 2-pointer from 11 ft,GSW now trails 76-82
+2017-05-14,True,SAS,False,308,165,3,02:57,Missed 2-pointer from 13 ft,GSW trails 76-84
+2017-05-14,True,SAS,False,38,209,3,02:07,Missed 3-pointer from 26 ft,GSW trails 76-84
+2017-05-14,True,SAS,False,177,307,4,06:46,Missed 3-pointer from 26 ft,GSW trails 90-94
+2017-05-14,True,SAS,False,381,279,4,03:29,Missed 3-pointer from 27 ft,GSW leads 101-100
+2017-05-14,True,SAS,False,422,219,4,01:56,Missed 3-pointer from 25 ft,GSW trails 103-106
+2017-05-14,True,SAS,True,395,284,4,01:48,Made 3-pointer from 28 ft,GSW now tied 106-106
+2017-05-14,True,SAS,True,249,61,4,00:39,Made 2-pointer from 1 ft,GSW now leads 111-106
+2017-05-14,True,SAS,True,252,181,4,00:10,Made 2-pointer from 13 ft,GSW now leads 113-110
+2017-05-16,True,SAS,False,383,269,1,07:41,Missed 3-pointer from 26 ft,GSW leads 9-4
+2017-05-16,True,SAS,True,103,269,1,06:51,Made 3-pointer from 26 ft,GSW now leads 14-6
+2017-05-16,True,SAS,True,373,284,1,04:52,Made 3-pointer from 27 ft,GSW now leads 20-10
+2017-05-16,True,SAS,True,43,215,1,03:06,Made 3-pointer from 26 ft,GSW now leads 25-12
+2017-05-16,True,SAS,False,250,76,1,01:27,Missed 2-pointer from 3 ft,GSW leads 27-16
+2017-05-16,True,SAS,True,413,248,1,01:11,Made 3-pointer from 26 ft,GSW now leads 30-16
+2017-05-16,True,SAS,True,378,268,2,01:36,Made 3-pointer from 26 ft,GSW now leads 67-37
+2017-05-16,True,SAS,False,259,132,3,09:43,Missed 2-pointer from 8 ft,GSW leads 72-50
+2017-05-16,True,SAS,True,242,61,3,08:34,Made 2-pointer from 1 ft,GSW now leads 76-52
+2017-05-16,True,SAS,True,236,71,3,06:27,Made 2-pointer from 2 ft,GSW now leads 83-61
+2017-05-16,True,SAS,True,169,341,3,04:57,Made 3-pointer from 30 ft,GSW now leads 93-66
+2017-05-16,True,SAS,False,105,307,3,00:34,Missed 3-pointer from 29 ft,GSW leads 105-75
+2017-05-20,False,SAS,True,470,29,1,09:01,Made 3-pointer from 23 ft,GSW now leads 10-4
+2017-05-20,False,SAS,True,345,274,1,06:44,Made 3-pointer from 25 ft,GSW now leads 15-10
+2017-05-20,False,SAS,False,239,57,2,11:11,Missed 2-pointer from 1 ft,GSW trails 29-35
+2017-05-20,False,SAS,False,419,209,2,10:08,Missed 3-pointer from 24 ft,GSW trails 32-35
+2017-05-20,False,SAS,True,233,57,2,09:10,Made 2-pointer from 1 ft,GSW now trails 37-39
+2017-05-20,False,SAS,False,180,273,2,05:33,Missed 2-pointer from 23 ft,GSW leads 47-45
+2017-05-20,False,SAS,False,113,274,2,04:33,Missed 3-pointer from 26 ft,GSW leads 49-47
+2017-05-20,False,SAS,True,126,137,2,02:54,Made 2-pointer from 14 ft,GSW now leads 56-49
+2017-05-20,False,SAS,False,240,53,2,02:21,Missed 2-pointer from 0 ft,GSW leads 56-49
+2017-05-20,False,SAS,True,355,66,3,09:52,Made 2-pointer from 12 ft,GSW now leads 71-65
+2017-05-20,False,SAS,False,470,61,3,08:53,Missed 3-pointer from 23 ft,GSW leads 72-67
+2017-05-20,False,SAS,True,246,49,3,07:17,Made 2-pointer from 1 ft,GSW now leads 76-71
+2017-05-20,False,SAS,True,303,219,3,06:00,Made 2-pointer from 18 ft,GSW now leads 80-73
+2017-05-20,False,SAS,False,424,314,3,00:00,Missed 3-pointer from 32 ft,GSW leads 100-88
+2017-05-20,False,SAS,True,321,292,4,03:44,Made 3-pointer from 26 ft,GSW now leads 118-100
+2017-05-22,False,SAS,False,179,297,1,08:46,Missed 3-pointer from 25 ft,GSW tied 4-4
+2017-05-22,False,SAS,True,282,63,1,08:26,Made 2-pointer from 4 ft,GSW now leads 6-4
+2017-05-22,False,SAS,True,319,73,1,07:56,Made 2-pointer from 8 ft,GSW now leads 8-4
+2017-05-22,False,SAS,True,252,66,1,06:55,Made 2-pointer from 2 ft,GSW now leads 13-7
+2017-05-22,False,SAS,True,216,66,1,05:23,Made 2-pointer from 3 ft,GSW now leads 21-7
+2017-05-22,False,SAS,False,149,279,1,03:36,Missed 3-pointer from 25 ft,GSW leads 21-11
+2017-05-22,False,SAS,False,8,71,1,02:45,Missed 3-pointer from 23 ft,GSW leads 21-15
+2017-05-22,False,SAS,True,435,204,1,02:39,Made 3-pointer from 25 ft,GSW now leads 24-15
+2017-05-22,False,SAS,False,355,263,1,01:48,Missed 3-pointer from 24 ft,GSW leads 24-17
+2017-05-22,False,SAS,True,236,71,1,00:31,Made 2-pointer from 2 ft,GSW now leads 31-19
+2017-05-22,False,SAS,False,409,228,1,00:00,Missed 3-pointer from 25 ft,GSW leads 31-19
+2017-05-22,False,SAS,True,190,297,2,01:33,Made 3-pointer from 25 ft,GSW now leads 62-46
+2017-05-22,False,SAS,True,301,91,2,01:09,Made 2-pointer from 7 ft,GSW now leads 64-49
+2017-05-22,False,SAS,False,85,58,3,09:25,Missed 2-pointer from 16 ft,GSW leads 73-56
+2017-05-22,False,SAS,False,121,273,3,06:37,Missed 3-pointer from 25 ft,GSW leads 78-60
+2017-05-22,False,SAS,True,220,61,3,06:01,Made 2-pointer from 2 ft,GSW now leads 80-62
+2017-05-22,False,SAS,False,352,279,3,05:09,Missed 3-pointer from 25 ft,GSW leads 80-64
+2017-05-22,False,SAS,True,457,155,3,03:31,Made 3-pointer from 24 ft,GSW now leads 85-71
+2017-05-22,False,SAS,True,377,255,3,01:18,Made 3-pointer from 25 ft,GSW now leads 93-75
+2017-05-22,False,SAS,False,288,307,3,00:32,Missed 3-pointer from 26 ft,GSW leads 95-76
+2017-05-22,False,SAS,False,249,71,4,05:18,Missed 2-pointer from 2 ft,GSW leads 115-100
+2017-05-22,False,SAS,True,5,57,4,04:44,Made 3-pointer from 24 ft,GSW now leads 118-102
+2017-05-22,False,SAS,True,107,225,4,03:33,Made 2-pointer from 22 ft,GSW now leads 122-106
+2017-05-22,False,SAS,True,283,73,4,02:25,Made 2-pointer from 5 ft,GSW now leads 124-108
+2017-06-01,True,CLE,False,185,312,1,10:52,Missed 3-pointer from 27 ft,GSW tied 0-0
+2017-06-01,True,CLE,False,249,307,1,07:41,Missed 3-pointer from 26 ft,GSW trails 8-10
+2017-06-01,True,CLE,True,378,151,1,05:17,Made 2-pointer from 17 ft,GSW now trails 16-17
+2017-06-01,True,CLE,False,249,76,1,03:03,Missed 2-pointer from 3 ft,GSW tied 22-22
+2017-06-01,True,CLE,True,110,327,1,02:05,Made 3-pointer from 31 ft,GSW now leads 27-24
+2017-06-01,True,CLE,False,221,83,1,01:10,Missed 2-pointer from 4 ft,GSW leads 27-26
+2017-06-01,True,CLE,True,468,39,1,01:06,Made 3-pointer from 23 ft,GSW now leads 30-26
+2017-06-01,True,CLE,True,233,66,1,00:41,Made 2-pointer from 2 ft,GSW now leads 32-28
+2017-06-01,True,CLE,False,241,73,1,00:21,Missed 2-pointer from 2 ft,GSW leads 32-30
+2017-06-01,True,CLE,False,445,61,2,06:28,Missed 2-pointer from 21 ft,GSW leads 43-34
+2017-06-01,True,CLE,False,240,76,2,02:48,Missed 2-pointer from 3 ft,GSW leads 55-45
+2017-06-01,True,CLE,True,231,63,2,01:54,Made 2-pointer from 2 ft,GSW now leads 57-48
+2017-06-01,True,CLE,False,59,238,2,00:28,Missed 3-pointer from 26 ft,GSW leads 60-52
+2017-06-01,True,CLE,True,252,224,3,09:46,Made 2-pointer from 17 ft,GSW now leads 67-52
+2017-06-01,True,CLE,True,90,274,3,09:03,Made 3-pointer from 27 ft,GSW now leads 70-52
+2017-06-01,True,CLE,True,455,204,3,08:04,Made 3-pointer from 26 ft,GSW now leads 73-52
+2017-06-01,True,CLE,False,417,238,3,06:31,Missed 3-pointer from 26 ft,GSW leads 75-58
+2017-06-01,True,CLE,True,257,309,3,06:13,Made 3-pointer from 26 ft,GSW now leads 78-60
+2017-06-01,True,CLE,False,252,61,3,05:24,Missed 2-pointer from 2 ft,GSW leads 78-60
+2017-06-01,True,CLE,True,215,332,3,01:54,Made 3-pointer from 28 ft,GSW now leads 87-68
+2017-06-01,True,CLE,True,360,127,4,05:23,Made 2-pointer from 14 ft,GSW now leads 102-80
+2017-06-04,True,CLE,True,8,106,1,07:38,Made 3-pointer from 24 ft,GSW now leads 16-14
+2017-06-04,True,CLE,False,293,317,1,06:33,Missed 3-pointer from 27 ft,GSW leads 16-14
+2017-06-04,True,CLE,True,326,135,1,05:19,Made 2-pointer from 12 ft,GSW now leads 23-16
+2017-06-04,True,CLE,False,5,111,1,04:31,Missed 3-pointer from 24 ft,GSW leads 26-16
+2017-06-04,True,CLE,False,326,81,1,03:01,Missed 2-pointer from 9 ft,GSW leads 28-21
+2017-06-04,True,CLE,False,28,191,2,05:57,Missed 3-pointer from 25 ft,GSW leads 55-50
+2017-06-04,True,CLE,False,303,314,2,03:42,Missed 3-pointer from 27 ft,GSW leads 59-54
+2017-06-04,True,CLE,True,187,297,3,10:15,Made 3-pointer from 25 ft,GSW now leads 76-70
+2017-06-04,True,CLE,True,250,57,3,08:54,Made 2-pointer from 1 ft,GSW now leads 83-73
+2017-06-04,True,CLE,False,396,287,3,08:25,Missed 3-pointer from 28 ft,GSW leads 83-73
+2017-06-04,True,CLE,False,336,327,3,06:32,Missed 3-pointer from 29 ft,GSW leads 86-78
+2017-06-04,True,CLE,True,79,289,3,00:40,Made 3-pointer from 29 ft,GSW now leads 102-86
+2017-06-04,True,CLE,False,372,97,3,00:03,Missed 2-pointer from 14 ft,GSW leads 102-88
+2017-06-04,True,CLE,True,159,297,4,06:21,Made 3-pointer from 26 ft,GSW now leads 121-99
+2017-06-04,True,CLE,False,373,170,4,05:43,Missed 2-pointer from 18 ft,GSW leads 121-101
+2017-06-04,True,CLE,True,262,76,4,03:29,Made 2-pointer from 3 ft,GSW now leads 127-106
+2017-06-07,False,CLE,False,198,120,1,09:35,Missed 2-pointer from 8 ft,GSW trails 6-7
+2017-06-07,False,CLE,False,97,253,1,03:51,Missed 3-pointer from 25 ft,GSW leads 27-23
+2017-06-07,False,CLE,True,79,258,1,01:36,Made 3-pointer from 26 ft,GSW now tied 32-32
+2017-06-07,False,CLE,True,3,130,1,01:11,Made 3-pointer from 25 ft,GSW now leads 35-32
+2017-06-07,False,CLE,False,141,292,1,00:30,Missed 3-pointer from 26 ft,GSW leads 37-32
+2017-06-07,False,CLE,False,233,39,1,00:25,Missed 2-pointer from 1 ft,GSW leads 37-32
+2017-06-07,False,CLE,False,234,58,2,05:48,Missed 2-pointer from 1 ft,GSW leads 46-45
+2017-06-07,False,CLE,True,445,174,2,05:17,Made 3-pointer from 24 ft,GSW now leads 49-45
+2017-06-07,False,CLE,True,133,282,2,00:38,Made 3-pointer from 26 ft,GSW now leads 67-59
+2017-06-07,False,CLE,True,228,52,3,08:49,Made 2-pointer from 1 ft,GSW now tied 71-71
+2017-06-07,False,CLE,False,360,170,3,08:26,Missed 2-pointer from 17 ft,GSW leads 72-71
+2017-06-07,False,CLE,True,66,233,3,06:25,Made 3-pointer from 25 ft,GSW now leads 79-78
+2017-06-07,False,CLE,False,483,31,3,03:41,Missed 3-pointer from 24 ft,GSW trails 82-83
+2017-06-07,False,CLE,False,249,199,3,01:00,Missed 2-pointer from 15 ft,GSW trails 87-94
+2017-06-07,False,CLE,False,241,57,4,08:08,Missed 2-pointer from 1 ft,GSW trails 97-102
+2017-06-07,False,CLE,False,44,240,4,07:22,Missed 3-pointer from 27 ft,GSW trails 99-102
+2017-06-07,False,CLE,False,203,111,4,05:09,Missed 2-pointer from 7 ft,GSW trails 102-108
+2017-06-07,False,CLE,True,195,107,4,05:07,Made 2-pointer from 7 ft,GSW now trails 104-108
+2017-06-07,False,CLE,True,241,50,4,02:19,Made 2-pointer from 0 ft,GSW now trails 109-113
+2017-06-09,False,CLE,False,368,268,1,09:33,Missed 3-pointer from 25 ft,GSW trails 5-11
+2017-06-09,False,CLE,False,18,174,1,02:21,Missed 3-pointer from 25 ft,GSW trails 27-36
+2017-06-09,False,CLE,False,277,81,1,02:05,Missed 2-pointer from 5 ft,GSW trails 27-37
+2017-06-09,False,CLE,False,66,255,1,00:24,Missed 3-pointer from 27 ft,GSW trails 31-48
+2017-06-09,False,CLE,True,13,57,2,06:39,Made 3-pointer from 23 ft,GSW now trails 49-62
+2017-06-09,False,CLE,False,324,97,2,04:23,Missed 2-pointer from 10 ft,GSW trails 53-71
+2017-06-09,False,CLE,True,154,160,3,11:43,Made 2-pointer from 14 ft,GSW now trails 70-86
+2017-06-09,False,CLE,True,233,66,3,03:09,Made 2-pointer from 2 ft,GSW now trails 91-104
+2017-06-09,False,CLE,False,134,282,3,00:54,Missed 3-pointer from 26 ft,GSW trails 93-109
+2017-06-09,False,CLE,True,403,260,3,00:12,Made 3-pointer from 27 ft,GSW now trails 96-112
+2017-06-09,False,CLE,False,-18,68,4,07:58,Missed 3-pointer from 26 ft,GSW trails 104-120
+2017-06-09,False,CLE,False,352,332,4,02:49,Missed 3-pointer from 30 ft,GSW trails 111-129
+2017-06-12,True,CLE,False,28,96,1,09:50,Missed 2-pointer from 22 ft,GSW leads 9-4
+2017-06-12,True,CLE,False,87,165,1,06:44,Missed 2-pointer from 19 ft,GSW trails 12-18
+2017-06-12,True,CLE,True,242,57,1,05:52,Made 2-pointer from 1 ft,GSW now trails 16-20
+2017-06-12,True,CLE,True,230,64,1,04:49,Made 2-pointer from 2 ft,GSW now trails 20-22
+2017-06-12,True,CLE,False,187,304,1,04:19,Missed 3-pointer from 26 ft,GSW trails 20-24
+2017-06-12,True,CLE,True,246,122,1,03:31,Made 2-pointer from 7 ft,GSW now trails 22-26
+2017-06-12,True,CLE,False,239,127,1,02:12,Missed 2-pointer from 8 ft,GSW trails 25-30
+2017-06-12,True,CLE,True,267,314,2,06:17,Made 3-pointer from 27 ft,GSW now leads 48-43
+2017-06-12,True,CLE,True,188,156,2,04:40,Made 2-pointer from 12 ft,GSW now leads 54-43
+2017-06-12,True,CLE,False,85,278,2,00:33,Missed 3-pointer from 28 ft,GSW leads 69-55
+2017-06-12,True,CLE,False,416,243,3,07:09,Missed 3-pointer from 26 ft,GSW leads 82-73
+2017-06-12,True,CLE,True,255,61,3,06:00,Made 2-pointer from 2 ft,GSW now leads 84-77
+2017-06-12,True,CLE,True,249,63,4,06:29,Made 2-pointer from 2 ft,GSW now leads 114-104
+2017-06-12,True,CLE,False,349,302,4,05:24,Missed 3-pointer from 27 ft,GSW leads 116-106
+2017-06-12,True,CLE,True,240,58,4,04:32,Made 2-pointer from 1 ft,GSW now leads 120-108
+2017-06-12,True,CLE,True,233,61,4,04:13,Made 2-pointer from 1 ft,GSW now leads 122-108
+2017-06-12,True,CLE,False,241,333,4,01:37,Missed 3-pointer from 28 ft,GSW leads 126-115
+2017-06-12,True,CLE,True,74,255,4,00:42,Made 3-pointer from 26 ft,GSW now leads 129-115
+2017-06-12,True,CLE,False,475,57,4,00:21,Missed 3-pointer from 24 ft,GSW leads 129-117
