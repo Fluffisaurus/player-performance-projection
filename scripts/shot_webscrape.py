@@ -8,7 +8,7 @@ import re
 
 
 def getShotMake(string):
-    if(string == '●'):
+    if(string == u"\u25CF"): # ascii code for ●
         return True
     else:
         return False
