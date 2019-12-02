@@ -1,31 +1,31 @@
-Team,DEFRTG,Rank
-San Antonio Spurs,102.93999999999998,1.0
-Boston Celtics,103.38,2.0
-Indiana Pacers,103.72999999999999,3.0
-Chicago Bulls,104.13,4.0
-Miami Heat,104.28,5.0
-Oklahoma City Thunder,104.50999999999999,6.0
-Memphis Grizzlies,105.02000000000001,7.0
-Atlanta Hawks,105.28,8.0
-Utah Jazz,105.36999999999998,9.0
-Milwaukee Bucks,105.38000000000002,10.0
-Golden State Warriors,105.46,11.0
-Philadelphia 76ers,105.82000000000001,12.0
-Dallas Mavericks,105.96,13.0
-Orlando Magic,106.30999999999999,14.0
-Los Angeles Clippers,106.31999999999998,15.0
-Houston Rockets,106.33,16.0
-Washington Wizards,106.44000000000001,17.0
-Portland Trail Blazers,106.6,18.0
-Charlotte Hornets,106.80999999999999,19.0
-Toronto Raptors,106.96000000000001,20.0
-Los Angeles Lakers,107.22999999999999,21.0
-Detroit Pistons,107.46000000000001,22.0
-Denver Nuggets,107.5,23.0
-New Orleans Pelicans,107.60999999999999,24.0
-New York Knicks,108.2,25.0
-Brooklyn Nets,108.22,26.0
-Cleveland Cavaliers,108.42999999999999,27.0
-Phoenix Suns,108.66,28.0
-Minnesota Timberwolves,108.8,29.0
-Sacramento Kings,109.17999999999999,30.0
+Team,DEFRTG,Rank,Acronym
+San Antonio Spurs,102.93999999999998,1.0,SAS
+Boston Celtics,103.38,2.0,BOS
+Indiana Pacers,103.72999999999999,3.0,IND
+Chicago Bulls,104.13,4.0,CHI
+Miami Heat,104.28,5.0,MIA
+Oklahoma City Thunder,104.50999999999999,6.0,OKC
+Memphis Grizzlies,105.02000000000001,7.0,MEM
+Atlanta Hawks,105.28,8.0,ATL
+Utah Jazz,105.36999999999998,9.0,UTA
+Milwaukee Bucks,105.38000000000002,10.0,MIL
+Golden State Warriors,105.46,11.0,GSW
+Philadelphia 76ers,105.82000000000001,12.0,PHI
+Dallas Mavericks,105.96,13.0,DAL
+Orlando Magic,106.30999999999999,14.0,ORL
+Los Angeles Clippers,106.31999999999998,15.0,LAC
+Houston Rockets,106.33,16.0,HOU
+Washington Wizards,106.44000000000001,17.0,WAS
+Portland Trail Blazers,106.6,18.0,POR
+Charlotte Hornets,106.80999999999999,19.0,CHA
+Toronto Raptors,106.96000000000001,20.0,TOR
+Los Angeles Lakers,107.22999999999999,21.0,LAL
+Detroit Pistons,107.46000000000001,22.0,DET
+Denver Nuggets,107.5,23.0,DEN
+New Orleans Pelicans,107.60999999999999,24.0,NOP
+New York Knicks,108.2,25.0,NYK
+Brooklyn Nets,108.22,26.0,BKN
+Cleveland Cavaliers,108.42999999999999,27.0,CLE
+Phoenix Suns,108.66,28.0,PHX
+Minnesota Timberwolves,108.8,29.0,MIN
+Sacramento Kings,109.17999999999999,30.0,SAC
