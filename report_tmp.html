@@ -440,7 +440,7 @@ Limitations: problems you encountered, things you would do if you had more time,
 <h3 id="identification">Identification</h3>
 <p>Stephen Curry is the best shooter that has ever graced the NBA and is soley responsible for the rennaissance of the three-point era. His marksmanship lead him to his first MVP in 2014-15 and subsequently becoming the first unanimous MVP in 2015-16 the year after. Given his unparalled skillset, <em>we wonder how much of his shooting performance (shots made) is influenced by the opposing defense</em>.</p>
 <h3 id="idea">Idea</h3>
-<p>For a decent measure of a team's defensive potency, we will be using ESPN John Hollinger's <em>defensive efficiency</em> or more commonly <em>defensive rating</em> stat that estimates the number of points a team allows per 100 possessions. We will be ranking and binning the teams into three categories based on their <a href="#team-defensive-data-for-the-past-decade">defensive ratings</a> - top, middle, and bottom defensive ratings.</p>
+<p>For a decent measure of a team's defensive potency, we will be using ESPN John Hollinger's <em>defensive efficiency</em> or more commonly <em>defensive rating</em> stat that estimates the number of points a team allows per 100 possessions. We will be ranking and binning the teams into three categories based on their <a href="#team-defensive-rating-data-from-2009-2019">defensive ratings</a> - top, middle, and bottom defensive ratings.</p>
 <p>We are primarily interested in the number of shots Curry makes as time passes in a game, specifically the cumulative number of shots<code>cum_shot_made</code>.</p>
 <h3 id="hypothesis-testing">Hypothesis Testing</h3>
 <p>Since we are looking to test whether or not there is a difference between his shooting performances, we will perform a statistical analysis to verify our suspicions. We will have an initial assumption that there <em>is no statistical difference</em> between his performance against the different tiers (null hypothesis). Alternatively if that were to be proven wrong ($p-value &lt; 0.05$), then we can assume that there <em>is a statistically significant difference</em> between the tiers (alternative hypothesis).</p>
@@ -503,23 +503,65 @@ Limitations: problems you encountered, things you would do if you had more time,
 <h3 id="preprocessing">Preprocessing</h3>
 <p>After collecting the data, our main preprocessing work was to combine all the webscraping data into one dataframe that was exported as the csv file, <code>/data/shot-data-all.csv</code>. We added a column for cumulative shots made, cumulative attempts, and cumulative field goal percentage (made / attempts).</p>
 <p>With the aggregated defensive ratings from the previous <a href="#team-defensive-rating-data-from-2009-2019">section</a>, we split teams into three tiers based on their 10 year defensive rankings - top, middle, and bottom. We subsetted Curry's shooting data from <code>shot-data-all.csv</code> into individual csv's <code>/data/top-def.csv</code>, <code>/data/mid-def.csv</code>, and <code>/data/bot-def.csv</code>. By separating out Curry's shooting data by tier, we can then analyze and check whether there is a stasitical significance in his shooting performances against each tier.</p>
+<p>For more information on the steps we took for preprocessing, refer to the jupyter notebook <code>/scripts/combine_shooting_data.ipynb</code>.</p>
 <hr>
 <h2 id="techniques">Techniques</h2>
-<p>Through our play by play data, we were fully aware that we needed to use StandardScaler() in order to make it comparable, this is because we have features that scales differently such as our <em>shot_value</em>, <em>shot_distance</em>, and <em>cum_fg_percent</em>. Additionally, our feautures were all dependent of each other since each feauture has an influence on the success rate of the shot. Through <a href="https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c">PCA article</a>, we learned that one of the strengths PCA possess would be transforming our  feautures in order to become independent. Therefore, we applied PCA with n_components as 8 to fit and transform all of our X features. Eventually, with all the pre-processing and variable creation complete, we implemented GradientBoostRegressor with n_estimators as 100 and learning_rate as 0.1 to help predict Stephen Curry's cumulative shot made. Although we tried using linear regression on our data, we feel that having n_estimators was much more efficient to learn the data better based on the number of trees in the forest. We chose 100 because we realized that adding more trees can slow down the training process considerably. Furthermore, we see that using a high learning rate results in overfitting and we concluded that learning rate of 0.1 would be the optimal choice.</p>
-<!-- aggregated and averaged 10 years of data for defensive rating among all teams and ranked them in descending order.
-- all features we have are dependent (sicne they are all relate or have an influence on the success rate of the shot)
-  - Used make_pipeline to assemble several of our steps so that it can be cross-validated together while setting different parameters.
-  - used stadardscaler to make all comparable
-  - used PCA to transform features to become independent (link article that mentions how the process of PCA turns anyting into independent cus... math)
-  - given that the features are now independent of each other, satisfies the condition to use linear regression
-  - use linear regression on our features to find
-- want to predict number of shots made given historical data from 2009-2019
-- We decided to implement a GradientBoostRegressor model that is used to *predict* our cumulative shot made.
--->
+<h3 id="ml-regression-model-pipeline">ML Regression Model Pipeline</h3>
+<!-- 
+GOAL: REGRESSION FOR CUMULATIVE SHOTS MADE
+
+Done: 
+    Purpose of regression model
+        too much data -> many columns
+        normal regression accuracy is terrible
+
+    gradient boost > linear regress
+
+To Do: 
+model pipeline -> transforming data
+
+overfitting and underfitting
+ -->
+<p>Our goal with this Machine Learning model is to predict the cumulative shots made, <code>cum_shots_made</code> with respect to 8 different features.</p>
+<pre class="hljs"><code><div>[<span class="hljs-string">'game_time'</span>,<span class="hljs-string">'shot_made'</span>,<span class="hljs-string">'quarter'</span>,<span class="hljs-string">'home'</span>,<span class="hljs-string">'shot_distance'</span>,<span class="hljs-string">'shot_value'</span>,<span class="hljs-string">'cum_attempts'</span>,<span class="hljs-string">'cum_fg_percent'</span>]
+</div></code></pre>
+<p>Each of our features are measured and scaled differently - making them incomparable. To resolve this issue we used <code>StandardScaler()</code> to make them comparable.</p>
+<p>Our play-by-play shooting data is dependent on each other since each feature influences the success rate of a shot. Given this issue, we learned that one of Principle Component Analysis's (PCA) strengths is in <a href="https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c">transforming the features to become independent</a> through its intermediary steps. Given that all 8 of our features are pertinent towards the shot success rate, we kept all features when applying PCA.</p>
+<p>Initially we tried a basic <code>LinearRegression()</code> model on our data but found that our results were inaccurate (validation score of 0.50096). We assumed that the regular regression model had trouble making sense of all our features (n features = 8). So we decided to implement <code>GradientBoostingRegressor()</code> with <code>n_estimators = 100</code> and <code>learning_rate = 0.1</code>. Gradient Boosting was a good solution since we can let the model decide which features were identified incorrectly and apply appropriate weighting to the decision trees (learning rate).</p>
+<pre class="hljs"><code><div>model = make_pipeline(
+    StandardScaler(),
+    PCA(<span class="hljs-number">8</span>),
+    GradientBoostingRegressor(), <span class="hljs-comment"># defaults: n_estimator = 100, learning_rate = 0.1</span>
+)
+</div></code></pre>
+<h3 id="statistical-tests">Statistical Tests</h3>
+<p>Given that we are testing for differences between the tiers of team defenses, ANOVA is a suitable choice. Before we proceed, we verify that the conditions and assumptions for this statistical test are met:</p>
+<ol>
+<li>observations are indenpdent and identically distributed,</li>
+<li>groups are normally distributed,</li>
+<li>and groups have equal variance.</li>
+</ol>
+<p>We assume that shots are independent of each other, that is each shot does not influence the success rate of the other. Our sample size is $n &gt; 1000$ for each set, therefore through the Central Limit Theorem we can assume normality. To check for equal variance, we performed a levene test and achieved a <code>p-value = 0.14840</code>. This is also reflected in the graph below. Therefore, all the conditions of ANOVA are met.</p>
+<p><img src="file:///mnt/c/Users/Angus/Documents/GitHub/player-performance-projection/figures/variance-shot-defs.png" alt="variance test"></p>
+<h3 id="model-application">Model Application</h3>
+<p>We split our data with <code>train_test_split(X, y)</code> and trained each of the three data sets individually then used it predict the <code>cum_shot_made</code> column for each tier.</p>
+<p>Details can be seen in our file <code>/data/statistical_analysis.ipynb</code>.</p>
 <hr>
 <h2 id="results">Results</h2>
-<p>Initially, we were questioning on Curry's performances against top, middle, and bottom defensive teams. Based on our outcome, we found that Curry is remarkably consistent in the number of shots he makes regardless of the defensive potency of the other team.</p>
-<p><strong>This</strong> or that defensive rating is a bad metric that doesn't fully represent how a team is on defense. This may be because of Defense Rating represents the whole team. The results may perhaps be different if a certain player guards him? However, we found that Curry seems to have a tendency to make a lot more shots, or in basketball lingo <em>explode</em>, in the first quarter against teams in the lower defensive ratings. <img src="file:///curry-shots-made-by-minutes.png" alt="Image"></p>
+<!-- 
+Things to talk about:
+
+ANOVA results
+inference
+takeaways
+ -->
+<h3 id="anova">ANOVA</h3>
+<p>After simulating the regression model multiple times, the majority of the scenarios resulted in a <code>p-value &gt; 0.05</code>. Therefore, we fail to reject the null hypothesis and conclude that there is <strong>no significant statistical difference</strong> between Curry's performance against different tiers of defensive teams.</p>
+<h3 id="inference">Inference</h3>
+<p>Based on our outcome, we found that Curry is remarkably consistent in the number of shots he makes regardless of the defensive potency of the other team.</p>
+<p>However, we found that Curry seems to have a tendency to make a lot more shots, or in basketball lingo <em>explode</em>, in the first quarter against teams in the lower defensive ratings. <img src="file:///figures/curry-shots-made-by-minutes.png" alt="Image"></p>
+<p>For this experiment, we were examining Team Defense Rating and found no results. However, the results may perhaps be different if instead our scope shifted to looking at player matchups rather than the team collectively.</p>
+<h3 id="overfitting-or-underfitting">Overfitting or Underfitting</h3>
 <ul>
 <li>Based on our training and validation score, we managed to achieve (<em>insert the 3 models with training and valid score</em>)
 <ul>

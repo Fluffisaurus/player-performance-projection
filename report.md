@@ -154,7 +154,7 @@ takeaways
 
 ### ANOVA
 
-After simulating the regression model multiple times, the majority of the scenarios resulted in a `p-value > 0.05`. Therefore, we fail to reject the null hypothesis and conclude that there is no significant statistical difference between Curry's performance against different tiers of defensive teams.
+After simulating the regression model multiple times, the majority of the scenarios resulted in a `p-value > 0.05`. Therefore, we fail to reject the null hypothesis and conclude that there is **no significant statistical difference** between Curry's performance against different tiers of defensive teams.
 
 ### Inference
 
@@ -162,23 +162,58 @@ Based on our outcome, we found that Curry is remarkably consistent in the number
 
 However, we found that Curry seems to have a tendency to make a lot more shots, or in basketball lingo *explode*, in the first quarter against teams in the lower defensive ratings. ![Image](/figures/curry-shots-made-by-minutes.png)
 
-For this experiment, we were examining Team Defense Rating and found no results. However, the results may perhaps be different if instead our scope shifted to looking at player matchups rather than the team collectively. 
-
+For this experiment, we were examining Team Defense Rating and found no results. However, the results may perhaps be different if instead our scope shifted to looking at player matchups rather than the team collectively.
 
 ### Overfitting or Underfitting
 
-- Based on our training and validation score, we managed to achieve (*insert the 3 models with training and valid score*)
-  - concludes that we arent over fitting
-  - Talk about our accuracy using *r2_score*, using 2017-2018 and 2018-2019 as our input. (He mentioned to include 2 or more inputs)
+Based on our training and validation score, we managed to achieve these validation scores.
+
+```output
+Training Score on Top DEF RTG is: 0.982
+
+Validation Score on Top DEF RTG is: 0.964
+
+Training Score on Mid DEF RTG is: 0.985
+
+Validation Score on Mid DEF RTG is: 0.985
+
+Training Score on Bot DEF RTG is: 0.988
+
+Validation Score on Bot DEF RTG is: 0.988
+```
+
+We can conclude that we arent over fitting the data since the training and validation scores have a minute and insignificant difference. The graph below shows the training points, predicted points, and the regression line for each tier of defences.
+
+![overfitting](figures/all-3-def-tiers-train-vs-predict.png)
+
+---
 
 ## Limitations
 
-Our initial question was to answer Curry's performance against other teams given a certain matchup. Though, we had some difficulties finding his performances for his matchup against opponents. We discovered [nba_api](https://github.com/swar/nba_api) and thought we could utilize their api and it has provided us play-by-play stats. From their api, the documentation were not clear and that there were many bugs that we discovered while using it. Furthermore, connections would time out frequently regardless of the size request. In the end, we managed to obtain matchup data except that the data came aggregated and that there were very few points for us to use.
+At the start of our project, our original question was *how is Curry's shooting performance against other teams given a certain matchup / matchups on defense*. We had a lot of difficulties finding Curry's performance against different opponents. At one point, we came upon a very promising [nba_api](https://github.com/swar/nba_api) and thought we could utilize it to retrieve play-by-play stats and matchup data. However, the documentation for the api is not clear and we found that there were many bugs while using it. In addition, the server that the api was hosted on frequently times out regardless of the request size. We left the data we obtained from the api in the project folder `/data/steph-vs-team/` since we spent a sizable amount of time exploring it. In the end, we managed to obtain aggregated matchup data but there were very few points for us to use.
 
-We also found data on Curry's shooting chart from [basketball-reference.com](https://www.basketball-reference.com/) with data points and information of each point embedded in HTML. We noticed that each of these data points were essentially play-by-play data of every shot he took. We decided to write a script `shot_webscrape.py` that scrapes all the data from the HTML. This results in redefining our question to: Stephen Curry's shot made performace against top, middle, and defensive teams.
+As we briefly mentioned before in the [webscraping section](#webscrape), we found data on Curry's shooting chart data from [basketball-reference.com](https://www.basketball-reference.com/) with data points and information of each point embedded in HTML. We noticed that each of these data points were essentially play-by-play data of every shot he took. Making the most of what we could find, we redefined our question to explore Stephen Curry's shooting performace against top, middle, and defensive teams.
 
-Things we would do if we had more time would be get an understanding of [nba_api](https://github.com/swar/nba_api). We could potentially make use of its aggregated data to find something useful such as ? Moreover, we were interested in creating a model to predict other statistical performances from Curry such as assists, rebounds, and turnovers. Since we know that shots made does not fully reflect on players overall performance. We were also interested in predicting his performance against one team instead of defensive rank teams. This is because we want to create an application to gain insight on his performance against one team instead of all ten teams. Additionally, we are looking forward to add certain matchups against Curry based on the team he's facing.
+If we had more time, we could get a better understanding of [nba_api](https://github.com/swar/nba_api) and could potentially make use of its aggregated matchup data. Shooting is only one dimension to the overall performance of a player. Knowing this, we were also interested in creating a model to predict other statistical metrics for Curry such as assists, rebounds, and turnovers.
 
-Things we could have done better would be ensuring we had the correct dataset for our problem. Although we thought of many ideas and algorithms on how to implement, it is crucial to understand that data is significant in order to answer our question.
+Things we could have improved on would be ensuring we had the correct dataset to answer our questions. We had a plethora of ideas and algorithms that we wanted to implement but realized that we had to work around the limiting factor of data and adjust our problems to the data we could obtain.
 
-## Project Experience
+---
+
+### Project Experience / Overview
+
+For the majority of the project, we worked very closely with each other and had a big influence on every part of the project. We find it hard to decisively break down our contributions individually, but rather we prefer to see this as a collective effort.
+
+#### Angus' Accomplishment Statements
+
+- Created a web scraper that scrapes 10 years of shooting data which resulted in 14k rows of data from basketball-reference.
+- Produced visualizations of Stephen Curry’s performance against top, middle, bottom defensive teams
+- Fit and transformed our data into features that we desire into our model.
+- Applied a variety of machine learning models to see which is the most efficient and used GradientBoostRegressor to achieve 90-98% accuracy score.
+
+#### Anson's Accomplishment Statements
+
+- Collected and cleaned 10 years of defensive rating data from stats.nba for all 30 NBA Teams.
+- Conducted a statistical analysis using ANOVA to see if there was a difference between top, middle, bottom defensive teams.
+- Created visualizations of NBA Team’s defensive rating, training data and prediction data of all 3 tiers using scatterplot, and an implementation of a prediction line. 
+- Applied a variety of machine learning models to see which is the most efficient and used GradientBoostRegressor to achieve 90-98% accuracy score.
