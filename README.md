@@ -19,3 +19,8 @@ Here is an example of grabbing [Stephen Curry's shooting splits in 2010](https:/
 ```{python}
 python3 ./scripts/shot_webscrape.py https://www.basketball-reference.com/players/c/curryst01/shooting/2010 ./data/shooting/curry-2009-2019/curry-2010.csv
 ```
+Required Libraries: Pandas, Numpy, Matplotlib, sklearn, scipy, and seaborn. 
+
+In order to run our scripted files, hardcoded datasets must be in the same folder. 
+
+
