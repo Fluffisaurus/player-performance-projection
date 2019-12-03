@@ -1,6 +1,6 @@
 # Player Performance Prediction
 
-ML algorithm to predict D'Angelo Russell's performance statistics
+ML algorithm to predict Stephen Curry's performance statistics. Please read `report.md` for information about each script.
 
 ## How to run `shot_webscrape.py`
 
@@ -21,6 +21,6 @@ python3 ./scripts/shot_webscrape.py https://www.basketball-reference.com/players
 ```
 Required Libraries: Pandas, Numpy, Matplotlib, sklearn, scipy, and seaborn. 
 
-In order to run our scripted files, hardcoded datasets must be in the same folder. 
+In order to run our scripted files, hardcoded datasets must be in the specified folder structure. 
 
 
