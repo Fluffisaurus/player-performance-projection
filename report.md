@@ -16,7 +16,7 @@ Limitations: problems you encountered, things you would do if you had more time,
 
 ## Problem Identification
 
-Stephen Curry from the Golden State Warriors had some spectacular seasons and managed to win his first MVP award and the first player in NBA history to be elected MVP unanimously. We are interested in Stephen Curry's performance against top, middle, and bottom defensive rank teams based on each teams defensive ratings from 2009-2019. We are curious to observe how many shots were made against certain tiers. 
+Stephen Curry from the Golden State Warriors had some spectacular seasons and managed to win his first MVP award and the first player in NBA history to be elected MVP unanimously. We are interested in Stephen Curry's performance against top, middle, and bottom defensive rank teams based on each teams defensive ratings from 2009-2019. We are curious to observe how many shots were made against certain tiers.  
 
 ## Data Collection Process
 
@@ -41,8 +41,8 @@ A majority of our data was collected from [basketball-reference.com](https://www
 - Averaged defensive rating across the decade / datasets and ranked them based on lowest to highest.
 
 ## Techniques
-
-- aggregated and averaged 10 years of data for defensive rating among all teams and ranked them in descending order.
+Through our play by play data, we were fully aware that we needed to use StandardScaler() in order to make it comparable, this is because we have features that scales differently such as our *shot_value*, *shot_distance*, and *cum_fg_percent*. Additionally, our feautures were all dependent of each other since each feauture has an influence on the success rate of the shot. Through [PCA article](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c), we learned that one of the strengths PCA possess would be transforming our  feautures in order to become independent. Therefore, we applied PCA with n_components as 8 to fit and transform all of our X features. Eventually, with all the pre-processing and variable creation complete, we implemented GradientBoostRegressor with n_estimators as 100 and learning_rate as 0.1 to help predict Stephen Curry's cumulative shot made. Although we tried using linear regression on our data, we feel that having n_estimators was much more efficient to learn the data better based on the number of trees in the forest. We chose 100 because we realized that adding more trees can slow down the training process considerably. Furthermore, we see that using a high learning rate results in overfitting and we concluded that learning rate of 0.1 would be the optimal choice.
+<!-- aggregated and averaged 10 years of data for defensive rating among all teams and ranked them in descending order.-->
 - all features we have are dependent (sicne they are all relate or have an influence on the success rate of the shot)
   - Used make_pipeline to assemble several of our steps so that it can be cross-validated together while setting different parameters.
   - used stadardscaler to make all comparable
@@ -54,9 +54,10 @@ A majority of our data was collected from [basketball-reference.com](https://www
 
 ## Results
 
-curry vs top def, mid, bott --> results found that curry is remarkably consistent in the number of shots he makes regardless of the defensive potency of the other team. **This** or that defensive rating is a bad metric that doesn't fully represent how a team is on defense.
+Initially, we were questioning on Curry's performances against top, middle, and bottom defensive teams. Based on our outcome, we found that Curry is remarkably consistent in the number of shots he makes regardless of the defensive potency of the other team. 
 
-though we found that curry seems to have a tendency to make a lot more shots, or in basketball lingo *explode*, in the first quarter against teams in the lower defensive ratings (*Visual here* the plot for 3 different DEF rank teams)
+ **This** or that defensive rating is a bad metric that doesn't fully represent how a team is on defense. This may be because of Defense Rating represents the whole team. The results may perhaps be different if a certain player guards him? However, we found that Curry seems to have a tendency to make a lot more shots, or in basketball lingo *explode*, in the first quarter against teams in the lower defensive ratings. ![Test](/curry-shots-made-by-minutes.png)
+
 
 - Based on our training and validation score, we managed to achieve (*insert the 3 models with training and valid score*)
   - concludes that we arent over fitting
@@ -64,12 +65,8 @@ though we found that curry seems to have a tendency to make a lot more shots, or
 
 ## Limitations
 
-initial question to answer: wanted to know curry's performance against other teams given the people guarding him
+Our initial question was to answer Curry's performance against other teams given a certain matchup. Though, we had some difficulties finding his performances for his matchup against opponents. We discovered [nba_api](https://github.com/swar/nba_api) and thought we could utilize their api and it had provided play-by-play stats. 
 
-trouble along the way
-
-- had trouble finding data for his matchup against opponents
-- thought [nba_api](https://github.com/swar/nba_api) was promising since it had offered play-by-play stats
   - was under documented
   - connections would time out frequently regardless of size of request
   - found it to be very unreliable
@@ -91,3 +88,4 @@ redefined our question to: Stephen Curry's shot made performance against top,mid
 ### Things we could have done better
 
 -Although we thought of many ideas and algorithms on how to implement it.. we needede to make sure that we had the correct dataset.
+
