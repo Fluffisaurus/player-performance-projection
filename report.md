@@ -130,36 +130,42 @@ Given that we are testing for differences between the tiers of team defenses, AN
   2. groups are normally distributed,
   3. and groups have equal variance.
 
-We assume that shots are independent of each other, that is each shot does not influence the success rate of the other. Our sample size is $n > 1000$ for each set, therefore through the Central Limit Theorem we can assume normality. To check for equal variance, we performed a levene test and achieved a `p-value = 0.14840`. Therefore, all the conditions of ANOVA are met and 
+We assume that shots are independent of each other, that is each shot does not influence the success rate of the other. Our sample size is $n > 1000$ for each set, therefore through the Central Limit Theorem we can assume normality. To check for equal variance, we performed a levene test and achieved a `p-value = 0.14840`. This is also reflected in the graph below. Therefore, all the conditions of ANOVA are met.
 
-<!-- 
-ANOVA  - to compare three tiers
- - observerations independent and identically distributed (next shot no influence on previous)
- - groups are normally distributed (CLT)
- - groups have equal variance (levene p-value = 0.14840 )
+![variance test](figures/variance-shot-defs.png)
 
-therefore all conditions satisfied
- -->
+### Model Application
+
+We split our data with `train_test_split(X, y)` and trained each of the three data sets individually then used it predict the `cum_shot_made` column for each tier.
+
+Details can be seen in our file `/data/statistical_analysis.ipynb`.
 
 ---
 
-## Model Application
-
-
-
-<!-- 
-tran test split => 75 / 25 proportion
-trained model on each of the three tiers dataframe subsets
-predict
- -->
-
-
 ## Results
 
-Initially, we were questioning on Curry's performances against top, middle, and bottom defensive teams. Based on our outcome, we found that Curry is remarkably consistent in the number of shots he makes regardless of the defensive potency of the other team.
+<!-- 
+Things to talk about:
 
-**This** or that defensive rating is a bad metric that doesn't fully represent how a team is on defense. This may be because of Defense Rating represents the whole team. The results may perhaps be different if a certain player guards him? However, we found that Curry seems to have a tendency to make a lot more shots, or in basketball lingo *explode*, in the first quarter against teams in the lower defensive ratings. ![Image](/figures/curry-shots-made-by-minutes.png)
+ANOVA results
+inference
+takeaways
+ -->
 
+### ANOVA
+
+After simulating the regression model multiple times, the majority of the scenarios resulted in a `p-value > 0.05`. Therefore, we fail to reject the null hypothesis and conclude that there is no significant statistical difference between Curry's performance against different tiers of defensive teams.
+
+### Inference
+
+Based on our outcome, we found that Curry is remarkably consistent in the number of shots he makes regardless of the defensive potency of the other team.
+
+However, we found that Curry seems to have a tendency to make a lot more shots, or in basketball lingo *explode*, in the first quarter against teams in the lower defensive ratings. ![Image](/figures/curry-shots-made-by-minutes.png)
+
+For this experiment, we were examining Team Defense Rating and found no results. However, the results may perhaps be different if instead our scope shifted to looking at player matchups rather than the team collectively. 
+
+
+### Overfitting or Underfitting
 
 - Based on our training and validation score, we managed to achieve (*insert the 3 models with training and valid score*)
   - concludes that we arent over fitting
