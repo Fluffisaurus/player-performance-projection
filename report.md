@@ -1,3 +1,6 @@
+**CMPT 353 Fall 2019**
+Angus Hon & Anson Christo
+
 # Player Performance Prediction Report
 
 <!-- 
@@ -13,23 +16,22 @@ Some appropriate visualization of your data/results.
 
 Limitations: problems you encountered, things you would do if you had more time, things you should have done in retrospect, etc. 
 -->
----
 
 ## Problem, Refinement, Hypothesis
 
 ### Identification
 
-Stephen Curry is the best shooter that has ever graced the NBA and is soley responsible for the rennaissance of the three-point era. His marksmanship lead him to his first MVP in 2014-15 and subsequently becoming the first unanimous MVP in 2015-16 the year after. Given his unparalled skillset, *we wonder how much of his shooting performance (shots made) is influenced by the opposing defense*.
+Stephen Curry is the best shooter that has ever graced the NBA and is soley responsible for the renaissance of the three-point era. His marksmanship lead him to his first MVP in 2014-15 and to subsequently becoming the first unanimous MVP in 2015-16 the year after. Given his unparalled skillset, *we wonder how much of his shooting performance (shots made) is influenced by the opposing defense*.
 
 ### Idea
 
-For a decent measure of a team's defensive potency, we will be using ESPN John Hollinger's *defensive efficiency* or more commonly *defensive rating* stat that estimates the number of points a team allows per 100 possessions. We will be ranking and binning the teams into three categories based on their [defensive ratings](#team-defensive-rating-data-from-2009-2019) - top, middle, and bottom defensive ratings.
+For a decent measure of a team's defensive potency, we will be using ESPN John Hollinger's *defensive efficiency* or more commonly *defensive rating* stat that estimates the number of points a team allows per 100 possessions. We will be ranking and binning the teams into three categories / tiers based on their [defensive ratings](#team-defensive-rating-data-from-2009-2019) - top, middle, and bottom defensive ratings.
 
 We are primarily interested in the number of shots Curry makes as time passes in a game, specifically the cumulative number of shots`cum_shot_made`.
 
 ### Hypothesis Testing
 
-Since we are looking to test whether or not there is a difference between his shooting performances, we will perform a statistical analysis to verify our suspicions. We will have an initial assumption that there *is no statistical difference* between his performance against the different tiers (null hypothesis). Alternatively if that were to be proven wrong ($p-value < 0.05$), then we can assume that there *is a statistically significant difference* between the tiers (alternative hypothesis).
+Since we are looking to test whether or not there is a difference between his shooting performances, we will perform a statistical analysis to verify our suspicions. We start with an initial assumption that there *is no statistical difference* between his performance against the different tiers (null hypothesis). Alternatively if that were to be proven wrong ($p-value < 0.05$), then we can assume that there *is a statistically significant difference* between the tiers (alternative hypothesis).
 
 ---
 
@@ -39,7 +41,7 @@ A majority of our data was collected from [basketball-reference.com](https://www
 
 ### Webscrape
 
-We were unable to access play-by-play data online without being met by a pay wall. Luckily enough, we found [shooting chart data](https://www.basketball-reference.com/players/c/curryst01/shooting/2018) on basketball-reference. Each of marks on the chart represents a shot Curry took in that respective season and was embedded as data in an html element. Given that it is an HTML element, we realized that we could scrape the data online and format it into our own dataset.
+We were unable to access play-by-play data online without being met by a pay wall. Luckily enough, we found [shooting chart data](https://www.basketball-reference.com/players/c/curryst01/shooting/2018) on basketball-reference. Each of the marks on the chart represents a shot Curry took in that season and was embedded as data in an html element. Given that it is an HTML element, we realized that we could scrape the data online and format it into our own dataset.
 
 The webscrape parses data points in the form
 
@@ -47,13 +49,13 @@ The webscrape parses data points in the form
 <div class="tooltip make" style="top:292px;left:335px;" tip="Oct 17, 2017, GSW vs HOU&lt;br&gt;1st Qtr, 8:09 remaining&lt;br&gt;Made 3-pointer from 25 ft&lt;br&gt;GSW now leads 15-7">●</div>
 ```
 
-and cleans / transforms it into a dataframe with this sample row
+and cleans / transforms it into a dataframe like this sample row
 
 | date | home | vs | quarter | time_left | shot_made | shot_value | shot_distance | x | y | shot_description | game_score |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2017-10-17 | True | HOU | 1 | 08:09 | True | 3 | 25 | 335 | 292 | Made 3-pointer from 25 ft | GSW now leads 15-7 |
 
-We ran `shot_webscrape.py` 10 times for each of the seasons Curry played since his rookie year of 2009 to last season 2019. We collected 13,905 rows which should represnet the total number of shots Curry took in his career up until the end of the 2019 season. The results of our data collected can be seen in the `/data/shooting/curry-2009-2019/` in the projecte directory.
+We ran `shot_webscrape.py` 10 times for each of the seasons Curry played since his rookie year of 2009 to the most recent season 2019. We collected 13,905 rows which represent the total number of shots Curry took in his career up until the end of the 2019 season. The results of our data collected can be seen in the `/data/shooting/curry-2009-2019/` in the project directory.
 
 For more information about our webscrape script, refer to our `README.md` on how to use it and `/scripts/shot_webscrape.py` to see the code.
 
@@ -75,9 +77,9 @@ The steps in this process were done in the jupyter notebook found in `/scripts/D
 
 ### Preprocessing
 
-After collecting the data, our main preprocessing work was to combine all the webscraping data into one dataframe that was exported as the csv file, `/data/shot-data-all.csv`. We added a column for cumulative shots made, cumulative attempts, and cumulative field goal percentage (made / attempts).
+After collecting the data, our main preprocessing work combined all the webscraping data into one dataframe that was exported as the csv file, `/data/shot-data-all.csv`. We added a column for cumulative shots made, cumulative attempts, and cumulative field goal percentage (made / attempts).
 
-With the aggregated defensive ratings from the previous [section](#team-defensive-rating-data-from-2009-2019), we split teams into three tiers based on their 10 year defensive rankings - top, middle, and bottom. We subsetted Curry's shooting data from `shot-data-all.csv` into individual csv's `/data/top-def.csv`, `/data/mid-def.csv`, and `/data/bot-def.csv`. By separating out Curry's shooting data by tier, we can then analyze and check whether there is a stasitical significance in his shooting performances against each tier.
+With the aggregated defensive ratings from the previous [section](#team-defensive-rating-data-from-2009-2019), we split teams into three tiers based on their 10 year defensive rankings - top, middle, and bottom. We subsetted Curry's shooting data from `shot-data-all.csv` into individual csv's `/data/top-def.csv`, `/data/mid-def.csv`, and `/data/bot-def.csv`. By separating out Curry's shooting data by tier, we then analyzed and checked whether there is a stasitical significance in his shooting performances against each tier.
 
 For more information on the steps we took for preprocessing, refer to the jupyter notebook `/scripts/combine_shooting_data.ipynb`.
 
@@ -110,7 +112,7 @@ Our goal with this Machine Learning model is to predict the cumulative shots mad
 
 Each of our features are measured and scaled differently - making them incomparable. To resolve this issue we used `StandardScaler()` to make them comparable.
 
-Our play-by-play shooting data is dependent on each other since each feature influences the success rate of a shot. Given this issue, we learned that one of Principle Component Analysis's (PCA) strengths is in [transforming the features to become independent](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) through its intermediary steps. Given that all 8 of our features are pertinent towards the shot success rate, we kept all features when applying PCA.
+Our play-by-play shooting data is dependent on each other since each feature influences the success rate of a shot. Given this issue, we learned that one of Principle Component Analysis's (PCA) strengths is in [transforming the features to become independent](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) through its intermediary steps. Given that all 8 of our features are pertinent toward the shot success rate, we kept all features when applying PCA.
 
 Initially we tried a basic `LinearRegression()` model on our data but found that our results were inaccurate (validation score of 0.50096). We assumed that the regular regression model had trouble making sense of all our features (n features = 8). So we decided to implement `GradientBoostingRegressor()` with `n_estimators = 100` and `learning_rate = 0.1`. Gradient Boosting was a good solution since we can let the model decide which features were identified incorrectly and apply appropriate weighting to the decision trees (learning rate).
 
