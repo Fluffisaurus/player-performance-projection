@@ -16,7 +16,17 @@ Limitations: problems you encountered, things you would do if you had more time,
 
 ## Problem Identification
 
-Stephen Curry from the Golden State Warriors had some spectacular seasons and managed to win his first MVP award and the first player in NBA history to be elected MVP unanimously. We are interested in Stephen Curry's performance against top, middle, and bottom defensive rank teams based on each teams defensive ratings from 2009-2019. We are curious to observe how many shots were made against certain tiers.  
+Stephen Curry is the best shooter that has ever graced the NBA and is soley responsible for the rennaissance of the three-point era. His marksmanship lead him to his first MVP in 2014-15 and subsequently becoming the first unanimous MVP in 2015-16 the year after. Given his unparalled skillset, we wonder how much of his shooting performance (shots made) is influenced by the opposing defense.
+
+For a decent measure of a team's defensive potency, we will be using ESPN John Hollinger's *defensive efficiency* or more commonly *defensive rating* stat that estimates the number of points a team allows per 100 possessions. We will be ranking and binning the teams into three categories based on their [defensive ratings](#team-defensive-data-for-the-past-decade) - top, middle, and bottom defensive ratings.
+
+Our primary stat of interest is the number of `shots_made` by Curry in a given game.
+
+
+
+<!-- Stephen Curry from the Golden State Warriors had some spectacular seasons and managed to win his first MVP award and the first player in NBA history to be elected MVP unanimously. We are interested in Stephen Curry's performance against top, middle, and bottom defensive rank teams based on each teams defensive ratings from 2009-2019. We are curious to observe how many shots were made against certain tiers.   -->
+
+## Idea Refinement
 
 ## Data Collection Process
 
@@ -29,7 +39,7 @@ A majority of our data was collected from [basketball-reference.com](https://www
   - [insert example of dataframe row 1 here]
 - in total over the 10 years, yielded around 14k rows of data
 
-### Team Defensive Data for the Past Decade
+### Team Defensive Rating Data from 2009-2019
 
 - Gathered historical data for team's defensive ratings from 2009-2019 through [stats.nba.com](https://stats.nba.com/).
 - three teams went through rebrandings since 2009
@@ -41,6 +51,7 @@ A majority of our data was collected from [basketball-reference.com](https://www
 - Averaged defensive rating across the decade / datasets and ranked them based on lowest to highest.
 
 ## Techniques
+
 Through our play by play data, we were fully aware that we needed to use StandardScaler() in order to make it comparable, this is because we have features that scales differently such as our *shot_value*, *shot_distance*, and *cum_fg_percent*. Additionally, our feautures were all dependent of each other since each feauture has an influence on the success rate of the shot. Through [PCA article](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c), we learned that one of the strengths PCA possess would be transforming our  feautures in order to become independent. Therefore, we applied PCA with n_components as 8 to fit and transform all of our X features. Eventually, with all the pre-processing and variable creation complete, we implemented GradientBoostRegressor with n_estimators as 100 and learning_rate as 0.1 to help predict Stephen Curry's cumulative shot made. Although we tried using linear regression on our data, we feel that having n_estimators was much more efficient to learn the data better based on the number of trees in the forest. We chose 100 because we realized that adding more trees can slow down the training process considerably. Furthermore, we see that using a high learning rate results in overfitting and we concluded that learning rate of 0.1 would be the optimal choice.
 <!-- aggregated and averaged 10 years of data for defensive rating among all teams and ranked them in descending order.-->
 - all features we have are dependent (sicne they are all relate or have an influence on the success rate of the shot)
